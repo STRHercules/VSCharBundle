@@ -221,6 +221,7 @@ function a0_0x1b36(_0xc0658e, _0x44cb9c) {
                         _0x47ec33[_0x30e6ea(0x95d)] = 'WHIP',
                         _0x47ec33[_0x30e6ea(0x81d)] = 'VAMPIRICA',
                         _0x47ec33[_0x30e6ea(0x83f)] = 'AXE',
+                        _0x47ec33['KI'] = 'KI',
                         _0x47ec33['SCYTHE'] = 'SCYTHE',
                         _0x47ec33[_0x30e6ea(0x7e7)] = 'KNIFE',
                         _0x47ec33[_0x30e6ea(0x138)] = 'THOUSAND',
@@ -2421,13 +2422,13 @@ function a0_0x1b36(_0xc0658e, _0x44cb9c) {
                         ],
 						[_0x5d45ad['GOKU']]: [{
                             'level': 0x1,
-                            'startingWeapon': _0x40aba4['HOLY_MISSILE'],
+                            'startingWeapon': _0x40aba4['KI'],
                             'charName': 'Goku',
                             'surname': 'the Saiyan',
                             'spriteName': 'goku_01.png',
                             'textureName': 'GOKU',
                             'walkingFrames': 0x3,
-                            'description': '+1 projectile/20 levels (max+3). Gains +1% Might every level.',
+                            'description': '+1 projectile/10 levels(max+3). +1% Might/Level. Ki Blasts.',
                             'isBought': !0x0,
                             'price': 0x0,
                             'maxHp': 0x7D,
@@ -2453,7 +2454,6 @@ function a0_0x1b36(_0xc0658e, _0x44cb9c) {
                             'onEveryLevelUp': {
                                 'power': 0.01
                             },
-                            'exWeapons': [_0x40aba4['LANCET']],
                             'debugTime': 0x348
                         }, {
                             'level': 0x14,
@@ -8802,6 +8802,43 @@ function a0_0x1b36(_0xc0658e, _0x44cb9c) {
                                 'addEvolvedWeapon': _0x40aba4[_0x2c0d05(0x555)]
                             }
                         ],
+                        [_0x40aba4['KI']]: [{
+                            'level': 0x1,
+                            'bulletType': _0x40aba4['KI'],
+                            'name': 'Ki Blast',
+                            'description': 'Fires at the nearest enemy.',
+                            'tips': 'Ignores: duration.',
+                            'texture': 'KI',
+                            'frameName': 'smallki.png',
+                            'isUnlocked': 0x0,
+                            'poolLimit': 0x3c,
+                            'rarity': 0x64,
+                            'interval': 0x4b0,
+                            'repeatInterval': 0x64,
+                            'power': 0x1,
+                            'area': 0x1,
+                            'speed': 0x1,
+                            'amount': 0x1,
+                            'penetrating': 0x1
+                        }, {
+                            'amount': 0x1
+                        }, {
+                            'interval': -0xc8,
+                            'power': 0x1
+                        }, {
+                            'amount': 0x2
+                        }, {
+                            'power': 0x1
+                        }, {
+                            'amount': 0x2,
+                            'speed': 0x2
+                        }, {
+                            'penetrating': 0x2,
+                            'power': 0x1,
+                        }, {
+                            'interval': 0x1f4,
+                        }
+                    ],
                         [_0x40aba4[_0x2c0d05(0x555)]]: [{
                                 'level': 0x1,
                                 'bulletType': _0x40aba4['HOLY_MISSILE'],
@@ -15872,7 +15909,7 @@ function a0_0x1b36(_0xc0658e, _0x44cb9c) {
                         ],
                         [_0x22c67b[_0x2c0d05(0x8d5)]]: [],
                         [_0x22c67b['TOWER']]: [],
-                        
+
                         [_0x22c67b[_0x2c0d05(0x4ab)]]: [{
                                 'stageName': 'Green Acres',
                                 'description': 'A place not made for mortals. Fate changes every minute.',
@@ -19736,6 +19773,51 @@ function a0_0x1b36(_0xc0658e, _0x44cb9c) {
                                 this['y']);
                         }
                     },
+                    KI = class extends _0x4154ce {
+                        constructor(_0x2713ba, _0x5be556, _0x12a147, _0x419d60, _0x515d11) {
+                            const _0x20d2b5 = _0x2c0d05;
+                            super(_0x2713ba, _0x5be556, _0x12a147, 'KI', 'smallki.png', _0x419d60, _0x515d11),
+                            this[_0x20d2b5(0x80c)] = this['scene']['add']['particles']('vfx'),
+                            this['PfxEmitter'][_0x20d2b5(0xafd)]({
+                                'frame': ['PfxHoly1.png', 'PfxHoly2.png'],
+                                'speed': {
+                                    'min': 0xf,
+                                    'max': 0x1e
+                                },
+                                'quantity': 0x1,
+                                'lifespan': 0x12c,
+                                'alpha': {
+                                    'start': 0x1,
+                                    'end': 0x0
+                                },
+                                'on': !0x1
+                            });
+                        }
+                        ['OnRecycle']() {
+                            const _0x42c221 = _0x2c0d05;
+                            super['OnRecycle'](),
+                            this['body'][_0x42c221(0x750)](0x8),
+                            this[_0x42c221(0x7d1)](_0xcffcd7['PixelScale'] * this[_0x42c221(0x12a)][_0x42c221(0x228)]),
+                            this['x'] += (Math[_0x42c221(0x65b)]() - 0.5) * this['indexInWeapon'] * 0xa,
+                            this['y'] += (Math['random']() - 0.5) * this[_0x42c221(0x700)] * 0xa,
+                            this[_0x42c221(0x6dd)]();
+                            let _0x63e249 = this[_0x42c221(0x12a)]['volume'] ? this['weapon'][_0x42c221(0x134)] : 0.15;
+                            _0x4fed02[_0x42c221(0x2d0)][_0x42c221(0x92d)](_0x1bd2d3[_0x42c221(0x403)], {
+                                'detune': -0x64 * this['indexInWeapon'],
+                                'volume': _0x63e249
+                            }, 0xc8, 0xc);
+                        }
+                        ['OnHasHitAnObject'](_0x296dfc) {
+                            const _0x34a055 = _0x2c0d05;
+                            _0x296dfc[_0x34a055(0xb34)] || (this[_0x34a055(0x741)]--,
+                                this['penetrating'] <= 0x0 && this['DeSpawn']());
+                        }
+                        [_0x2c0d05(0x4c2)]() {
+                            const _0x29db24 = _0x2c0d05;
+                            this['PfxEmitter'][_0x29db24(0x626)](this['x'],
+                                this['y']);
+                        }
+                    },
                     _0x521833 = class extends _0x3f1263 {},
                     _0x2370de = class extends _0x4154ce {
                         constructor(_0x39c921, _0x4765ae, _0x2a4d41, _0x215afd, _0x2ada96) {
@@ -20275,6 +20357,7 @@ function a0_0x1b36(_0xc0658e, _0x44cb9c) {
                             this['posHistory'][this[_0x1cc342(0xaba)]]['y'] = this['y'];
                         }
                     },
+                    
                     _0x32e5a8 = class extends _0x4154ce {
                         constructor(_0x4b8e31, _0x557587, _0x442ea7, _0x361cd4, _0x442764) {
                             const _0x44cff8 = _0x2c0d05;
@@ -24453,6 +24536,8 @@ function a0_0x1b36(_0xc0658e, _0x44cb9c) {
                                 return new _0x4154ce(this, 0x0, 0x0, 'ball', 0x0, _0x4fecd5, _0x470a9f);
                             case _0x40aba4['AXE']:
                                 return new _0x22becf(this, 0x0, 0x0, _0x4fecd5, _0x470a9f);
+                            case _0x40aba4['KI']:
+                                return new KI(this, 0x0, 0x0, _0x4fecd5, _0x470a9f);
                             case _0x40aba4[_0x293617(0x9c4)]:
                                 return new _0x1aabaf(this, 0x0, 0x0, _0x4fecd5, _0x470a9f);
                             case _0x40aba4['KNIFE']:
@@ -24853,6 +24938,23 @@ function a0_0x1b36(_0xc0658e, _0x44cb9c) {
                         [_0x2c0d05(0x1a4)]() {}
                     }
                     const _0x374904 = class extends _0x5d4d13 {
+                        constructor(_0x5510ba) {
+                            super(_0x5510ba);
+                        }
+                        get[_0x2c0d05(0x228)]() {
+                            const _0x14f503 = _0x2c0d05;
+                            return 1.3 * _0x4fed02[_0x14f503(0x38a)]['Player'][_0x14f503(0xaf4)] * this[_0x14f503(0xaf4)];
+                        }
+                        ['CheckArcanas']() {
+                            const _0x5d1c28 = _0x2c0d05;
+                            _0x4fed02[_0x5d1c28(0x38a)]['Arcanas'][_0x5d1c28(0xa83)][_0x5d1c28(0x882)](_0x398daf['T16_SLASH']) > -0x1 && (this[_0x5d1c28(0x416)] = !0x0);
+                        }
+                        [_0x2c0d05(0x25e)](_0x445fa5, _0x5ca849) {
+                            const _0x209ed9 = _0x2c0d05;
+                            return this['canCrit'] ? this[_0x209ed9(0x685)](_0x445fa5, _0x5ca849) : super[_0x209ed9(0x25e)](_0x445fa5, _0x5ca849);
+                        }
+                    },
+                    KI_BULLET = class extends _0x5d4d13 {
                         constructor(_0x5510ba) {
                             super(_0x5510ba);
                         }
@@ -26759,6 +26861,9 @@ function a0_0x1b36(_0xc0658e, _0x44cb9c) {
                                 default:
                                 case _0x40aba4['AXE']:
                                     _0x449eb7 = new _0x374904(_0x1a5568);
+                                    break;
+                                case _0x40aba4['KI']:
+                                    _0x449eb7 = new KI_BULLET(_0x1a5568);
                                     break;
                                 case _0x40aba4[_0x4e7bdd(0x9c4)]:
                                     _0x449eb7 = new _0x46698b(_0x1a5568);
@@ -30124,6 +30229,7 @@ function a0_0x1b36(_0xc0658e, _0x44cb9c) {
                             this['load']['atlas']('SNAKE', 'mod/CharBundle/snake/snake.png', 'mod/CharBundle/snake/snake.json'),
                             this['load']['atlas']('FROSTY', 'mod/CharBundle/frosty/frosty.png', 'mod/CharBundle/frosty/frosty.json'),
                             this['load']['atlas']('SPIDERMAN', 'mod/CharBundle/spiderman/spiderman.png', 'mod/CharBundle/spiderman/spiderman.json'),
+                            this['load']['atlas']('KI', 'mod/CharBundle/goku/blasts.png', 'mod/CharBundle/goku/blasts.json'),
                             this[_0x668324(0x815)][_0x668324(0x94a)]('enemies', 'assets/img/enemies.png', 'assets/img/enemies.json'),
                             this[_0x668324(0x815)][_0x668324(0x94a)]('enemies2', 'assets/img/enemies2.png', 'assets/img/enemies2.json'),
                             this[_0x668324(0x815)][_0x668324(0x94a)]('enemiesM', 'assets/img/enemiesM.png', 'assets/img/enemiesM.json'),
@@ -40714,6 +40820,10 @@ function a0_0x1b36(_0xc0658e, _0x44cb9c) {
                             console[_0x1e00fd(0x120)](_0x453cde['message']);
                         }
                     });
+                    /*Debug Switch
+                    const _0x2c518c = !0x1, OFF
+                    const _0x2c518c = !0x0, ON
+                    */
                     const _0x2c518c = !0x1,
                     _0x40a53f = !0x1,
                     _0x517ec2 = !0x1,
