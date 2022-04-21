@@ -62,7 +62,7 @@
 ## Battletoad "Rash"
 
 ## Solid Snake
-_____________________________________________________________________
+
 Character Stats now:
 
 > #### Goku the Saiyan:
