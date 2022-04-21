@@ -74,7 +74,7 @@ Character Stats now:
 > - Armor - +1
 > - Revival - +2
 > - Curse - +50%
-> - Starting Gear - Holy Wand, Clock Lancet
+> - Starting Gear - Ki Blasts (NEW Custom Weapon)
 > - +1 Projectile every 10 levels (max +3)
 > - +1% Might Every level
 
