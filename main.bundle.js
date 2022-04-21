@@ -207,6 +207,7 @@ function a0_0x1b36(_0xc0658e, _0x44cb9c) {
                         _0x9573a5['SPIDERMAN'] = 'SPIDERMAN',
                         _0x9573a5['TOAD'] = 'TOAD',
                         _0x9573a5['SNAKE'] = 'SNAKE',
+                        _0x9573a5['FROSTY'] = 'FROSTY',
                         _0x9573a5['ODDEEO'] = 'ODDEEO';
                     }
                     (_0x1fe64b || (_0x1fe64b = {}));
@@ -3830,6 +3831,60 @@ function a0_0x1b36(_0xc0658e, _0x44cb9c) {
                                 'growth': -0x1
                             }
                         ],
+                        [_0x5d45ad['FROSTY']]: [{
+                            'level': 0x1,
+                            'startingWeapon': _0x40aba4['CHERRY'],
+                            'charName': 'Frosty',
+                            'surname': 'the Snowman',
+                            'spriteName': 'frosty_01.png',
+                            'textureName': 'FROSTY',
+                            'walkingFrames': 8,
+                            'description': '+5% Curse/Level. +2 Armor. +100% Area. +1 Amount/10 Levels(Max+3)',
+                            'isBought': !0x0,
+                            'price': 0x0,
+                            'maxHp': 25,
+                            'armor': 0x2,
+                            'regen': 0x0,
+                            'moveSpeed': 1.15,
+                            'power': 0x1,
+                            'cooldown': 0x1,
+                            'area': 2.0,
+                            'speed': 0x1,
+                            'duration': 0x1,
+                            'amount': 0x0,
+                            'luck': 0x1,
+                            'growth': 0x1,
+                            'greed': 0x1,
+                            'curse': 0x1,
+                            'magnet': 0x0,
+                            'revivals': 0x0,
+                            'rerolls': 0x0,
+                            'skips': 0x0,
+                            'banish': 0x0,
+                            'showcase': [_0x40aba4['BONE'], _0x40aba4[_0x2c0d05(0x846)], _0x40aba4[_0x2c0d05(0x846)], _0x40aba4['BONE'], _0x40aba4['BONE'], _0x40aba4[_0x2c0d05(0x846)], _0x40aba4[_0x2c0d05(0x846)], _0x40aba4['BONE'], _0x40aba4[_0x2c0d05(0xb1f)], _0x40aba4['DIAMOND'], _0x40aba4[_0x2c0d05(0xb1f)], _0x40aba4[_0x2c0d05(0xb1f)], _0x40aba4['DIAMOND'], _0x40aba4[_0x2c0d05(0xb1f)], _0x40aba4[_0x2c0d05(0xb1f)], _0x40aba4[_0x2c0d05(0xb1f)], _0x40aba4['GUNS3'], _0x40aba4[_0x2c0d05(0x822)], _0x40aba4[_0x2c0d05(0x822)], _0x40aba4['AREA'], _0x40aba4[_0x2c0d05(0x822)], _0x40aba4['AREA'], _0x40aba4[_0x2c0d05(0xb4e)], _0x40aba4['MIGHT'], _0x40aba4[_0x2c0d05(0xb4e)], _0x40aba4[_0x2c0d05(0xb4e)], _0x40aba4['MIGHT'], _0x40aba4[_0x2c0d05(0x925)], _0x40aba4['SPEED'], _0x40aba4['SPEED'], _0x40aba4[_0x2c0d05(0x925)], _0x40aba4[_0x2c0d05(0x925)], _0x40aba4[_0x2c0d05(0x4dc)], _0x40aba4[_0x2c0d05(0x4dc)], _0x40aba4['COOLDOWN'], _0x40aba4[_0x2c0d05(0x4dc)], _0x40aba4['COOLDOWN'], _0x40aba4[_0x2c0d05(0x776)], _0x40aba4['AMOUNT']],
+                            'onEveryLevelUp': {
+                                'curse': 0.05
+                            },
+                            'debugTime': 0x348
+                        }, {
+                            'amount': 0x1,
+                            'level': 0x14,
+                            'growth': 0x1
+                        }, {
+                            'amount': 0x1,
+                            'level': 0x28,
+                            'growth': 0x1
+                        }, {
+                            'level': 0x3c
+                        }, {
+                            'amount': 0x1,
+                            'level': 0x15,
+                            'growth': -0x1
+                        }, {
+                            'level': 0x29,
+                            'growth': -0x1
+                        }
+                    ],
                         [_0x5d45ad['NEO']]: [{
                                 'hidden': !0x0,
                                 'level': 0x1,
@@ -30574,6 +30629,7 @@ function a0_0x1b36(_0xc0658e, _0x44cb9c) {
                             this['load']['atlas']('SOMA', 'mod/CharBundle/soma/soma.png', 'mod/CharBundle/soma/soma.json'),
                             this['load']['atlas']('TOAD', 'mod/CharBundle/toad/toad.png', 'mod/CharBundle/toad/toad.json'),
                             this['load']['atlas']('SNAKE', 'mod/CharBundle/snake/snake.png', 'mod/CharBundle/snake/snake.json'),
+                            this['load']['atlas']('FROSTY', 'mod/CharBundle/frosty/frosty.png', 'mod/CharBundle/frosty/frosty.json'),
                             this['load']['atlas']('SPIDERMAN', 'mod/CharBundle/spiderman/spiderman.png', 'mod/CharBundle/spiderman/spiderman.json'),
                             this[_0x668324(0x815)][_0x668324(0x94a)]('enemies', 'assets/img/enemies.png', 'assets/img/enemies.json'),
                             this[_0x668324(0x815)][_0x668324(0x94a)]('enemies2', 'assets/img/enemies2.png', 'assets/img/enemies2.json'),

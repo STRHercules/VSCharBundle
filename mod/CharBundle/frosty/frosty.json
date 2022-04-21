@@ -1,0 +1,86 @@
+{
+	"textures": 
+	[
+		{
+			"image": "frosty.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 90,
+				"h": 193
+			},
+			"scale": 1,
+			"frames": 
+			[
+				{
+                    "filename": "frosty_01.png",
+                    "frame": {"x":1,"y":1,"w":43,"h":45},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":43,"h":45},
+                    "sourceSize": {"w":43,"h":45}
+                },
+                {
+                    "filename": "frosty_02.png",
+                    "frame": {"x":46,"y":1,"w":43,"h":45},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":43,"h":45},
+                    "sourceSize": {"w":43,"h":45}
+                },
+                {
+                    "filename": "frosty_03.png",
+                    "frame": {"x":1,"y":48,"w":43,"h":46},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":43,"h":46},
+                    "sourceSize": {"w":43,"h":46}
+                },
+                {
+                    "filename": "frosty_04.png",
+                    "frame": {"x":46,"y":48,"w":43,"h":47},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":43,"h":47},
+                    "sourceSize": {"w":43,"h":47}
+                },
+                {
+                    "filename": "frosty_05.png",
+                    "frame": {"x":1,"y":97,"w":43,"h":47},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":43,"h":47},
+                    "sourceSize": {"w":43,"h":47}
+                },
+                {
+                    "filename": "frosty_06.png",
+                    "frame": {"x":46,"y":97,"w":43,"h":47},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":43,"h":47},
+                    "sourceSize": {"w":43,"h":47}
+                },
+                {
+                    "filename": "frosty_07.png",
+                    "frame": {"x":1,"y":146,"w":42,"h":46},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":42,"h":46},
+                    "sourceSize": {"w":42,"h":46}
+                },
+                {
+                    "filename": "frosty_08.png",
+                    "frame": {"x":45,"y":146,"w":44,"h":45},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":44,"h":45},
+                    "sourceSize": {"w":44,"h":45}
+                }
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1d34fa13faa63ebb446e8e3116b32e86:dbe076086fb782958e0f74482c2f909f:a5fe7db4b869eb0f3e0b2940b9577ea8$"
+	}
+}
