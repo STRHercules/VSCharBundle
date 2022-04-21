@@ -333,3 +333,7 @@ Check out my mod on
 Nexus: https://www.nexusmods.com/vampiresurvivors/mods/11?tab=description
 
 Gamebanana: https://gamebanana.com/mods/371881
+________
+Mods made with GIMP, TexturePackerGUI
+
+Sprites pulled from various sites; google.com, spritedatabase.net, spriters-resource.com
