@@ -320,7 +320,7 @@ _____________________________________________________________________
 
 Set Vampire Survivors to beta *first*
 
-Extract the provided .zip to your main game folder; 
+Extract the 'mod' folder and 'main.bundle.js' file to your main game folder; 
 
 SteamLibrary\steamapps\common\Vampire Survivors\resources\app\.webpack\renderer
 
