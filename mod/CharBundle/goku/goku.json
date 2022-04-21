@@ -1,0 +1,76 @@
+{
+	"textures": 
+	[
+		{
+			"image": "goku.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 29,
+				"h": 139
+			},
+			"scale": 1,
+			"frames": 
+			[
+				{
+					"filename": "goku_01.png",
+					"frame": {
+						"x":0,
+						"y":0,
+						"w":28,
+						"h":46},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x":0,
+						"y":1,
+						"w":28,
+						"h":46},
+					"sourceSize": {
+						"w":30,
+						"h":47}
+				},
+				{
+					"filename": "goku_02.png",
+					"frame": {
+						"x":0,
+						"y":46,
+						"w":29,
+						"h":47},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x":1,
+						"y":0,
+						"w":29,
+						"h":47},
+					"sourceSize": {
+						"w":30,
+						"h":47}
+				},
+				{
+					"filename": "goku_03.png",
+					"frame": {
+						"x":0,
+						"y":93,
+						"w":29,
+						"h":46},
+					"rotated": false,
+					"trimmed": true,
+					"spriteSourceSize": {
+						"x":1,
+						"y":1,
+						"w":29,
+						"h":46},
+					"sourceSize": {
+						"w":30,
+						"h":47}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1d34fa13faa63ebb446e8e3116b32e86:dbe076086fb782958e0f74482c2f909f:a5fe7db4b869eb0f3e0b2940b9577ea8$"
+	}
+}

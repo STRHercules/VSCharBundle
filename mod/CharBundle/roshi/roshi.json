@@ -1,0 +1,70 @@
+{
+	"textures": 
+	[
+		{
+			"image": "roshi.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 251,
+				"h": 49
+			},
+			"scale": 1,
+			"frames": 
+			[
+				{
+                    "filename": "roshi_01.png",
+                    "frame": {"x":1,"y":1,"w":40,"h":47},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":40,"h":47},
+                    "sourceSize": {"w":40,"h":47}
+                },
+                {
+                    "filename": "roshi_02.png",
+                    "frame": {"x":43,"y":1,"w":40,"h":47},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":40,"h":47},
+                    "sourceSize": {"w":40,"h":47}
+                },
+                {
+                    "filename": "roshi_03.png",
+                    "frame": {"x":85,"y":1,"w":41,"h":47},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":41,"h":47},
+                    "sourceSize": {"w":41,"h":47}
+                },
+                {
+                    "filename": "roshi_04.png",
+                    "frame": {"x":128,"y":1,"w":40,"h":47},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":40,"h":47},
+                    "sourceSize": {"w":40,"h":47}
+                },
+                {
+                    "filename": "roshi_05.png",
+                    "frame": {"x":170,"y":1,"w":39,"h":47},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":39,"h":47},
+                    "sourceSize": {"w":39,"h":47}
+                },
+                {
+                    "filename": "roshi_06.png",
+                    "frame": {"x":211,"y":1,"w":39,"h":47},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":39,"h":47},
+                    "sourceSize": {"w":39,"h":47}
+                }
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1d34fa13faa63ebb446e8e3116b32e86:dbe076086fb782958e0f74482c2f909f:a5fe7db4b869eb0f3e0b2940b9577ea8$"
+	}
+}

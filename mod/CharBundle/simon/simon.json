@@ -1,0 +1,62 @@
+{
+	"textures": 
+	[
+		{
+			"image": "simon.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 126,
+				"h": 50
+			},
+			"scale": 1,
+			"frames": 
+			[
+				{
+                    "filename": "simon_01.png",
+                    "frame": {"x":1,"y":1,"w":23,"h":47},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":23,"h":47},
+                    "sourceSize": {"w":23,"h":47}
+                },
+                {
+                    "filename": "simon_02.png",
+                    "frame": {"x":26,"y":1,"w":22,"h":48},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":22,"h":48},
+                    "sourceSize": {"w":22,"h":48}
+                },
+                {
+                    "filename": "simon_03.png",
+                    "frame": {"x":50,"y":1,"w":26,"h":46},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":26,"h":46},
+                    "sourceSize": {"w":26,"h":46}
+                },
+                {
+                    "filename": "simon_04.png",
+                    "frame": {"x":78,"y":1,"w":20,"h":47},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":20,"h":47},
+                    "sourceSize": {"w":20,"h":47}
+                },
+                {
+                    "filename": "simon_05.png",
+                    "frame": {"x":100,"y":1,"w":25,"h":47},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":25,"h":47},
+                    "sourceSize": {"w":25,"h":47}
+                }
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1d34fa13faa63ebb446e8e3116b32e86:dbe076086fb782958e0f74482c2f909f:a5fe7db4b869eb0f3e0b2940b9577ea8$"
+	}
+}

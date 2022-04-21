@@ -1,0 +1,94 @@
+{
+	"textures": 
+	[
+		{
+			"image": "julius.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 64,
+				"h": 227
+			},
+			"scale": 1,
+			"frames": 
+			[
+				{
+                    "filename": "julius_01.png",
+                    "frame": {"x":1,"y":90,"w":23,"h":44},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":23,"h":44},
+                    "sourceSize": {"w":23,"h":44}
+                },
+                {
+                    "filename": "julius_02.png",
+                    "frame": {"x":34,"y":1,"w":29,"h":42},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":29,"h":42},
+                    "sourceSize": {"w":29,"h":42}
+                },
+                {
+                    "filename": "julius_03.png",
+                    "frame": {"x":26,"y":90,"w":29,"h":44},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":29,"h":44},
+                    "sourceSize": {"w":29,"h":44}
+                },
+                {
+                    "filename": "julius_04.png",
+                    "frame": {"x":1,"y":136,"w":29,"h":44},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":29,"h":44},
+                    "sourceSize": {"w":29,"h":44}
+                },
+                {
+                    "filename": "julius_05.png",
+                    "frame": {"x":33,"y":45,"w":29,"h":43},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":29,"h":43},
+                    "sourceSize": {"w":29,"h":43}
+                },
+                {
+                    "filename": "julius_06.png",
+                    "frame": {"x":1,"y":1,"w":31,"h":41},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":31,"h":41},
+                    "sourceSize": {"w":31,"h":41}
+                },
+                {
+                    "filename": "julius_07.png",
+                    "frame": {"x":1,"y":45,"w":30,"h":42},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":30,"h":42},
+                    "sourceSize": {"w":30,"h":42}
+                },
+                {
+                    "filename": "julius_08.png",
+                    "frame": {"x":32,"y":136,"w":31,"h":44},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":31,"h":44},
+                    "sourceSize": {"w":31,"h":44}
+                },
+                {
+                    "filename": "julius_09.png",
+                    "frame": {"x":1,"y":182,"w":30,"h":44},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":30,"h":44},
+                    "sourceSize": {"w":30,"h":44}
+                }
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1d34fa13faa63ebb446e8e3116b32e86:dbe076086fb782958e0f74482c2f909f:a5fe7db4b869eb0f3e0b2940b9577ea8$"
+	}
+}

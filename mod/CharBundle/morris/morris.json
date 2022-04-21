@@ -1,0 +1,70 @@
+{
+	"textures": 
+	[
+		{
+			"image": "morris.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 160,
+				"h": 146
+			},
+			"scale": 1,
+			"frames": 
+			[
+				{
+                    "filename": "morris_01.png",
+                    "frame": {"x":1,"y":1,"w":29,"h":43},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":29,"h":43},
+                    "sourceSize": {"w":29,"h":43}
+                },
+                {
+                    "filename": "morris_02.png",
+                    "frame": {"x":32,"y":1,"w":27,"h":44},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":27,"h":44},
+                    "sourceSize": {"w":27,"h":44}
+                },
+                {
+                    "filename": "morris_03.png",
+                    "frame": {"x":61,"y":1,"w":19,"h":44},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":19,"h":44},
+                    "sourceSize": {"w":19,"h":44}
+                },
+                {
+                    "filename": "morris_04.png",
+                    "frame": {"x":82,"y":1,"w":25,"h":43},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":25,"h":43},
+                    "sourceSize": {"w":25,"h":43}
+                },
+                {
+                    "filename": "morris_05.png",
+                    "frame": {"x":109,"y":1,"w":24,"h":43},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":24,"h":43},
+                    "sourceSize": {"w":24,"h":43}
+                },
+                {
+                    "filename": "morris_06.png",
+                    "frame": {"x":135,"y":1,"w":24,"h":43},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":24,"h":43},
+                    "sourceSize": {"w":24,"h":43}
+                }
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1d34fa13faa63ebb446e8e3116b32e86:dbe076086fb782958e0f74482c2f909f:a5fe7db4b869eb0f3e0b2940b9577ea8$"
+	}
+}

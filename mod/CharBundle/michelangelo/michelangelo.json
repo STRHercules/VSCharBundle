@@ -1,0 +1,62 @@
+{
+	"textures": 
+	[
+		{
+			"image": "michelangelo.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 170,
+				"h": 49
+			},
+			"scale": 1,
+			"frames": 
+			[
+				{
+                    "filename": "michelangelo_01.png",
+                    "frame": {"x":1,"y":1,"w":32,"h":47},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":32,"h":47},
+                    "sourceSize": {"w":32,"h":47}
+                },
+                {
+                    "filename": "michelangelo_02.png",
+                    "frame": {"x":35,"y":1,"w":32,"h":47},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":32,"h":47},
+                    "sourceSize": {"w":32,"h":47}
+                },
+                {
+                    "filename": "michelangelo_03.png",
+                    "frame": {"x":69,"y":1,"w":31,"h":47},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":31,"h":47},
+                    "sourceSize": {"w":31,"h":47}
+                },
+                {
+                    "filename": "michelangelo_04.png",
+                    "frame": {"x":102,"y":1,"w":32,"h":47},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":32,"h":47},
+                    "sourceSize": {"w":32,"h":47}
+                },
+                {
+                    "filename": "michelangelo_05.png",
+                    "frame": {"x":136,"y":1,"w":33,"h":47},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":33,"h":47},
+                    "sourceSize": {"w":33,"h":47}
+                }
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1d34fa13faa63ebb446e8e3116b32e86:dbe076086fb782958e0f74482c2f909f:a5fe7db4b869eb0f3e0b2940b9577ea8$"
+	}
+}

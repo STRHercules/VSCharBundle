@@ -1,0 +1,76 @@
+{
+	"textures": 
+	[
+		{
+			"image": "gohan.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 25,
+				"h": 127
+			},
+			"scale": 1,
+			"frames": 
+			[
+				{
+                    "filename": "gohan_01.png",
+                    "frame": {
+                        "x":0,
+                        "y":0,
+                        "w":24,
+                        "h":42},
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x":2,
+                        "y":2,
+                        "w":24,
+                        "h":42},
+                    "sourceSize": {
+                        "w":26,
+                        "h":47}
+                },
+				{
+                    "filename": "gohan_02.png",
+                    "frame": {
+                        "x":0,
+                        "y":42,
+                        "w":25,
+                        "h":42},
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x":1,
+                        "y":3,
+                        "w":25,
+                        "h":42},
+                    "sourceSize": {
+                        "w":26,
+                        "h":47}
+                },
+				{
+                    "filename": "gohan_03.png",
+                    "frame": {
+                        "x":0,
+                        "y":84,
+                        "w":24,
+                        "h":43},
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x":0,
+                        "y":2,
+                        "w":24,
+                        "h":43},
+                    "sourceSize": {
+                        "w":26,
+                        "h":47}
+                }
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1d34fa13faa63ebb446e8e3116b32e86:dbe076086fb782958e0f74482c2f909f:a5fe7db4b869eb0f3e0b2940b9577ea8$"
+	}
+}

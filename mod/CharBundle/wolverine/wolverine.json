@@ -1,0 +1,70 @@
+{
+	"textures": 
+	[
+		{
+			"image": "wolverine.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 260,
+				"h": 46
+			},
+			"scale": 1,
+			"frames": 
+			[
+				{
+                    "filename": "wolverine_01.png",
+                    "frame": {"x":0,"y":0,"w":46,"h":44},
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {"x":5,"y":2,"w":46,"h":44},
+                    "sourceSize": {"w":59,"h":47}
+                },
+                {
+                    "filename": "wolverine_02.png",
+                    "frame": {"x":46,"y":0,"w":49,"h":46},
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {"x":2,"y":0,"w":49,"h":46},
+                    "sourceSize": {"w":59,"h":47}
+                },
+                {
+                    "filename": "wolverine_03.png",
+                    "frame": {"x":95,"y":0,"w":38,"h":44},
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {"x":12,"y":1,"w":38,"h":44},
+                    "sourceSize": {"w":59,"h":47}
+                },
+                {
+                    "filename": "wolverine_04.png",
+                    "frame": {"x":133,"y":0,"w":39,"h":44},
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {"x":11,"y":2,"w":39,"h":44},
+                    "sourceSize": {"w":59,"h":47}
+                },
+                {
+                    "filename": "wolverine_05.png",
+                    "frame": {"x":172,"y":0,"w":46,"h":42},
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {"x":9,"y":4,"w":46,"h":42},
+                    "sourceSize": {"w":59,"h":47}
+                },
+                {
+                    "filename": "wolverine_06.png",
+                    "frame": {"x":218,"y":0,"w":42,"h":45},
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {"x":12,"y":1,"w":42,"h":45},
+                    "sourceSize": {"w":59,"h":47}
+                }
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1d34fa13faa63ebb446e8e3116b32e86:dbe076086fb782958e0f74482c2f909f:a5fe7db4b869eb0f3e0b2940b9577ea8$"
+	}
+}
