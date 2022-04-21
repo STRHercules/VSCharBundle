@@ -63,6 +63,8 @@
 
 ## Solid Snake
 
+## Frosty the Snowman
+
 Character Stats now:
 
 > #### Goku the Saiyan:
@@ -73,7 +75,7 @@ Character Stats now:
 > - Revival - +2
 > - Curse - +50%
 > - Starting Gear - Holy Wand, Clock Lancet
-> - +1 Projectile every 20 levels (max +3)
+> - +1 Projectile every 10 levels (max +3)
 > - +1% Might Every level
 
 > #### Vegeta Prince of Saiyans:
@@ -310,6 +312,16 @@ Character Stats now:
 > - Skip - +2
 > - Starting Gear - Phiera Der Tuphello
 > - +1% Might Every Level
+
+> #### Frosty the Snowman:
+> 
+> - Max health - 25 
+> - Armor - +2
+> - MoveSpeed - +15%
+> - Area - +100%
+> - Starting Gear - Cherrybomb
+> - +1 Projectile every 10 levels (max +3)
+> - +5% Curse every Level
 
 _____________________________________________________________________
 # Instructions
