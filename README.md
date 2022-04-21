@@ -321,7 +321,7 @@ Character Stats now:
 > - Area - +100%
 > - Starting Gear - Cherrybomb
 > - +1 Projectile every 10 levels (max +3)
-> - +5% Curse every Level
+> - +10% Curse every Level
 
 _____________________________________________________________________
 # Instructions
