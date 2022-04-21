@@ -3839,7 +3839,7 @@ function a0_0x1b36(_0xc0658e, _0x44cb9c) {
                             'spriteName': 'frosty_01.png',
                             'textureName': 'FROSTY',
                             'walkingFrames': 8,
-                            'description': '+5% Curse/Level. +2 Armor. +100% Area. +1 Amount/10 Levels(Max+3)',
+                            'description': '+10% Curse/Level. +2 Armor. +100% Area. +1 Amount/10 Levels(Max+3)',
                             'isBought': !0x0,
                             'price': 0x0,
                             'maxHp': 25,
@@ -3863,7 +3863,7 @@ function a0_0x1b36(_0xc0658e, _0x44cb9c) {
                             'banish': 0x0,
                             'showcase': [_0x40aba4['BONE'], _0x40aba4[_0x2c0d05(0x846)], _0x40aba4[_0x2c0d05(0x846)], _0x40aba4['BONE'], _0x40aba4['BONE'], _0x40aba4[_0x2c0d05(0x846)], _0x40aba4[_0x2c0d05(0x846)], _0x40aba4['BONE'], _0x40aba4[_0x2c0d05(0xb1f)], _0x40aba4['DIAMOND'], _0x40aba4[_0x2c0d05(0xb1f)], _0x40aba4[_0x2c0d05(0xb1f)], _0x40aba4['DIAMOND'], _0x40aba4[_0x2c0d05(0xb1f)], _0x40aba4[_0x2c0d05(0xb1f)], _0x40aba4[_0x2c0d05(0xb1f)], _0x40aba4['GUNS3'], _0x40aba4[_0x2c0d05(0x822)], _0x40aba4[_0x2c0d05(0x822)], _0x40aba4['AREA'], _0x40aba4[_0x2c0d05(0x822)], _0x40aba4['AREA'], _0x40aba4[_0x2c0d05(0xb4e)], _0x40aba4['MIGHT'], _0x40aba4[_0x2c0d05(0xb4e)], _0x40aba4[_0x2c0d05(0xb4e)], _0x40aba4['MIGHT'], _0x40aba4[_0x2c0d05(0x925)], _0x40aba4['SPEED'], _0x40aba4['SPEED'], _0x40aba4[_0x2c0d05(0x925)], _0x40aba4[_0x2c0d05(0x925)], _0x40aba4[_0x2c0d05(0x4dc)], _0x40aba4[_0x2c0d05(0x4dc)], _0x40aba4['COOLDOWN'], _0x40aba4[_0x2c0d05(0x4dc)], _0x40aba4['COOLDOWN'], _0x40aba4[_0x2c0d05(0x776)], _0x40aba4['AMOUNT']],
                             'onEveryLevelUp': {
-                                'curse': 0.05
+                                'curse': 0.10
                             },
                             'debugTime': 0x348
                         }, {
