@@ -8836,7 +8836,7 @@ function a0_0x1b36(_0xc0658e, _0x44cb9c) {
                             'penetrating': 0x2,
                             'power': 0x1,
                         }, {
-                            'interval': 0x1f4,
+                            'interval': -0x1f4,
                         }
                     ],
                         [_0x40aba4[_0x2c0d05(0x555)]]: [{
