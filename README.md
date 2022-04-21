@@ -336,4 +336,12 @@ Gamebanana: https://gamebanana.com/mods/371881
 ________
 Mods made with GIMP, TexturePackerGUI
 
-Sprites pulled from various sites; https://www.google.com, https://www.spritedatabase.net, https://www.spriters-resource.com
+Sprites pulled from various sites; 
+
+https://www.google.com, 
+
+https://www.spritedatabase.net, 
+
+https://www.spriters-resource.com, 
+
+https://www.deviantart.com/
