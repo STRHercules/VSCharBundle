@@ -7,7 +7,7 @@
 
 
 ## This mod will install all of my custom characters;
-________________________
+
 
 ## Goku the Saiyan
 
