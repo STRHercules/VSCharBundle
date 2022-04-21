@@ -7,60 +7,61 @@
 
 
 ## This mod will install all of my custom characters;
+________________________
 
-Goku the Saiyan
+## Goku the Saiyan
 
-Gohan, son of Goku
+## Gohan, son of Goku
 
-Beerus the Destroyer
+## Beerus the Destroyer
 
-Roshi Turtle Hermit
+## Roshi Turtle Hermit
 
-Majin Buu (Fat)
+## Majin Buu (Fat)
 
-Majin Buu (Kid)
+## Majin Buu (Kid)
 
-Wolverine
+## Wolverine
 
-Cyclops 
+## Cyclops 
 
-Inuyasha "Dog Demon"
+## Inuyasha "Dog Demon"
 
-Michelangelo 'Mikey' (Orange Ninja Turtle)
+## Michelangelo 'Mikey' (Orange Ninja Turtle)
 
-Vegeta Prince of Saiyans
+## Vegeta Prince of Saiyans
 
-Gundam
+## Gundam
 
-Terran Ghost
+## Terran Ghost
 
-Batman
+## Batman
 
-Baphomet
+## Baphomet
  
-Sonic the Hedgehog
+## Sonic the Hedgehog
 
-Kain Grinder
+## Kain Grinder
 
-Dracula
+## Dracula
 
-John Morris
+## John Morris
 
-Julius Belmont
+## Julius Belmont
 
-Simon Belmont
+## Simon Belmont
 
-Brauner
+## Brauner
 
-Knight
+## Knight
 
-Soma
+## Soma
 
-Spiderman
+## Spiderman
 
-Battletoad "Rash"
+## Battletoad "Rash"
 
-Solid Snake
+## Solid Snake
 _____________________________________________________________________
 Character Stats now:
 
@@ -210,9 +211,6 @@ Character Stats now:
 > - Starting Gear - Wings
 > - +1 Starting Level, +1% MoveSpeed Every Level
 
-**(Stage 1 - +Hyper +Hurry Challenge)**
-**My best time is 8:31 :D**
-
 > #### Kain Grinder:
 > 
 > - Max Health - 25
@@ -316,14 +314,14 @@ Character Stats now:
 _____________________________________________________________________
 # Instructions
 
-**Requires current opt-in beta on steam!!!!**
+## **Requires current opt-in beta on steam!!!!**
 
-Set Vampire Survivors to beta *first*
+1. Set Vampire Survivors to beta *first*
 
-Extract the 'mod' folder and 'main.bundle.js' file to your main game folder; 
+2. Extract the 'mod' folder and 'main.bundle.js' file to your main game folder; 
 
-SteamLibrary\steamapps\common\Vampire Survivors\resources\app\.webpack\renderer
+`SteamLibrary\steamapps\common\Vampire Survivors\resources\app\.webpack\renderer`
 
-Overwrite any files when asked
+Overwrite any files when asked..
 
-Congratulations! You now have new playable characters!
+## Congratulations! You now have new playable characters!
