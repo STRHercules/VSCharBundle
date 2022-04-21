@@ -327,3 +327,9 @@ _____________________________________________________________________
 Overwrite any files when asked..
 
 ## Congratulations! You now have new playable characters!
+---
+Check out my mod on
+
+Nexus: https://www.nexusmods.com/vampiresurvivors/mods/11?tab=description
+
+Gamebanana: https://gamebanana.com/mods/371881
