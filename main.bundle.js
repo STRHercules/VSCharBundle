@@ -40828,7 +40828,7 @@ function a0_0x1b36(_0xc0658e, _0x44cb9c) {
                     _0x40a53f = !0x1,
                     _0x517ec2 = !0x1,
                     _0x1ab3cd = 0x1fa,
-                    _0x59e5c9 = 'v0.5.0f - EA [Character Bundle Mod]',
+                    _0x59e5c9 = '           v0.5.0f - EA [Character Bundle Mod]',
                     _0x4cf0b1 = 0.5,
                     _0x4da85f = 0x400 * _0x4cf0b1,
                     _0x30ea9f = 0x556 * _0x4cf0b1,
