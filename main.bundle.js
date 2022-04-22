@@ -47891,7 +47891,7 @@ function a0_0x150b(_0x8a0c12, _0x437a92) {
                     _0x1cf3c1 = !0x1,
                     _0x188657 = !0x1,
                     _0xc3ece9 = 0x1f8,
-                    _0x5a874f = 'v0.5.0e  [NG+/fix3]',
+                    _0x5a874f = '                   v0.5.0e  [NG+/fix3][Character Bundle]',
                     _0x1b04a1 = 0.5,
                     _0x4874c8 = 0x400 * _0x1b04a1,
                     _0x29dbb2 = 0x556 * _0x1b04a1,
