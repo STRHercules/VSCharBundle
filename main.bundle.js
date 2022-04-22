@@ -23422,6 +23422,516 @@ function a0_0x150b(_0x8a0c12, _0x437a92) {
                         ],
                         [_0x5ed873[_0x5e9c75(0xa92)]]: [],
                         [_0x5ed873[_0x5e9c75(0x5c9)]]: [],
+                        /*Puppetmaster Secret Garden Map Data Map Start*/
+                        ['GARDEN']: [{
+                            'stageName': 'Secret Garden',
+                            'description': 'The Garden of Eden no longer exists, but a cursedly narrow one does!',
+                            'uiTexture': 'UI_GARDEN',
+                            'uiFrame': 'stage_garden.png',
+                            'frameName': 'stage_library_icon.png',
+                            'frameNameUnlock': 'stage_library_unlock.png',
+                            'stageNumber': 'Modded',
+                            'unlocked': !0x0,
+                            'BGM': 'BGM_GreenAcres',
+                            'legacyBGM': 'BGM_Library',
+                            'tips': 'Enemies health +50%',
+                            'hyperTips': '50% Gold bonus\n10% Luck bonus',
+                            'mods': {
+                                'PlayerPxSpeed': 1.25,
+                                'EnemySpeed': 1.25,
+                                'ProjectileSpeed': 0x1,
+                                'GoldMultiplier': 0x1,
+                                'EnemyHealth': 1.4,
+                                'tips': ''
+                            },
+                            'hyper': {
+                                'unlocked': !0x0,
+                                'PlayerPxSpeed': 1.9,
+                                'EnemySpeed': 1.9,
+                                'ProjectileSpeed': 1.15,
+                                'GoldMultiplier': 1.5,
+                                'LuckBonus': 0.1,
+                                'EnemyHealth': 1.8,
+                                'EnemyMinimumMul': 1.5,
+                                'StartingSpawns': 0x3c,
+                                'BGM_rate': 1.25,
+                                'BGM_detune': 0x64,
+                                'BGM_ignoreModsForNewSoundtrack': !0x1,
+                                'BGM_new_rate': 1.0625,
+                                'tips': ''
+                            },
+                            'tileset': {
+                                'setKey': 'GardenTexturePacked',
+                                'setPath': 'mod/garden/GardenTexturePacked.png',
+                                'mapKey': 'Library',
+                                'mapPath': 'mod/garden/Garden.json',
+                                'isTiling': !0x0
+                            },
+                            'spawnType': 'HORIZONTAL',
+                            'dayNight': !0x0,
+                            'startingSpawns': 0x32,
+                            'minute': 0x0,
+                            'destructibleType': 'LAMPOST',
+                            'destructibleFreq': 0x3e8,
+                            'destructibleChance': 7.5,
+                            'destructibleChanceMax': 0x32,
+                            'maxDestructibles': 0xa,
+                            'BGTextureName': 'bg_forest',
+                            'minimum': 0x16,
+                            'frequency': 0xbb8,
+                            'enemies': ['BAT1', 'BAT2']
+                        }, {
+                            'minute': 0x1,
+                            'minimum': 0x25,
+                            'frequency': 0xbb8,
+                            'enemies': ['SKELETON','BAT3'],
+                            'events': [{
+                                'eventType': 'PlayJellyfish',
+                                'delay': 0x64,
+                                'moreX': 0x1
+                            }]
+                        }, {
+                            'minute': 0x2,
+                            'minimum': 0x32,
+                            'frequency': 0xfa0,
+                            'enemies': ['SKELETON', 'ECTO1'],
+                            'events': [{
+                                'eventType': 'MEDUSA_WALL',
+                                'moreX': 0x6,
+                                'moreY': 'BAT3'
+                            }, {
+                                'eventType': 'MEDUSA_SWARM',
+                                'moreX': 0x12,
+                                'moreY': 'BAT4',
+                                'delay': 0x1388,
+                                'chance': 0x46,
+                                'repeat': 0x4
+                            }]
+                        }, {
+                            'minute': 0x3,
+                            'minimum': 0x3c,
+                            'frequency': 0xfa0,
+                            'enemies': ['SKELETON', 'ECTO1', 'BAT3'],
+                            'bosses': ['BAT4'],
+                            'treasure': {
+                                'chances': [0.1, 0x5, 0x64],
+                                'level': 0x1,
+                                'prizeTypes': ['EVOLUTION','EXISTING_ANY', 'EXISTING_ANY', 'EXISTING_ANY', 'EXISTING_ANY', 'EXISTING_ANY']
+                            }
+                        }, {
+                            'minute': 0x4,
+                            'minimum': 0x6e,
+                            'frequency': 0xfa0,
+                            'enemies': ['SKELETON', 'SKELETON2']
+                        }, {
+                            'minute': 0x5,
+                            'minimum': 0x64,
+                            'frequency': 0xfa0,
+                            'enemies': ['SKELETON3','SKELETON4'],
+                            'bosses': ['XLBAT'],
+                            'events': [{
+                                'eventType': 'BAT_SWARM',
+                                'delay': 0x1388,
+                                'chance': 0x50,
+                                'repeat': 0x5
+                            }, {
+                                'eventType': 'MEDUSA_SWARM',
+                                'moreX': 0xc,
+                                'moreY': 'MEDUSA1',
+                                'delay': 0x1388,
+                                'chance': 0x46,
+                                'repeat': 0x5
+                            }],
+                            'treasure': {
+                                'chances': [0x1, 0x5, 0x64],
+                                'level': 0x1,
+                                'prizeTypes': ['EVOLUTION','EXISTING_WEAPON', 'EXISTING_ANY', 'EXISTING_ANY', 'EXISTING_ANY', 'EXISTING_ANY']
+                            }
+                        }, {
+                            'minute': 0x6,
+                            'minimum': 0x3c,
+                            'frequency': 0x3e8,
+                            'enemies': ['DULL1', 'ECTO1','SHADEBLUE'],
+                            'events': [{
+                                'eventType': 'SHADE_BOMB_RED',
+                                'delay': 0x2710,
+                                'chance': 0x32,
+                                'repeat': 0x4,
+                                'moreX': 0x1
+                            }]
+                        }, {
+                            'minute': 0x7,
+                            'minimum': 0x30,
+                            'frequency': 0x1f4,
+                            'enemies': ['DULL1', 'XLBAT', 'ECTO2'],
+                            'events': [{
+                                'eventType': 'BAT_SWARM',
+                                'delay': 0x1388,
+                                'chance': 0x50,
+                                'repeat': 0x5
+                            }]
+                        }, {
+                            'minute': 0x8,
+                            'minimum': 0x50,
+                            'frequency': 0x3e8,
+                            'enemies': ['ECTO2', 'GHOST'],
+                            'bosses': ['BOSS_ECTO'],
+                            'treasure': {
+                                'chances': [0x3, 0xa, 0x32],
+                                'level': 0x2,
+                                'prizeTypes': ['EVOLUTION','EXISTING_WEAPON', 'EXISTING_ANY', 'EXISTING_ANY', 'EXISTING_ANY', 'EXISTING_ANY']
+                            }
+                        }, {
+                            'minute': 0x9,
+                            'minimum': 0xc8,
+                            'frequency': 0x1f4,
+                            'enemies': ['MUMMY', 'GHOST'],
+                            'events': [{
+                                'eventType': 'SHADE_BOMB_RED',
+                                'delay': 0x4e20,
+                                'chance': 0x32,
+                                'repeat': 0x2,
+                                'moreX': 0x2
+                            }]
+                        }, {
+                            'minute': 0xa,
+                            'minimum': 0x64,
+                            'frequency': 0x1f4,
+                            'enemies': ['BOSS_ECTO','BUER','SHADEBLUE'],
+                            'bosses': ['BOSS_BUER'],
+                            'treasure': {
+                                'chances': [0x3, 0xa, 0x64],
+                                'level': 0x1,
+                                'prizeTypes': ['EVOLUTION', 'EXISTING_ANY', 'EXISTING_ANY', 'EXISTING_WEAPON', 'EXISTING_WEAPON']
+                            },
+                            'events': [{
+                                'eventType': 'SHADE_BOMB_RED',
+                                'moreX': 0x1
+                            }, {
+                                'eventType': 'SHADE_BOMB_RED',
+                                'delay': 0x2710,
+                                'chance': 0x50,
+                                'repeat': 0x3,
+                                'moreX': 0x2
+                            }]
+                        }, {
+                            'minute': 0xb,
+                            'minimum': 0x78,
+                            'frequency': 0x7d0,
+                            'enemies': ['MEDUSA2', 'BUER']
+                        }, {
+                            'minute': 0xc,
+                            'minimum': 0x50,
+                            'frequency': 0x3e8,
+                            'enemies': ['MEDUSA2', 'DULL1'],
+                            'events': [{
+                                'eventType': 'MEDUSA_SWARM',
+                                'moreX': 0xc,
+                                'moreY': 'MEDUSA2_AGGRO'
+                            }, {
+                                'eventType': 'MEDUSA_WALL',
+                                'moreX': 0xc,
+                                'moreY': 'MEDUSA1',
+                                'delay': 0x1388,
+                                'chance': 0x46,
+                                'repeat': 0x5
+                            }],
+                            'bosses': ['BOSS_XLMEDUSA'],
+                            'treasure': {
+                                'chances': [0x1, 0x5, 0x32],
+                                'level': 0x1,
+                                'prizeTypes': ['EVOLUTION', 'EXISTING_ANY', 'EXISTING_ANY', 'EXISTING_ANY', 'EXISTING_ANY']
+                            }
+                        }, {
+                            'minute': 0xd,
+                            'minimum': 0x78,
+                            'frequency': 0x1f4,
+                            'enemies': ['MUMMY', 'DULL1'],
+                            'bosses': ['BOSS_MUD'],
+                            'treasure': {
+                                'chances': [0x1, 0x5, 0x32],
+                                'level': 0x1,
+                                'prizeTypes': ['EVOLUTION', 'EXISTING_ANY', 'EXISTING_ANY', 'EXISTING_ANY', 'EXISTING_ANY']
+                            }
+                        }, {
+                            'minute': 0xe,
+                            'minimum': 0x12c,
+                            'frequency': 0x64,
+                            'enemies': ['MUMMY', 'MEDUSA2', 'ECTO2'],
+                            'bosses': ['BAT5'],
+                            'treasure': {
+                                'chances': [0x1, 0x5, 0x32],
+                                'level': 0x1,
+                                'prizeTypes': ['EVOLUTION', 'EXISTING_ANY', 'EXISTING_ANY', 'EXISTING_ANY', 'EXISTING_ANY']
+                            }
+                        }, {
+                            'minute': 0xf,
+                            'minimum': 0x16,
+                            'frequency': 0x32,
+                            'enemies': ['SKELEWING','WEREWOLF'],
+                            'bosses': ['XLMEDUSA'],
+                            'treasure': {
+                                'chances': [0x3, 0xa, 0x64],
+                                'level': 0x1,
+                                'prizeTypes': ['EVOLUTION', 'EXISTING_ANY', 'EXISTING_ANY', 'EXISTING_ANY', 'EXISTING_ANY']
+                            },
+                            'events': [{
+                                'eventType': 'MEDUSA_WALL',
+                                'moreX': 0xc,
+                                'moreY': 'XLBAT'
+                            }, {
+                                'eventType': 'MEDUSA_WALL',
+                                'moreX': 0x6,
+                                'moreY': 'BOSS_MEDUSA1',
+                                'delay': 0x32c8
+                            }, {
+                                'eventType': 'MEDUSA_SWARM',
+                                'moreX': 0xc,
+                                'moreY': 'XLBAT',
+                                'delay': 0x7d0,
+                                'chance': 0x5a,
+                                'repeat': 0x19
+                            }]
+                        }, {
+                            'minute': 0x10,
+                            'minimum': 0x64,
+                            'frequency': 0x3e8,
+                            'enemies': ['WITCH1', 'DULL1', 'DULL2'],
+                            'bosses': ['BAT5'],
+                            'treasure': {
+                                'chances': [0x1, 0x5, 0x32],
+                                'level': 0x1,
+                                'prizeTypes': ['EVOLUTION', 'EXISTING_ANY', 'EXISTING_ANY', 'EXISTING_ANY', 'EXISTING_ANY']
+                            }
+                        }, {
+                            'minute': 0x11,
+                            'minimum': 0xc8,
+                            'frequency': 0x3e8,
+                            'enemies': ['WITCH1', 'ECTO2', 'ECTO1'],
+                            'events': [{
+                                'eventType': 'SHADE_BOMB_RED',
+                                'delay': 0x1388,
+                                'chance': 0x32,
+                                'repeat': 0x4,
+                                'moreX': 0x3
+                            }]
+                        }, {
+                            'minute': 0x12,
+                            'minimum': 0x3c,
+                            'frequency': 0x1f4,
+                            'enemies': ['WITCH1', 'BUER'],
+                            'bosses': ['BOSS_WITCH2'],
+                            'treasure': {
+                                'chances': [0x3, 0xa, 0x50],
+                                'level': 0x1,
+                                'prizeTypes': ['EVOLUTION', 'EXISTING_ANY', 'EXISTING_ANY', 'EXISTING_ANY', 'EXISTING_ANY']
+                            }
+                        }, {
+                            'minute': 0x13,
+                            'minimum': 0x78,
+                            'frequency': 0x1f4,
+                            'enemies': ['WITCH1', 'DULL2'],
+                            'bosses': ['BOSS_WITCH2'],
+                            'treasure': {
+                                'chances': [0x3, 0xa, 0x50],
+                                'level': 0x1,
+                                'prizeTypes': ['EVOLUTION', 'EXISTING_ANY', 'EXISTING_ANY', 'EXISTING_ANY', 'EXISTING_ANY']
+                            }
+                        }, {
+                            'minute': 0x14,
+                            'minimum': 0x64,
+                            'frequency': 0x64,
+                            'enemies': ['BUER', 'DULL2'],
+                            'bosses': ['BOSS_COUNT2'],
+                            'events': [{
+                                'eventType': 'SHADE_BOMB_RED',
+                                'delay': 0x7d0,
+                                'chance': 0x32,
+                                'repeat': 0x19,
+                                'moreX': 0x2
+                            }, {
+                                'eventType': 'SKULL_SWARM',
+                                'moreX': 0x1
+                            }, {
+                                'eventType': 'SKULL_SWARM',
+                                'delay': 0x1388,
+                                'moreX': 0x2
+                            }, {
+                                'eventType': 'SKULL_SWARM',
+                                'delay': 0x3a98,
+                                'moreX': 0x4
+                            }, {
+                                'eventType': 'SKULL_SWARM',
+                                'delay': 0x61a8,
+                                'moreX': 0x8
+                            }, {
+                                'eventType': 'SKULL_SWARM',
+                                'delay': 0x88b8,
+                                'moreX': 0x10
+                            }, {
+                                'eventType': 'SKULL_SWARM',
+                                'delay': 0xafc8,
+                                'moreX': 0x20
+                            }, {
+                                'eventType': 'SKULL_SWARM',
+                                'delay': 0xd6d8,
+                                'moreX': 0x20
+                            }],
+                            'treasure': {
+                                'chances': [0x3, 0xa, 0x64],
+                                'level': 0x1,
+                                'prizeTypes': ['EVOLUTION', 'EXISTING_ANY', 'EXISTING_ANY', 'EXISTING_ANY', 'EXISTING_ANY']
+                            }
+                        }, {
+                            'minute': 0x15,
+                            'minimum': 0x1,
+                            'maximum': 0x3,
+                            'frequency': 0xbb8,
+                            'enemies': ['BOSS_XLBAT'],
+                            'events': [{
+                                'eventType': 'BAT_SWARM',
+                                'delay': 0x1388,
+                                'chance': 0x50,
+                                'repeat': 0x10
+                            }]
+                        }, {
+                            'minute': 0x16,
+                            'minimum': 0x50,
+                            'frequency': 0x3e8,
+                            'enemies': ['ARMOR', 'ARMORSPEAR'],
+                            'events': [{
+                                'eventType': 'SHADE_BOMB_RED',
+                                'delay': 0x7d0,
+                                'chance': 0x32,
+                                'repeat': 0x19,
+                                'moreX': 0x3
+                            }],
+                            'bosses': ['BAT5'],
+                            'treasure': {
+                                'chances': [0x3, 0xa, 0x64],
+                                'level': 0x1,
+                                'prizeTypes': ['EVOLUTION', 'EXISTING_ANY', 'EXISTING_ANY', 'EXISTING_ANY', 'EXISTING_ANY']
+                            }
+                        }, {
+                            'minute': 0x17,
+                            'minimum': 0x78,
+                            'frequency': 0x64,
+                            'enemies': ['ARMOR', 'ARMORSPEAR', 'XLBAT'],
+                            'bosses': ['BOSS_BUER'],
+                            'treasure': {
+                                'chances': [0x3, 0xa, 0x64],
+                                'level': 0x1,
+                                'prizeTypes': ['EVOLUTION', 'EXISTING_ANY', 'EXISTING_ANY', 'EXISTING_ANY', 'EXISTING_ANY']
+                            }
+                        }, {
+                            'minute': 0x18,
+                            'minimum': 0x12c,
+                            'frequency': 0x64,
+                            'enemies': ['WITCH2']
+                        }, {
+                            'minute': 0x19,
+                            'minimum': 0x12c,
+                            'frequency': 0x64,
+                            'enemies': ['SKULL2', 'WITCH2', 'XLBAT'],
+                            'bosses': ['BOSS_COUNT1'],
+                            'events': [{
+                                'eventType': 'BAT_SWARM'
+                            }, {
+                                'eventType': 'SKULL_SWARM',
+                                'moreX': 0x1
+                            }, {
+                                'eventType': 'SKULL_SWARM',
+                                'delay': 0x1388,
+                                'moreX': 0x2
+                            }, {
+                                'eventType': 'SKULL_SWARM',
+                                'delay': 0x3a98,
+                                'moreX': 0x4
+                            }, {
+                                'eventType': 'SKULL_SWARM',
+                                'delay': 0x61a8,
+                                'moreX': 0x8
+                            }, {
+                                'eventType': 'SKULL_SWARM',
+                                'delay': 0x88b8,
+                                'moreX': 0x10
+                            }, {
+                                'eventType': 'SKULL_SWARM',
+                                'delay': 0xafc8,
+                                'moreX': 0x20
+                            }, {
+                                'eventType': 'SKULL_SWARM',
+                                'delay': 0xd6d8,
+                                'moreX': 0x20
+                            }],
+                            'treasure': {
+                                'chances': [0x3, 0xa, 0x64],
+                                'level': 0x1,
+                                'prizeTypes': ['EVOLUTION', 'EXISTING_ANY', 'EXISTING_ANY', 'EXISTING_ANY', 'EXISTING_ANY']
+                            }
+                        }, {
+                            'minute': 0x1a,
+                            'minimum': 0x64,
+                            'frequency': 0x64,
+                            'enemies': ['XLMEDUSA'],
+                            'bosses': ['BOSS_XLMEDUSA'],
+                            'treasure': {
+                                'chances': [0x3, 0xa, 0x32],
+                                'level': 0x1,
+                                'prizeTypes': ['EVOLUTION', 'EXISTING_ANY', 'EXISTING_ANY', 'EXISTING_ANY', 'EXISTING_ANY']
+                            }
+                        }, {
+                            'minute': 0x1b,
+                            'minimum': 0x12c,
+                            'frequency': 0x64,
+                            'enemies': ['MEDUSA2', 'XLMEDUSA'],
+                            'bosses': ['BOSS_XLMEDUSA'],
+                            'treasure': {
+                                'chances': [0x3, 0xa, 0x32],
+                                'level': 0x1,
+                                'prizeTypes': ['EVOLUTION', 'EXISTING_ANY', 'EXISTING_ANY', 'EXISTING_ANY', 'EXISTING_ANY']
+                            },
+                            'events': [{
+                                'eventType': 'MEDUSA_SWARM',
+                                'moreX': 0xc,
+                                'moreY': 'BOSS_MEDUSA1'
+                            }, {
+                                'eventType': 'MEDUSA_WALL',
+                                'moreX': 0xc,
+                                'moreY': 'MEDUSA2_AGGRO',
+                                'delay': 0x7d0,
+                                'chance': 0x5a,
+                                'repeat': 0x19
+                            }]
+                        }, {
+                            'minute': 0x1c,
+                            'minimum': 0x12c,
+                            'frequency': 0x64,
+                            'enemies': ['WITCH1', 'BOSS_MEDUSA1'],
+                            'bosses': ['BOSS_XLMEDUSA']
+                        }, {
+                            'minute': 0x1d,
+                            'minimum': 0x4B,
+                            'frequency': 0x64,
+                            'enemies': ['BOSS_MUD', 'BOSS_ECTO', 'BOSS_XLBAT', 'BOSS_MEDUSA1'],
+                            'events': [{
+                                'eventType': 'SHADE_BOMB_RED',
+                                'delay': 0x3e8,
+                                'chance': 0x3c,
+                                'repeat': 0x32,
+                                'moreX': 0x4
+                            }]
+                        }, {
+                            'minute': 0x1e,
+                            'minimum': 0x1,
+                            'frequency': 0x2710,
+                            'enemies': [],
+                            'bosses': ['BOSS_XLDEATH'],
+                            'events': [{
+                                'eventType': 'ERASE_ENEMIES'
+                            }]
+                        }],
+                        /*Puppetmaster Secret Garden Map Data Map End*/
                         [_0x5ed873[_0x5e9c75(0xad9)]]: [{
                                 'stageName': 'Green Acres',
                                 'description': 'A place not made for mortals. Fate changes every minute.',
@@ -38081,6 +38591,9 @@ function a0_0x150b(_0x8a0c12, _0x437a92) {
                             this['load']['atlas']('KI', 'mod/CharBundle/goku/blasts.png', 'mod/CharBundle/goku/blasts.json'),
                             /*Deathshift Character Bundle Additions*/
                                     /*Character Atlas End*/
+                            /*Puppetmaster Secret Garden Map Data Map Start*/
+                            this['load']['atlas']('UI_GARDEN', 'mod/garden/UI.png', 'mod/garden/UI.json'),      
+                            /*Puppetmaster Secret Garden Map Data Map End*/                     
                             this['load'][_0x4fc422(0xa12)]('stageComplete', 'assets/img/stageComplete.png'),
                             this[_0x4fc422(0x4ed)]['atlas']('UI', 'assets/img/UI.png', 'assets/img/UI.json'),
                             this[_0x4fc422(0x4ed)][_0x4fc422(0x236)]('enemies', 'assets/img/enemies.png', 'assets/img/enemies.json'),

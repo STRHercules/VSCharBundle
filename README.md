@@ -1,5 +1,6 @@
-# This version contains the mod NG+, which was created by ulolop on Nexusmods. In this version, I have ported over all of my custom characters, and custom weapon.
+# This version contains the mod NG+, which was created by ulolop on Nexusmods. As well as the custom map 'Secret Garden' created by Puppetmaster. In this version, I have ported over all of my custom characters, and custom weapon.
 ## NG Plus: https://www.nexusmods.com/vampiresurvivors/mods/3?tab=description&BH=0
+## Secret Garden Map: https://gamebanana.com/mods/366788
 
 
 ### All characters are unique additions, do not replace or reskin anything. 
@@ -335,17 +336,21 @@ _____________________________________________________________________
 
 Overwrite any files when asked..
 
-## Congratulations! You now have new playable characters in NG Plus!
+## Congratulations! You now have new playable characters in NG Plus, with a new map!
 
-Check out ulolop's mod on Nexus!
+## Check out ulolop's mod on Nexus!
 
 NG Plus: https://www.nexusmods.com/vampiresurvivors/mods/3?tab=description&BH=0
 
-Check out my mod on Nexus!
+## Check out Puppetmaster's mod on Gamebanana!
+
+Secret Garden: https://gamebanana.com/mods/366788
+
+## Check out my mod on Nexus!
 
 Char Bundle: https://www.nexusmods.com/vampiresurvivors/mods/11?tab=description
 
-Check out my mod on Gamebanana!
+## Check out my mod on Gamebanana!
 
 Char Bundle: https://gamebanana.com/mods/371881
 ________
