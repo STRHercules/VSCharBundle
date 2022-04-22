@@ -1,4 +1,5 @@
-# This bundle contains all of my custom characters for Vampire Survivors.
+# This version contains the mod NG+, which was created by ulolop on Nexusmods. In this version, I have ported over all of my custom characters, and custom weapon.
+## NG Plus: https://www.nexusmods.com/vampiresurvivors/mods/3?tab=description&BH=0
 
 
 ### All characters are unique additions, do not replace or reskin anything. 
