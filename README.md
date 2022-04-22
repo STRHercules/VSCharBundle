@@ -325,27 +325,29 @@ Character Stats now:
 > - +10% Curse every Level
 
 _____________________________________________________________________
-# Instructions
+## Instructions
 
-## **Requires current opt-in beta on steam!!!!**
+1. Download code as .zip
 
-1. Set Vampire Survivors to beta *first*
-
-2. Download the latest release from release page
-
-3. Extract the release .zip file to your main game folder; 
+2. Extract 'main.bundle.js' file and 'mod' folder to this folder;
 
 `SteamLibrary\steamapps\common\Vampire Survivors\resources\app\.webpack\renderer`
 
 Overwrite any files when asked..
 
-## Congratulations! You now have new playable characters!
+## Congratulations! You now have new playable characters in NG Plus!
 
-Check out my mod on
+Check out ulolop's mod on Nexus!
 
-Nexus: https://www.nexusmods.com/vampiresurvivors/mods/11?tab=description
+NG Plus: https://www.nexusmods.com/vampiresurvivors/mods/3?tab=description&BH=0
 
-Gamebanana: https://gamebanana.com/mods/371881
+Check out my mod on Nexus!
+
+Char Bundle: https://www.nexusmods.com/vampiresurvivors/mods/11?tab=description
+
+Check out my mod on Gamebanana!
+
+CharBundle: https://gamebanana.com/mods/371881
 ________
 Mods made with GIMP, TexturePackerGUI
 
