@@ -347,7 +347,7 @@ Char Bundle: https://www.nexusmods.com/vampiresurvivors/mods/11?tab=description
 
 Check out my mod on Gamebanana!
 
-CharBundle: https://gamebanana.com/mods/371881
+Char Bundle: https://gamebanana.com/mods/371881
 ________
 Mods made with GIMP, TexturePackerGUI
 
