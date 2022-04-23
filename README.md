@@ -148,7 +148,7 @@ Character Stats now:
 > - Armor - +1
 > - Reroll - +1500
 > - Starting Gear - Curse
-> - Starting Level - 1
+> - Starting Levels - +1
 > - +10% Might Every 10 levels (Max+70%)
 
 > #### Android 18:
