@@ -189,6 +189,10 @@ function a0_0x150b(_0x8a0c12, _0x437a92) {
                         _0x56fe70['SONIC'] = 'SONIC',
                         _0x56fe70['KAIN'] = 'KAIN',
                         _0x56fe70['BEERUS'] = 'BEERUS',
+                        _0x56fe70['KRILLIN'] = 'KRILLIN',
+                        _0x56fe70['GERO'] = 'GERO',
+                        _0x56fe70['AND18'] = 'AND18',
+                        _0x56fe70['HERCULE'] = 'HERCULE',
                         _0x56fe70['KIDBUU'] = 'KIDBUU',
                         _0x56fe70['DRAC'] = 'DRAC',
                         _0x56fe70['MORRIS'] = 'MORRIS',
@@ -2635,6 +2639,250 @@ function a0_0x150b(_0x8a0c12, _0x437a92) {
                     'level': 0x29,
                     'growth': -0x1
                 }
+            ],
+            [_0x54dee6['KRILLIN']]: [{
+                'level': 0x1,
+                'startingWeapon': _0x60cabf['SILF'],
+                            'charName': 'Krillin',
+                            'surname': '',
+                            'spriteName': 'krillin_01.png',
+                            'textureName': 'KRILLIN',
+                            'walkingFrames': 0x6,
+                            'description': 'So much potential.. Too bad he isnt a Saiyan.',
+                            'isBought': !0x0,
+                            'price': 0x0,
+                            'maxHp': 0x1,
+                            'armor': 0x0,
+                            'regen': 0x0,
+                            'moveSpeed': 1.2,
+                            'power': 0.9,
+                            'cooldown': 1.1,
+                            'area': 0.9,
+                            'speed': 0.5,
+                            'duration': 0.9,
+                            'amount': 0x0,
+                            'luck': 0x2,
+                            'growth': 0x1,
+                            'greed': 0x1,
+                            'curse': 0x1,
+                            'magnet': 0x0,
+                            'revivals': 0x0,
+                            'rerolls': 0x0,
+                            'skips': 0x0,
+                            'banish': 0x0,
+                            'showcase': []
+                        }, {
+                            'luck': 0.2,
+                            'level': 0xa
+                        }, {
+                            'luck': 0.2,
+                            'level': 0x14,
+                            'growth': 0x1
+                        }, {
+                            'luck': 0.2,
+                            'level': 0x1e
+                        }, {
+                            'luck': 0.2,
+                            'level': 0x28,
+                            'growth': 0x1
+                        }, {
+                            'luck': 0.2,
+                            'level': 0x32
+                        }, {
+                            'level': 0x15,
+                            'growth': -0x1
+                        }, {
+                            'level': 0x29,
+                            'growth': -0x1
+                        }, {
+                            'level': 0x64,
+                            'maxHp': 0x270e
+                        }, {
+                            'level': 0xc8,
+                            'armor': 0xfff0
+                        }
+                    ],
+                    [_0x54dee6['GERO']]: [{
+                        'level': 0x1,
+                        'startingWeapon': _0x60cabf['CURSE'],
+                        'charName': 'Dr. Gero',
+                        'surname': '',
+                        'textureName': 'GERO',
+                        'spriteName': 'gero_01.png',
+                        'walkingFrames': 0x3,
+                        'description': 'Unlimited Rerolls. Gains 10% Might/10 levels (max +70%).',
+                        'isBought': !0x0,
+                        'price': 0x0,
+                        'maxHp': 75,
+                        'armor': 0x1,
+                        'regen': 0x0,
+                        'moveSpeed': 0x1,
+                        'power': 0x1,
+                        'cooldown': 0x1,
+                        'area': 0x1,
+                        'speed': 0x1,
+                        'duration': 0x1,
+                        'amount': 0x0,
+                        'luck': 0x1,
+                        'growth': 0x1,
+                        'greed': 0x1,
+                        'curse': 0x1,
+                        'magnet': 0x0,
+                        'revivals': 0x0,
+                        'rerolls': 1500,
+                        'exLevels': 1,
+                        'showcase': [],
+                        'debugTime': 0x5dc
+                    }, {
+                        'power': 0.1,
+                        'level': 0xa
+                    }, {
+                        'power': 0.1,
+                        'level': 0x14,
+                        'growth': 0x1
+                    }, {
+                        'power': 0.1,
+                        'level': 0x1e
+                    }, {
+                        'power': 0.1,
+                        'level': 0x28,
+                        'growth': 0x1
+                    }, {
+                        'power': 0.1,
+                        'level': 0x32
+                    }, {
+                        'power': 0.1,
+                        'level': 0x15,
+                        'growth': -0x1
+                    }, {
+                        'power': 0.1,
+                        'level': 0x29,
+                        'growth': -0x1
+                    }
+                ],
+                [_0x54dee6['AND18']]: [{
+                    'level': 0x1,
+                    'startingWeapon': _0x60cabf['FIREEXPLOSION'],
+                    'cooldown': 0.8,
+                    'charName': 'Android 18',
+                    'surname': '',
+                    'textureName': 'AND18',
+                    'spriteName': '18_01.png',
+                    'walkingFrames': 0x4,
+                    'description': 'Explosion AoE. Gains 20% Might/10 levels (max +140%).',
+                    'isBought': !0x0,
+                    'price': 0x0,
+                    'maxHp': 70,
+                    'armor': 0x2,
+                    'regen': 0x0,
+                    'moveSpeed': 1.2,
+                    'power': 1.2,
+                    'area': 1.2,
+                    'speed': 1.2,
+                    'duration': 1.2,
+                    'amount': 0x1,
+                    'luck': 1.2,
+                    'growth': 1.2,
+                    'greed': 1.2,
+                    'curse': 1.2,
+                    'magnet': 0x0,
+                    'revivals': 2,
+                    'rerolls': 2,
+                    'skips': 2,
+                    'banish': 2,
+                    'showcase': [],
+                    'debugTime': 0x5dc
+                }, {
+                    'power': 0.2,
+                    'level': 0xa
+                }, {
+                    'power': 0.2,
+                    'level': 0x14,
+                    'growth': 0x1
+                }, {
+                    'power': 0.2,
+                    'level': 0x1e
+                }, {
+                    'power': 0.2,
+                    'level': 0x28,
+                    'growth': 0x1
+                }, {
+                    'power': 0.2,
+                    'level': 0x32
+                }, {
+                    'power': 0.2,
+                    'level': 0x15,
+                    'growth': -0x1
+                }, {
+                    'power': 0.2,
+                    'level': 0x29,
+                    'growth': -0x1
+                }
+            ],
+            [_0x54dee6['HERCULE']]: [{
+                'level': 0x1,
+                'startingWeapon': _0x60cabf['NDUJA'],
+                'cooldown': 0x1,
+                'charName': 'Mr. Satan',
+                'surname': '',
+                'textureName': 'HERCULE',
+                'spriteName': 'hercule_01.png',
+                'walkingFrames': 0x6,
+                'description': 'OH YEAH! YOU PICKED THE CHAMP!',
+                'isBought': !0x0,
+                'price': 0x0,
+                'maxHp': 1,
+                'armor': 0x0,
+                'regen': 0x0,
+                'moveSpeed': 0x1,
+                'power': 0x1,
+                'cooldown': 0x1,
+                'area': 0x1,
+                'speed': 0x1,
+                'duration': 0x1,
+                'amount': 0x0,
+                'luck': 0x1,
+                'growth': 0x1,
+                'greed': 0x1,
+                'curse': 1.5,
+                'magnet': 0x50,
+                'revivals': 0x0,
+                'rerolls': 5,
+                'skips': 5,
+                'banish': 5,
+                'showcase': [],
+                'debugTime': 0x5dc
+            }, {
+                'power': 0.1,
+                'level': 0xa
+            }, {
+                'power': 0.1,
+                'level': 0x14,
+                'growth': 0x1
+            }, {
+                'power': 0.1,
+                'level': 0x1e
+            }, {
+                'power': 0.1,
+                'level': 0x28,
+                'growth': 0x1
+            }, {
+                'power': 0.1,
+                'level': 0x32
+            }, {
+                'level': 0x15,
+                'growth': -0x1
+            }, {
+                'level': 0x29,
+                'growth': -0x1
+            }, {
+                'level': 0x64,
+                'maxHp': 100000,
+                'power': 5.0,
+            }, {
+                'level': 0xc8,
+                'power': 5.0,
+            }
             ],
             [_0x54dee6['ROSHI']]: [{
                 'level': 0x1,
@@ -38056,6 +38304,10 @@ function a0_0x150b(_0x8a0c12, _0x437a92) {
                             this['load']['atlas']('FATBUU', 'mod/CharBundle/fatbuu/fatbuu.png', 'mod/CharBundle/fatbuu/fatbuu.json'),
                             this['load']['atlas']('ROSHI', 'mod/CharBundle/roshi/roshi.png', 'mod/CharBundle/roshi/roshi.json'),
                             this['load']['atlas']('BEERUS', 'mod/CharBundle/beerus/beerus.png', 'mod/CharBundle/beerus/beerus.json'),
+                            this['load']['atlas']('KRILLIN', 'mod/CharBundle/krillin/krillin.png', 'mod/CharBundle/krillin/krillin.json'),
+                            this['load']['atlas']('GERO', 'mod/CharBundle/gero/gero.png', 'mod/CharBundle/gero/gero.json'),
+                            this['load']['atlas']('AND18', 'mod/CharBundle/18/18.png', 'mod/CharBundle/18/18.json'),
+                            this['load']['atlas']('HERCULE', 'mod/CharBundle/hercule/hercule.png', 'mod/CharBundle/hercule/hercule.json'),
                             this['load']['atlas']('KIDBUU', 'mod/CharBundle/kidbuu/kidbuu.png', 'mod/CharBundle/kidbuu/kidbuu.json'),
                             this['load']['atlas']('WOLVERINE', 'mod/CharBundle/wolverine/wolverine.png', 'mod/CharBundle/wolverine/wolverine.json'),
                             this['load']['atlas']('CYCLOPS', 'mod/CharBundle/cyclops/cyclops.png', 'mod/CharBundle/cyclops/cyclops.json'),
