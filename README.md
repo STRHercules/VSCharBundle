@@ -21,6 +21,14 @@
 
 ## Majin Buu (Kid)
 
+## Krillin
+
+## Dr. Gero
+
+## Android 18
+
+## Mr. Satan
+
 ## Wolverine
 
 ## Cyclops 
@@ -129,6 +137,46 @@ Character Stats now:
 > - Max Health - 50
 > - Starting Gear - Hellfire
 > - +5% Curse Every Level, -1% Cooldown Every Level
+
+> #### Krillin:
+> 
+> - Toastie clone
+
+> #### Dr. Gero:
+> 
+> - Max health - 75 
+> - Armor - +1
+> - Reroll - +1500
+> - Starting Gear - Curse
+> - Starting Level - 1
+> - +10% Might Every 10 levels (Max+70%)
+
+> #### Android 18:
+> 
+> - Max health - 70 
+> - Armor - +2
+> - MoveSpeed - +20%
+> - Might - +20%
+> - Area - +20%
+> - Speed - +20%
+> - Duration - +20%
+> - Amount - +1
+> - Cooldown - -20%
+> - Luck - +20%
+> - Growth - +20%
+> - Greed - +20%
+> - Curse - +20%
+> - Revival - +2
+> - Reroll - +2
+> - Skip +2
+> - Banish +2
+> - Starting Gear - Explosion AoE
+> - +20% Might Every 10 levels (Max+140%)
+
+> #### Mr. Satan:
+> 
+> - OH YEAH!
+> - THE CHAMP
 
 > #### Wolverine:
 > 
