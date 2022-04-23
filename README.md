@@ -176,7 +176,7 @@ Character Stats now:
 > #### Mr. Satan:
 > 
 > - OH YEAH!
-> - THE CHAMP
+> - THE CHAMP IS HERE!
 
 > #### Wolverine:
 > 

@@ -2855,7 +2855,6 @@ function a0_0x1b36(_0xc0658e, _0x44cb9c) {
                 'rerolls': 5,
                 'skips': 5,
                 'banish': 5,
-                'exLevels': 1,
                 'showcase': [],
                 'debugTime': 0x5dc
             }, {
