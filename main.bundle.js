@@ -14888,8 +14888,26 @@ function a0_0x150b(_0x8a0c12, _0x437a92) {
                             'power': 0x1,
                         }, {
                             'interval': -0x1f4,
+                        }, {
+                            'power': 0x3,
+                            'area': 0.05,
+                        }, {
+                            'power': 0x3,
+                            'area': 0.05,
+                        }, {
+                            'power': 0x3,
+                            'area': 0.05,
+                        }, {
+                            'power': 0x3,
+                            'area': 0.05,
+                        }, {
+                            'power': 0x3,
+                            'area': 0.05,
+                        }, {
+                            'power': 0x3,
+                            'area': 0.05,
                         }
-                    ],
+                        ],
                         [_0x60cabf['HOLY_MISSILE']]: [{
                                 'level': 0x1,
                                 'bulletType': _0x60cabf[_0x5e9c75(0x2d0)],
@@ -16974,66 +16992,66 @@ function a0_0x150b(_0x8a0c12, _0x437a92) {
                             }
                         ],
                         [_0x60cabf['NDUJA']]: [{
-                                'level': 0x1,
-                                'bulletType': _0x60cabf[_0x5e9c75(0x8ae)],
-                                'name': '',
-                                'description': '',
-                                'tips': '',
-                                'texture': 'items',
-                                'frameName': 'Nft1.png',
-                                'hidden': !0x0,
-                                'isUnlocked': !0x1,
-                                'isSpecialOnly': !0x0,
-                                'hitVFX': _0x16da5c['FIRE'],
-                                'poolLimit': 0x32,
-                                'rarity': 0x0,
-                                'interval': 0x1f4,
-                                'repeatInterval': 0x28,
-                                'power': 0x3,
-                                'area': 0x2,
-                                'speed': 0x3,
-                                'amount': 0xc,
-                                'duration': 0x3e8
-                            }, {
-                                'power': 0x3,
-                                'area': 0.05,
-                            }, {
-                                'power': 0x3,
-                                'area': 0.05,
-                            }, {
-                                'power': 0x3,
-                                'area': 0.05,
-                            }, {
-                                'power': 0x3,
-                                'area': 0.05,
-                            }, {
-                                'power': 0x3,
-                                'area': 0.05,
-                            }, {
-                                'power': 0x3,
-                                'area': 0.05,
-                            }, {
-                                'power': 0x3,
-                                'area': 0.05,
-                            }, {
-                                'power': 0x3,
-                                'area': 0.05,
-                            }, {
-                                'power': 0x3,
-                                'area': 0.05,
-                            }, {
-                                'power': 0x3,
-                                'area': 0.05,
-                            }, {
-                                'power': 0x3,
-                                'area': 0.05,
-                            }, {
-                                'power': 0x3,
-                                'area': 0.05,
-                            }, {
-                                'power': 0x3,
-                                'area': 0.05,
-                            }
+                            'level': 0x1,
+                            'bulletType': _0x60cabf[_0x5e9c75(0x8ae)],
+                            'name': 'THE HEAT',
+                            'description': 'THE CHAMP GETS HOT',
+                            'tips': 'DONT STAND TOO CLOSE!',
+                            'texture': 'items',
+                            'frameName': 'Nft1.png',
+                            'hidden': !0x0,
+                            'isUnlocked': !0x1,
+                            'isSpecialOnly': !0x0,
+                            'hitVFX': _0x16da5c['FIRE'],
+                            'poolLimit': 0x32,
+                            'rarity': 0x0,
+                            'interval': 0x1f4,
+                            'repeatInterval': 0x28,
+                            'power': 0x3,
+                            'area': 0x2,
+                            'speed': 0x3,
+                            'amount': 0xc,
+                            'duration': 0x3e8
+                        }, {
+                            'power': 0x3,
+                            'area': 0.05,
+                        }, {
+                            'power': 0x3,
+                            'area': 0.05,
+                        }, {
+                            'power': 0x3,
+                            'area': 0.05,
+                        }, {
+                            'power': 0x3,
+                            'area': 0.05,
+                        }, {
+                            'power': 0x3,
+                            'area': 0.05,
+                        }, {
+                            'power': 0x3,
+                            'area': 0.05,
+                        }, {
+                            'power': 0x3,
+                            'area': 0.05,
+                        }, {
+                            'power': 0x3,
+                            'area': 0.05,
+                        }, {
+                            'power': 0x3,
+                            'area': 0.05,
+                        }, {
+                            'power': 0x3,
+                            'area': 0.05,
+                        }, {
+                            'power': 0x3,
+                            'area': 0.05,
+                        }, {
+                            'power': 0x3,
+                            'area': 0.05,
+                        }, {
+                            'power': 0x3,
+                            'area': 0.05,
+                        }
                         ],
                         [_0x60cabf['CART']]: [{
                                 'level': 0x1,
@@ -17146,66 +17164,66 @@ function a0_0x150b(_0x8a0c12, _0x437a92) {
                             }
                         ],
                         [_0x60cabf['FIREEXPLOSION']]: [{
-                                'level': 0x1,
-                                'bulletType': _0x60cabf['FIREEXPLOSION'],
-                                'name': '',
-                                'description': '',
-                                'tips': '',
-                                'texture': 'items',
-                                'frameName': 'Nft1.png',
-                                'hidden': !0x0,
-                                'isUnlocked': !0x1,
-                                'isSpecialOnly': !0x0,
-                                'hitVFX': _0x16da5c[_0x5e9c75(0x38f)],
-                                'poolLimit': 0x32,
-                                'rarity': 0x0,
-                                'interval': 0x1f4,
-                                'repeatInterval': 0x32,
-                                'power': 0x1,
-                                'area': 0.9,
-                                'speed': 0x1,
-                                'amount': 0x1,
-                                'duration': 0x12c
-                            }, {
-                                'power': 0x1,
-                                'area': 0.05,
-                            }, {
-                                'power': 0x1,
-                                'area': 0.05,
-                            }, {
-                                'power': 0x1,
-                                'area': 0.05,
-                            }, {
-                                'power': 0x1,
-                                'area': 0.05,
-                            }, {
-                                'power': 0x1,
-                                'area': 0.05,
-                            }, {
-                                'power': 0x1,
-                                'area': 0.05,
-                            }, {
-                                'power': 0x1,
-                                'area': 0.05,
-                            }, {
-                                'power': 0x1,
-                                'area': 0.05,
-                            }, {
-                                'power': 0x1,
-                                'area': 0.05,
-                            }, {
-                                'power': 0x1,
-                                'area': 0.05,
-                            }, {
-                                'power': 0x1,
-                                'area': 0.05,
-                            }, {
-                                'power': 0x1,
-                                'area': 0.05,
-                            }, {
-                                'power': 0x1,
-                                'area': 0.05,
-                            }
+                            'level': 0x1,
+                            'bulletType': _0x60cabf['FIREEXPLOSION'],
+                            'name': 'Explosion AoE',
+                            'description': 'Rapid explosions around the Android.',
+                            'tips': 'Scales.',
+                            'texture': 'items',
+                            'frameName': 'Nft1.png',
+                            'hidden': !0x0,
+                            'isUnlocked': !0x1,
+                            'isSpecialOnly': !0x0,
+                            'hitVFX': _0x16da5c[_0x5e9c75(0x38f)],
+                            'poolLimit': 0x32,
+                            'rarity': 0x0,
+                            'interval': 0x1f4,
+                            'repeatInterval': 0x32,
+                            'power': 0x1,
+                            'area': 0.9,
+                            'speed': 0x1,
+                            'amount': 0x1,
+                            'duration': 0x12c
+                        }, {
+                            'power': 0x1,
+                            'area': 0.05,
+                        }, {
+                            'power': 0x1,
+                            'area': 0.05,
+                        }, {
+                            'power': 0x1,
+                            'area': 0.05,
+                        }, {
+                            'power': 0x1,
+                            'area': 0.05,
+                        }, {
+                            'power': 0x1,
+                            'area': 0.05,
+                        }, {
+                            'power': 0x1,
+                            'area': 0.05,
+                        }, {
+                            'power': 0x1,
+                            'area': 0.05,
+                        }, {
+                            'power': 0x1,
+                            'area': 0.05,
+                        }, {
+                            'power': 0x1,
+                            'area': 0.05,
+                        }, {
+                            'power': 0x1,
+                            'area': 0.05,
+                        }, {
+                            'power': 0x1,
+                            'area': 0.05,
+                        }, {
+                            'power': 0x1,
+                            'area': 0.05,
+                        }, {
+                            'power': 0x1,
+                            'area': 0.05,
+                        }
                         ],
                         [_0x60cabf[_0x5e9c75(0x700)]]: [{
                                 'level': 0x1,
