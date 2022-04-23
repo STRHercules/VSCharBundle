@@ -14888,6 +14888,24 @@ function a0_0x150b(_0x8a0c12, _0x437a92) {
                             'power': 0x1,
                         }, {
                             'interval': -0x1f4,
+                        }, {
+                            'power': 0x3,
+                            'area': 0.05,
+                        }, {
+                            'power': 0x3,
+                            'area': 0.05,
+                        }, {
+                            'power': 0x3,
+                            'area': 0.05,
+                        }, {
+                            'power': 0x3,
+                            'area': 0.05,
+                        }, {
+                            'power': 0x3,
+                            'area': 0.05,
+                        }, {
+                            'power': 0x3,
+                            'area': 0.05,
                         }
                     ],
                         [_0x60cabf['HOLY_MISSILE']]: [{
@@ -16976,9 +16994,9 @@ function a0_0x150b(_0x8a0c12, _0x437a92) {
                         [_0x60cabf['NDUJA']]: [{
                                 'level': 0x1,
                                 'bulletType': _0x60cabf[_0x5e9c75(0x8ae)],
-                                'name': '',
-                                'description': '',
-                                'tips': '',
+                                'name': 'THE HEAT',
+                                'description': 'THE CHAMP GETS HOT',
+                                'tips': 'DONT STAND TOO CLOSE!',
                                 'texture': 'items',
                                 'frameName': 'Nft1.png',
                                 'hidden': !0x0,
@@ -17148,9 +17166,9 @@ function a0_0x150b(_0x8a0c12, _0x437a92) {
                         [_0x60cabf['FIREEXPLOSION']]: [{
                                 'level': 0x1,
                                 'bulletType': _0x60cabf['FIREEXPLOSION'],
-                                'name': '',
-                                'description': '',
-                                'tips': '',
+                                'name': 'Explosion AoE',
+                                'description': 'Rapid explosions around the Android.',
+                                'tips': 'Scales.',
                                 'texture': 'items',
                                 'frameName': 'Nft1.png',
                                 'hidden': !0x0,
