@@ -14365,7 +14365,6 @@
                         _0x160b5b['REGEN'] = 'REGEN',
                         _0x160b5b[_0xeb72d(0x4e5)] = 'MAXHEALTH',
                         _0x160b5b[_0xeb72d(0x43a)] = 'ARMOR',
-                        _0x160b5b['G_SHIELD'] = 'G_SHIELD',
                         _0x160b5b['AREA'] = 'AREA',
                         _0x160b5b[_0xeb72d(0x41b)] = 'SPEED',
                         _0x160b5b[_0xeb72d(0x2a0)] = 'COOLDOWN',
@@ -14426,23 +14425,6 @@
                             }, {
                                 'armor': 0x1
                             }
-                        ],
-                        [_0x376fba['G_SHIELD']]: [{
-                            'level': 0x0,
-                            'bulletType': _0x376fba['G_SHIELD'],
-                            'name': 'Shield',
-                            'description': 'Reduces incoming damage by 1 per rank (max -3)',
-                            'texture': 'ARSENAL',
-                            'frameName': 'shield_02c.png',
-                            'isPowerUp': !0x0,
-                            'price': 0x258,
-                            'armor': 0x2,
-                            'unlockedRank': 0x3
-                        }, {
-                            'armor': 0x2
-                        }, {
-                            'armor': 0x2
-                        }
                         ],
                         [_0x376fba['MAXHEALTH']]: [{
                                 'level': 0x0,
