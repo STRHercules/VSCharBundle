@@ -20,12 +20,14 @@
 > - Acts similarly to Whip, has a smaller starting Area
 > - Will attack faster than Whip
 > - More power climb and speed gain than Whip
+> - In the weapon pool, but rare
 
 ## Necronomicon
 > - Acts similarly to Magic Wand
 > - Starts with **2** projectiles
 > - Penetrates enemies
 > - Slight Knockback
+> - In the weapon pool, but rare
 
 ## Spear 
 > - Acts similarly to Knife
@@ -33,12 +35,14 @@
 > - Thrown much slower
 > - Penetrates many enemies
 > - Does not gain additional Amount (natively from leveling weapon)
+> - In the weapon pool, but rare
 
 ## Shuriken
 > - Acts similarly to Magic Wand
 > - Fires much slower
 > - Penetrates many enemies
 > - Ramps up to match Thousand Edge
+> - In the weapon pool, but rare
 
 # Passives 
 
