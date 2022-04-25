@@ -1,0 +1,86 @@
+{
+	"textures": 
+	[
+		{
+			"image": "clyde.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 23,
+				"h": 272
+			},
+			"scale": 1,
+			"frames": 
+			[
+				{
+                    "filename": "clyde_01.png",
+                    "frame": {"x":0,"y":0,"w":23,"h":34},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":23,"h":34},
+                    "sourceSize": {"w":23,"h":34}
+                },
+                {
+                    "filename": "clyde_02.png",
+                    "frame": {"x":0,"y":34,"w":23,"h":34},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":23,"h":34},
+                    "sourceSize": {"w":23,"h":34}
+                },
+                {
+                    "filename": "clyde_03.png",
+                    "frame": {"x":0,"y":68,"w":23,"h":34},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":23,"h":34},
+                    "sourceSize": {"w":23,"h":34}
+                },
+                {
+                    "filename": "clyde_04.png",
+                    "frame": {"x":0,"y":102,"w":23,"h":34},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":23,"h":34},
+                    "sourceSize": {"w":23,"h":34}
+                },
+                {
+                    "filename": "clyde_05.png",
+                    "frame": {"x":0,"y":136,"w":23,"h":34},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":23,"h":34},
+                    "sourceSize": {"w":23,"h":34}
+                },
+                {
+                    "filename": "clyde_06.png",
+                    "frame": {"x":0,"y":170,"w":23,"h":34},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":23,"h":34},
+                    "sourceSize": {"w":23,"h":34}
+                },
+                {
+                    "filename": "clyde_07.png",
+                    "frame": {"x":0,"y":204,"w":23,"h":34},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":23,"h":34},
+                    "sourceSize": {"w":23,"h":34}
+                },
+                {
+                    "filename": "clyde_08.png",
+                    "frame": {"x":0,"y":238,"w":23,"h":34},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":23,"h":34},
+                    "sourceSize": {"w":23,"h":34}
+                }
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1d34fa13faa63ebb446e8e3116b32e86:dbe076086fb782958e0f74482c2f909f:a5fe7db4b869eb0f3e0b2940b9577ea8$"
+	}
+}

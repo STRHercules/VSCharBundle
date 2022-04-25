@@ -6,8 +6,58 @@
 *NOTE: The character list has grown too large to accurately click and scroll through using the mouse, I recommend using WASD/Arrow Keys/Controller in lieu of using the mouse.*
 
 
-## This mod will install all of my custom characters;
+## This mod will install all of my custom characters and custom weapons and passive;
 
+# Weapons
+
+## Ki Blast
+> - Acts similarly to Magic Wand
+> - Projectiles are faster
+> - Ramps up to match Holy Wand
+
+## Longsword
+> - Acts similarly to Whip, has a smaller starting Area
+> - Will attack faster than Whip
+> - More power climb and speed gain than Whip
+
+## Necronomicon
+> - Acts similarly to Magic Wand
+> - Starts with **2** projectiles
+> - Penetrates enemies
+> - Slight Knockback
+
+## Spear 
+> - Acts similarly to Knife
+> - Stronger than Knife
+> - Thrown much slower
+> - Penetrates many enemies
+> - Does not gain additional Amount (natively from leveling weapon)
+
+## Shuriken
+> - Acts similarly to Magic Wand
+> - Fires much slower
+> - Penetrates many enemies
+> - Ramps up to match Thousand Edge
+
+# Passives 
+
+## Gordon's Shield
+> - Only available to Gordon
+> - Reduces incoming damage by **2** per level
+
+# Characters
+
+## Chester
+
+## Clyde Spelunker
+
+## Cultist of the Damned
+
+## Gordon Bravefist
+
+## Hiro
+
+## UGG T'LUK
 
 ## Goku the Saiyan
 
@@ -73,7 +123,69 @@
 
 ## Frosty the Snowman
 
-Character Stats now:
+# Character Stats now:
+
+> #### Chester:
+>
+> - Max Health - 45
+> - Recovery - 0.4
+> - MoveSpeed - +20%
+> - Might - -50%
+> - Area - +100%
+> - Luck - +20%
+> - Curse - +25%
+> - Magnet - +50%
+> - Revival - +1
+> - Starting Gear - Song of Mana
+> - Gains 20% Area every 20 levels (Max 60%)
+
+> #### Clyde Spelunker:
+>
+> - Max Health - 100
+> - Curse - +25%
+> - Starting Gear - Celestial Dusting
+> - Gets +20% Area at level 20, +40% MoveSpeed at 40, +3 Projectiles at 60.
+
+> #### Cultist of the Damned:
+>
+> - Max Health - 85
+> - Might - -30%
+> - Starting Gear - Necronomicon
+> - +1 Projectile/20 levels (Max+2)
+> - Gains Revivals at level 60
+
+> #### Gordon Bravefist:
+> 
+> - Max Health - 100
+> - Recovery - 0.1
+> - MoveSpeed - +10%
+> - Might - +15%
+> - Luck - +20%
+> - Curse - +45%
+> - Starting Gear - Longsword, Gordon's Shield
+
+> #### Hiro:
+> 
+> - Max Health - 90
+> - Recovery - 0.2
+> - Armor - +1
+> - MoveSpeed - +15%
+> - Luck - +60%
+> - Curse - +15%
+> - Magnet - +50%
+> - Reroll - +3
+> - Starting Gear - Shuriken
+> - +1 Projectile Every 20 Levels (Max+4)
+
+> #### UGG T'LUK:
+> 
+> - Max Health - 115
+> - Recovery - 0.3
+> - MoveSpeed - +10%
+> - Banish - +16
+> - Starting Gear - Spear
+> - Gains 5 Reroll every 20 levels (Max 25)
+> - +1 Might every level
 
 > #### Goku the Saiyan:
 > 

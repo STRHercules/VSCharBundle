@@ -1,0 +1,70 @@
+{
+	"textures": 
+	[
+		{
+			"image": "ugg.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 32,
+				"h": 176
+			},
+			"scale": 1,
+			"frames": 
+			[
+				{
+                    "filename": "ugg_01.png",
+                    "frame": {"x":0,"y":0,"w":32,"h":29},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":32,"h":29},
+                    "sourceSize": {"w":32,"h":29}
+                },
+                {
+                    "filename": "ugg_02.png",
+                    "frame": {"x":0,"y":29,"w":32,"h":30},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":32,"h":30},
+                    "sourceSize": {"w":32,"h":30}
+                },
+                {
+                    "filename": "ugg_03.png",
+                    "frame": {"x":0,"y":59,"w":32,"h":29},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":32,"h":29},
+                    "sourceSize": {"w":32,"h":29}
+                },
+                {
+                    "filename": "ugg_04.png",
+                    "frame": {"x":0,"y":88,"w":32,"h":29},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":32,"h":29},
+                    "sourceSize": {"w":32,"h":29}
+                },
+                {
+                    "filename": "ugg_05.png",
+                    "frame": {"x":0,"y":117,"w":32,"h":30},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":32,"h":30},
+                    "sourceSize": {"w":32,"h":30}
+                },
+                {
+                    "filename": "ugg_06.png",
+                    "frame": {"x":0,"y":147,"w":32,"h":29},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":32,"h":29},
+                    "sourceSize": {"w":32,"h":29}
+                }
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1d34fa13faa63ebb446e8e3116b32e86:dbe076086fb782958e0f74482c2f909f:a5fe7db4b869eb0f3e0b2940b9577ea8$"
+	}
+}

@@ -160,6 +160,12 @@
                         _0x4d5b02['PEPPE'] = 'PEPPE',
                         _0x4d5b02[_0x9886f7(0x451)] = 'PEPPINO',
                         _0x4d5b02['SMITH'] = 'SMITH',
+                        _0x4d5b02['CHESTER'] = 'CHESTER',
+                        _0x4d5b02['CLYDE'] = 'CLYDE',
+                        _0x4d5b02['CULTIST'] = 'CULTIST',
+                        _0x4d5b02['GORDON'] = 'GORDON',
+                        _0x4d5b02['HIRO'] = 'HIRO',
+                        _0x4d5b02['UGG'] = 'UGG',
                         _0x4d5b02['GOKU'] = 'GOKU',
                         _0x4d5b02['VEGETA'] = 'VEGETA',
                         _0x4d5b02['GOHAN'] = 'GOHAN',
@@ -209,8 +215,12 @@
                         _0x586e5a['HOLY_MISSILE'] = 'HOLY_MISSILE',
                         _0x586e5a[_0x2be522(0x661)] = 'WHIP',
                         _0x586e5a['KI'] = 'KI',
+                        _0x586e5a['LONGSWORD'] = 'LONGSWORD',
+                        _0x586e5a['SPEAR'] = 'SPEAR',
                         _0x586e5a[_0x2be522(0x547)] = 'VAMPIRICA',
                         _0x586e5a['AXE'] = 'AXE',
+                        _0x586e5a['STAR'] = 'STAR',
+                        _0x586e5a['SKULL'] = 'SKULL',
                         _0x586e5a[_0x2be522(0x59a)] = 'SCYTHE',
                         _0x586e5a['KNIFE'] = 'KNIFE',
                         _0x586e5a[_0x2be522(0x858)] = 'THOUSAND',
@@ -263,6 +273,7 @@
                         _0x586e5a[_0x2be522(0x3a4)] = 'AMOUNT',
                         _0x586e5a['MAXHEALTH'] = 'MAXHEALTH',
                         _0x586e5a['ARMOR'] = 'ARMOR',
+                        _0x586e5a['G_SHIELD'] = 'G_SHIELD',
                         _0x586e5a[_0x2be522(0xb38)] = 'MOVESPEED',
                         _0x586e5a[_0x2be522(0x4bd)] = 'MAGNET',
                         _0x586e5a['GROWTH'] = 'GROWTH',
@@ -2482,6 +2493,336 @@
                                 'showcase': []
                             }
                         ],
+
+                        [_0x39678f['CHESTER']]: [{
+                            'hidden': !0x1,
+                            'level': 0x1,
+                            'startingWeapon': _0x202927['SONG'],
+                            'charName': 'Chester',
+                            'surname': '',
+                            'spriteName': 'chester_01.png',
+                            'textureName': 'CHESTER',
+                            'walkingFrames': 0x4,
+                            'description': 'How adorable.',
+                            'isBought': !0x0,
+                            'price': 2500,
+                            'maxHp': 45,
+                            'armor': 0x0,
+                            'regen': 0.4,
+                            'moveSpeed': 1.2,
+                            'power': 0.5,
+                            'cooldown': 0x1,
+                            'area': 2.0,
+                            'speed': 0x1,
+                            'duration': 0x1,
+                            'amount': 0x0,
+                            'luck': 1.2,
+                            'growth': 0x1,
+                            'greed': 0x1,
+                            'curse': 1.25,
+                            'magnet': 0.50,
+                            'revivals': 0x1,
+                            'rerolls': 0x0,
+                            'skips': 0x0,
+                            'banish': 0x0,
+                            'showcase': [ ],
+                            'debugTime': 0x348
+                        }, {
+                            'area': 1.2,
+                            'level': 0x14,
+                            'growth': 0x1
+                        }, {
+                            'area': 1.2,
+                            'level': 0x28,
+                            'growth': 0x1
+                        }, {
+                            'area': 1.4,
+                            'level': 0x3c
+                        }, {
+                            'level': 0x15,
+                            'growth': -0x1
+                        }, {
+                            'level': 0x29,
+                            'growth': -0x1
+                        }
+                    ],
+                    [_0x39678f['CLYDE']]: [{
+                        'hidden': !0x1,
+                        'level': 0x1,
+                        'startingWeapon': _0x202927[_0x2f72b3(0x28a)],
+                        'charName': 'Clyde',
+                        'surname': 'Spelunker',
+                        'spriteName': 'clyde_01.png',
+                        'textureName': 'CLYDE',
+                        'walkingFrames': 0x8,
+                        'description': 'Gets +20% Area at level 20, +40% MoveSpeed at 40, +3 Projectiles at 60.',
+                        'isBought': !0x0,
+                        'price': 0x1f4,
+                        'completedStages': [],
+                        'maxHp': 0x64,
+                        'armor': 0x0,
+                        'regen': 0x0,
+                        'moveSpeed': 0x1,
+                        'power': 0x1,
+                        'cooldown': 0x1,
+                        'area': 0x1,
+                        'speed': 0x1,
+                        'duration': 0x1,
+                        'amount': 0x0,
+                        'luck': 0x1,
+                        'growth': 0x1,
+                        'greed': 0x1,
+                        'curse': 1.25,
+                        'magnet': 0x0,
+                        'revivals': 0x0,
+                        'rerolls': 0x0,
+                        'skips': 0x0,
+                        'banish': 0x0,
+                        'showcase': [ ],
+                        'debugTime': 0x348
+                    }, {
+                        'area': 1.2,
+                        'level': 0x14,
+                        'growth': 0x1
+                    }, {
+                        'moveSpeed': 1.4,
+                        'level': 0x28,
+                        'growth': 0x1
+                    }, {
+                        'amount': 0x3,
+                        'level': 0x3c
+                    }, {
+                        'level': 0x15,
+                        'growth': -0x1
+                    }, {
+                        'level': 0x29,
+                        'growth': -0x1
+                    }
+                ],
+                [_0x39678f['CULTIST']]: [{
+                    'hidden': !0x1,
+                    'level': 0x1,
+                    'startingWeapon': _0x202927['SKULL'],
+                    'charName': 'Cultist',
+                    'surname': 'of the Damned',
+                    'spriteName': 'cultist_01.png',
+                    'textureName': 'CULTIST',
+                    'walkingFrames': 0x6,
+                    'description': '+1 Projectile/20 levels(max+2). Gains Revivals at level 60.',
+                    'isBought': !0x0,
+                    'price': 0x1f4,
+                    'completedStages': [],
+                    'maxHp': 85,
+                    'armor': 0x0,
+                    'regen': 0x0,
+                    'moveSpeed': 0x1,
+                    'power': 0.7,
+                    'cooldown': 0x1,
+                    'area': 0x1,
+                    'speed': 0x1,
+                    'duration': 0x1,
+                    'amount': 0x0,
+                    'luck': 0x1,
+                    'growth': 0x1,
+                    'greed': 0x1,
+                    'curse': 0x1,
+                    'magnet': 0x0,
+                    'revivals': 0x0,
+                    'rerolls': 0x0,
+                    'skips': 0x0,
+                    'banish': 0x0,
+                    'showcase': [ ],
+                    'debugTime': 0x348
+                }, {
+                    'amount': 0x1,
+                    'level': 0x14,
+                    'growth': 0x1
+                }, {
+                    'amount': 0x1,
+                    'level': 0x28,
+                    'growth': 0x1
+                }, {
+                    'revivals': 0x5,
+                    'level': 0x3c
+                }, {
+                    'level': 0x15,
+                    'growth': -0x1
+                }, {
+                    'level': 0x29,
+                    'growth': -0x1
+                }
+            ],
+            [_0x39678f['GORDON']]: [{
+                'hidden': !0x1,
+                'level': 0x1,
+                'startingWeapon': _0x202927['LONGSWORD'],
+                'charName': 'Gordon',
+                'surname': 'Bravefist',
+                'spriteName': 'gordon_01.png',
+                'textureName': 'GORDON',
+                'walkingFrames': 0x6,
+                'description': 'A truly valiant hero.',
+                'isBought': !0x0,
+                'price': 0x1f4,
+                'completedStages': [],
+                'maxHp': 100,
+                'armor': 0x0,
+                'regen': 0.1,
+                'moveSpeed': 1.10,
+                'power': 1.15,
+                'cooldown': 0x1,
+                'area': 0x1,
+                'speed': 0x1,
+                'duration': 0x1,
+                'amount': 0x0,
+                'luck': 1.2,
+                'growth': 0x1,
+                'greed': 0x1,
+                'curse': 1.45,
+                'magnet': 0x0,
+                'revivals': 0x0,
+                'rerolls': 0x0,
+                'skips': 0x0,
+                'banish': 0x0,
+                'showcase': [ ],
+                'exWeapons': [_0x202927['G_SHIELD']],
+                'debugTime': 0x348
+            }, {
+                'level': 0x14,
+                'growth': 0x1
+            }, {
+                'level': 0x28,
+                'growth': 0x1
+            }, {
+                'level': 0x3c
+            }, {
+                'level': 0x15,
+                'growth': -0x1
+            }, {
+                'level': 0x29,
+                'growth': -0x1
+            }
+        ],
+                    [_0x39678f['HIRO']]: [{
+                        'hidden': !0x1,
+                        'level': 0x1,
+                        'startingWeapon': _0x202927['STAR'],
+                        'charName': 'Hiro',
+                        'surname': '',
+                        'spriteName': 'hiro_01.png',
+                        'textureName': 'HIRO',
+                        'walkingFrames': 0x3,
+                        'description': 'Gets more projectiles every 20 levels (max+4).',
+                        'isBought': !0x0,
+                        'price': 0x150,
+                        'completedStages': [],
+                        'maxHp': 90,
+                        'armor': 1,
+                        'regen': 0.2,
+                        'moveSpeed': 1.15,
+                        'power': 0x1,
+                        'cooldown': 0x1,
+                        'area': 0x1,
+                        'speed': 0x1,
+                        'duration': 0x1,
+                        'amount': 0x0,
+                        'luck': 1.6,
+                        'growth': 0x1,
+                        'greed': 0x1,
+                        'curse': 1.15,
+                        'magnet': 0.50,
+                        'revivals': 0x0,
+                        'rerolls': 0x3,
+                        'skips': 0x0,
+                        'banish': 0x0,
+                        'showcase': [ ],
+                        'debugTime': 0x348
+                    }, {
+                        'amount': 0x1,
+                        'level': 0x14,
+                        'growth': 0x1
+                    }, {
+                        'amount': 0x1,
+                        'level': 0x28,
+                        'growth': 0x1
+                    }, {
+                        'amount': 0x1,
+                        'level': 0x3c
+                    }, {
+                        'amount': 0x1,
+                        'level': 0x15,
+                        'growth': -0x1
+                    }, {
+                        'level': 0x29,
+                        'growth': -0x1
+                    }
+                ],
+                [_0x39678f['UGG']]: [{
+                    'hidden': !0x1,
+                    'level': 0x1,
+                    'startingWeapon': _0x202927['SPEAR'],
+                    'charName': 'UGG',
+                    'surname': 'T\'LUK',
+                    'spriteName': 'ugg_01.png',
+                    'textureName': 'UGG',
+                    'walkingFrames': 0x6,
+                    'description': 'MOK TOK. *grunt*',
+                    'isBought': !0x0,
+                    'price': 0x150,
+                    'completedStages': [],
+                    'maxHp': 115,
+                    'armor': 0x0,
+                    'regen': 0.3,
+                    'moveSpeed': 1.10,
+                    'power': 0x1,
+                    'cooldown': 0x1,
+                    'area': 0x1,
+                    'speed': 0x1,
+                    'duration': 0x1,
+                    'amount': 0x0,
+                    'luck': 0x1,
+                    'growth': 0x1,
+                    'greed': 0x1,
+                    'curse': 0x1,
+                    'magnet': 0x0,
+                    'revivals': 0x0,
+                    'rerolls': 0x0,
+                    'skips': 0x0,
+                    'banish': 0x10,
+                    'showcase': [ ],
+                    'onEveryLevelUp': {
+                        'power': 0.01
+                    },
+                    'debugTime': 0x348
+                }, {
+                    'rerolls': 0x5,
+                    'level': 0x14,
+                    'growth': 0x1
+                }, {
+                    'rerolls': 0x5,
+                    'level': 0x28,
+                    'growth': 0x1
+                }, {
+                    'rerolls': 0x5,
+                    'amount': 0x1,
+                    'level': 0x3c
+                }, {
+                    'rerolls': 0x5,
+                    'level': 0x15,
+                    'growth': -0x1
+                }, {
+                    'rerolls': 0x5,
+                    'level': 0x29,
+                    'growth': -0x1
+                }
+            ],
+
+
+
+
+
+
+                        
                         [_0x39678f['GOKU']]: [{
                             'level': 0x1,
                             'startingWeapon': _0x202927['KI'],
@@ -9202,22 +9543,64 @@
                                 'addEvolvedWeapon': _0x202927['VAMPIRICA']
                             }
                         ],
+                        [_0x202927['LONGSWORD']]: [{
+                            'level': 0x1,
+                            'bulletType': _0x202927['LONGSWORD'],
+                            'name': 'Longsword',
+                            'description': 'Attacks horizontally, passes through enemies. Smaller and Faster than Whip.',
+                            'tips': 'Ignores: speed, duration.',
+                            'texture': 'ARSENAL',
+                            'frameName': 'sword_03c.png',
+                            'isUnlocked': !0x0,
+                            'poolLimit': 0xf,
+                            'rarity': 15,
+                            'interval': 750,      //1350
+                            'repeatInterval': 0x64, //100
+                            'power': 1.7,           //0x1
+                            'area': 0.7,            //0x1
+                            'speed': 0.7,           //0x1
+                            'amount': 0x1,          //0x1
+                            'hitsWalls': !0x1,      //!0x1
+                            'critChance': 0.6,      //0.2
+                            'critMul': 2.2          //0x2
+                        }, {
+                            'power': 0.3,
+                            'penetrating': 0x1
+                        }, {
+                            'power': 0.3
+                        }, {
+                            'power': 0.3,
+                            'interval': -50
+                        }, {
+                            'power': 0.4,
+                            'interval': -50
+                        }, {
+                            'power': 0.4,
+                            'interval': -100
+                        }, {
+                            'power': 0.5,
+                            'interval': -100
+                        }, {
+                            'power': 0.5,
+                            'interval': -150
+                        }
+                    ],
                         [_0x202927['KI']]: [{
                             'level': 0x1,
                             'bulletType': _0x202927['KI'],
                             'name': 'Ki Blast',
-                            'description': 'Fires at the nearest enemy.',
+                            'description': 'Saiyan Energy Blast. Fired at closest enemy.',
                             'tips': 'Ignores: duration.',
                             'texture': 'KI',
                             'frameName': 'smallki.png',
                             'isUnlocked': 0x0,
                             'poolLimit': 0x3c,
-                            'rarity': 0x64,
+                            'rarity': 0,    //100
                             'interval': 0x4b0,
                             'repeatInterval': 0x64,
                             'power': 0x1,
                             'area': 0x1,
-                            'speed': 0x1,
+                            'speed': 1.2,
                             'amount': 0x1,
                             'penetrating': 0x1
                         }, {
@@ -9236,6 +9619,44 @@
                             'penetrating': 0x2,
                             'power': 0x1,
                         }, {
+                            'interval': -0x1f4,
+                        }
+                        ],
+                        [_0x202927['SKULL']]: [{
+                            'level': 0x1,
+                            'bulletType': _0x202927['SKULL'],
+                            'name': 'Necronomicon',
+                            'description': 'Starts with 2 Projectiles. Penetrates 2 Enemies. Slight Knockback.',
+                            'tips': 'Ignores: duration.',
+                            'texture': 'ARSENAL',
+                            'frameName': 'book_06f.png', //skull.png
+                            'isUnlocked': 0x0,
+                            'poolLimit': 0x3c,
+                            'rarity': 15,
+                            'interval': 0x898, //0x4b0
+                            'repeatInterval': 0x64,
+                            'power': 0.50,
+                            'area': 0x1,
+                            'speed': 0x1,
+                            'amount': 0x2,  //0x1
+                            'penetrating': 0x2 //0x1
+                        }, {
+                            'amount': 0x1
+                        }, {
+                            'interval': -0xc8,
+                            'power': 0x1
+                        }, {
+                            'amount': 0x2
+                        }, {
+                            'power': 0x1
+                        }, {
+                            'amount': 0x2,
+                            'speed': 0x2
+                        }, {
+                            'penetrating': 0x2,
+                            'power': 0x1,
+                        }, {
+                            'amount': 0x1,
                             'interval': -0x1f4,
                         }
                         ],
@@ -9397,6 +9818,49 @@
                                 'critMul': 0x3
                             }
                         ],
+                        [_0x202927['SPEAR']]: [{
+                            'level': 0x1,
+                            'bulletType': _0x202927['SPEAR'],
+                            'name': 'Spear',
+                            'description': 'Fires slowly in the faced direction. Massive pentration.',
+                            'tips': 'Ignores: duration.',
+                            'texture': 'ARSENAL',
+                            'frameName': 'spear_01.png',
+                            'isUnlocked': !0x0,
+                            'poolLimit': 0x46,
+                            'rarity': 15,
+                            'interval': 2750,      //1000
+                            'repeatInterval': 0x64, //100
+                            'power': 0.75,          //0.65
+                            'area': 0x1,
+                            'speed': 1.15,          //0x1
+                            'amount': 0x1,
+                            'penetrating': 0x2,     //0x1
+                            'knockback': 0.5,       //0.5
+                            'critChance': 0.3,      //0.3 
+                            'critMul': 0x5          //0x3
+                        }, {
+                            'knockback': 0.5,
+                            'penetrating': 0x2
+                        }, {
+                            'penetrating': 0x2,
+                            'power': 0.5
+                        }, {
+                            'penetrating': 0x2,
+                            'repeatInterval': -0x14
+                        }, {
+                            'penetrating': 0x2
+                        }, {
+                            'penetrating': 0x2,
+                            'repeatInterval': -0x14
+                        }, {
+                            'penetrating': 0x2,
+                            'power': 0.5
+                        }, {
+                            'penetrating': 0x1,
+                            'repeatInterval': -0x14
+                        }
+                    ],
                         [_0x202927[_0x2f72b3(0x933)]]: [{
                                 'level': 0x1,
                                 'bulletType': _0x202927[_0x2f72b3(0x933)],
@@ -9438,6 +9902,54 @@
                                 'addEvolvedWeapon': _0x202927[_0x2f72b3(0x59a)]
                             }
                         ],
+                        [_0x202927['STAR']]: [{
+                            'level': 0x1,
+                            'bulletType': _0x202927['STAR'],
+                            'name': 'Shuriken',
+                            'description': 'Thrown slowly, penetrates nearest enemies.',
+                            'tips': 'Ignores: duration.',
+                            'texture': 'ARSENAL',
+                            'frameName': 'shuriken_red.png',
+                            'knockback': 0.5,
+                            'isUnlocked': !0x1,
+                            'poolLimit': 0x46,
+                            'rarity': 15,
+                            'interval': 6000, //0xfa0
+                            'repeatInterval': 250, //0xc8
+                            'power': 1.7, //0x2
+                            'area': 0x1,
+                            'speed': 1.3,   //0x1
+                            'amount': 0x1,
+                            'penetrating': 0x5, //0x3
+                            'duration': 0x7d0,
+                            'hitsWalls': !0x0,  //!0x1
+                            'critChance': 0.4, //0.3
+                            'critMul': 2.2  //0x2
+                        }, {
+                            'amount': 0x1
+                        }, {
+                            'interval': -1500,
+                            'power': 0x2
+                        }, {
+                            'interval': -1500,
+                            'repeatInterval': -50,
+                            'penetrating': 0x2
+                        }, {
+                            'interval': -1200,
+                            'repeatInterval': -50,
+                            'amount': 0x1
+                        }, {
+                            'interval': -1200,
+                            'repeatInterval': -50,
+                            'power': 0x2
+                        }, {
+                            'interval': -250,
+                            'repeatInterval': -50,
+                        }, {
+                            'penetrating': 0x2,
+                            'power': 0x2
+                        }
+                    ],
                         [_0x202927[_0x2f72b3(0x59a)]]: [{
                                 'level': 0x1,
                                 'bulletType': _0x202927['SCYTHE'],
@@ -10729,6 +11241,27 @@
                                 'armor': 0x1
                             }
                         ],
+                        [_0x202927['G_SHIELD']]: [{
+                            'level': 0x1,
+                            'bulletType': _0x202927['G_SHIELD'],
+                            'name': 'Gordon\'s Shield',
+                            'description': 'Reduces incoming damage by 2.',
+                            'texture': 'ARSENAL',
+                            'frameName': 'shield_02c.png',
+                            'isUnlocked': !0x0,
+                            'rarity': 0,
+                            'isPowerUp': !0x0,
+                            'armor': 0x2
+                        }, {
+                            'armor': 0x2
+                        }, {
+                            'armor': 0x2
+                        }, {
+                            'armor': 0x2
+                        }, {
+                            'armor': 0x2
+                        }
+                    ],
                         [_0x202927[_0x2f72b3(0x4e5)]]: [{
                                 'level': 0x1,
                                 'bulletType': _0x202927[_0x2f72b3(0x4e5)],
@@ -13832,6 +14365,7 @@
                         _0x160b5b['REGEN'] = 'REGEN',
                         _0x160b5b[_0xeb72d(0x4e5)] = 'MAXHEALTH',
                         _0x160b5b[_0xeb72d(0x43a)] = 'ARMOR',
+                        _0x160b5b['G_SHIELD'] = 'G_SHIELD',
                         _0x160b5b['AREA'] = 'AREA',
                         _0x160b5b[_0xeb72d(0x41b)] = 'SPEED',
                         _0x160b5b[_0xeb72d(0x2a0)] = 'COOLDOWN',
@@ -13892,6 +14426,23 @@
                             }, {
                                 'armor': 0x1
                             }
+                        ],
+                        [_0x376fba['G_SHIELD']]: [{
+                            'level': 0x0,
+                            'bulletType': _0x376fba['G_SHIELD'],
+                            'name': 'Shield',
+                            'description': 'Reduces incoming damage by 1 per rank (max -3)',
+                            'texture': 'ARSENAL',
+                            'frameName': 'shield_02c.png',
+                            'isPowerUp': !0x0,
+                            'price': 0x258,
+                            'armor': 0x2,
+                            'unlockedRank': 0x3
+                        }, {
+                            'armor': 0x2
+                        }, {
+                            'armor': 0x2
+                        }
                         ],
                         [_0x376fba['MAXHEALTH']]: [{
                                 'level': 0x0,
@@ -18514,7 +19065,7 @@
                             'arcanaType': _0x46df06[_0x2f72b3(0x580)],
                             'name': 'VII - Iron Blue Will',
                             'description': 'Listed weapon projectiles gain up to 3 bounces and pass through enemies and walls.',
-                            'weapons': [_0x202927['KNIFE'], _0x202927['THOUSAND'], _0x202927['AXE'], _0x202927['SCYTHE'], _0x202927[_0x2f72b3(0x1eb)], _0x202927[_0x2f72b3(0x54c)], _0x202927['CART2']],
+                            'weapons': [_0x202927['KNIFE'], _0x202927['THOUSAND'], _0x202927['SPEAR'], _0x202927['SKULL'], _0x202927['AXE'], _0x202927['STAR'], _0x202927['SCYTHE'], _0x202927[_0x2f72b3(0x1eb)], _0x202927[_0x2f72b3(0x54c)], _0x202927['CART2']],
                             'items': [],
                             'texture': 'randomazzo',
                             'frameName': '07.png',
@@ -18565,7 +19116,7 @@
                             'arcanaType': _0x46df06[_0x2f72b3(0x88a)],
                             'name': 'XI - Waltz of Pearls',
                             'description': 'Listed weapon projectiles gain up to 3 bounces.',
-                            'weapons': [_0x202927[_0x2f72b3(0xb5b)], _0x202927[_0x2f72b3(0xa8a)], _0x202927['FIREBALL'], _0x202927[_0x2f72b3(0xb7d)], _0x202927[_0x2f72b3(0x1be)], _0x202927[_0x2f72b3(0x65f)], _0x202927[_0x2f72b3(0x4b0)]],
+                            'weapons': [_0x202927[_0x2f72b3(0xb5b)], _0x202927[_0x2f72b3(0xa8a)], _0x202927['KI'], _0x202927['FIREBALL'], _0x202927[_0x2f72b3(0xb7d)], _0x202927[_0x2f72b3(0x1be)], _0x202927[_0x2f72b3(0x65f)], _0x202927[_0x2f72b3(0x4b0)]],
                             'items': [],
                             'texture': 'randomazzo',
                             'frameName': '11.png',
@@ -18629,7 +19180,7 @@
                             'arcanaType': _0x46df06[_0x2f72b3(0x61b)],
                             'name': 'XVI - Slash',
                             'description': 'Enables critical hits for listed weapons. Doubles overall critical damage.',
-                            'weapons': [_0x202927[_0x2f72b3(0x2c6)], _0x202927[_0x2f72b3(0x858)], _0x202927[_0x2f72b3(0x661)], _0x202927[_0x2f72b3(0x547)], _0x202927[_0x2f72b3(0x933)], _0x202927['SCYTHE'], _0x202927[_0x2f72b3(0x65f)]],
+                            'weapons': [_0x202927[_0x2f72b3(0x2c6)], _0x202927[_0x2f72b3(0x858)], _0x202927[_0x2f72b3(0x661)], _0x202927[_0x2f72b3(0x547)], _0x202927[_0x2f72b3(0x933)], _0x202927['SCYTHE'], _0x202927['LONGSWORD'], _0x202927[_0x2f72b3(0x65f)]],
                             'items': [],
                             'texture': 'randomazzo',
                             'frameName': '16.png',
@@ -19721,9 +20272,9 @@
                         constructor(_0x5e853f, _0x157930, _0x4f94cc, _0x511dde, _0x486e39) {
                             const _0x26eb7d = _0x2f72b3;
                             super(_0x5e853f, _0x157930, _0x4f94cc, 'KI', 'smallki.png', _0x511dde, _0x486e39),
-                            this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('vfx'),
+                            this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('ARSENAL'),
                             this['PfxEmitter']['createEmitter']({
-                                'frame': ['PfxHoly1.png', 'PfxHoly2.png'],
+                                'frame': ['Pfxki1.png', 'Pfxki2.png'],
                                 'speed': {
                                     'min': 0xf,
                                     'max': 0x1e
@@ -19765,11 +20316,169 @@
                             this[_0x172985(0x6a3)][_0x172985(0x519)](this['x'], this['y']);
                         }
                     },
+                    SKULL = class extends _0x392d79 {
+                        constructor(_0x5e853f, _0x157930, _0x4f94cc, _0x511dde, _0x486e39) {
+                            const _0x26eb7d = _0x2f72b3;
+                            super(_0x5e853f, _0x157930, _0x4f94cc, 'ARSENAL', 'skull.png', _0x511dde, _0x486e39)
+                            this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('ARSENAL'),
+                            this['PfxEmitter']['createEmitter']({
+                                'frame': ['PfxUnHoly1.png', 'PfxUnHoly2.png'],
+                                'speed': {
+                                    'min': 0xf,
+                                    'max': 0x1e
+                                },
+                                'quantity': 0x1,
+                                'lifespan': 0x12c,
+                                'alpha': {
+                                    'start': 0x1,
+                                    'end': 0x0
+                                },
+                                'on': !0x1
+                            });
+                            this[_0x26eb7d(0x11a)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x7d2)][_0x26eb7d(0x1a2)]({
+                                'targets': this,
+                                'angle': 0x168,
+                                'duration': 500,
+                                'ease': 'Linear',
+                                'repeat': -0x1
+                            })
+                        }
+                        [_0x2f72b3(0x120)]() {
+                            const _0x3dc250 = _0x2f72b3;
+                            super['OnRecycle'](),
+                            this[_0x3dc250(0x744)]['setCircle'](0x8),
+                            this[_0x3dc250(0xa8e)](_0x2adcea[_0x3dc250(0x10c)] * this['weapon'][_0x3dc250(0x98e)]),
+                            this['x'] += (Math['random']() - 0.5) * this[_0x3dc250(0xb70)] * 0xa,
+                            this['y'] += (Math[_0x3dc250(0x6d6)]() - 0.5) * this[_0x3dc250(0xb70)] * 0xa,
+                            this[_0x3dc250(0x396)]();
+                            let _0x2ba40e = this[_0x3dc250(0x432)][_0x3dc250(0x362)] ? this[_0x3dc250(0x432)][_0x3dc250(0x362)] : 0.15;
+                            _0x428bf7[_0x3dc250(0x477)]['PlaySound'](_0x276b51['MagicMissile'], {
+                                'detune': -0x64 * this['indexInWeapon'],
+                                'volume': _0x2ba40e
+                            }, 0xc8, 0xc);
+                        }
+                        ['OnHasHitAnObject'](_0x664ccd) {
+                            const _0x111122 = _0x2f72b3;
+                            if (!_0x664ccd[_0x111122(0x990)]) {
+                                if (this['bounces'] > 0x0)
+                                    return this[_0x111122(0xa93)]--, this[_0x111122(0x5f3)](), void(this[_0x111122(0x289)] = []);
+                                this['penetrating']--,
+                                this[_0x111122(0x4c7)] <= 0x0 && this[_0x111122(0x263)]();
+                            }
+                        }
+                        [_0x2f72b3(0x2c2)]() {
+                            const _0x172985 = _0x2f72b3;
+                            this[_0x172985(0x6a3)][_0x172985(0x519)](this['x'], this['y']);
+                        }
+                    },
+                    /*
+                    SKULL = class extends _0x392d79 {
+                        constructor(_0x5e853f, _0x157930, _0x4f94cc, _0x511dde, _0x486e39) {
+                            const _0x26eb7d = _0x2f72b3;
+                            super(_0x5e853f, _0x157930, _0x4f94cc, 'ARSENAL', 'skull3.png', _0x511dde, _0x486e39),
+                            this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('ARSENAL'),
+                            this['PfxEmitter']['createEmitter']({
+                                'frame': ['PfxUnHoly1.png', 'PfxUnHoly2.png'],
+                                'speed': {
+                                    'min': 0xf,
+                                    'max': 0x1e
+                                },
+                                'quantity': 0x1,
+                                'lifespan': 0x12c,
+                                'alpha': {
+                                    'start': 0x1,
+                                    'end': 0x0
+                                },
+                                'on': !0x1
+                            });
+                        }
+                        [_0x2f72b3(0x120)]() {
+                            const _0x3dc250 = _0x2f72b3;
+                            super['OnRecycle'](),
+                            this[_0x3dc250(0x744)]['setCircle'](0x8),
+                            this[_0x3dc250(0xa8e)](_0x2adcea[_0x3dc250(0x10c)] * this['weapon'][_0x3dc250(0x98e)]),
+                            this['x'] += (Math['random']() - 0.5) * this[_0x3dc250(0xb70)] * 0xa,
+                            this['y'] += (Math[_0x3dc250(0x6d6)]() - 0.5) * this[_0x3dc250(0xb70)] * 0xa,
+                            this[_0x3dc250(0x396)]();
+                            let _0x2ba40e = this[_0x3dc250(0x432)][_0x3dc250(0x362)] ? this[_0x3dc250(0x432)][_0x3dc250(0x362)] : 0.15;
+                            _0x428bf7[_0x3dc250(0x477)]['PlaySound'](_0x276b51['MagicMissile'], {
+                                'detune': -0x64 * this['indexInWeapon'],
+                                'volume': _0x2ba40e
+                            }, 0xc8, 0xc);
+                        }
+                        ['OnHasHitAnObject'](_0x664ccd) {
+                            const _0x111122 = _0x2f72b3;
+                            if (!_0x664ccd[_0x111122(0x990)]) {
+                                if (this['bounces'] > 0x0)
+                                    return this[_0x111122(0xa93)]--, this[_0x111122(0x5f3)](), void(this[_0x111122(0x289)] = []);
+                                this['penetrating']--,
+                                this[_0x111122(0x4c7)] <= 0x0 && this[_0x111122(0x263)]();
+                            }
+                        }
+                        [_0x2f72b3(0x2c2)]() {
+                            const _0x172985 = _0x2f72b3;
+                            this[_0x172985(0x6a3)][_0x172985(0x519)](this['x'], this['y']);
+                        }
+                    },*/
                     _0x11c9fc = class extends _0x1b1cd6 {},
                     _0x20af52 = class extends _0x392d79 {
                         constructor(_0x420f20, _0x18a227, _0x4694a7, _0x1ba33b, _0x5af943) {
                             const _0x1a9e2d = _0x2f72b3;
                             super(_0x420f20, _0x18a227, _0x4694a7, 'vfx', 'slash.png', _0x1ba33b, _0x5af943),
+                            this[_0x1a9e2d(0x9ee)] = 0x0;
+                        }
+                        [_0x2f72b3(0xa7c)](_0x206e93 = -0x3e8, _0x537977 = -0x3e8) {
+                            const _0x379968 = _0x2f72b3;
+                            super['Init'](_0x206e93, _0x537977),
+                            this['setScale'](0x0),
+                            this[_0x379968(0x9ee)] = this['weapon']['PArea'],
+                            this[_0x379968(0x8f1)] = this['scene']['tweens']['add']({
+                                'targets': this,
+                                'scale': _0x2adcea['PixelScale'] * this[_0x379968(0x432)][_0x379968(0x98e)],
+                                'duration': 0x64,
+                                'ease': 'Linear'
+                            });
+                        }
+                        ['OnRecycle']() {
+                            const _0x19c339 = _0x2f72b3;
+                            var _0x4b572e;
+                            super[_0x19c339(0x120)](),
+                            this['alpha'] = 0x1,
+                            this[_0x19c339(0x8f1)] && (this[_0x19c339(0x9ee)] != this[_0x19c339(0x432)][_0x19c339(0x98e)] && (this['tween'][_0x19c339(0x2d0)](), this['scene'][_0x19c339(0x7d2)][_0x19c339(0xac4)](this[_0x19c339(0x8f1)]), this[_0x19c339(0xa8e)](0x0), this[_0x19c339(0x8f1)] = this[_0x19c339(0x65c)][_0x19c339(0x7d2)][_0x19c339(0x1a2)]({
+                                        'targets': this,
+                                        'scale': _0x2adcea[_0x19c339(0x10c)] * this['weapon']['PArea'],
+                                        'duration': 0x64,
+                                        'ease': 'Linear'
+                                    })), this['tween'][_0x19c339(0x1d1)]()),
+                            null === (_0x4b572e = this[_0x19c339(0x546)]) || void 0x0 === _0x4b572e || _0x4b572e[_0x19c339(0x2d0)](),
+                            this[_0x19c339(0x546)] = this[_0x19c339(0x65c)][_0x19c339(0x7d2)][_0x19c339(0x1a2)]({
+                                'targets': this,
+                                'alpha': 0x0,
+                                'duration': 0x64,
+                                'ease': 'Linear',
+                                'delay': 0x64,
+                                'onComplete': () => {
+                                    const _0x48e1b3 = _0x19c339;
+                                    this[_0x48e1b3(0x263)]();
+                                }
+                            });
+                            const _0xf3b877 = _0x428bf7[_0x19c339(0x6f7)]['Player'][_0x19c339(0x554)] ? this[_0x19c339(0xb70)] % 0x2 != 0x1 : this[_0x19c339(0xb70)] % 0x2 == 0x1;
+                            this['x'] += _0xf3b877 ? -0x40 : 0x40,
+                            this['y'] -= 0x10,
+                            this['y'] -= 0x10 * this[_0x19c339(0xb70)],
+                            this['setFlipY'](this[_0x19c339(0xb70)] % 0x2 == 0x1),
+                            this[_0x19c339(0x9d1)](_0xf3b877),
+                            _0x428bf7['Sound'][_0x19c339(0x229)](_0x276b51[_0x19c339(0x986)], {
+                                'detune': -0x64 * this[_0x19c339(0xb70)],
+                                'volume': 1.7,
+                                'rate': 0x2
+                            });
+                        }
+                    },
+                    LONGSWORD = class extends _0x392d79 {
+                        constructor(_0x420f20, _0x18a227, _0x4694a7, _0x1ba33b, _0x5af943) {
+                            const _0x1a9e2d = _0x2f72b3;
+                            super(_0x420f20, _0x18a227, _0x4694a7, 'ARSENAL', 'slash.png', _0x1ba33b, _0x5af943),
                             this[_0x1a9e2d(0x9ee)] = 0x0;
                         }
                         [_0x2f72b3(0xa7c)](_0x206e93 = -0x3e8, _0x537977 = -0x3e8) {
@@ -20247,6 +20956,107 @@
                             this[_0xc63748(0x511)][this[_0xc63748(0x867)]]['y'] = this['y'];
                         }
                     },
+                    /*AXE*/
+                    /*STAR = class extends _0x392d79 {
+                        constructor(_0x257e5d, _0xa69047, _0x51b55e, _0x3305a3, _0xab2841) {
+                            const _0x2bf1d2 = _0x2f72b3;
+                            super(_0x257e5d, _0xa69047, _0x51b55e, 'ARSENAL', 'ninja_star.png', _0x3305a3, _0xab2841),
+                            this[_0x2bf1d2(0x511)] = new Array(),
+                            this[_0x2bf1d2(0xa2b)] = 0x1,
+                            this['historyIndex'] = 0x0,
+                            this['initialVelocity'] = new Phaser['Math']['Vector2'](),
+                            this[_0x2bf1d2(0x94d)] = 0x0,
+                            this['grav'] = 0.825, //this['grav'] = 0.625,
+                            this[_0x2bf1d2(0xa8e)](_0x2adcea[_0x2bf1d2(0x10c)] * this['weapon'][_0x2bf1d2(0x98e)]),
+                            this[_0x2bf1d2(0x11a)] = this['scene'][_0x2bf1d2(0x7d2)][_0x2bf1d2(0x1a2)]({
+                                'targets': this,
+                                'angle': 0x5A, //'angle': 0x168,
+                                'duration': 0x3e8,
+                                'ease': 'Linear',
+                                'repeat': -0x1
+                            }),
+                            this['MovementTween'] = this['scene'][_0x2bf1d2(0x7d2)]['add']({
+                                'targets': this,
+                                'moveAngle': Math['PI'],
+                                'duration': 0x3e8,
+                                'ease': 'Linear'
+                            }),
+                            this[_0x2bf1d2(0x409)] = new Array();
+                            for (let _0x351618 = 0x0; _0x351618 < this[_0x2bf1d2(0xa2b)]; _0x351618++) {
+                                this['posHistory']['push'](new Phaser[(_0x2bf1d2(0x18a))]['Vector2'](_0xa69047, _0x51b55e));
+                                var _0xb165de = this[_0x2bf1d2(0x65c)]['add']['image'](0x0, 0x0, this['texture'][_0x2bf1d2(0x629)], this[_0x2bf1d2(0x5b1)]['name'])[_0x2bf1d2(0xa8e)](_0x2adcea[_0x2bf1d2(0x10c)])['setVisible'](!0x1)['setTint'](0xff)['setAlpha'](0.75 - 0.25 * _0x351618);
+                                this[_0x2bf1d2(0x409)]['push'](_0xb165de);
+                            }
+                        }
+                        [_0x2f72b3(0x120)]() {
+                            const _0x191288 = _0x2f72b3;
+                            super['OnRecycle'](),
+                            this['body'][_0x191288(0x980)](0xc),
+                            this['_speed'] = 0x2,
+                            this[_0x191288(0xa8e)](_0x2adcea['PixelScale'] * this['weapon'][_0x191288(0x98e)]);
+                            const _0x1ef9f5 = _0x428bf7[_0x191288(0x6f7)]['Player'][_0x191288(0x596)]['dot'](Phaser[_0x191288(0x18a)][_0x191288(0x563)][_0x191288(0x1f6)]) < 0x0 ? -0x1 : 0x1;
+                            var _0x3aa858 = 0x2d * _0x1ef9f5 / this['weapon'][_0x191288(0x171)] * this['indexInWeapon'] - 0x5a;
+                            this['startingAngle'] = _0x3aa858,
+                            this['scene'][_0x191288(0x93f)][_0x191288(0x789)](Phaser[_0x191288(0x18a)][_0x191288(0x97e)](_0x3aa858), this[_0x191288(0x12e)], this[_0x191288(0x744)][_0x191288(0x355)]),
+                            this['initialVelocity']['x'] = this[_0x191288(0x744)]['velocity']['x'],
+                            this['initialVelocity']['y'] = Math[_0x191288(0x48c)](-0x258, this['body'][_0x191288(0x355)]['y']);
+                            for (let _0x564c3d = 0x0; _0x564c3d < this[_0x191288(0x511)]['length']; _0x564c3d++)
+                                this[_0x191288(0x511)][_0x564c3d]['x'] = this['x'], this[_0x191288(0x511)][_0x564c3d]['y'] = this['y'];
+                            this['moveAngle'] = Phaser['Math']['DegToRad'](_0x3aa858),
+                            this['MovementTween'] = this[_0x191288(0x65c)][_0x191288(0x7d2)]['add']({
+                                'targets': this,
+                                'moveAngle': Phaser['Math'][_0x191288(0x97e)](_0x3aa858 + 0xb4 * _0x1ef9f5),
+                                'duration': 0x5dc,
+                                'ease': 'Linear'
+                            }),
+                            _0x428bf7['Sound'][_0x191288(0x229)](_0x276b51['Shot'], {
+                                'detune': -0x64 * this['indexInWeapon'],
+                                'volume': 0.45
+                            }, 0xc8, 0xa),
+                            this['isCullable'] = !0x1;
+                        }
+                        ['DeSpawn']() {
+                            const _0x17d85f = _0x2f72b3;
+                            var _0x1ff9c8,
+                            _0x1b5b97;
+                            super['DeSpawn'](),
+                            null === (_0x1ff9c8 = this[_0x17d85f(0x25d)]) || void 0x0 === _0x1ff9c8 || _0x1ff9c8['stop'](),
+                            null === (_0x1b5b97 = this['ScaleTween']) || void 0x0 === _0x1b5b97 || _0x1b5b97[_0x17d85f(0x2d0)]();
+                            for (let _0x2b82ba = 0x0; _0x2b82ba < this[_0x17d85f(0x409)]['length']; _0x2b82ba++)
+                                this[_0x17d85f(0x409)][_0x2b82ba]['setVisible'](!0x1);
+                        }
+                        [_0x2f72b3(0x9ce)](_0x5df4e5) {
+                            const _0x2457c5 = _0x2f72b3;
+                            if (!_0x5df4e5[_0x2457c5(0x990)]) {
+                                if (this[_0x2457c5(0xa93)] > 0x0)
+                                    return this[_0x2457c5(0xa93)]--, this[_0x2457c5(0x65c)]['physics']['velocityFromRotation'](Phaser[_0x2457c5(0x18a)][_0x2457c5(0x97e)](this[_0x2457c5(0x891)]), this[_0x2457c5(0x12e)], this['body'][_0x2457c5(0x355)]), this['initialVelocity']['x'] *= -0x1, this['initialVelocity']['y'] = Math['max'](-0x258, this[_0x2457c5(0x744)][_0x2457c5(0x355)]['y']), void(this['objectsHit'] = []);
+                                this[_0x2457c5(0x4c7)]--,
+                                this[_0x2457c5(0x4c7)] <= 0x0 && this['DeSpawn']();
+                            }
+                        }
+                        [_0x2f72b3(0x3d8)](_0x293f63) {
+                            const _0x5d5ece = _0x2f72b3;
+                            return this['historyIndex'] + _0x293f63 >= this[_0x5d5ece(0xa2b)] ? this[_0x5d5ece(0x867)] + _0x293f63 - this[_0x5d5ece(0xa2b)] : this[_0x5d5ece(0x867)] + _0x293f63;
+                        }
+                        [_0x2f72b3(0x2c2)](_0x5c44b4) {
+                            const _0xc63748 = _0x2f72b3;
+                            this['y'] > _0x428bf7['Core'][_0xc63748(0x286)]['y'] + _0x428bf7['Core']['scene']['renderer'][_0xc63748(0x1f8)] && (this[_0xc63748(0xab2)] = !0x0, this[_0xc63748(0x263)]()),
+                            this['initialVelocity']['y'] += _0x5c44b4 * this[_0xc63748(0x2fa)],
+                            this['historyIndex'] < this[_0xc63748(0xa2b)] - 0x1 ? this['historyIndex']++ : this['historyIndex'] = 0x0;
+                            for (let _0x314cb5 = 0x0; _0x314cb5 < this[_0xc63748(0x409)][_0xc63748(0x2da)]; _0x314cb5++) {
+                                var _0x300da3 = this['posHistory'][this[_0xc63748(0x3d8)](_0x314cb5)],
+                                _0x32cedb = this[_0xc63748(0x409)][_0x314cb5];
+                                _0x32cedb['angle'] = this[_0xc63748(0x76f)],
+                                _0x32cedb['x'] = _0x300da3['x'],
+                                _0x32cedb['y'] = _0x300da3['y'],
+                                _0x32cedb[_0xc63748(0x66d)] = this['scale'],
+                                _0x32cedb[_0xc63748(0x2a9)] = !0x0;
+                            }
+                            this[_0xc63748(0x928)](this['initialVelocity']['x'], this[_0xc63748(0x276)]['y']),
+                            this['posHistory'][this['historyIndex']]['x'] = this['x'],
+                            this[_0xc63748(0x511)][this[_0xc63748(0x867)]]['y'] = this['y'];
+                        }
+                    },*/
                     _0x781ff4 = class extends _0x392d79 {
                         constructor(_0x443c2f, _0x5acabc, _0x418de9, _0x27c6e4, _0x3a907d) {
                             const _0x2406ea = _0x2f72b3;
@@ -20391,6 +21201,161 @@
                             this['posHistory'][this[_0x4707e4(0x867)]]['y'] = this['y'];
                         }
                     },
+                    SPEAR = class extends _0x392d79 {
+                        constructor(_0xb7519c, _0x3b6f96, _0x134ef1, _0x222c8b, _0x1f7add) {
+                            const _0x5c3433 = _0x2f72b3;
+                            super(_0xb7519c, _0x3b6f96, _0x134ef1, 'ARSENAL', 'spear.png', _0x222c8b, _0x1f7add),
+                            this[_0x5c3433(0x511)] = new Array(),
+                            this['maxHistory'] = 0x1,
+                            this['historyIndex'] = 0x0,
+                            this[_0x5c3433(0xa8e)](_0x2adcea[_0x5c3433(0x10c)] * this[_0x5c3433(0x432)][_0x5c3433(0x98e)]),
+                            this[_0x5c3433(0xaeb)](-0x5a),
+                            this['_speed'] = 0x2,
+                            this[_0x5c3433(0x409)] = new Array();
+                            for (let _0x5eb7da = 0x0; _0x5eb7da < this['maxHistory']; _0x5eb7da++) {
+                                this[_0x5c3433(0x511)]['push'](new Phaser[(_0x5c3433(0x18a))]['Vector2'](_0x3b6f96, _0x134ef1));
+                                var _0x3c4945 = this[_0x5c3433(0x65c)][_0x5c3433(0x1a2)][_0x5c3433(0x4b9)](0x0, 0x0, this['texture'][_0x5c3433(0x629)], this[_0x5c3433(0x5b1)]['name'])[_0x5c3433(0xa8e)](1.5 * _0x2adcea['PixelScale'], 0.75 * _0x2adcea['PixelScale'])[_0x5c3433(0xb79)](!0x1)[_0x5c3433(0x8cb)](0xff)['setAlpha'](0.5 - 0.25 * _0x5eb7da);
+                                this[_0x5c3433(0x409)]['push'](_0x3c4945);
+                            }
+                        }
+                        [_0x2f72b3(0x120)]() {
+                            const _0x5341c6 = _0x2f72b3;
+                            super[_0x5341c6(0x120)](),
+                            this[_0x5341c6(0x744)][_0x5341c6(0x980)](0x8),
+                            this['_speed'] = 0x2;
+                            let _0x54e992 = this['weapon'][_0x5341c6(0x373)][this[_0x5341c6(0x432)][_0x5341c6(0x2c8)]++ % this[_0x5341c6(0x432)][_0x5341c6(0x373)]['length']];
+                            this['bounces'] = _0x54e992 >= 0.5 ? this[_0x5341c6(0x432)][_0x5341c6(0x847)] : 0x0,
+                            this['setScale'](_0x2adcea[_0x5341c6(0x10c)] * this['weapon']['PArea']);
+                            for (let _0x144917 = 0x0; _0x144917 < this[_0x5341c6(0x409)][_0x5341c6(0x2da)]; _0x144917++) {
+                                var _0x42cae8 = this[_0x5341c6(0x409)][_0x144917];
+                                _0x42cae8['setScale'](0x2 * this[_0x5341c6(0x66d)], 0.75 * this['scale']),
+                                _0x42cae8[_0x5341c6(0xb79)](!0x0),
+                                _0x42cae8[_0x5341c6(0xaeb)](this[_0x5341c6(0x76f)]),
+                                _0x42cae8[_0x5341c6(0x3cd)](this['x'], this['y']);
+                            }
+                            for (let _0x32f8d7 = 0x0; _0x32f8d7 < this['posHistory'][_0x5341c6(0x2da)]; _0x32f8d7++)
+                                this['posHistory'][_0x32f8d7]['x'] = this['x'], this[_0x5341c6(0x511)][_0x32f8d7]['y'] = this['y'];
+                            this['y'] -= 0xc,
+                            this['x'] += (Math['random']() - 0.5) * (0x0 == this['indexInWeapon'] ? 0x0 : 0x28) * this['weapon'][_0x5341c6(0x98e)],
+                            this['y'] += (Math[_0x5341c6(0x6d6)]() - 0.5) * (0x0 == this[_0x5341c6(0xb70)] ? 0x0 : 0x28) * this[_0x5341c6(0x432)]['PArea'],
+                            this[_0x5341c6(0xaa4)]();
+                            let _0x236382 = this['weapon'][_0x5341c6(0x362)] ? this['weapon'][_0x5341c6(0x362)] : 0.4;
+                            _0x428bf7[_0x5341c6(0x477)][_0x5341c6(0x229)](_0x276b51[_0x5341c6(0x4f8)], {
+                                'detune': -0x64 * this['indexInWeapon'],
+                                'volume': _0x236382
+                            }, 0xc8, 0xa);
+                        }
+                        [_0x2f72b3(0x263)]() {
+                            const _0x388701 = _0x2f72b3;
+                            for (let _0x309f62 = 0x0; _0x309f62 < this['ghosts']['length']; _0x309f62++)
+                                this[_0x388701(0x409)][_0x309f62]['setVisible'](!0x1);
+                            super[_0x388701(0x263)]();
+                        }
+                        [_0x2f72b3(0x9ce)](_0x4e633c) {
+                            const _0x59cb31 = _0x2f72b3;
+                            if (!_0x4e633c[_0x59cb31(0x990)]) {
+                                if (this[_0x59cb31(0xa93)] > 0x0)
+                                    return this['bounces']--, this[_0x59cb31(0x5f3)](), void(this['objectsHit'] = []);
+                                this[_0x59cb31(0x4c7)]--,
+                                this['penetrating'] <= 0x0 && this[_0x59cb31(0x263)]();
+                            }
+                        }
+                        ['getHistoryIndex'](_0x58102c) {
+                            const _0x5adf82 = _0x2f72b3;
+                            return this['historyIndex'] + _0x58102c >= this[_0x5adf82(0xa2b)] ? this[_0x5adf82(0x867)] + _0x58102c - this[_0x5adf82(0xa2b)] : this[_0x5adf82(0x867)] + _0x58102c;
+                        }
+                        ['Update']() {
+                            const _0x4707e4 = _0x2f72b3;
+                            this[_0x4707e4(0x867)] < this['maxHistory'] - 0x1 ? this['historyIndex']++ : this[_0x4707e4(0x867)] = 0x0;
+                            for (let _0x3d505a = 0x0; _0x3d505a < this[_0x4707e4(0x409)][_0x4707e4(0x2da)]; _0x3d505a++) {
+                                var _0x501c54 = this[_0x4707e4(0x511)][this[_0x4707e4(0x3d8)](_0x3d505a)],
+                                _0x1d2d2f = this['ghosts'][_0x3d505a];
+                                _0x1d2d2f[_0x4707e4(0x76f)] = this[_0x4707e4(0x76f)],
+                                _0x1d2d2f['x'] = _0x501c54['x'],
+                                _0x1d2d2f['y'] = _0x501c54['y'];
+                            }
+                            this[_0x4707e4(0x511)][this['historyIndex']]['x'] = this['x'],
+                            this['posHistory'][this[_0x4707e4(0x867)]]['y'] = this['y'];
+                        }
+                    },
+                    /*KNIFE*/
+                    /*STAR = class extends _0x392d79 {
+                        constructor(_0xb7519c, _0x3b6f96, _0x134ef1, _0x222c8b, _0x1f7add) {
+                            const _0x5c3433 = _0x2f72b3;
+                            super(_0xb7519c, _0x3b6f96, _0x134ef1, 'ARSENAL', 'ninja_star.png', _0x222c8b, _0x1f7add),
+                            this[_0x5c3433(0x511)] = new Array(),
+                            this['maxHistory'] = 0x1,
+                            this['historyIndex'] = 0x0,
+                            this[_0x5c3433(0xa8e)](_0x2adcea[_0x5c3433(0x10c)] * this[_0x5c3433(0x432)][_0x5c3433(0x98e)]),
+                            this[_0x5c3433(0xaeb)](-0x5a),
+                            this['_speed'] = 0x2,
+                            this[_0x5c3433(0x409)] = new Array();
+                            for (let _0x5eb7da = 0x0; _0x5eb7da < this['maxHistory']; _0x5eb7da++) {
+                                this[_0x5c3433(0x511)]['push'](new Phaser[(_0x5c3433(0x18a))]['Vector2'](_0x3b6f96, _0x134ef1));
+                                var _0x3c4945 = this[_0x5c3433(0x65c)][_0x5c3433(0x1a2)][_0x5c3433(0x4b9)](0x0, 0x0, this['texture'][_0x5c3433(0x629)], this[_0x5c3433(0x5b1)]['name'])[_0x5c3433(0xa8e)](1.5 * _0x2adcea['PixelScale'], 0.75 * _0x2adcea['PixelScale'])[_0x5c3433(0xb79)](!0x1)[_0x5c3433(0x8cb)](0xff)['setAlpha'](0.5 - 0.25 * _0x5eb7da);
+                                this[_0x5c3433(0x409)]['push'](_0x3c4945);
+                            }
+                        }
+                        [_0x2f72b3(0x120)]() {
+                            const _0x5341c6 = _0x2f72b3;
+                            super[_0x5341c6(0x120)](),
+                            this[_0x5341c6(0x744)][_0x5341c6(0x980)](0x8),
+                            this['_speed'] = 0x2;
+                            let _0x54e992 = this['weapon'][_0x5341c6(0x373)][this[_0x5341c6(0x432)][_0x5341c6(0x2c8)]++ % this[_0x5341c6(0x432)][_0x5341c6(0x373)]['length']];
+                            this['bounces'] = _0x54e992 >= 0.5 ? this[_0x5341c6(0x432)][_0x5341c6(0x847)] : 0x0,
+                            this['setScale'](_0x2adcea[_0x5341c6(0x10c)] * this['weapon']['PArea']);
+                            for (let _0x144917 = 0x0; _0x144917 < this[_0x5341c6(0x409)][_0x5341c6(0x2da)]; _0x144917++) {
+                                var _0x42cae8 = this[_0x5341c6(0x409)][_0x144917];
+                                _0x42cae8['setScale'](0x2 * this[_0x5341c6(0x66d)], 0.75 * this['scale']),
+                                _0x42cae8[_0x5341c6(0xb79)](!0x0),
+                                _0x42cae8[_0x5341c6(0xaeb)](this[_0x5341c6(0x76f)]),
+                                _0x42cae8[_0x5341c6(0x3cd)](this['x'], this['y']);
+                            }
+                            for (let _0x32f8d7 = 0x0; _0x32f8d7 < this['posHistory'][_0x5341c6(0x2da)]; _0x32f8d7++)
+                                this['posHistory'][_0x32f8d7]['x'] = this['x'], this[_0x5341c6(0x511)][_0x32f8d7]['y'] = this['y'];
+                            this['y'] -= 0xc,
+                            this['x'] += (Math['random']() - 0.5) * (0x0 == this['indexInWeapon'] ? 0x0 : 0x28) * this['weapon'][_0x5341c6(0x98e)],
+                            this['y'] += (Math[_0x5341c6(0x6d6)]() - 0.5) * (0x0 == this[_0x5341c6(0xb70)] ? 0x0 : 0x28) * this[_0x5341c6(0x432)]['PArea'],
+                            this[_0x5341c6(0xaa4)]();
+                            let _0x236382 = this['weapon'][_0x5341c6(0x362)] ? this['weapon'][_0x5341c6(0x362)] : 0.4;
+                            _0x428bf7[_0x5341c6(0x477)][_0x5341c6(0x229)](_0x276b51[_0x5341c6(0x4f8)], {
+                                'detune': -0x64 * this['indexInWeapon'],
+                                'volume': _0x236382
+                            }, 0xc8, 0xa);
+                        }
+                        [_0x2f72b3(0x263)]() {
+                            const _0x388701 = _0x2f72b3;
+                            for (let _0x309f62 = 0x0; _0x309f62 < this['ghosts']['length']; _0x309f62++)
+                                this[_0x388701(0x409)][_0x309f62]['setVisible'](!0x1);
+                            super[_0x388701(0x263)]();
+                        }
+                        [_0x2f72b3(0x9ce)](_0x4e633c) {
+                            const _0x59cb31 = _0x2f72b3;
+                            if (!_0x4e633c[_0x59cb31(0x990)]) {
+                                if (this[_0x59cb31(0xa93)] > 0x0)
+                                    return this['bounces']--, this[_0x59cb31(0x5f3)](), void(this['objectsHit'] = []);
+                                this[_0x59cb31(0x4c7)]--,
+                                this['penetrating'] <= 0x0 && this[_0x59cb31(0x263)]();
+                            }
+                        }
+                        ['getHistoryIndex'](_0x58102c) {
+                            const _0x5adf82 = _0x2f72b3;
+                            return this['historyIndex'] + _0x58102c >= this[_0x5adf82(0xa2b)] ? this[_0x5adf82(0x867)] + _0x58102c - this[_0x5adf82(0xa2b)] : this[_0x5adf82(0x867)] + _0x58102c;
+                        }
+                        ['Update']() {
+                            const _0x4707e4 = _0x2f72b3;
+                            this[_0x4707e4(0x867)] < this['maxHistory'] - 0x1 ? this['historyIndex']++ : this[_0x4707e4(0x867)] = 0x0;
+                            for (let _0x3d505a = 0x0; _0x3d505a < this[_0x4707e4(0x409)][_0x4707e4(0x2da)]; _0x3d505a++) {
+                                var _0x501c54 = this[_0x4707e4(0x511)][this[_0x4707e4(0x3d8)](_0x3d505a)],
+                                _0x1d2d2f = this['ghosts'][_0x3d505a];
+                                _0x1d2d2f[_0x4707e4(0x76f)] = this[_0x4707e4(0x76f)],
+                                _0x1d2d2f['x'] = _0x501c54['x'],
+                                _0x1d2d2f['y'] = _0x501c54['y'];
+                            }
+                            this[_0x4707e4(0x511)][this['historyIndex']]['x'] = this['x'],
+                            this['posHistory'][this[_0x4707e4(0x867)]]['y'] = this['y'];
+                        }
+                    },*/
                     _0x14b9ce = class extends _0x392d79 {
                         constructor(_0x7f18d1, _0x4cbc80, _0x575d03, _0xb01393, _0x27b1c4) {
                             const _0x489d53 = _0x2f72b3;
@@ -20695,6 +21660,132 @@
                             this['body']['velocity']['y'] = this['velocity']['y'] * this[_0x4523ae(0x97d)];
                         }
                     },
+                    STAR = class extends _0x392d79 {
+                        constructor(_0x5e853f, _0x157930, _0x4f94cc, _0x511dde, _0x486e39) {
+                            const _0x26eb7d = _0x2f72b3;
+                            super(_0x5e853f, _0x157930, _0x4f94cc, 'ARSENAL', 'shuriken_red.png', _0x511dde, _0x486e39)
+
+                            this[_0x26eb7d(0x11a)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x7d2)][_0x26eb7d(0x1a2)]({
+                                'targets': this,
+                                'angle': 0x168,
+                                'duration': 500,
+                                'ease': 'Linear',
+                                'repeat': -0x1
+                            })
+                        }
+                        [_0x2f72b3(0x120)]() {
+                            const _0x3dc250 = _0x2f72b3;
+                            super['OnRecycle'](),
+                            this[_0x3dc250(0x744)]['setCircle'](0x8),
+                            this[_0x3dc250(0xa8e)](_0x2adcea[_0x3dc250(0x10c)] * this['weapon'][_0x3dc250(0x98e)]),
+                            this['x'] += (Math['random']() - 0.5) * this[_0x3dc250(0xb70)] * 0xa,
+                            this['y'] += (Math[_0x3dc250(0x6d6)]() - 0.5) * this[_0x3dc250(0xb70)] * 0xa,
+                            this[_0x3dc250(0x396)]();
+                            let _0x2ba40e = this[_0x3dc250(0x432)][_0x3dc250(0x362)] ? this[_0x3dc250(0x432)][_0x3dc250(0x362)] : 0.15;
+                            _0x428bf7[_0x3dc250(0x477)]['PlaySound'](_0x276b51['MagicMissile'], {
+                                'detune': -0x64 * this['indexInWeapon'],
+                                'volume': _0x2ba40e
+                            }, 0xc8, 0xc);
+                        }
+                        ['OnHasHitAnObject'](_0x664ccd) {
+                            const _0x111122 = _0x2f72b3;
+                            if (!_0x664ccd[_0x111122(0x990)]) {
+                                if (this['bounces'] > 0x0)
+                                    return this[_0x111122(0xa93)]--, this[_0x111122(0x5f3)](), void(this[_0x111122(0x289)] = []);
+                                this['penetrating']--,
+                                this[_0x111122(0x4c7)] <= 0x0 && this[_0x111122(0x263)]();
+                            }
+                        }
+                        [_0x2f72b3(0x2c2)]() {
+                        }
+                    },
+                    /*CROSS*/
+                    /*
+                    STAR = class extends _0x392d79 {
+                        constructor(_0x4f2484, _0x521e64, _0x4f8344, _0x323a53, _0x5b989c) {
+                            const _0x12d7a6 = _0x2f72b3;
+                            super(_0x4f2484, _0x521e64, _0x4f8344, 'ARSENAL', 'shuriken_red.png', _0x323a53, _0x5b989c),
+                            this[_0x12d7a6(0x511)] = new Array(),
+                            this[_0x12d7a6(0xa2b)] = 0x3,
+                            this['historyIndex'] = 0x0,
+                            this[_0x12d7a6(0x97d)] = 0x1,
+                            this[_0x12d7a6(0x355)] = new Phaser[(_0x12d7a6(0x18a))][(_0x12d7a6(0x563))](0x0, 0x0),
+                            this[_0x12d7a6(0x119)] = !0x1,
+                            this[_0x12d7a6(0x11a)] = this[_0x12d7a6(0x65c)][_0x12d7a6(0x7d2)][_0x12d7a6(0x1a2)]({
+                                'targets': this,
+                                'angle': 0x168,
+                                'duration': 500,
+                                'ease': 'Linear',
+                                'repeat': -0x1
+                            }),
+                            this['AccelTween'] = this[_0x12d7a6(0x65c)]['tweens'][_0x12d7a6(0x1a2)]({
+                                'targets': this,
+                                'accel': -0x2,
+                                'duration': 0x3e8,
+                                'ease': 'Linear'
+                            }),
+                            this['ghosts'] = new Array();
+                            for (let _0x152d16 = 0x0; _0x152d16 < this[_0x12d7a6(0xa2b)]; _0x152d16++) {
+                                this['posHistory'][_0x12d7a6(0x33a)](new Phaser[(_0x12d7a6(0x18a))][(_0x12d7a6(0x563))](_0x521e64, _0x4f8344));
+                                var _0x4f52ed = this[_0x12d7a6(0x65c)][_0x12d7a6(0x1a2)]['image'](0x0, 0x0, this['texture']['key'], this['frame']['name'])[_0x12d7a6(0xa8e)](_0x2adcea[_0x12d7a6(0x10c)])['setVisible'](!0x1)[_0x12d7a6(0x8cb)](0xffff66)['setAlpha'](0.75 - 0.15 * _0x152d16);
+                                this['ghosts']['push'](_0x4f52ed);
+                            }
+                            this[_0x12d7a6(0x409)][_0x12d7a6(0x87a)](),
+                            this[_0x12d7a6(0x119)] = !0x1;
+                        }
+                        [_0x2f72b3(0x120)]() {
+                            const _0x3bdb0a = _0x2f72b3;
+                            super['OnRecycle'](),
+                            this[_0x3bdb0a(0x744)][_0x3bdb0a(0x980)](0xc),
+                            this[_0x3bdb0a(0xa8e)](_0x2adcea[_0x3bdb0a(0x10c)] * this[_0x3bdb0a(0x432)]['PArea']),
+                            this[_0x3bdb0a(0x97d)] = 1.5 + 0.1 * this['indexInWeapon'],
+                            this['AccelTween']['restart']();
+                            for (let _0x3659d3 = 0x0; _0x3659d3 < this[_0x3bdb0a(0x511)][_0x3bdb0a(0x2da)]; _0x3659d3++)
+                                this['posHistory'][_0x3659d3]['x'] = this['x'], this[_0x3bdb0a(0x511)][_0x3659d3]['y'] = this['y'];
+                            this['x'] += (Math[_0x3bdb0a(0x6d6)]() - 0.5) * this[_0x3bdb0a(0xb70)] * 0x14 * this['weapon'][_0x3bdb0a(0x98e)],
+                            this['y'] += (Math[_0x3bdb0a(0x6d6)]() - 0.5) * this[_0x3bdb0a(0xb70)] * 0x14 * this['weapon'][_0x3bdb0a(0x98e)],
+                            this['AimForNearestEnemy'](),
+                            this[_0x3bdb0a(0x355)][_0x3bdb0a(0x34c)](this['body']['velocity']),
+                            _0x428bf7['Sound'][_0x3bdb0a(0x229)](_0x276b51[_0x3bdb0a(0x4f8)], {
+                                'detune': -0x64 * this[_0x3bdb0a(0xb70)],
+                                'volume': 0.45
+                            }, 0xc8, 0xa),
+                            this[_0x3bdb0a(0x9c1)](this['y'] - _0x428bf7[_0x3bdb0a(0x6f7)][_0x3bdb0a(0x286)]['y'] + 0x2 * this[_0x3bdb0a(0x65c)]['renderer']['height']),
+                            this['weapon'][_0x3bdb0a(0x847)] && !this[_0x3bdb0a(0x119)] && (this['bounceActivated'] = !0x0, this[_0x3bdb0a(0x65c)]['physics']['world']['on']('worldbounds', this[_0x3bdb0a(0x1ed)], this), this[_0x3bdb0a(0x66b)](!0x0, 0x1, 0x1), this['body']['setBoundsRectangle'](_0x428bf7[_0x3bdb0a(0x6f7)]['Player'][_0x3bdb0a(0x55b)]), this[_0x3bdb0a(0x744)][_0x3bdb0a(0x4fa)] = !0x0),
+                            this[_0x3bdb0a(0x119)] && this[_0x3bdb0a(0x66b)](!0x0, 0x1, 0x1);
+                        }
+                        ['Bounce'](_0x3231c7) {
+                            const _0x2ab1d2 = _0x2f72b3;
+                            this[_0x2ab1d2(0x744)] === _0x3231c7 && (this[_0x2ab1d2(0xa93)] > 0x0 ? (this[_0x2ab1d2(0xa93)]--, this['velocity']['x'] *= -0x1, this[_0x2ab1d2(0x355)]['y'] *= -0x1, this['objectsHit'] = []) : this[_0x2ab1d2(0x66b)](!0x1, 0x1, 0x1));
+                        }
+                        ['DeSpawn']() {
+                            const _0x5b9ec5 = _0x2f72b3;
+                            super[_0x5b9ec5(0x263)]();
+                            for (let _0x416624 = 0x0; _0x416624 < this[_0x5b9ec5(0x409)]['length']; _0x416624++)
+                                this[_0x5b9ec5(0x409)][_0x416624][_0x5b9ec5(0xb79)](!0x1);
+                        }
+                        ['getHistoryIndex'](_0x96f35c) {
+                            const _0x4ad3f5 = _0x2f72b3;
+                            return this[_0x4ad3f5(0x867)] + _0x96f35c >= this[_0x4ad3f5(0xa2b)] ? this['historyIndex'] + _0x96f35c - this[_0x4ad3f5(0xa2b)] : this[_0x4ad3f5(0x867)] + _0x96f35c;
+                        }
+                        [_0x2f72b3(0x2c2)]() {
+                            const _0x4523ae = _0x2f72b3;
+                            this[_0x4523ae(0x867)] < this[_0x4523ae(0xa2b)] - 0x1 ? this[_0x4523ae(0x867)]++ : this[_0x4523ae(0x867)] = 0x0;
+                            for (let _0x5f8f27 = 0x0; _0x5f8f27 < this[_0x4523ae(0x409)][_0x4523ae(0x2da)]; _0x5f8f27++) {
+                                var _0x3781a4 = this[_0x4523ae(0x511)][this['getHistoryIndex'](_0x5f8f27)],
+                                _0x5cb210 = this['ghosts'][_0x5f8f27];
+                                _0x5cb210[_0x4523ae(0x76f)] = this['angle'],
+                                _0x5cb210['x'] = _0x3781a4['x'],
+                                _0x5cb210['y'] = _0x3781a4['y'],
+                                _0x5cb210[_0x4523ae(0x66d)] = this['scale'],
+                                _0x5cb210['visible'] = !0x0;
+                            }
+                            this[_0x4523ae(0x511)][this[_0x4523ae(0x867)]]['x'] = this['x'],
+                            this['posHistory'][this[_0x4523ae(0x867)]]['y'] = this['y'],
+                            this['body'][_0x4523ae(0x355)]['x'] = this['velocity']['x'] * this['accel'],
+                            this['body']['velocity']['y'] = this['velocity']['y'] * this[_0x4523ae(0x97d)];
+                        }
+                    },*/
                     _0x24a919 = class extends _0x392d79 {
                         constructor(_0x19e828, _0x1e761f, _0x27cb78, _0x5f14c5, _0x534c91) {
                             const _0x3b2dfd = _0x2f72b3;
@@ -24559,8 +25650,16 @@
                                 return new _0x392d79(this, 0x0, 0x0, 'ball', 0x0, _0x3c322b, _0x3639b0);
                             case _0x202927['AXE']:
                                 return new _0x482b5b(this, 0x0, 0x0, _0x3c322b, _0x3639b0);
+                            case _0x202927['STAR']:
+                                return new STAR(this, 0x0, 0x0, _0x3c322b, _0x3639b0);
                             case _0x202927['KI']:
                                 return new KI(this, 0x0, 0x0, _0x3c322b, _0x3639b0);
+                            case _0x202927['LONGSWORD']:
+                                return new LONGSWORD(this, 0x0, 0x0, _0x3c322b, _0x3639b0);
+                            case _0x202927['SPEAR']:
+                                return new SPEAR(this, 0x0, 0x0, _0x3c322b, _0x3639b0);
+                            case _0x202927['SKULL']:
+                                return new SKULL(this, 0x0, 0x0, _0x3c322b, _0x3639b0);
                             case _0x202927['SCYTHE']:
                                 return new _0x345d08(this, 0x0, 0x0, _0x3c322b, _0x3639b0);
                             case _0x202927[_0x5b9f13(0x2c6)]:
@@ -24968,7 +26067,51 @@
                             return this['canCrit'] ? this[_0x11c72f(0x6f2)](_0x2da556, _0x1209a6) : super['onBulletOverlapsEnemy'](_0x2da556, _0x1209a6);
                         }
                     },
+                    STAR_BULLET = class extends _0x50335c {
+                        constructor(_0x28e1c1) {
+                            super(_0x28e1c1);
+                        }
+                        get[_0x2f72b3(0x98e)]() {
+                            const _0x400c66 = _0x2f72b3;
+                            return 1.3 * _0x428bf7[_0x400c66(0x6f7)][_0x400c66(0x286)]['area'] * this['area'];
+                        }
+                        ['CheckArcanas']() {
+                            const _0x17ccc9 = _0x2f72b3;
+                            _0x428bf7[_0x17ccc9(0x6f7)][_0x17ccc9(0x824)][_0x17ccc9(0xa48)]['indexOf'](_0x46df06[_0x17ccc9(0x580)]) > -0x1 && (this[_0x17ccc9(0x4c7)] = 0xffff, this[_0x17ccc9(0x415)] = 0x3),
+                            _0x428bf7[_0x17ccc9(0x6f7)]['Arcanas']['ActiveArcanas']['indexOf'](_0x46df06[_0x17ccc9(0x61b)]) > -0x1 && (this['canCrit'] = !0x0);
+                        }
+                        get[_0x2f72b3(0x847)]() {
+                            const _0x55ab26 = _0x2f72b3;
+                            return this[_0x55ab26(0x415)] + this['bounces'];
+                        }
+                        [_0x2f72b3(0x356)](_0x2da556, _0x1209a6) {
+                            const _0x11c72f = _0x2f72b3;
+                            return this['canCrit'] ? this[_0x11c72f(0x6f2)](_0x2da556, _0x1209a6) : super['onBulletOverlapsEnemy'](_0x2da556, _0x1209a6);
+                        }
+                    },
                     KI_BULLET = class extends _0x50335c {
+                        constructor(_0x28e1c1) {
+                            super(_0x28e1c1);
+                        }
+                        get[_0x2f72b3(0x98e)]() {
+                            const _0x400c66 = _0x2f72b3;
+                            return 1.3 * _0x428bf7[_0x400c66(0x6f7)][_0x400c66(0x286)]['area'] * this['area'];
+                        }
+                        ['CheckArcanas']() {
+                            const _0x17ccc9 = _0x2f72b3;
+                            _0x428bf7[_0x17ccc9(0x6f7)][_0x17ccc9(0x824)][_0x17ccc9(0xa48)]['indexOf'](_0x46df06[_0x17ccc9(0x580)]) > -0x1 && (this[_0x17ccc9(0x4c7)] = 0xffff, this[_0x17ccc9(0x415)] = 0x3),
+                            _0x428bf7[_0x17ccc9(0x6f7)]['Arcanas']['ActiveArcanas']['indexOf'](_0x46df06[_0x17ccc9(0x61b)]) > -0x1 && (this['canCrit'] = !0x0);
+                        }
+                        get[_0x2f72b3(0x847)]() {
+                            const _0x55ab26 = _0x2f72b3;
+                            return this[_0x55ab26(0x415)] + this['bounces'];
+                        }
+                        [_0x2f72b3(0x356)](_0x2da556, _0x1209a6) {
+                            const _0x11c72f = _0x2f72b3;
+                            return this['canCrit'] ? this[_0x11c72f(0x6f2)](_0x2da556, _0x1209a6) : super['onBulletOverlapsEnemy'](_0x2da556, _0x1209a6);
+                        }
+                    },
+                    SKULL_BULLET = class extends _0x50335c {
                         constructor(_0x28e1c1) {
                             super(_0x28e1c1);
                         }
@@ -25093,6 +26236,31 @@
                             return this[_0x611c9a(0x6da)] ? this['StandardCritical'](_0x349a14, _0x595b0d) : super['onBulletOverlapsEnemy'](_0x349a14, _0x595b0d);
                         }
                     },
+                    SPEAR_BULLET = class extends _0x50335c {
+                        constructor(_0x3a1a7f) {
+                            super(_0x3a1a7f);
+                        }
+                        [_0x2f72b3(0x244)]() {
+                            const _0x210f75 = _0x2f72b3;
+                            if (_0x428bf7['Core'][_0x210f75(0x824)]['ActiveArcanas'][_0x210f75(0x927)](_0x46df06[_0x210f75(0x580)]) > -0x1) {
+                                this[_0x210f75(0x4c7)] = 0xffff,
+                                this[_0x210f75(0x415)] = 0x3;
+                                for (let _0xdf4c30 = 0x0; _0xdf4c30 < this['wallsColliders']['length']; _0xdf4c30++) {
+                                    const _0x394ce7 = this['wallsColliders'][_0xdf4c30];
+                                    _0x428bf7[_0x210f75(0x6f7)][_0x210f75(0x65c)][_0x210f75(0x93f)][_0x210f75(0x338)]['removeCollider'](_0x394ce7);
+                                }
+                                this['hitsWalls'] = !0x1;
+                            }
+                            _0x428bf7[_0x210f75(0x6f7)]['Arcanas']['ActiveArcanas'][_0x210f75(0x927)](_0x46df06[_0x210f75(0x61b)]) > -0x1 && (this[_0x210f75(0x6da)] = !0x0);
+                        }
+                        get[_0x2f72b3(0x847)]() {
+                            return this['bonusBounces'] + this['bounces'];
+                        }
+                        [_0x2f72b3(0x356)](_0x349a14, _0x595b0d) {
+                            const _0x611c9a = _0x2f72b3;
+                            return this[_0x611c9a(0x6da)] ? this['StandardCritical'](_0x349a14, _0x595b0d) : super['onBulletOverlapsEnemy'](_0x349a14, _0x595b0d);
+                        }
+                    },
                     _0x3afef9 = class extends _0x50335c {
                         constructor(_0xab3cea) {
                             super(_0xab3cea);
@@ -25120,6 +26288,11 @@
                         }
                     },
                     _0x49be3f = class extends _0x50335c {
+                        constructor(_0x390232) {
+                            super(_0x390232);
+                        }
+                    },
+                    LONG_SWORD = class extends _0x50335c {
                         constructor(_0x390232) {
                             super(_0x390232);
                         }
@@ -26947,6 +28120,18 @@
                                     break;
                                 case _0x202927['KI']:
                                     _0x2536e4 = new KI_BULLET(_0x1fc7e3);
+                                    break;
+                                case _0x202927['LONGSWORD']:
+                                    _0x2536e4 = new LONG_SWORD(_0x1fc7e3);
+                                    break;
+                                case _0x202927['SPEAR']:
+                                    _0x2536e4 = new SPEAR_BULLET(_0x1fc7e3);
+                                    break;
+                                case _0x202927['STAR']:
+                                    _0x2536e4 = new STAR_BULLET(_0x1fc7e3);
+                                    break;
+                                case _0x202927['SKULL']:
+                                    _0x2536e4 = new SKULL_BULLET(_0x1fc7e3);
                                     break;
                                 case _0x202927[_0x51c926(0xb5b)]:
                                     _0x2536e4 = new _0x3afef9(_0x1fc7e3);
@@ -31267,6 +32452,13 @@
                             this[_0xf0ebb8(0xa7a)][_0xf0ebb8(0x4b9)]('introBG', 'assets/img/introBG.png'),
                             this['load']['image']('title', 'assets/img/title.png'),
                             this[_0xf0ebb8(0xa7a)]['image']('gameOver', 'assets/img/gameOver.png'),
+                            this['load']['atlas']('CHESTER', 'mod/CharBundle/chester/chester.png', 'mod/CharBundle/chester/chester.json'),
+                            this['load']['atlas']('CLYDE', 'mod/CharBundle/clyde/clyde.png', 'mod/CharBundle/clyde/clyde.json'),
+                            this['load']['atlas']('ARSENAL', 'mod/CharBundle/arsenal/arsenal.png', 'mod/CharBundle/arsenal/arsenal.json'),
+                            this['load']['atlas']('CULTIST', 'mod/CharBundle/cultist/cultist.png', 'mod/CharBundle/cultist/cultist.json'),
+                            this['load']['atlas']('GORDON', 'mod/CharBundle/gordon/gordon.png', 'mod/CharBundle/gordon/gordon.json'),
+                            this['load']['atlas']('HIRO', 'mod/CharBundle/hiro/hiro.png', 'mod/CharBundle/hiro/hiro.json'),
+                            this['load']['atlas']('UGG', 'mod/CharBundle/ugg/ugg.png', 'mod/CharBundle/ugg/ugg.json'),
                             this['load']['atlas']('GOKU', 'mod/CharBundle/goku/goku.png', 'mod/CharBundle/goku/goku.json'),
                             this['load']['atlas']('VEGETA', 'mod/CharBundle/vegeta/vegeta.png', 'mod/CharBundle/vegeta/vegeta.json'),
                             this['load']['atlas']('GOHAN', 'mod/CharBundle/gohan/gohan.png', 'mod/CharBundle/gohan/gohan.json'),
@@ -41259,7 +42451,8 @@
                             console[_0x910c48(0xb6e)](_0x22cb41[_0x910c48(0x44f)]);
                         }
                     });
-                    const _0x7b5aff = !0x1,
+                    // Debug Switch
+                    const _0x7b5aff = 0,
                     _0x1252c6 = _0x7b5aff,
                     _0x2bd216 = !0x1,
                     _0x1de199 = 0x13ef,
