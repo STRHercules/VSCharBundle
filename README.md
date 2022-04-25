@@ -14,6 +14,7 @@
 > - Acts similarly to Magic Wand
 > - Projectiles are faster
 > - Ramps up to match Holy Wand
+> - Only available to Goku and Saiyaman
 
 ## Longsword
 > - Acts similarly to Whip, has a smaller starting Area
