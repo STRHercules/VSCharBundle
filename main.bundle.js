@@ -196,6 +196,7 @@
                         _0x4d5b02['KNIGHT'] = 'KNIGHT',
                         _0x4d5b02['SOMA'] = 'SOMA',
                         _0x4d5b02['SPIDERMAN'] = 'SPIDERMAN',
+                        _0x4d5b02['VENOM'] = 'VENOM',
                         _0x4d5b02['TOAD'] = 'TOAD',
                         _0x4d5b02['SNAKE'] = 'SNAKE',
                         _0x4d5b02['FROSTY'] = 'FROSTY',
@@ -4425,6 +4426,60 @@
                             'growth': -0x1
                         }
                     ],
+                    [_0x39678f['VENOM']]: [{
+                        'level': 0x1,
+                        'startingWeapon': _0x202927['CHERRY'],
+                        'charName': 'Venom',
+                        'surname': '',
+                        'spriteName': 'venom_01.png',
+                        'textureName': 'VENOM',
+                        'walkingFrames': 11,
+                        'description': '+10% Might/20 Levels(Max+30%). -20% Cooldown. +20% MoveSpeed. +35% Luck.',
+                        'isBought': !0x0,
+                        'price': 0x0,
+                        'maxHp': 95,
+                        'armor': 0x0,
+                        'regen': 0x0,
+                        'moveSpeed': 1.2,
+                        'power': 0x1,
+                        'cooldown': 0.8,
+                        'area': 0x1,
+                        'speed': 0x1,
+                        'duration': 0x1,
+                        'amount': 0x0,
+                        'luck': 1.35,
+                        'growth': 0x1,
+                        'greed': 0x1,
+                        'curse': 0x1,
+                        'magnet': 0x0,
+                        'revivals': 0x0,
+                        'rerolls': 0x2,
+                        'skips': 0x2,
+                        'banish': 0x2,
+                        'showcase': [ ],
+                        'onEveryLevelUp': {
+                            'power': 0.01
+                        },
+                        'debugTime': 0x348
+                    }, {
+                        'power': 0.10,
+                        'level': 0x14,
+                        'growth': 0x1
+                    }, {
+                        'power': 0.10,
+                        'level': 0x28,
+                        'growth': 0x1
+                    }, {
+                        'power': 0.10,
+                        'level': 0x3c
+                    }, {
+                        'level': 0x15,
+                        'growth': -0x1
+                    }, {
+                        'level': 0x29,
+                        'growth': -0x1
+                    }
+                ],
                     [_0x39678f['TOAD']]: [{
                         'level': 0x1,
                         'startingWeapon': _0x202927['WHIP'],
@@ -32474,6 +32529,7 @@
                             this['load']['atlas']('SNAKE', 'mod/CharBundle/snake/snake.png', 'mod/CharBundle/snake/snake.json'),
                             this['load']['atlas']('FROSTY', 'mod/CharBundle/frosty/frosty.png', 'mod/CharBundle/frosty/frosty.json'),
                             this['load']['atlas']('SPIDERMAN', 'mod/CharBundle/spiderman/spiderman.png', 'mod/CharBundle/spiderman/spiderman.json'),
+                            this['load']['atlas']('VENOM', 'mod/CharBundle/venom/venom.png', 'mod/CharBundle/venom/venom.json'),
                             this['load']['atlas']('KI', 'mod/CharBundle/goku/blasts.png', 'mod/CharBundle/goku/blasts.json'),
                             this[_0xf0ebb8(0xa7a)][_0xf0ebb8(0x4b9)]('stageComplete', 'assets/img/stageComplete.png'),
                             this['load']['atlas']('UI', 'assets/img/UI.png', 'assets/img/UI.json'),
