@@ -133,7 +133,7 @@ First place I start when adding a new character is making sure it is set to load
 
  `_0x52d938['ODDEEO'] = 'ODDEEO';`
  
- ^keep ^in ^mind ^- ^the ^beginning ^hex ^code  ^`_0x52d938` ^will ^change ^with ^every ^update, ^so ^if ^you ^plan ^on ^sustaining ^mods, ^you ^will ^have ^to ^change ^this ^with ^every ^update!
+ keep in mind - the beginning hex code  `_0x52d938` will change with every update, so if you plan on sustaining mods, you will have to change this with every update!
 
 5. You can follow this formula to add additional characters. For example;
  
