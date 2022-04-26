@@ -1,3 +1,5 @@
+# A complete guide on how to create and add a custom character to Vampire Survivors
+
 # Introduction
 *So, you want to add your own custom characters to Vampire Survivors, either using your own art, or ported from a spritesheet from a different game.*
 
