@@ -726,13 +726,9 @@
 _____________________________________________________________________
 # Instructions
 
-## **Requires current opt-in beta on steam!!!!**
+1. Download the latest release from release page
 
-1. Set Vampire Survivors to beta *first*
-
-2. Download the latest release from release page
-
-3. Extract the release .zip file to your main game folder; 
+2. Extract the release .zip file to your main game folder; 
 
 `SteamLibrary\steamapps\common\Vampire Survivors\resources\app\.webpack\renderer`
 
