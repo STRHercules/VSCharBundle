@@ -164,7 +164,7 @@
 
 # Character Stats now:
 
-> ## Chester:
+## Chester:
 >
 > - Max Health - 45
 > - Recovery - 0.4
@@ -178,14 +178,14 @@
 > - Starting Gear - Song of Mana
 > - Gains 20% Area every 20 levels (Max 60%)
 
-> ## Clyde Spelunker:
+## Clyde Spelunker:
 >
 > - Max Health - 100
 > - Curse - +25%
 > - Starting Gear - Celestial Dusting
 > - Gets +20% Area at level 20, +40% MoveSpeed at 40, +3 Projectiles at 60.
 
-> ## Cultist of the Damned:
+## Cultist of the Damned:
 >
 > - Max Health - 85
 > - Might - -30%
@@ -193,7 +193,7 @@
 > - +1 Projectile/20 levels (Max+2)
 > - Gains Revivals at level 60
 
-> ## Gordon Bravefist:
+## Gordon Bravefist:
 > 
 > - Max Health - 100
 > - Recovery - 0.1
@@ -203,7 +203,7 @@
 > - Curse - +45%
 > - Starting Gear - Longsword, Gordon's Shield
 
-> ## Hiro:
+## Hiro:
 > 
 > - Max Health - 90
 > - Recovery - 0.2
@@ -216,7 +216,7 @@
 > - Starting Gear - Shuriken
 > - +1 Projectile Every 20 Levels (Max+4)
 
-> ## UGG T'LUK:
+## UGG T'LUK:
 > 
 > - Max Health - 115
 > - Recovery - 0.3
@@ -226,7 +226,7 @@
 > - Gains 5 Reroll every 20 levels (Max 25)
 > - +1 Might every level
 
-> ## Goku the Saiyan:
+## Goku the Saiyan:
 > 
 > - Max Health - 125
 > - Recovery - 2.0 
@@ -237,7 +237,7 @@
 > - +1 Projectile every 10 levels (max +3)
 > - +1% Might Every level
 
-> ## Vegeta Prince of Saiyans:
+## Vegeta Prince of Saiyans:
 > 
 > - Max Health - 125
 > - Recovery - 2.0 
@@ -248,7 +248,7 @@
 > - +1 Projectile every 20 levels (max +3)
 > - +1% Might Every level
 
-> ## Gohan, son of Goku: 
+## Gohan, son of Goku: 
 > 
 > - Max Health - 100
 > - Recovery - 2.0
@@ -258,7 +258,7 @@
 > - Starting Gear - Ebony Wings, Peachone
 > - +5% Might, MoveSpeed, Curse every 10 levels (Max +20%)
 
-> ## Beerus the Destroyer:
+## Beerus the Destroyer:
 > 
 > - Max Health - 125
 > - Armor - +5
@@ -266,7 +266,7 @@
 > - Starting Gear - Lightning Ring
 > - +0.1 Regen Every Level, +10% Curse Every Level, +25% MoveSpeed
 
-> ## Roshi Turtle Hermit:
+## Roshi Turtle Hermit:
 > 
 > - Max Health - 85
 > - Armor - +1
@@ -276,24 +276,24 @@
 > - Starting Gear - Runetracer
 > - +1% Luck Every Level
 
-> ## Majin Buu:
+## Majin Buu:
 > 
 > - Max Health - 75
 > - Area - +20%
 > - Starting Gear - Garlic, Pummola
 > - +2% Curse Every Level
 
-> ## Kid Buu:
+## Kid Buu:
 > 
 > - Max Health - 50
 > - Starting Gear - Hellfire
 > - +5% Curse Every Level, -1% Cooldown Every Level
 
-> ## Krillin:
+## Krillin:
 > 
 > - Toastie clone
 
-> ## Dr. Gero:
+## Dr. Gero:
 > 
 > - Max Health - 75 
 > - Armor - +1
@@ -302,7 +302,7 @@
 > - Starting Levels - +1
 > - +10% Might Every 10 levels (Max+70%)
 
-> ## Android 18:
+## Android 18:
 > 
 > - Max Health - 70 
 > - Armor - +2
@@ -324,12 +324,12 @@
 > - Starting Gear - Explosion AoE
 > - +20% Might Every 10 levels (Max+140%)
 
-> ## Mr. Satan:
+## Mr. Satan:
 > 
 > - OH YEAH!
 > - THE CHAMP IS HERE!
 
-> ## Wolverine:
+## Wolverine:
 > 
 > - Max Health - 100
 > - Recovery - 2.0
@@ -338,7 +338,7 @@
 > - Starting Gear - Whip, Armor, Curse, Pummola
 > - +1 Might every level
 
-> ## Cyclops:
+## Cyclops:
 > 
 > - Max Health - 100
 > - Recovery - 1.0
@@ -346,7 +346,7 @@
 > - Starting Gear - Fire Wand
 > - +1 Might, Area every level
 
-> ## Inuyasha "Dog Demon":
+## Inuyasha "Dog Demon":
 > 
 > - Max Health - 100
 > - Recovery - 1.0
@@ -354,7 +354,7 @@
 > - Starting Gear - Whip, Curse
 > - +1 Might Every Level
 
-> ## Mikey:
+## Mikey:
 > 
 > - Max Health - 100
 > - Recovery - 1.0
@@ -364,7 +364,7 @@
 > - Starting Gear - Laurel
 > - +1% Might Every Level
 
-> ## Gundam:
+## Gundam:
 > 
 > - Max Health - 100 
 > - Recovery - 2.0
@@ -375,7 +375,7 @@
 > - Starting Gear - Dual Guns
 > - +1% Might Every Level
 
-> ## Ghost:
+## Ghost:
 > 
 > - Max Health - 85
 > - Recovery - 2.0
@@ -386,7 +386,7 @@
 > - Starting Gear - Cherry Bomb
 > - +2 Curse Every Level | +1% MoveSpeed Every Level
 
-> ## Batman:
+## Batman:
 > 
 > - Max Health - 120
 > - Armor - +2
@@ -397,7 +397,7 @@
 > - Starting Gear - Cross
 > - +1% Might Every Level
 
-> ## Baphomet:
+## Baphomet:
 > 
 > - Max Health - 150
 > - Armor - +5
@@ -405,21 +405,21 @@
 > - Starting Gear - Pentagram, Fire Wand
 > - +5% Curse Every Level
 
-> ## Sonic the Hedgehog:
+## Sonic the Hedgehog:
 > 
 > - Max Health - 25
 > - MoveSpeed - +100%
 > - Starting Gear - Wings
 > - +1 Starting Level, +1% MoveSpeed Every Level
 
-> ## Kain Grinder:
+## Kain Grinder:
 > 
 > - Max Health - 25
 > - Amount - +2
 > - Starting Gear - Knife
 > - +1 Max Hp Every Level, +1 Projectile every 10 levels (Max+3)
 
-> ## Dracula:
+## Dracula:
 > 
 > - Max Health - 75
 > - MoveSpeed - +30%
@@ -428,7 +428,7 @@
 > - Starting Gear - Bone
 > - +1% Speed Every Level
 
-> ## John Morris:
+## John Morris:
 > 
 > - Max Health - 85
 > - Area - +30%
@@ -436,7 +436,7 @@
 > - Starting Gear - Bible
 > - +1% Area Every Level
 
-> ## Julius Belmont:
+## Julius Belmont:
 > 
 > - Max Health - 80
 > - Duration - +40%
@@ -444,7 +444,7 @@
 > - Starting Gear - Runetracer
 > - +1% Duration Every Level
 
-> ## Simon Belmont:
+## Simon Belmont:
 > 
 > - Max Health - 65
 > - Area - +30%
@@ -453,7 +453,7 @@
 > - Amount - +1
 > - Starting Gear - Carrello 
 
-> ## Brauner:
+## Brauner:
 > 
 > - Max Health - 15
 > - MoveSpeed - +75%
@@ -461,7 +461,7 @@
 > - Starting Gear - Pentagram
 > - +1 HP Every Level
 
-> ## Knight: 
+## Knight: 
 > 
 > - Max Health - 100
 > - Armor - +5
@@ -471,7 +471,7 @@
 > - Curse- +50%
 > - Starting Gear - Axe, Duplicator
 
-> ## Soma:
+## Soma:
 > 
 > - Max Health - 55
 > - MoveSpeed - +30%
@@ -479,7 +479,7 @@
 > - Starting Gear - Gatti Armani
 > - +1% Luck Every Level
 
-> ## Spiderman:
+## Spiderman:
 > 
 > - Max Health - 95
 > - MoveSpeed - +20%
@@ -492,7 +492,7 @@
 > - Starting Gear - Laurel
 > - -10% Cooldown every 10 levels (Max-30%)
 
-> ## Battletoad "Rash":
+## Battletoad "Rash":
 > 
 > - Max Health - 75
 > - MoveSpeed - +25%
@@ -501,7 +501,7 @@
 > - Starting Gear - Whip
 > - +1% Might Every Level
 
-> ## Solid Snake:
+## Solid Snake:
 > 
 > - Max Health - 100
 > - Armor - +2
@@ -512,7 +512,7 @@
 > - Starting Gear - Phiera Der Tuphello
 > - +1% Might Every Level
 
-> ## Frosty the Snowman:
+## Frosty the Snowman:
 > 
 > - Max Health - 25 
 > - Armor - +2
@@ -526,7 +526,7 @@
 
 
 
-> ## Beelzebub:
+## Beelzebub:
 > 
 > - Max Health - 50
 > - Recovery - 0.5
@@ -539,7 +539,7 @@
 > - Starting Gear - HELLFIRE
 > - Gains 1% Curse Per Level, Gains +3 Projectiles
 
-> ## TRADIA:
+## TRADIA:
 > 
 > - Max Health - 80
 > - Recovery - 0.2
@@ -549,7 +549,7 @@
 > - Starting Gear - Necronomicon
 > - Gains 5% Curse Per Level, Gains 1000 HP at level 50
 
-> ## Chainsaw Menace:
+## Chainsaw Menace:
 > 
 > - Max Health - 55 
 > - Revoery 0.1
