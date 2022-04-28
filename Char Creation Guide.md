@@ -186,31 +186,7 @@ This is likely the easiest step in the process, we are in the home stretch!
 
 **We are now done with Character Atlas.**
 
-## Editing your exported .JSON
-
-> The final step is ensuring your textures load properly.
-
-We will be copying and reducing the existing `characters.json` by removing all the frames in that file and inserting ours from the exported `.JSON` from TexturePacker.
-
-1. Navigate to `SteamLibrary\steamapps\common\Vampire Survivors\resources\app\.webpack\renderer\assets\img` and open `characters.json` with VS Code. This does not need formatting.
- * Open a 'New File' in VS Code and copy the entirety of `characters.json` to it.
-
-2. Highlight the beginning of the frames starting with this `{` [+](https://i.imgur.com/g6YJlJS.png)
-3. Scroll down to the end of the file, with that bracket still highlighted and select this `}` just before the `]` [+](https://i.imgur.com/eZO3VTE.png)
-4. Backspace to delete all of the existing frames so it resembles [this.](https://i.imgur.com/i5POKnd.png)
-5. Open your exported `.JSON` and highlight the exported frames [like shown](https://i.imgur.com/Q4X8Yp8.png)
-6. Cut the frames and paste them into the the frame section of our[ new file.](https://i.imgur.com/BX1WIG5.png)
- * You will need to refer to the exported .JSON to find the height, width and filename to input to the new file
- * [In our case,](https://i.imgur.com/P61QH3G.png) those values are; `"w"=85` `"h"=47` and the name is `goku.png`
-7. [Input Data from exported .JSON](https://i.imgur.com/6MmOw3D.png)
-8. CTRL+A everything inside the New File with the completed texture map, and paste it into the exported `.JSON`, in our case, `goku.json` that TexturePacker created.
-
-**We are now done editing our exported .JSON**
-
 ## Testing
-
-> CTRL+S inside your exported `.JSON`
-
 
 > CTRL+S inside your `main.bundle.js`
 
