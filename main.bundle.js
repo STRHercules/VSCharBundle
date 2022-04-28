@@ -35138,7 +35138,7 @@
                                 _0x2589ac['x'] = _0xf5e8a0 + _0x3ceae4 % this['Columns'] * 0x6e + _0xf5e8a0 * (_0x3ceae4 % this['Columns']),
                                 _0x2589ac['y'] = 0x3c + _0xf5e8a0 + 0x6e * Math['floor'](_0x3ceae4 / this['Columns']) + _0xf5e8a0 * Math[_0x49f6d9(0x1c8)](_0x3ceae4 / this[_0x49f6d9(0xafb)]);
                             }
-                            var _0x4d5456 = 0xdc + _0x96d228[_0x49f6d9(0x2da)] / 0x4 * 0x6e;
+                            var _0x4d5456 = 0xdc + _0x96d228[_0x49f6d9(0x2da)] / 0x4 * 0xdc;
                             const _0x4dd023 = new Phaser['GameObjects']['Graphics'](this, {
                                 'x': 0x0,
                                 'y': 0x0
