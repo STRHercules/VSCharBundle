@@ -196,8 +196,8 @@ This is likely the easiest step in the process, we are in the home stretch!
 Depending on where you placed you custom character in your list, they should now load! Granted everything was done properly, you now have your own custom character!
 
 ### Troubleshooting
-1. If your game does not start/opens to a black screen the most likely cause of this is a missing comma, or an extra comma, or a failed ending to a bracket.
-2. Textures not loading? Make sure your edited `.JSON` had its frames replaced properly.
+ * If your game does not start/opens to a black screen the most likely cause of this is a missing comma, or an extra comma, or a failed ending to a bracket.
+
 
 
 
