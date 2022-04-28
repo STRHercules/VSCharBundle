@@ -3,8 +3,6 @@
 
 ### All characters are unique additions, do not replace or reskin anything. 
 
-*NOTE: The character list has grown too large to accurately click and scroll through using the mouse, I recommend using WASD/Arrow Keys/Controller in lieu of using the mouse.*
-
 
 ## This mod will install all of my custom characters and custom weapons and passive;
 
