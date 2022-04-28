@@ -128,6 +128,40 @@
 
 ## Frosty the Snowman
 
+## Beelzebub 
+
+## TRADIA
+
+## Chainsaw Menace
+
+## Stalker
+
+## Azazel
+
+## Cylia
+
+## Dragon Rider
+
+## Troglodyte
+
+## Imp
+
+## Lasha
+
+## Lance
+
+## Ghoul
+
+## Assault.01 XF.45/s
+
+## Assault.02 HE/F
+
+## Jimb0.1 Fx.01.4 
+
+## Assault Spider.xf/H
+
+## Suit v.34xf/H
+
 # Character Stats now:
 
 > #### Chester:
@@ -194,7 +228,7 @@
 
 > #### Goku the Saiyan:
 > 
-> - Max health - 125
+> - Max Health - 125
 > - Recovery - 2.0 
 > - Armor - +1
 > - Revival - +2
@@ -205,7 +239,7 @@
 
 > #### Vegeta Prince of Saiyans:
 > 
-> - Max health - 125
+> - Max Health - 125
 > - Recovery - 2.0 
 > - Armor - +1
 > - Revival - +2
@@ -261,7 +295,7 @@
 
 > #### Dr. Gero:
 > 
-> - Max health - 75 
+> - Max Health - 75 
 > - Armor - +1
 > - Reroll - +1500
 > - Starting Gear - Curse
@@ -270,7 +304,7 @@
 
 > #### Android 18:
 > 
-> - Max health - 70 
+> - Max Health - 70 
 > - Armor - +2
 > - MoveSpeed - +20%
 > - Might - +20%
@@ -314,7 +348,7 @@
 
 > #### Inuyasha "Dog Demon":
 > 
-> - Max health - 100
+> - Max Health - 100
 > - Recovery - 1.0
 > - Armor - +1
 > - Starting Gear - Whip, Curse
@@ -480,7 +514,7 @@
 
 > #### Frosty the Snowman:
 > 
-> - Max health - 25 
+> - Max Health - 25 
 > - Armor - +2
 > - MoveSpeed - +15%
 > - Area - +100%
@@ -488,6 +522,207 @@
 > - +1 Projectile every 10 levels (max +3)
 > - +10% Curse every Level
 
+
+
+
+
+> #### Beelzebub:
+> 
+> - Max Health - 50
+> - Recovery - 0.5
+> - Armor - +16
+> - MoveSpeed - +15%
+> - Duration - 100%
+> - Luck - -20%
+> - Curse - 25%
+> - Revival - +3
+> - Starting Gear - HELLFIRE
+> - Gains 1% Curse Per Level, Gains +3 Projectiles
+
+> #### TRADIA:
+> 
+> - Max Health - 80
+> - Recovery - 0.2
+> - MoveSpeed - +20%
+> - Might - -25%
+> - Curse - +15%
+> - Starting Gear - Necronomicon
+> - Gains 5% Curse Per Level, Gains 1000 HP at level 50
+
+> #### Chainsaw Menace:
+> 
+> - Max Health - 55 
+> - Revoery 0.1
+> - MoveSpeed - +10%
+> - Starting Gear - Longsword
+> - Gains +1% Curse Per Level
+
+## Stalker
+>
+> - Max Health - 75
+> - Recovery - 0.2
+> - MoveSpeed - +25%
+> - Area - +35%
+> - Duration - 15%
+> - Starting Gear - Whip
+> - Gains 2% Curse Per Level, Gains +6 Projectiles
+
+## Azazel
+>
+> - Max Health - 100
+> - Recovery - 0.2
+> - Area - -50%
+> - Duration - +60%
+> - Revival - +2
+> - Starting Gear - Unholy Vespers
+> - Gains 1% Might Per Level
+
+## Cylia 
+> 
+> - Max Health - 90
+> - Recovery - 0.1
+> - MoveSpeed - +15%
+> - Might - +35%
+> - Speed - -35%
+> - Amount - +1
+> - Curse - +15%
+> - Rerolls - +5
+> - Starting Gear - Shuriken
+
+## Dragon Rider
+> 
+> - Max Health - 110
+> - Revoery - 0.3
+> - Armor - +2
+> - MoveSpeed - +15%
+> - Might - +20%
+> - Curse - +75%
+> - Starting Gear - Fire Wand
+> - Gains 1% Might Per Level
+
+## Troglodyte
+> 
+> - Max Health - 75
+> - Recovery - 0.2
+> - Armor - +4
+> - Area - +50%
+> - Duration - +50%
+> - Rerolls - +2
+> - Skils - +4
+> - Starting Gear - Santa Water
+
+## Imp
+> 
+> - Max Health - 55
+> - Recovery - 0.4
+> - Armor - +2
+> - Speed - -50%
+> - Duration - +50%
+> - Magnet - +25%
+> - Revivals - +4
+> - Starting Gear - Necronomicon
+> - Gains 1% Area Per Level
+
+## Lasha
+> 
+> - Max Health - 100
+> - Recovery - 0.2
+> - MoveSpeed - +15%
+> - Might - +10%
+> - Luck - +50%
+> - Growth - +40%
+> - Starting Gear - Longsword
+> - Gains 1% Might Per Level
+
+## Lance
+> 
+> - Max Health - 95
+> - Recovery - 0.1
+> - Armor - +5
+> - MoveSpeed - +10%
+> - Might - 25%
+> - Area - +20%
+> - Duration - +40%
+> - Amount - +2
+> - Cooldown - -10%
+> - Curse - +50%
+> - Starting Gear - Spear
+> - Gains 1% Might Per Level
+
+## Ghoul
+> 
+> - Max Health - 99
+> - Recovery - 0.4
+> - Armor - +2
+> - Might - -50%
+> - Area - +25%
+> - Duration - +25%
+> - Cooldown - -50%
+> - Curse - +20%
+> - Starting Gear - Garlic
+> - Loses 1% MoveSpeed Per Level, Gains 1% Might, and Area Per Level
+
+## Assault.01 XF.45/s
+> 
+> - Max Health - 100
+> - Recovery - 0.5
+> - MoveSpeed - +15%
+> - Might - +10%
+> - Cooldown - -10%
+> - Curse - +45%
+> - Revival - +5
+> - Rerolls - +5
+> - Starting Gear - Red Gun
+> - Gains 1% Might, Area Per Level
+
+## Assault.02 HE/F
+> 
+> - Max Health - 100
+> - Recovery - 0.5
+> - Might - +35%
+> - Speed - +35%
+> - Amount - +3
+> - Curse - +40%
+> - Magnet - +25%
+> - Starting Gear - Blue Gun
+> - Gains 1% Might Per Level
+
+## Jimb0.1 Fx.01.4
+> 
+> - Max Health - 1
+> - MoveSpeed - +45%
+> - Speed - +45%
+> - Amount - +3
+> - Luck - +35%
+> - Growth - +25%
+> - Curse - +65%
+> - Magnet - +25%
+> - Starting Gear - Fire Wand, Massive Pushback AoE
+> - Gains 1% Area Per Level
+
+## Assault Spider.xf/H
+> 
+> - Max Health - 85
+> - Recovery - 0.3
+> - Armor - +3
+> - MoveSpeed - +15%
+> - Might - +20%
+> - Curse - 40%
+> - Revival - +2
+> - Starting Gear - Blue Gun
+
+## Suit v.34xf/H
+> 
+> - Max Health - 75
+> - Recovery - 0.5
+> - Armor - +2
+> - Might - +15%
+> - Area - +20%
+> - Amount - +1
+> - Cooldown - -15%
+> - Luck - +15%
+> - Curse - +25%
+> - Starting Gear - Red Gun
 _____________________________________________________________________
 # Instructions
 
