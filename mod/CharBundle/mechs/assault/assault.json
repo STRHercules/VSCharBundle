@@ -1,0 +1,86 @@
+{
+	"textures": 
+	[
+		{
+			"image": "assault.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 303,
+				"h": 48
+			},
+			"scale": 1,
+			"frames": 
+			[
+				{
+                    "filename": "assault_01.png",
+                    "frame": {"x":0,"y":0,"w":40,"h":46},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":40,"h":46},
+                    "sourceSize": {"w":40,"h":46}
+                },
+                {
+                    "filename": "assault_02.png",
+                    "frame": {"x":40,"y":0,"w":38,"h":47},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":38,"h":47},
+                    "sourceSize": {"w":38,"h":47}
+                },
+                {
+                    "filename": "assault_03.png",
+                    "frame": {"x":78,"y":0,"w":38,"h":48},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":38,"h":48},
+                    "sourceSize": {"w":38,"h":48}
+                },
+                {
+                    "filename": "assault_04.png",
+                    "frame": {"x":116,"y":0,"w":37,"h":47},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":37,"h":47},
+                    "sourceSize": {"w":37,"h":47}
+                },
+                {
+                    "filename": "assault_05.png",
+                    "frame": {"x":153,"y":0,"w":36,"h":46},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":36,"h":46},
+                    "sourceSize": {"w":36,"h":46}
+                },
+                {
+                    "filename": "assault_06.png",
+                    "frame": {"x":189,"y":0,"w":38,"h":47},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":38,"h":47},
+                    "sourceSize": {"w":38,"h":47}
+                },
+                {
+                    "filename": "assault_07.png",
+                    "frame": {"x":227,"y":0,"w":37,"h":48},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":37,"h":48},
+                    "sourceSize": {"w":37,"h":48}
+                },
+                {
+                    "filename": "assault_08.png",
+                    "frame": {"x":264,"y":0,"w":39,"h":47},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":39,"h":47},
+                    "sourceSize": {"w":39,"h":47}
+                }
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1d34fa13faa63ebb446e8e3116b32e86:dbe076086fb782958e0f74482c2f909f:a5fe7db4b869eb0f3e0b2940b9577ea8$"
+	}
+}

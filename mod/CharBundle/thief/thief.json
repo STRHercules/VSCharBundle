@@ -1,0 +1,46 @@
+{
+	"textures": 
+	[
+		{
+			"image": "thief.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 27,
+				"h": 89
+			},
+			"scale": 1,
+			"frames": 
+			[
+				{
+                    "filename": "thief_01.png",
+                    "frame": {"x":0,"y":0,"w":26,"h":29},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":26,"h":29},
+                    "sourceSize": {"w":26,"h":29}
+                },
+                {
+                    "filename": "thief_02.png",
+                    "frame": {"x":0,"y":29,"w":27,"h":31},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":27,"h":31},
+                    "sourceSize": {"w":27,"h":31}
+                },
+                {
+                    "filename": "thief_03.png",
+                    "frame": {"x":0,"y":60,"w":27,"h":29},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":27,"h":29},
+                    "sourceSize": {"w":27,"h":29}
+                }
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1d34fa13faa63ebb446e8e3116b32e86:dbe076086fb782958e0f74482c2f909f:a5fe7db4b869eb0f3e0b2940b9577ea8$"
+	}
+}

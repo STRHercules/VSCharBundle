@@ -1,0 +1,70 @@
+{
+	"textures": 
+	[
+		{
+			"image": "stalker.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 45,
+				"h": 222
+			},
+			"scale": 1,
+			"frames": 
+			[
+				{
+                    "filename": "stalker_01.png",
+                    "frame": {"x":0,"y":0,"w":45,"h":37},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":45,"h":37},
+                    "sourceSize": {"w":45,"h":37}
+                },
+                {
+                    "filename": "stalker_02.png",
+                    "frame": {"x":0,"y":37,"w":39,"h":37},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":39,"h":37},
+                    "sourceSize": {"w":39,"h":37}
+                },
+                {
+                    "filename": "stalker_03.png",
+                    "frame": {"x":0,"y":74,"w":43,"h":37},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":43,"h":37},
+                    "sourceSize": {"w":43,"h":37}
+                },
+                {
+                    "filename": "stalker_04.png",
+                    "frame": {"x":0,"y":111,"w":45,"h":37},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":45,"h":37},
+                    "sourceSize": {"w":45,"h":37}
+                },
+                {
+                    "filename": "stalker_05.png",
+                    "frame": {"x":0,"y":148,"w":41,"h":37},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":41,"h":37},
+                    "sourceSize": {"w":41,"h":37}
+                },
+                {
+                    "filename": "stalker_06.png",
+                    "frame": {"x":0,"y":185,"w":45,"h":37},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":45,"h":37},
+                    "sourceSize": {"w":45,"h":37}
+                }
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1d34fa13faa63ebb446e8e3116b32e86:dbe076086fb782958e0f74482c2f909f:a5fe7db4b869eb0f3e0b2940b9577ea8$"
+	}
+}

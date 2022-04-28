@@ -1,0 +1,70 @@
+{
+	"textures": 
+	[
+		{
+			"image": "drider.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 46,
+				"h": 238
+			},
+			"scale": 1,
+			"frames": 
+			[
+				{
+                    "filename": "drider_01.png",
+                    "frame": {"x":0,"y":0,"w":46,"h":47},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":46,"h":47},
+                    "sourceSize": {"w":46,"h":47}
+                },
+                {
+                    "filename": "drider_02.png",
+                    "frame": {"x":0,"y":47,"w":45,"h":25},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":45,"h":25},
+                    "sourceSize": {"w":45,"h":25}
+                },
+                {
+                    "filename": "drider_03.png",
+                    "frame": {"x":0,"y":72,"w":42,"h":37},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":42,"h":37},
+                    "sourceSize": {"w":42,"h":37}
+                },
+                {
+                    "filename": "drider_04.png",
+                    "frame": {"x":0,"y":109,"w":37,"h":41},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":37,"h":41},
+                    "sourceSize": {"w":37,"h":41}
+                },
+                {
+                    "filename": "drider_05.png",
+                    "frame": {"x":0,"y":150,"w":40,"h":41},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":40,"h":41},
+                    "sourceSize": {"w":40,"h":41}
+                },
+                {
+                    "filename": "drider_06.png",
+                    "frame": {"x":0,"y":191,"w":46,"h":47},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":46,"h":47},
+                    "sourceSize": {"w":46,"h":47}
+                }
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1d34fa13faa63ebb446e8e3116b32e86:dbe076086fb782958e0f74482c2f909f:a5fe7db4b869eb0f3e0b2940b9577ea8$"
+	}
+}

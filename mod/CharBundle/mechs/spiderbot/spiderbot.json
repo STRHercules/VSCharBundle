@@ -1,0 +1,86 @@
+{
+	"textures": 
+	[
+		{
+			"image": "spiderbot.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 388,
+				"h": 40
+			},
+			"scale": 1,
+			"frames": 
+			[
+				{
+                    "filename": "spiderbot_01.png",
+                    "frame": {"x":0,"y":0,"w":54,"h":38},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":54,"h":38},
+                    "sourceSize": {"w":54,"h":38}
+                },
+                {
+                    "filename": "spiderbot_02.png",
+                    "frame": {"x":54,"y":0,"w":47,"h":39},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":47,"h":39},
+                    "sourceSize": {"w":47,"h":39}
+                },
+                {
+                    "filename": "spiderbot_03.png",
+                    "frame": {"x":101,"y":0,"w":46,"h":40},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":46,"h":40},
+                    "sourceSize": {"w":46,"h":40}
+                },
+                {
+                    "filename": "spiderbot_04.png",
+                    "frame": {"x":147,"y":0,"w":47,"h":39},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":47,"h":39},
+                    "sourceSize": {"w":47,"h":39}
+                },
+                {
+                    "filename": "spiderbot_05.png",
+                    "frame": {"x":194,"y":0,"w":54,"h":38},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":54,"h":38},
+                    "sourceSize": {"w":54,"h":38}
+                },
+                {
+                    "filename": "spiderbot_06.png",
+                    "frame": {"x":248,"y":0,"w":47,"h":39},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":47,"h":39},
+                    "sourceSize": {"w":47,"h":39}
+                },
+                {
+                    "filename": "spiderbot_07.png",
+                    "frame": {"x":295,"y":0,"w":46,"h":40},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":46,"h":40},
+                    "sourceSize": {"w":46,"h":40}
+                },
+                {
+                    "filename": "spiderbot_08.png",
+                    "frame": {"x":341,"y":0,"w":47,"h":39},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":47,"h":39},
+                    "sourceSize": {"w":47,"h":39}
+                }
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1d34fa13faa63ebb446e8e3116b32e86:dbe076086fb782958e0f74482c2f909f:a5fe7db4b869eb0f3e0b2940b9577ea8$"
+	}
+}

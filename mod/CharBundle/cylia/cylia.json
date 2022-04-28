@@ -1,0 +1,70 @@
+{
+	"textures": 
+	[
+		{
+			"image": "cylia.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 122,
+				"h": 47
+			},
+			"scale": 1,
+			"frames": 
+			[
+				{
+                    "filename": "cylia_01.png",
+                    "frame": {"x":0,"y":0,"w":25,"h":45},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":25,"h":45},
+                    "sourceSize": {"w":25,"h":45}
+                },
+                {
+                    "filename": "cylia_02.png",
+                    "frame": {"x":25,"y":0,"w":19,"h":46},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":19,"h":46},
+                    "sourceSize": {"w":19,"h":46}
+                },
+                {
+                    "filename": "cylia_03.png",
+                    "frame": {"x":44,"y":0,"w":16,"h":47},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":16,"h":47},
+                    "sourceSize": {"w":16,"h":47}
+                },
+                {
+                    "filename": "cylia_04.png",
+                    "frame": {"x":60,"y":0,"w":26,"h":47},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":26,"h":47},
+                    "sourceSize": {"w":26,"h":47}
+                },
+                {
+                    "filename": "cylia_05.png",
+                    "frame": {"x":86,"y":0,"w":18,"h":46},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":18,"h":46},
+                    "sourceSize": {"w":18,"h":46}
+                },
+                {
+                    "filename": "cylia_06.png",
+                    "frame": {"x":104,"y":0,"w":18,"h":46},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":18,"h":46},
+                    "sourceSize": {"w":18,"h":46}
+                }
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1d34fa13faa63ebb446e8e3116b32e86:dbe076086fb782958e0f74482c2f909f:a5fe7db4b869eb0f3e0b2940b9577ea8$"
+	}
+}

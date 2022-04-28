@@ -1,0 +1,86 @@
+{
+	"textures": 
+	[
+		{
+			"image": "jimbo.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 244,
+				"h": 38
+			},
+			"scale": 1,
+			"frames": 
+			[
+				{
+                    "filename": "jimbo_01.png",
+                    "frame": {"x":0,"y":0,"w":32,"h":36},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":32,"h":36},
+                    "sourceSize": {"w":32,"h":36}
+                },
+                {
+                    "filename": "jimbo_02.png",
+                    "frame": {"x":32,"y":0,"w":30,"h":37},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":30,"h":37},
+                    "sourceSize": {"w":30,"h":37}
+                },
+                {
+                    "filename": "jimbo_03.png",
+                    "frame": {"x":62,"y":0,"w":30,"h":38},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":30,"h":38},
+                    "sourceSize": {"w":30,"h":38}
+                },
+                {
+                    "filename": "jimbo_04.png",
+                    "frame": {"x":92,"y":0,"w":30,"h":37},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":30,"h":37},
+                    "sourceSize": {"w":30,"h":37}
+                },
+                {
+                    "filename": "jimbo_05.png",
+                    "frame": {"x":122,"y":0,"w":32,"h":36},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":32,"h":36},
+                    "sourceSize": {"w":32,"h":36}
+                },
+                {
+                    "filename": "jimbo_06.png",
+                    "frame": {"x":154,"y":0,"w":30,"h":37},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":30,"h":37},
+                    "sourceSize": {"w":30,"h":37}
+                },
+                {
+                    "filename": "jimbo_07.png",
+                    "frame": {"x":184,"y":0,"w":30,"h":38},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":30,"h":38},
+                    "sourceSize": {"w":30,"h":38}
+                },
+                {
+                    "filename": "jimbo_08.png",
+                    "frame": {"x":214,"y":0,"w":30,"h":37},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":30,"h":37},
+                    "sourceSize": {"w":30,"h":37}
+                }
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1d34fa13faa63ebb446e8e3116b32e86:dbe076086fb782958e0f74482c2f909f:a5fe7db4b869eb0f3e0b2940b9577ea8$"
+	}
+}

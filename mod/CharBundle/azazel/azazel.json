@@ -1,0 +1,70 @@
+{
+	"textures": 
+	[
+		{
+			"image": "azazel.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 164,
+				"h": 44
+			},
+			"scale": 1,
+			"frames": 
+			[
+				{
+                    "filename": "azazel_01.png",
+                    "frame": {"x":0,"y":0,"w":23,"h":43},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":23,"h":43},
+                    "sourceSize": {"w":23,"h":43}
+                },
+                {
+                    "filename": "azazel_02.png",
+                    "frame": {"x":23,"y":0,"w":29,"h":44},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":29,"h":44},
+                    "sourceSize": {"w":29,"h":44}
+                },
+                {
+                    "filename": "azazel_03.png",
+                    "frame": {"x":52,"y":0,"w":36,"h":43},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":36,"h":43},
+                    "sourceSize": {"w":36,"h":43}
+                },
+                {
+                    "filename": "azazel_04.png",
+                    "frame": {"x":88,"y":0,"w":27,"h":44},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":27,"h":44},
+                    "sourceSize": {"w":27,"h":44}
+                },
+                {
+                    "filename": "azazel_05.png",
+                    "frame": {"x":115,"y":0,"w":24,"h":44},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":24,"h":44},
+                    "sourceSize": {"w":24,"h":44}
+                },
+                {
+                    "filename": "azazel_06.png",
+                    "frame": {"x":139,"y":0,"w":25,"h":43},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":25,"h":43},
+                    "sourceSize": {"w":25,"h":43}
+                }
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1d34fa13faa63ebb446e8e3116b32e86:dbe076086fb782958e0f74482c2f909f:a5fe7db4b869eb0f3e0b2940b9577ea8$"
+	}
+}

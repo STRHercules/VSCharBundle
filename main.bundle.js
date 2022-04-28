@@ -197,6 +197,23 @@
                         _0x4d5b02['SOMA'] = 'SOMA',
                         _0x4d5b02['SPIDERMAN'] = 'SPIDERMAN',
                         _0x4d5b02['VENOM'] = 'VENOM',
+                        _0x4d5b02['BEEZ'] = 'BEEZ',
+                        _0x4d5b02['BLOOD'] = 'BLOOD',
+                        _0x4d5b02['CHAINSAW'] = 'CHAINSAW',
+                        _0x4d5b02['STALKER'] = 'STALKER',
+                        _0x4d5b02['AZAZEL'] = 'AZAZEL',
+                        _0x4d5b02['CYLIA'] = 'CYLIA',
+                        _0x4d5b02['D_RIDER'] = 'D_RIDER',
+                        _0x4d5b02['FISHMAN'] = 'FISHMAN',
+                        _0x4d5b02['THIEF'] = 'THIEF',
+                        _0x4d5b02['LASHA'] = 'LASHA',
+                        _0x4d5b02['LANCE'] = 'LANCE',
+                        _0x4d5b02['GHOUL'] = 'GHOUL',
+                        _0x4d5b02['ASSAULT'] = 'ASSAULT',
+                        _0x4d5b02['ASSAULT2'] = 'ASSAULT2',
+                        _0x4d5b02['JIMBO'] = 'JIMBO',
+                        _0x4d5b02['SPIDERBOT'] = 'SPIDERBOT',
+                        _0x4d5b02['SUIT'] = 'SUIT',                   
                         _0x4d5b02['TOAD'] = 'TOAD',
                         _0x4d5b02['SNAKE'] = 'SNAKE',
                         _0x4d5b02['FROSTY'] = 'FROSTY',
@@ -4590,7 +4607,7 @@
                             'spriteName': 'frosty_01.png',
                             'textureName': 'FROSTY',
                             'walkingFrames': 8,
-                            'description': '+10% Curse/Level. +2 Armor. +100% Area. +1 Amount/10 Levels(Max+3)',
+                            'description': '+10% Curse/Level. +2 Armor. +100% Area. +1 Amount/20 Levels(Max+3)',
                             'isBought': !0x0,
                             'price': 0x0,
                             'maxHp': 25,
@@ -4635,6 +4652,865 @@
                             'level': 0x29,
                             'growth': -0x1
                         }
+                    ],
+                    [_0x39678f['BEEZ']]: [{
+                        'level': 0x1,
+                        'startingWeapon': _0x202927['HELLFIRE'],
+                        'charName': 'Beelzebub',
+                        'surname': 'the Mighty',
+                        'spriteName': 'beez_01.png',
+                        'textureName': 'BEEZ',
+                        'walkingFrames': 3,
+                        'description': 'Mighty. Fearsome. At least thats what he wants you to think.',
+                        'isBought': !0x0,
+                        'price': 0x0,
+                        'maxHp': 50,
+                        'armor': 0x10,
+                        'regen': 0.5,
+                        'moveSpeed': 1.15,
+                        'power': 0x1,
+                        'cooldown': 0x1,
+                        'area': 1.0,
+                        'speed': 0x1,
+                        'duration': 2.0,
+                        'amount': 0x0,
+                        'luck': 0.80,
+                        'growth': 0x1,
+                        'greed': 0x1,
+                        'curse': 1.25,
+                        'magnet': 0x0,
+                        'revivals': 0x3,
+                        'rerolls': 0x0,
+                        'skips': 0x0,
+                        'banish': 0x0,
+                        'showcase': [ ],
+                        'onEveryLevelUp': {
+                            'curse': 0.01
+                        },
+                        'debugTime': 0x348
+                    }, {
+                        'amount': 0x1,
+                        'level': 0x14,
+                        'growth': 0x1
+                    }, {
+                        'amount': 0x1,
+                        'level': 0x28,
+                        'growth': 0x1
+                    }, {
+                        'level': 0x3c
+                    }, {
+                        'amount': 0x1,
+                        'level': 0x15,
+                        'growth': -0x1
+                    }, {
+                        'level': 0x29,
+                        'growth': -0x1
+                    }
+                ],
+                [_0x39678f['BLOOD']]: [{
+                    'level': 0x1,
+                    'startingWeapon': _0x202927['SKULL'],
+                    'charName': 'TRADIA',
+                    'surname': '',
+                    'spriteName': 'blood_01.png',
+                    'textureName': 'BLOOD',
+                    'walkingFrames': 7,
+                    'description': '',
+                    'isBought': !0x0,
+                    'price': 0x0,
+                    'maxHp': 80,
+                    'armor': 0x0,
+                    'regen': 0.2,
+                    'moveSpeed': 1.20,
+                    'power': 0.75,
+                    'cooldown': 0x1,
+                    'area': 1.0,
+                    'speed': 0x1,
+                    'duration': 0x1,
+                    'amount': 0x0,
+                    'luck': 0x1,
+                    'growth': 0x1,
+                    'greed': 0x1,
+                    'curse': 1.15,
+                    'magnet': 0x0,
+                    'revivals': 0x0,
+                    'rerolls': 0x0,
+                    'skips': 0x0,
+                    'banish': 0x0,
+                    'showcase': [ ],
+                    'onEveryLevelUp': {
+                        'curse': 0.05
+                    },
+                    'debugTime': 0x348
+                }, {
+                    'amount': 0x1,
+                    'level': 0x14,
+                    'growth': 0x1
+                }, {
+                    'amount': 0x1,
+                    'level': 0x28,
+                    'growth': 0x1
+                }, {
+                    'level': 0x3c
+                }, {
+                    'amount': 0x1,
+                    'level': 0x15,
+                    'growth': -0x1
+                }, {
+                    'level': 50,
+                    'maxHp': 1000,
+                    'growth': -0x1
+                }
+            ],
+            [_0x39678f['CHAINSAW']]: [{
+                'level': 0x1,
+                'startingWeapon': _0x202927['LONGSWORD'],
+                'charName': 'Chainsaw',
+                'surname': 'Menace',
+                'spriteName': 'chainsaw_01.png',
+                'textureName': 'CHAINSAW',
+                'walkingFrames': 4,
+                'description': '+1% Curse/Level. +100% Might at level 60.',
+                'isBought': !0x0,
+                'price': 0x0,
+                'maxHp': 55,
+                'armor': 0x1,
+                'regen': 0.1,
+                'moveSpeed': 1.10,
+                'power': 0x1,
+                'cooldown': 0x1,
+                'area': 0x1,
+                'speed': 0x1,
+                'duration': 0x1,
+                'amount': 0x0,
+                'luck': 0x1,
+                'growth': 0x1,
+                'greed': 0x1,
+                'curse': 0x1,
+                'magnet': 0x0,
+                'revivals': 0x0,
+                'rerolls': 0x0,
+                'skips': 0x0,
+                'banish': 0x0,
+                'showcase': [ ],
+                'onEveryLevelUp': {
+                    'curse': 0.01
+                },
+                'debugTime': 0x348
+            }, {
+                'level': 0x14,
+                'growth': 0x1
+            }, {
+                'level': 0x28,
+                'growth': 0x1
+            }, {
+                'power': 2.0,
+                'level': 0x3c
+            }, {
+                'level': 0x15,
+                'growth': -0x1
+            }, {
+                'level': 0x29,
+                'growth': -0x1
+            }
+        ],
+        [_0x39678f['STALKER']]: [{
+            'level': 0x1,
+            'startingWeapon': _0x202927['WHIP'],
+            'charName': 'Stalker',
+            'surname': '',
+            'spriteName': 'stalker_01.png',
+            'textureName': 'STALKER',
+            'walkingFrames': 6,
+            'description': '+2% Curse/Level. +2 Amount/20 Levels(Max+6)',
+            'isBought': !0x0,
+            'price': 0x0,
+            'maxHp': 75,
+            'armor': 0x0,
+            'regen': 0.2,
+            'moveSpeed': 1.25,
+            'power': 0x1,
+            'cooldown': 0x1,
+            'area': 1.35,
+            'speed': 0x1,
+            'duration': 1.15,
+            'amount': 0x0,
+            'luck': 0x1,
+            'growth': 0x1,
+            'greed': 0x1,
+            'curse': 0x1,
+            'magnet': 0x0,
+            'revivals': 0x0,
+            'rerolls': 0x0,
+            'skips': 0x0,
+            'banish': 0x0,
+            'showcase': [ ],
+            'onEveryLevelUp': {
+                'curse': 0.02
+            },
+            'debugTime': 0x348
+        }, {
+            'amount': 0x2,
+            'level': 0x14,
+            'growth': 0x1
+        }, {
+            'amount': 0x2,
+            'level': 0x28,
+            'growth': 0x1
+        }, {
+            'level': 0x3c
+        }, {
+            'amount': 0x2,
+            'level': 0x15,
+            'growth': -0x1
+        }, {
+            'level': 0x29,
+            'growth': -0x1
+        }
+    ],                                                                      
+                                    [_0x39678f['AZAZEL']]: [{
+                                        'hidden': 0,
+                                        'level': 0x1,
+                                        'startingWeapon': _0x202927['VESPERS'],
+                                        'charName': 'Azazel',
+                                        'surname': '',
+                                        'spriteName': 'azazel_01.png',
+                                        'textureName': 'AZAZEL',
+                                        'walkingFrames': 6,
+                                        'description': '-50% Area. +60% Duration. +1% Might/Level.',
+                                        'isBought': 1,
+                                        'price': 10,
+                                        'completedStages': [],
+                                        'maxHp': 100,
+                                        'armor': 0x0,
+                                        'regen': 0.2,
+                                        'moveSpeed': 0x1,
+                                        'power': 0x1,
+                                        'cooldown': 0x1,
+                                        'area': 0.50,
+                                        'speed': 0x1,
+                                        'duration': 1.6,
+                                        'amount': 0x0,
+                                        'luck': 0x1,
+                                        'growth': 0x1,
+                                        'greed': 0x1,
+                                        'curse': 0x1,
+                                        'magnet': 0x0,
+                                        'revivals': 0x2,
+                                        'rerolls': 0x0,
+                                        'skips': 0x0,
+                                        'banish': 0x0,
+                                        'onEveryLevelUp': {
+                                            'power': 0.01
+                                        },
+                                        'showcase': [ ]
+                                    }, {
+                                        'growth': 0x1,
+                                        'level': 0x14
+                                    }, {
+                                        'growth': 0x1,
+                                        'level': 0x28
+                                    }, {
+                                        'level': 0x15,
+                                        'growth': -0x1
+                                    }, {
+                                        'level': 0x29,
+                                        'growth': -0x1
+                                    }
+                                ],
+                            [_0x39678f['CYLIA']]: [{
+                                'hidden': 0,
+                                'level': 0x1,
+                                'startingWeapon': _0x202927['STAR'],
+                                'charName': 'Cylia',
+                                'surname': '',
+                                'spriteName': 'cylia_01.png',
+                                'textureName': 'CYLIA',
+                                'walkingFrames': 6,
+                                'description': 'Slower projectiles. Stronger Throw.',
+                                'isBought': 1,
+                                'price': 10,
+                                'completedStages': [],
+                                'maxHp': 90,
+                                'armor': 0x0,
+                                'regen': 0.1,
+                                'moveSpeed': 1.15,
+                                'power': 1.35,
+                                'cooldown': 0x1,
+                                'area': 0x1,
+                                'speed': 0.65,
+                                'duration': 0x1,
+                                'amount': 0x1,
+                                'luck': 0x1,
+                                'growth': 0x1,
+                                'greed': 0x1,
+                                'curse': 1.15,
+                                'magnet': 0x0,
+                                'revivals': 0x0,
+                                'rerolls': 0x5,
+                                'skips': 0x0,
+                                'banish': 0x0,
+                                'showcase': [ ]
+                            }, {
+                                'growth': 0x1,
+                                'level': 0x14
+                            }, {
+                                'growth': 0x1,
+                                'level': 0x28
+                            }, {
+                                'level': 0x15,
+                                'growth': -0x1
+                            }, {
+                                'level': 0x29,
+                                'growth': -0x1
+                            }
+                        ],
+                        [_0x39678f['D_RIDER']]: [{
+                            'hidden': 0,
+                            'level': 0x1,
+                            'startingWeapon': _0x202927['FIREBALL'],
+                            'prefix': 'Dragon',
+                            'charName': 'Rider',
+                            'surname': '',
+                            'spriteName': 'drider_01.png',
+                            'textureName': 'D_RIDER',
+                            'walkingFrames': 6,
+                            'description': 'Take flight.',
+                            'isBought': 1,
+                            'price': 10,
+                            'completedStages': [],
+                            'maxHp': 110,
+                            'armor': 0x2,
+                            'regen': 0.3,
+                            'moveSpeed': 1.15,
+                            'power': 1.20,
+                            'cooldown': 0x1,
+                            'area': 0x1,
+                            'speed': 0x1,
+                            'duration': 0x1,
+                            'amount': 0x0,
+                            'luck': 0x1,
+                            'growth': 0x1,
+                            'greed': 0x1,
+                            'curse': 1.75,
+                            'magnet': 0x0,
+                            'revivals': 0x0,
+                            'rerolls': 0x0,
+                            'skips': 0x0,
+                            'banish': 0x0,
+                            'onEveryLevelUp': {
+                                'power': 0.01
+                            },
+                            'showcase': [ ]
+                        }, {
+                            'growth': 0x1,
+                            'level': 0x14
+                        }, {
+                            'growth': 0x1,
+                            'level': 0x28
+                        }, {
+                            'level': 0x15,
+                            'growth': -0x1
+                        }, {
+                            'level': 0x29,
+                            'growth': -0x1
+                        }
+                    ],
+                    [_0x39678f['FISHMAN']]: [{
+                        'hidden': 0,
+                        'level': 0x1,
+                        'startingWeapon': _0x202927['HOLYWATER'],
+                        'charName': 'Troglodyte',
+                        'surname': '',
+                        'spriteName': 'fish_01.png',
+                        'textureName': 'FISHMAN',
+                        'walkingFrames': 4,
+                        'description': 'Mrglgrl',
+                        'isBought': 1,
+                        'price': 10,
+                        'completedStages': [],
+                        'maxHp': 75,
+                        'armor': 0x4,
+                        'regen': 0.2,
+                        'moveSpeed': 0x1,
+                        'power': 0x1,
+                        'cooldown': 0x1,
+                        'area': 1.5,
+                        'speed': 0x1,
+                        'duration': 1.5,
+                        'amount': 0x0,
+                        'luck': 0x1,
+                        'growth': 0x1,
+                        'greed': 0x1,
+                        'curse': 0x1,
+                        'magnet': 0x0,
+                        'revivals': 0x0,
+                        'rerolls': 0x2,
+                        'skips': 0x4,
+                        'banish': 0x0,
+                        'showcase': [ ]
+                    }, {
+                        'growth': 0x1,
+                        'level': 0x14
+                    }, {
+                        'growth': 0x1,
+                        'level': 0x28
+                    }, {
+                        'level': 0x15,
+                        'growth': -0x1
+                    }, {
+                        'level': 0x29,
+                        'growth': -0x1
+                    }
+                    ],
+                    [_0x39678f['THIEF']]: [{
+                        'hidden': 0,
+                        'level': 0x1,
+                        'startingWeapon': _0x202927['SKULL'],
+                        'charName': 'Imp',
+                        'surname': '',
+                        'spriteName': 'thief_01.png',
+                        'textureName': 'THIEF',
+                        'walkingFrames': 3,
+                        'description': 'How impish.',
+                        'isBought': 1,
+                        'price': 10,
+                        'completedStages': [],
+                        'maxHp': 55,
+                        'armor': 0x2,
+                        'regen': 0.4,
+                        'moveSpeed': 0x1,
+                        'power': 0x1,
+                        'cooldown': 0x1,
+                        'area': 0x1,
+                        'speed': 0.50,
+                        'duration': 1.5,
+                        'amount': 0x0,
+                        'luck': 1.5,
+                        'growth': 0x1,
+                        'greed': 0x1,
+                        'curse': 0x1,
+                        'magnet': 0.25,
+                        'revivals': 0x4,
+                        'rerolls': 0x0,
+                        'skips': 0x0,
+                        'banish': 0x0,
+                        'onEveryLevelUp': {
+                            'area': 0.01
+                        },
+                        'showcase': [ ]
+                    }, {
+                        'growth': 0x1,
+                        'level': 0x14
+                    }, {
+                        'growth': 0x1,
+                        'level': 0x28
+                    }, {
+                        'level': 0x15,
+                        'growth': -0x1
+                    }, {
+                        'level': 0x29,
+                        'growth': -0x1
+                    }
+                    ],
+                    [_0x39678f['LASHA']]: [{
+                        'hidden': 0,
+                        'level': 0x1,
+                        'startingWeapon': _0x202927['LONGSWORD'],
+                        'charName': 'Lasha',
+                        'surname': 'Thunderfist',
+                        'spriteName': 'lasha_01.png',
+                        'textureName': 'LASHA',
+                        'walkingFrames': 9,
+                        'description': 'Elegant and lethal, Lasha is unmatched with a blade.',
+                        'isBought': 1,
+                        'price': 10,
+                        'completedStages': [],
+                        'maxHp': 100,
+                        'armor': 0x0,
+                        'regen': 0.2,
+                        'moveSpeed': 1.15,
+                        'power': 1.10,
+                        'cooldown': 0x1,
+                        'area': 0x1,
+                        'speed': 0x1,
+                        'duration': 0x1,
+                        'amount': 0x0,
+                        'luck': 1.5,
+                        'growth': 1.4,
+                        'greed': 0x1,
+                        'curse': 0x1,
+                        'magnet': 0x0,
+                        'revivals': 0x0,
+                        'rerolls': 0x0,
+                        'skips': 0x0,
+                        'banish': 0x0,
+                        'onEveryLevelUp': {
+                            'power': 0.01
+                        },
+                        'showcase': [ ]
+                    }, {
+                        'growth': 0x1,
+                        'level': 0x14
+                    }, {
+                        'growth': 0x1,
+                        'level': 0x28
+                    }, {
+                        'level': 0x15,
+                        'growth': -0x1
+                    }, {
+                        'level': 0x29,
+                        'growth': -0x1
+                    }
+                    ],
+                    [_0x39678f['LANCE']]: [{
+                        'hidden': 0,
+                        'level': 0x1,
+                        'startingWeapon': _0x202927['SPEAR'],
+                        'prefix': 'Ser',
+                        'charName': 'Lance',
+                        'surname': 'Braveheart',
+                        'spriteName': 'lance_01.png',
+                        'textureName': 'LANCE',
+                        'walkingFrames': 14,
+                        'description': 'Valiant, Heroic, maybe even Handsome. Who knows.',
+                        'isBought': 1,
+                        'price': 10,
+                        'completedStages': [],
+                        'maxHp': 95,
+                        'armor': 0x5,
+                        'regen': 0.1,
+                        'moveSpeed': 1.10,
+                        'power': 1.25,
+                        'cooldown': 0.90,
+                        'area': 1.2,
+                        'speed': 0x1,
+                        'duration': 1.4,
+                        'amount': 0x2,
+                        'luck': 0x1,
+                        'growth': 0x1,
+                        'greed': 0x1,
+                        'curse': 1.5,
+                        'magnet': 0x0,
+                        'revivals': 0x0,
+                        'rerolls': 0x0,
+                        'skips': 0x0,
+                        'banish': 0x0,
+                        'onEveryLevelUp': {
+                            'power': 0.01
+                        },
+                        'showcase': [ ]
+                    }, {
+                        'growth': 0x1,
+                        'level': 0x14
+                    }, {
+                        'growth': 0x1,
+                        'level': 0x28
+                    }, {
+                        'level': 0x15,
+                        'growth': -0x1
+                    }, {
+                        'level': 0x29,
+                        'growth': -0x1
+                    }
+                    ],
+                    [_0x39678f['GHOUL']]: [{
+                        'hidden': 0,
+                        'level': 0x1,
+                        'startingWeapon': _0x202927['GARLIC'],
+                        'charName': 'Ghoul',
+                        'surname': '',
+                        'spriteName': 'ghoul_01.png',
+                        'textureName': 'GHOUL',
+                        'walkingFrames': 7,
+                        'description': 'How ghoulish.',
+                        'isBought': 1,
+                        'price': 10,
+                        'completedStages': [],
+                        'maxHp': 99,
+                        'armor': 0x2,
+                        'regen': 0.4,
+                        'moveSpeed': 0x1,
+                        'power': 0.5,
+                        'cooldown': 0.5,
+                        'area': 1.25,
+                        'speed': 0x1,
+                        'duration': 1.25,
+                        'amount': 0x0,
+                        'luck': 0x1,
+                        'growth': 0x1,
+                        'greed': 0x1,
+                        'curse': 1.20,
+                        'magnet': 0x0,
+                        'revivals': 0x0,
+                        'rerolls': 0x0,
+                        'skips': 0x0,
+                        'banish': 0x0,
+                        'onEveryLevelUp': {
+                            'power': 0.01,
+                            'moveSpeed': -0.01,
+                            'area': 0.01
+                        },
+                        'showcase': [ ]
+                    }, {
+                        'growth': 0x1,
+                        'level': 0x14
+                    }, {
+                        'growth': 0x1,
+                        'level': 0x28
+                    }, {
+                        'level': 0x15,
+                        'growth': -0x1
+                    }, {
+                        'level': 0x29,
+                        'growth': -0x1
+                    }
+                    ],
+                    [_0x39678f['ASSAULT']]: [{
+                        'hidden': 0,
+                        'level': 0x1,
+                        'startingWeapon': _0x202927['GUNS'],
+                        'charName': 'Assault.01',
+                        'surname': 'XF.45/S',
+                        'spriteName': 'assault_01.png',
+                        'textureName': 'ASSAULT',
+                        'walkingFrames': 8,
+                        'description': '01010100 01101000 01101001 01110011 00100000',
+                        'isBought': 1,
+                        'price': 10,
+                        'completedStages': [],
+                        'maxHp': 100,
+                        'armor': 0x0,
+                        'regen': 0.5,
+                        'moveSpeed': 1.15,
+                        'power': 1.10,
+                        'cooldown': 0.90,
+                        'area': 0x1,
+                        'speed': 0x1,
+                        'duration': 0x1,
+                        'amount': 0x0,
+                        'luck': 0x1,
+                        'growth': 0x1,
+                        'greed': 0x1,
+                        'curse': 1.45,
+                        'magnet': 0x0,
+                        'revivals': 0x5,
+                        'rerolls': 0x5,
+                        'skips': 0x0,
+                        'banish': 0x0,
+                        'onEveryLevelUp': {
+                            'power': 0.01,
+                            'area': 0.01
+                        },
+                        'showcase': [ ]
+                    }, {
+                        'growth': 0x1,
+                        'level': 0x14
+                    }, {
+                        'growth': 0x1,
+                        'level': 0x28
+                    }, {
+                        'level': 0x15,
+                        'growth': -0x1
+                    }, {
+                        'level': 0x29,
+                        'growth': -0x1
+                    }
+                    ],
+                    [_0x39678f['ASSAULT2']]: [{
+                        'hidden': 0,
+                        'level': 0x1,
+                        'startingWeapon': _0x202927['GUNS2'],
+                        'charName': 'Assault.02',
+                        'surname': 'HE/F',
+                        'spriteName': 'assault2_01.png',
+                        'textureName': 'ASSAULT2',
+                        'walkingFrames': 8,
+                        'description': '01110101 01100011 01101011 01110011',
+                        'isBought': 1,
+                        'price': 10,
+                        'completedStages': [],
+                        'maxHp': 100,
+                        'armor': 0x0,
+                        'regen': 0.5,
+                        'moveSpeed': 0x1,
+                        'power': 1.35,
+                        'cooldown': 0x1,
+                        'area': 0x1,
+                        'speed': 1.35,
+                        'duration': 0x1,
+                        'amount': 0x3,
+                        'luck': 0x1,
+                        'growth': 0x1,
+                        'greed': 0x1,
+                        'curse': 1.40,
+                        'magnet': 0.25,
+                        'revivals': 0x0,
+                        'rerolls': 0x0,
+                        'skips': 0x0,
+                        'banish': 0x0,
+                        'onEveryLevelUp': {
+                            'power': 0.01
+                        },
+                        'showcase': [ ]
+                    }, {
+                        'growth': 0x1,
+                        'level': 0x14
+                    }, {
+                        'growth': 0x1,
+                        'level': 0x28
+                    }, {
+                        'level': 0x15,
+                        'growth': -0x1
+                    }, {
+                        'level': 0x29,
+                        'growth': -0x1
+                    }
+                    ],
+                    [_0x39678f['JIMBO']]: [{
+                        'hidden': 0,
+                        'level': 0x1,
+                        'startingWeapon': _0x202927['FIREBALL'],
+                        'charName': 'Jimb0.1',
+                        'surname': 'Fx.01.4',
+                        'spriteName': 'jimbo_01.png',
+                        'textureName': 'JIMBO',
+                        'walkingFrames': 8,
+                        'description': '01110010 01100001 01101110 01110011 01101100 01100001 01110100 01100101',
+                        'isBought': 1,
+                        'price': 10,
+                        'completedStages': [],
+                        'maxHp': 1,
+                        'armor': 0x0,
+                        'regen': 0x0,
+                        'moveSpeed': 1.45,
+                        'power': 0x1,
+                        'cooldown': 0x1,
+                        'area': 0x1,
+                        'speed': 1.45,
+                        'duration': 0x1,
+                        'amount': 0x3,
+                        'luck': 1.35,
+                        'growth': 1.25,
+                        'greed': 0x1,
+                        'curse': 1.65,
+                        'magnet': 0.25,
+                        'revivals': 0x0,
+                        'rerolls': 0x0,
+                        'skips': 0x0,
+                        'banish': 0x0,
+                        'exWeapons': [_0x202927['SARABANDE']],
+                        'onEveryLevelUp': {
+                            'area': 0.01
+                        },
+                        'showcase': [ ]
+                    }, {
+                        'growth': 0x1,
+                        'level': 0x14
+                    }, {
+                        'growth': 0x1,
+                        'level': 0x28
+                    }, {
+                        'level': 0x15,
+                        'growth': -0x1
+                    }, {
+                        'level': 0x29,
+                        'growth': -0x1
+                    }
+                    ],
+                    [_0x39678f['SPIDERBOT']]: [{
+                        'hidden': 0,
+                        'level': 0x1,
+                        'startingWeapon': _0x202927['GUNS2'],
+                        'charName': 'Assault',
+                        'surname': 'Spider.xf/H',
+                        'spriteName': 'spiderbot_01.png',
+                        'textureName': 'SPIDERBOT',
+                        'walkingFrames': 8,
+                        'description': '01010111 01101000 01101111 01100101',
+                        'isBought': 1,
+                        'price': 10,
+                        'completedStages': [],
+                        'maxHp': 85,
+                        'armor': 0x3,
+                        'regen': 0.3,
+                        'moveSpeed': 1.15,
+                        'power': 1.2,
+                        'cooldown': 0x1,
+                        'area': 0x1,
+                        'speed': 0x1,
+                        'duration': 0x1,
+                        'amount': 0x0,
+                        'luck': 0x1,
+                        'growth': 0x1,
+                        'greed': 0x1,
+                        'curse': 1.4,
+                        'magnet': 0x0,
+                        'revivals': 0x2,
+                        'rerolls': 0x0,
+                        'skips': 0x0,
+                        'banish': 0x0,
+                        'showcase': [ ]
+                    }, {
+                        'growth': 0x1,
+                        'level': 0x14
+                    }, {
+                        'growth': 0x1,
+                        'level': 0x28
+                    }, {
+                        'level': 0x15,
+                        'growth': -0x1
+                    }, {
+                        'level': 0x29,
+                        'growth': -0x1
+                    }
+                    ],
+                    [_0x39678f['SUIT']]: [{
+                        'hidden': 0,
+                        'level': 0x1,
+                        'startingWeapon': _0x202927['GUNS'],
+                        'charName': 'Suit',
+                        'surname': 'v.34xf/H',
+                        'spriteName': 'suit_01.png',
+                        'textureName': 'SUIT',
+                        'walkingFrames': 8,
+                        'description': '01110011 00100000 01101001 01110011',
+                        'isBought': 1,
+                        'price': 10,
+                        'completedStages': [],
+                        'maxHp': 75,
+                        'armor': 0x2,
+                        'regen': 0.5,
+                        'moveSpeed': 0x1,
+                        'power': 1.15,
+                        'cooldown': 0.85,
+                        'area': 1.20,
+                        'speed': 0x1,
+                        'duration': 0x1,
+                        'amount': 0x1,
+                        'luck': 1.15,
+                        'growth': 0x1,
+                        'greed': 0x1,
+                        'curse': 1.25,
+                        'magnet': 0x0,
+                        'revivals': 0x0,
+                        'rerolls': 0x0,
+                        'skips': 0x0,
+                        'banish': 0x0,
+                        'showcase': [ ]
+                    }, {
+                        'growth': 0x1,
+                        'level': 0x14
+                    }, {
+                        'growth': 0x1,
+                        'level': 0x28
+                    }, {
+                        'level': 0x15,
+                        'growth': -0x1
+                    }, {
+                        'level': 0x29,
+                        'growth': -0x1
+                    }
                     ],
                         [_0x39678f['NEO']]: [{
                                 'hidden': !0x0,
@@ -32528,8 +33404,25 @@
                             this['load']['atlas']('TOAD', 'mod/CharBundle/toad/toad.png', 'mod/CharBundle/toad/toad.json'),
                             this['load']['atlas']('SNAKE', 'mod/CharBundle/snake/snake.png', 'mod/CharBundle/snake/snake.json'),
                             this['load']['atlas']('FROSTY', 'mod/CharBundle/frosty/frosty.png', 'mod/CharBundle/frosty/frosty.json'),
+                            this['load']['atlas']('BEEZ', 'mod/CharBundle/beez/beez.png', 'mod/CharBundle/beez/beez.json'),
+                            this['load']['atlas']('BLOOD', 'mod/CharBundle/blood/blood.png', 'mod/CharBundle/blood/blood.json'),
+                            this['load']['atlas']('CHAINSAW', 'mod/CharBundle/chainsaw/chainsaw.png', 'mod/CharBundle/chainsaw/chainsaw.json'),
+                            this['load']['atlas']('STALKER', 'mod/CharBundle/stalker/stalker.png', 'mod/CharBundle/stalker/stalker.json'),
                             this['load']['atlas']('SPIDERMAN', 'mod/CharBundle/spiderman/spiderman.png', 'mod/CharBundle/spiderman/spiderman.json'),
                             this['load']['atlas']('VENOM', 'mod/CharBundle/venom/venom.png', 'mod/CharBundle/venom/venom.json'),
+                            this['load']['atlas']('AZAZEL', 'mod/CharBundle/azazel/azazel.png', 'mod/CharBundle/azazel/azazel.json'),
+                            this['load']['atlas']('CYLIA', 'mod/CharBundle/cylia/cylia.png', 'mod/CharBundle/cylia/cylia.json'),
+                            this['load']['atlas']('D_RIDER', 'mod/CharBundle/drider/drider.png', 'mod/CharBundle/drider/drider.json'),
+                            this['load']['atlas']('FISHMAN', 'mod/CharBundle/fish/fish.png', 'mod/CharBundle/fish/fish.json'),
+                            this['load']['atlas']('THIEF', 'mod/CharBundle/thief/thief.png', 'mod/CharBundle/thief/thief.json'),
+                            this['load']['atlas']('LASHA', 'mod/CharBundle/lasha/lasha.png', 'mod/CharBundle/lasha/lasha.json'),
+                            this['load']['atlas']('LANCE', 'mod/CharBundle/lance/lance.png', 'mod/CharBundle/lance/lance.json'),
+                            this['load']['atlas']('GHOUL', 'mod/CharBundle/ghoul/ghoul.png', 'mod/CharBundle/ghoul/ghoul.json'),
+                            this['load']['atlas']('ASSAULT', 'mod/CharBundle/mechs/assault/assault.png', 'mod/CharBundle/mechs/assault/assault.json'),
+                            this['load']['atlas']('ASSAULT2', 'mod/CharBundle/mechs/assault2/assault2.png', 'mod/CharBundle/mechs/assault2/assault2.json'),
+                            this['load']['atlas']('JIMBO', 'mod/CharBundle/mechs/jimbo/jimbo.png', 'mod/CharBundle/mechs/jimbo/jimbo.json'),
+                            this['load']['atlas']('SPIDERBOT', 'mod/CharBundle/mechs/spiderbot/spiderbot.png', 'mod/CharBundle/mechs/spiderbot/spiderbot.json'),
+                            this['load']['atlas']('SUIT', 'mod/CharBundle/mechs/suit/suit.png', 'mod/CharBundle/mechs/suit/suit.json'),
                             this['load']['atlas']('KI', 'mod/CharBundle/goku/blasts.png', 'mod/CharBundle/goku/blasts.json'),
                             this[_0xf0ebb8(0xa7a)][_0xf0ebb8(0x4b9)]('stageComplete', 'assets/img/stageComplete.png'),
                             this['load']['atlas']('UI', 'assets/img/UI.png', 'assets/img/UI.json'),
