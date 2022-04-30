@@ -1,10 +1,10 @@
-# This bundle contains all of my custom characters for Vampire Survivors.
+# This bundle contains all of my custom content for Vampire Survivors.
 
 
-### All characters are unique additions, do not replace or reskin anything. 
+### Everything included are unique additions, do not replace or reskin anything. 
 
 
-## This mod will install all of my custom characters and custom weapons and passive;
+## This mod will install all of my custom characters,weapons, map and sounds;
 
 # Weapons
 
@@ -13,12 +13,14 @@
 > - Projectiles are faster
 > - Ramps up to match Holy Wand
 > - Only available to Goku and Saiyaman
+> - New! Sound
 
 ## Longsword
 > - Acts similarly to Whip, has a smaller starting Area
 > - Will attack faster than Whip
 > - More power climb and speed gain than Whip
 > - In the weapon pool, but rare
+> - New! Sound
 
 ## Necronomicon
 > - Acts similarly to Magic Wand
@@ -34,6 +36,7 @@
 > - Penetrates many enemies
 > - Does not gain additional Amount (natively from leveling weapon)
 > - In the weapon pool, but rare
+> - New! Sound
 
 ## Shuriken
 > - Acts similarly to Magic Wand
@@ -41,12 +44,71 @@
 > - Penetrates many enemies
 > - Ramps up to match Thousand Edge
 > - In the weapon pool, but rare
+> - New! Sound
+
+## Missile Mk.1
+> - Fired at nearest enemy
+> - Single projectile
+> - Scaling Power
+> - Scaling Crit Chance
+> - Eventually fires faster
+
+## Missile Mk.2
+> - Fired at nearest enemy
+> - Single projectile
+> - Scaling Power
+> - Scaling Projectile Speed
+> - Eventually gains Penetrate
+> - Eventually fires faster
+
+## Missile Mk.3
+> - Fired at nearest enemy
+> - Two Projectiles
+> - Penetrates
+> - Gains Speed, Power, Penetration
+> - Eventually fires faster
+
+## Missile Mk.4
+> - Fired at nearest enemy
+> - Six Projectiles
+> - Weak in damage, high in number
+> - Scales in power
+> - Eventually fires faster
+> - Eventually gains more projectiles
+
+## Repulsor
+> - Fired at nearest enemy
+> - Fires Slow
+> - High Damage
+> - Scales in Power
+> - Scales in Penetration
+
+## Pulsar
+> - Fired at nearest enemy
+> - Fires Fast
+> - Low Damage
+> - Scales in Speed
+> - Scales in Penetration
 
 # Passives 
 
 ## Gordon's Shield
 > - Only available to Gordon
 > - Reduces incoming damage by **2** per level
+
+# Map
+
+## Chaotic Library
+> 
+> - Base Enemy Health - +15%
+> - Hyper Gold Bonus - +75%
+> - Hyper Luck Bonus - +20%
+> - Identical aesthetically to Inlaid Library
+> - No Death at 30 minutes
+> - No Enemy wipe at 30 minutes
+> - Waves from Bone Zone have been added from 30-60 minutes
+> - Custom Waves have been added for 60+ Minutes
+> - Map unlocked by reaching **level 100** as **any character** on *The Bone Zone*
 
 # Characters
 
@@ -234,6 +296,7 @@
 > - Starting Gear - Ki Blasts (NEW Custom Weapon)
 > - +1 Projectile every 10 levels (max +3)
 > - +1% Might Every level
+> - New! Background Music
 
 ## Vegeta Prince of Saiyans:
 > 
@@ -245,6 +308,7 @@
 > - Starting Gear - Holy Wand
 > - +1 Projectile every 20 levels (max +3)
 > - +1% Might Every level
+> - New! Background Music
 
 ## Gohan, son of Goku: 
 > 
@@ -255,6 +319,7 @@
 > - Curse - +25%
 > - Starting Gear - Ebony Wings, Peachone
 > - +5% Might, MoveSpeed, Curse every 10 levels (Max +20%)
+> - New! Background Music
 
 ## Beerus the Destroyer:
 > 
@@ -273,6 +338,7 @@
 > - Growth - +50%
 > - Starting Gear - Runetracer
 > - +1% Luck Every Level
+> - New! Background Music
 
 ## Majin Buu:
 > 
@@ -290,6 +356,7 @@
 ## Krillin:
 > 
 > - Toastie clone
+> - New! Background Music
 
 ## Dr. Gero:
 > 
@@ -299,6 +366,7 @@
 > - Starting Gear - Curse
 > - Starting Levels - +1
 > - +10% Might Every 10 levels (Max+70%)
+> - New! Background Music
 
 ## Android 18:
 > 
@@ -321,11 +389,13 @@
 > - Banish +2
 > - Starting Gear - Explosion AoE
 > - +20% Might Every 10 levels (Max+140%)
+> - New! Background Music
 
 ## Mr. Satan:
 > 
 > - OH YEAH!
 > - THE CHAMP IS HERE!
+> - New! Background Music
 
 ## Wolverine:
 > 
@@ -335,6 +405,7 @@
 > - Revival - +1
 > - Starting Gear - Whip, Armor, Curse, Pummola
 > - +1 Might every level
+> - New! Background Music
 
 ## Cyclops:
 > 
@@ -343,6 +414,7 @@
 > - Armor +2
 > - Starting Gear - Fire Wand
 > - +1 Might, Area every level
+> - New! Background Music
 
 ## Inuyasha "Dog Demon":
 > 
@@ -351,6 +423,7 @@
 > - Armor - +1
 > - Starting Gear - Whip, Curse
 > - +1 Might Every Level
+> - New! Background Music
 
 ## Mikey:
 > 
@@ -361,6 +434,7 @@
 > - Extra Levels - +1
 > - Starting Gear - Laurel
 > - +1% Might Every Level
+> - New! Background Music
 
 ## Gundam:
 > 
@@ -370,7 +444,7 @@
 > - MoveSpeed - +20%
 > - Speed - +30%
 > - Duration - +20%
-> - Starting Gear - Dual Guns
+> - Starting Gear - Pulsar
 > - +1% Might Every Level
 
 ## Ghost:
@@ -383,6 +457,7 @@
 > - Curse - +50%
 > - Starting Gear - Cherry Bomb
 > - +2 Curse Every Level | +1% MoveSpeed Every Level
+> - New! Background Music
 
 ## Batman:
 > 
@@ -402,6 +477,7 @@
 > - Revival - +5
 > - Starting Gear - Pentagram, Fire Wand
 > - +5% Curse Every Level
+> - New! Background Music
 
 ## Sonic the Hedgehog:
 > 
@@ -409,6 +485,7 @@
 > - MoveSpeed - +100%
 > - Starting Gear - Wings
 > - +1 Starting Level, +1% MoveSpeed Every Level
+> - New! Background Music
 
 ## Kain Grinder:
 > 
@@ -519,10 +596,6 @@
 > - Starting Gear - Cherrybomb
 > - +1 Projectile every 10 levels (max +3)
 > - +10% Curse every Level
-
-
-
-
 
 ## Beelzebub:
 > 

@@ -3699,7 +3699,6 @@
                                 'onEveryLevelUp': {
                                     'power': 0.01
                                 },
-                                'exWeapons': [_0x202927['GUNS2']],
                                 'debugTime': 0x348
                             }, {
                                 'level': 0x14,
@@ -5536,10 +5535,10 @@
                             _0x48e228['STEP1'] = 'STEP1',
                             _0x48e228[_0x4096e4(0x7a2)] = 'STEP2',
                             _0x48e228[_0x4096e4(0x6d1)] = 'STEP3',
-                            _0x48e228['STEP4'] = 'STEP4',   
-                            _0x48e228['LASER'] = 'LASER',  
-                            _0x48e228['KI'] = 'KI',  
-                            _0x48e228['THROW'] = 'THROW', 
+                            _0x48e228['STEP4'] = 'STEP4',
+                            _0x48e228['LASER'] = 'LASER',
+                            _0x48e228['KI'] = 'KI',
+                            _0x48e228['THROW'] = 'THROW',
                             _0x48e228['WOOSH'] = 'WOOSH';
                     }
                     (_0x4e8435 || (_0x4e8435 = {}));
