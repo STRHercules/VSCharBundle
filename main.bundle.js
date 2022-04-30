@@ -33314,10 +33314,10 @@
                                     'BGM_new_rate': 1.0625
                                 },
                                 'tileset': {
-                                    'setKey': 'LibraryTexturePacked',
-                                    'setPath': 'assets/tilesets/LibraryTexturePacked.png',
+                                    'setKey': 'LibraryTexturePackedC',
+                                    'setPath': 'assets/tilesets/LibraryTexturePackedC.png',
                                     'mapKey': 'Library',
-                                    'mapPath': 'assets/tilesets/Library.json',
+                                    'mapPath': 'assets/tilesets/LibraryC.json',
                                     'isTiling': !0x0
                                 },
                                 'spawnType': _0x446091[_0x2f72b3(0x95d)],
