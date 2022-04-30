@@ -322,7 +322,15 @@
                             _0x5c1a56[_0x4603ce(0x471)] = 'BGM_Mana',
                             _0x5c1a56[_0x4603ce(0x2f9)] = 'BGM_Tower',
                             _0x5c1a56[_0x4603ce(0x322)] = 'BGM_RedBlue',
-                            _0x5c1a56['BGM_Gatti'] = 'BGM_Gatti';
+                            _0x5c1a56['BGM_Gatti'] = 'BGM_Gatti',
+                            _0x5c1a56['BGM_Goku'] = 'BGM_Goku',
+                            _0x5c1a56['BGM_Gohan'] = 'BGM_Gohan',
+                            _0x5c1a56['BGM_Inuyasha'] = 'BGM_Inuyasha',
+                            _0x5c1a56['BGM_Starcraft'] = 'BGM_Starcraft',
+                            _0x5c1a56['BGM_Realm'] = 'BGM_Realm',
+                            _0x5c1a56['BGM_TMNT'] = 'BGM_TMNT',
+                            _0x5c1a56['BGM_XMEN'] = 'BGM_XMEN',
+                            _0x5c1a56['BGM_Sonic'] = 'BGM_Sonic';
                     }
                     (_0x32650a || (_0x32650a = {}));
                     const _0x5aaeff = _0x32650a,
@@ -2783,13 +2791,6 @@
                                 'level': 0x29,
                                 'growth': -0x1
                             }],
-
-
-
-
-
-
-
                             [_0x39678f['GOKU']]: [{
                                 'level': 0x1,
                                 'startingWeapon': _0x202927['KI'],
@@ -2798,7 +2799,8 @@
                                 'spriteName': 'goku_01.png',
                                 'textureName': 'GOKU',
                                 'walkingFrames': 0x3,
-                                'description': '+1 projectile/10 levels(max+3). +1% Might/Level. Ki Blasts.',
+                                'description': '+1 projectile/20 Levels(max+3). +1% Might/Level. Ki Blasts.',
+                                'bgm': _0x5aaeff['BGM_Goku'],
                                 'isBought': !0x0,
                                 'price': 0x0,
                                 'maxHp': 0x7D,
@@ -2851,6 +2853,7 @@
                                 'walkingFrames': 0x3,
                                 'description': '+1 projectile/20 levels (max+3). Gains +1% Might every level.',
                                 'isBought': !0x0,
+                                'bgm': _0x5aaeff['BGM_Goku'],
                                 'price': 0x0,
                                 'maxHp': 0x7D,
                                 'armor': 0x1,
@@ -2899,8 +2902,9 @@
                                 'spriteName': 'gohan_01.png',
                                 'textureName': 'GOHAN',
                                 'walkingFrames': 0x3,
-                                'description': '+5% Might, MoveSpeed, Curse/10 levels (max +20%). +20% Duration.',
+                                'description': '+5% Might, MoveSpeed, Curse/20 Levels (max +20%). +20% Duration.',
                                 'isBought': !0x0,
+                                'bgm': _0x5aaeff['BGM_Gohan'],
                                 'price': 0x0,
                                 'maxHp': 0x64,
                                 'armor': 0x0,
@@ -3017,6 +3021,7 @@
                                 'walkingFrames': 0x6,
                                 'description': 'So much potential.. Too bad he isnt a Saiyan.',
                                 'isBought': !0x0,
+                                'bgm': _0x5aaeff['BGM_Goku'],
                                 'price': 0x0,
                                 'maxHp': 0x1,
                                 'armor': 0x0,
@@ -3076,8 +3081,9 @@
                                 'textureName': 'GERO',
                                 'spriteName': 'gero_01.png',
                                 'walkingFrames': 0x3,
-                                'description': 'Unlimited Rerolls. Gains 10% Might/10 levels (max +70%).',
+                                'description': 'Unlimited Rerolls. Gains 10% Might/20 Levels (max +70%).',
                                 'isBought': !0x0,
+                                'bgm': _0x5aaeff['BGM_Goku'],
                                 'price': 0x0,
                                 'maxHp': 75,
                                 'armor': 0x1,
@@ -3134,8 +3140,9 @@
                                 'textureName': 'AND18',
                                 'spriteName': '18_01.png',
                                 'walkingFrames': 0x4,
-                                'description': 'Explosion AoE. Gains 20% Might/10 levels (max +140%).',
+                                'description': 'Explosion AoE. Gains 20% Might/20 Levels (max +140%).',
                                 'isBought': !0x0,
+                                'bgm': _0x5aaeff['BGM_Goku'],
                                 'price': 0x0,
                                 'maxHp': 70,
                                 'armor': 0x2,
@@ -3194,6 +3201,7 @@
                                 'walkingFrames': 0x6,
                                 'description': 'OH YEAH! YOU PICKED THE CHAMP!',
                                 'isBought': !0x0,
+                                'bgm': _0x5aaeff['BGM_Goku'],
                                 'price': 0x0,
                                 'maxHp': 1,
                                 'armor': 0x0,
@@ -3258,6 +3266,7 @@
                                 'walkingFrames': 0x3,
                                 'description': 'Gains +1% Might/Level.',
                                 'isBought': !0x0,
+                                'bgm': _0x5aaeff['BGM_Goku'],
                                 'price': 0x0,
                                 'maxHp': 80,
                                 'armor': 0x0,
@@ -3305,6 +3314,7 @@
                                 'walkingFrames': 0x6,
                                 'description': '+40% Duration. +50% Growth. +1% Luck/Level.',
                                 'isBought': !0x0,
+                                'bgm': _0x5aaeff['BGM_Goku'],
                                 'price': 0x0,
                                 'maxHp': 0x55,
                                 'armor': 0x1,
@@ -3457,6 +3467,7 @@
                                 'walkingFrames': 0x6,
                                 'description': '+1% Might every level. Starts with Armor, Curse, Regen. +20% Area. +1 Revive',
                                 'isBought': !0x0,
+                                'bgm': _0x5aaeff['BGM_XMEN'],
                                 'price': 0x0,
                                 'maxHp': 0x64,
                                 'armor': 0x0,
@@ -3508,6 +3519,7 @@
                                 'walkingFrames': 0x8,
                                 'description': 'Gains +1% Might, Area every level. +2 Armor.',
                                 'isBought': !0x0,
+                                'bgm': _0x5aaeff['BGM_XMEN'],
                                 'price': 0x0,
                                 'maxHp': 0x64,
                                 'armor': 0x2,
@@ -3559,6 +3571,7 @@
                                 'walkingFrames': 10,
                                 'description': 'Gains +1% Might every level. Starts with Curse. +1 Armor.',
                                 'isBought': !0x0,
+                                'bgm': _0x5aaeff['BGM_Inuyasha'],
                                 'price': 0x0,
                                 'maxHp': 0x64,
                                 'armor': 0x1,
@@ -3610,6 +3623,7 @@
                                 'walkingFrames': 0x5,
                                 'description': '+1% Might/level. +1 Starting level. +2 Armor. +20% Movespeed.',
                                 'isBought': !0x0,
+                                'bgm': _0x5aaeff['BGM_TMNT'],
                                 'price': 0x0,
                                 'maxHp': 0x64,
                                 'armor': 0x2,
@@ -3653,7 +3667,7 @@
                             }],
                             [_0x39678f['GUNDAM']]: [{
                                 'level': 0x1,
-                                'startingWeapon': _0x202927['GUNS'],
+                                'startingWeapon': _0x202927['PULSE2'],
                                 'charName': 'Gundam',
                                 'surname': '',
                                 'spriteName': 'gundam_01.png',
@@ -3712,6 +3726,7 @@
                                 'walkingFrames': 0x9,
                                 'description': '+50% Curse. +100% Luck. +1% MoveSpeed/Level. +2% Curse/Level.',
                                 'isBought': !0x0,
+                                'bgm': _0x5aaeff['BGM_Starcraft'],
                                 'price': 0x0,
                                 'maxHp': 0x55,
                                 'armor': 0x3,
@@ -3813,6 +3828,7 @@
                                 'walkingFrames': 0x6,
                                 'description': '+5 Revival. +5 Armor. +5% Curse/Level.',
                                 'isBought': !0x0,
+                                'bgm': _0x5aaeff['BGM_Realm'],
                                 'price': 0x0,
                                 'maxHp': 0x96,
                                 'armor': 0x5,
@@ -3863,6 +3879,7 @@
                                 'textureName': 'SONIC',
                                 'walkingFrames': 0x4,
                                 'description': '+100 MoveSpeed. +1% MoveSpeed/Level. +1 Starting Level.',
+                                'bgm': _0x5aaeff['BGM_Sonic'],
                                 'isBought': !0x0,
                                 'price': 0x0,
                                 'maxHp': 0x19,
@@ -3913,7 +3930,7 @@
                                 'spriteName': 'kain_01.png',
                                 'textureName': 'KAIN',
                                 'walkingFrames': 0x4,
-                                'description': '+1 MaxHP/Level. +2 Amount. +1 Projectile/10 Levels (max+3)',
+                                'description': '+1 MaxHP/Level. +2 Amount. +1 Projectile/20 Levels (max+3)',
                                 'isBought': !0x0,
                                 'price': 0x0,
                                 'maxHp': 0x19,
@@ -4316,7 +4333,7 @@
                                 'spriteName': 'spiderman_01.png',
                                 'textureName': 'SPIDERMAN',
                                 'walkingFrames': 12,
-                                'description': '-10% Cooldown/10 Levels (Max+30%) -30% Cooldown. +20% MoveSpeed. +50% Luck.',
+                                'description': '-10% Cooldown/20 Levels (Max+30%) -30% Cooldown. +20% MoveSpeed. +50% Luck.',
                                 'isBought': !0x0,
                                 'price': 0x0,
                                 'maxHp': 95,
@@ -5519,7 +5536,11 @@
                             _0x48e228['STEP1'] = 'STEP1',
                             _0x48e228[_0x4096e4(0x7a2)] = 'STEP2',
                             _0x48e228[_0x4096e4(0x6d1)] = 'STEP3',
-                            _0x48e228['STEP4'] = 'STEP4';
+                            _0x48e228['STEP4'] = 'STEP4',   
+                            _0x48e228['LASER'] = 'LASER',  
+                            _0x48e228['KI'] = 'KI',  
+                            _0x48e228['THROW'] = 'THROW', 
+                            _0x48e228['WOOSH'] = 'WOOSH';
                     }
                     (_0x4e8435 || (_0x4e8435 = {}));
                     const _0x276b51 = _0x4e8435;
@@ -15950,6 +15971,7 @@
                             _0x64f9ce[_0x3311bd(0x574)] = 'ENTRANCE',
                             _0x64f9ce['WAREHOUSE'] = 'WAREHOUSE',
                             _0x64f9ce['LIBRARY'] = 'LIBRARY',
+                            _0x64f9ce['LIBRARY_E'] = 'LIBRARY_E',
                             _0x64f9ce[_0x3311bd(0x572)] = 'TEST',
                             _0x64f9ce[_0x3311bd(0x9dc)] = 'TESTONE',
                             _0x64f9ce['CASTLE'] = 'CASTLE',
@@ -16071,6 +16093,7 @@
                             _0x21c54f['Defeat3000Buers'] = 'Defeat3000Buers',
                             _0x21c54f[_0x5860ce(0x828)] = 'ReachLV100WithCavallo',
                             _0x21c54f[_0x5860ce(0x151)] = 'ReachLV40InLibrary',
+                            _0x21c54f['ReachLV100InBoneZone'] = 'ReachLV100InBoneZone',
                             _0x21c54f[_0x5860ce(0x170)] = 'DefeatBossPlant',
                             _0x21c54f[_0x5860ce(0x302)] = 'FindMilkyWayMap',
                             _0x21c54f[_0x5860ce(0x6c9)] = 'FindCoffinStage3',
@@ -16132,6 +16155,13 @@
                                 'stageToUnlock': _0xe12f59[_0x2f72b3(0x4f1)],
                                 'achieved': !0x1
                             },
+
+                            [_0x4943e2['ReachLV100InBoneZone']]: {
+                                'description': 'Reach Level 100 in The Bone Zone.',
+                                'stageToUnlock': _0xe12f59['LIBRARY_E'],
+                                'achieved': !0x1
+                            },
+
                             [_0x4943e2['ReachLV60InDairyPlant']]: {
                                 'description': 'Reach Level 60 in Dairy Plant.',
                                 'stageToUnlock': _0xe12f59['TOWER'],
@@ -17446,7 +17476,8 @@
                                 'events': [{
                                     'eventType': _0x21eccf[_0x2f72b3(0xb81)]
                                 }]
-                            }]
+                            }],
+                            [_0xe12f59['LIBRARY_E']]: []
                         };
                     class _0x18f574 extends Phaser[_0x2f72b3(0x26c)]['Sprite'] {
                         constructor(_0x3a92b1) {
@@ -20078,6 +20109,7 @@
                                 _0x428bf7['Core'][_0x209cb5(0x286)][_0x209cb5(0xb4d)] >= 0x64 && _0x428bf7[_0x209cb5(0x6f7)][_0x209cb5(0x286)][_0x209cb5(0x6c2)] === _0x39678f['TATANKA'] && this[_0x209cb5(0x731)](_0x4943e2['ReachLV100WithOsole']),
                                 _0x428bf7[_0x209cb5(0x6f7)][_0x209cb5(0x286)]['level'] >= 0x14 && _0x428bf7[_0x209cb5(0x6f7)][_0x209cb5(0x32e)][_0x209cb5(0xa72)] === _0xe12f59[_0x209cb5(0x6e0)] && this['UnlockAchievement'](_0x4943e2['ReachLV20InMadForest']),
                                 _0x428bf7[_0x209cb5(0x6f7)][_0x209cb5(0x286)]['level'] >= 0x28 && _0x428bf7['Core'][_0x209cb5(0x32e)]['SelectedStage'] === _0xe12f59['LIBRARY'] && this['UnlockAchievement'](_0x4943e2['ReachLV40InLibrary']),
+                                _0x428bf7[_0x209cb5(0x6f7)][_0x209cb5(0x286)]['level'] >= 0x64 && _0x428bf7['Core'][_0x209cb5(0x32e)]['SelectedStage'] === _0xe12f59['BONEZONE'] && this['UnlockAchievement'](_0x4943e2['ReachLV100InBoneZone']),
                                 _0x428bf7['Core'][_0x209cb5(0x286)]['level'] >= 0x3c && _0x428bf7[_0x209cb5(0x6f7)][_0x209cb5(0x32e)][_0x209cb5(0xa72)] === _0xe12f59[_0x209cb5(0x4f1)] && this['UnlockAchievement'](_0x4943e2['ReachLV60InDairyPlant']),
                                 _0x428bf7['Core'][_0x209cb5(0x286)]['level'] >= 0xa && this[_0x209cb5(0x731)](_0x4943e2[_0x209cb5(0x9c7)]),
                                 _0x428bf7['Core']['Player'][_0x209cb5(0xb4d)] >= 0x5 && this[_0x209cb5(0x731)](_0x4943e2['ReachLV5']),
@@ -21066,9 +21098,9 @@
                                         this['y'] += (Math[_0x3dc250(0x6d6)]() - 0.5) * this[_0x3dc250(0xb70)] * 0xa,
                                         this[_0x3dc250(0x396)]();
                                     let _0x2ba40e = this[_0x3dc250(0x432)][_0x3dc250(0x362)] ? this[_0x3dc250(0x432)][_0x3dc250(0x362)] : 0.15;
-                                    _0x428bf7[_0x3dc250(0x477)]['PlaySound'](_0x276b51['MagicMissile'], {
+                                    _0x428bf7[_0x3dc250(0x477)]['PlaySound'](_0x276b51['KI'], {
                                         'detune': -0x64 * this['indexInWeapon'],
-                                        'volume': _0x2ba40e
+                                        'volume': 0.25
                                     }, 0xc8, 0xc);
                                 }
                                 ['OnHasHitAnObject'](_0x664ccd) {
@@ -21114,9 +21146,9 @@
                                         this['y'] += (Math[_0x3dc250(0x6d6)]() - 0.5) * this[_0x3dc250(0xb70)] * 0xa,
                                         this[_0x3dc250(0x396)]();
                                     let _0x2ba40e = this[_0x3dc250(0x432)][_0x3dc250(0x362)] ? this[_0x3dc250(0x432)][_0x3dc250(0x362)] : 0.15;
-                                    _0x428bf7[_0x3dc250(0x477)]['PlaySound'](_0x276b51['MagicMissile'], {
+                                    _0x428bf7[_0x3dc250(0x477)]['PlaySound'](_0x276b51['WOOSH'], {
                                         'detune': -0x64 * this['indexInWeapon'],
-                                        'volume': _0x2ba40e
+                                        'volume': 0.45
                                     }, 0xc8, 0xc);
                                 }
                                 ['OnHasHitAnObject'](_0x664ccd) {
@@ -21162,9 +21194,9 @@
                                         this['y'] += (Math[_0x3dc250(0x6d6)]() - 0.5) * this[_0x3dc250(0xb70)] * 0xa,
                                         this[_0x3dc250(0x396)]();
                                     let _0x2ba40e = this[_0x3dc250(0x432)][_0x3dc250(0x362)] ? this[_0x3dc250(0x432)][_0x3dc250(0x362)] : 0.15;
-                                    _0x428bf7[_0x3dc250(0x477)]['PlaySound'](_0x276b51['MagicMissile'], {
+                                    _0x428bf7[_0x3dc250(0x477)]['PlaySound'](_0x276b51['WOOSH'], {
                                         'detune': -0x64 * this['indexInWeapon'],
-                                        'volume': _0x2ba40e
+                                        'volume': 0.45
                                     }, 0xc8, 0xc);
                                 }
                                 ['OnHasHitAnObject'](_0x664ccd) {
@@ -21210,9 +21242,9 @@
                                         this['y'] += (Math[_0x3dc250(0x6d6)]() - 0.5) * this[_0x3dc250(0xb70)] * 0xa,
                                         this[_0x3dc250(0x396)]();
                                     let _0x2ba40e = this[_0x3dc250(0x432)][_0x3dc250(0x362)] ? this[_0x3dc250(0x432)][_0x3dc250(0x362)] : 0.15;
-                                    _0x428bf7[_0x3dc250(0x477)]['PlaySound'](_0x276b51['MagicMissile'], {
+                                    _0x428bf7[_0x3dc250(0x477)]['PlaySound'](_0x276b51['WOOSH'], {
                                         'detune': -0x64 * this['indexInWeapon'],
-                                        'volume': _0x2ba40e
+                                        'volume': 0.45
                                     }, 0xc8, 0xc);
                                 }
                                 ['OnHasHitAnObject'](_0x664ccd) {
@@ -21258,9 +21290,9 @@
                                         this['y'] += (Math[_0x3dc250(0x6d6)]() - 0.5) * this[_0x3dc250(0xb70)] * 0xa,
                                         this[_0x3dc250(0x396)]();
                                     let _0x2ba40e = this[_0x3dc250(0x432)][_0x3dc250(0x362)] ? this[_0x3dc250(0x432)][_0x3dc250(0x362)] : 0.15;
-                                    _0x428bf7[_0x3dc250(0x477)]['PlaySound'](_0x276b51['MagicMissile'], {
+                                    _0x428bf7[_0x3dc250(0x477)]['PlaySound'](_0x276b51['WOOSH'], {
                                         'detune': -0x64 * this['indexInWeapon'],
-                                        'volume': _0x2ba40e
+                                        'volume': 0.45
                                     }, 0xc8, 0xc);
                                 }
                                 ['OnHasHitAnObject'](_0x664ccd) {
@@ -21306,9 +21338,9 @@
                                         this['y'] += (Math[_0x3dc250(0x6d6)]() - 0.5) * this[_0x3dc250(0xb70)] * 0xa,
                                         this[_0x3dc250(0x396)]();
                                     let _0x2ba40e = this[_0x3dc250(0x432)][_0x3dc250(0x362)] ? this[_0x3dc250(0x432)][_0x3dc250(0x362)] : 0.15;
-                                    _0x428bf7[_0x3dc250(0x477)]['PlaySound'](_0x276b51['MagicMissile'], {
+                                    _0x428bf7[_0x3dc250(0x477)]['PlaySound'](_0x276b51['LASER'], {
                                         'detune': -0x64 * this['indexInWeapon'],
-                                        'volume': _0x2ba40e
+                                        'volume': 0.45
                                     }, 0xc8, 0xc);
                                 }
                                 ['OnHasHitAnObject'](_0x664ccd) {
@@ -21354,9 +21386,9 @@
                                         this['y'] += (Math[_0x3dc250(0x6d6)]() - 0.5) * this[_0x3dc250(0xb70)] * 0xa,
                                         this[_0x3dc250(0x396)]();
                                     let _0x2ba40e = this[_0x3dc250(0x432)][_0x3dc250(0x362)] ? this[_0x3dc250(0x432)][_0x3dc250(0x362)] : 0.15;
-                                    _0x428bf7[_0x3dc250(0x477)]['PlaySound'](_0x276b51['MagicMissile'], {
+                                    _0x428bf7[_0x3dc250(0x477)]['PlaySound'](_0x276b51['LASER'], {
                                         'detune': -0x64 * this['indexInWeapon'],
-                                        'volume': _0x2ba40e
+                                        'volume': 0.45
                                     }, 0xc8, 0xc);
                                 }
                                 ['OnHasHitAnObject'](_0x664ccd) {
@@ -21428,55 +21460,6 @@
                                     this[_0x172985(0x6a3)][_0x172985(0x519)](this['x'], this['y']);
                                 }
                         },
-                        /*
-                        SKULL = class extends _0x392d79 {
-                            constructor(_0x5e853f, _0x157930, _0x4f94cc, _0x511dde, _0x486e39) {
-                                const _0x26eb7d = _0x2f72b3;
-                                super(_0x5e853f, _0x157930, _0x4f94cc, 'ARSENAL', 'skull3.png', _0x511dde, _0x486e39),
-                                this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('ARSENAL'),
-                                this['PfxEmitter']['createEmitter']({
-                                    'frame': ['PfxUnHoly1.png', 'PfxUnHoly2.png'],
-                                    'speed': {
-                                        'min': 0xf,
-                                        'max': 0x1e
-                                    },
-                                    'quantity': 0x1,
-                                    'lifespan': 0x12c,
-                                    'alpha': {
-                                        'start': 0x1,
-                                        'end': 0x0
-                                    },
-                                    'on': !0x1
-                                });
-                            }
-                            [_0x2f72b3(0x120)]() {
-                                const _0x3dc250 = _0x2f72b3;
-                                super['OnRecycle'](),
-                                this[_0x3dc250(0x744)]['setCircle'](0x8),
-                                this[_0x3dc250(0xa8e)](_0x2adcea[_0x3dc250(0x10c)] * this['weapon'][_0x3dc250(0x98e)]),
-                                this['x'] += (Math['random']() - 0.5) * this[_0x3dc250(0xb70)] * 0xa,
-                                this['y'] += (Math[_0x3dc250(0x6d6)]() - 0.5) * this[_0x3dc250(0xb70)] * 0xa,
-                                this[_0x3dc250(0x396)]();
-                                let _0x2ba40e = this[_0x3dc250(0x432)][_0x3dc250(0x362)] ? this[_0x3dc250(0x432)][_0x3dc250(0x362)] : 0.15;
-                                _0x428bf7[_0x3dc250(0x477)]['PlaySound'](_0x276b51['MagicMissile'], {
-                                    'detune': -0x64 * this['indexInWeapon'],
-                                    'volume': _0x2ba40e
-                                }, 0xc8, 0xc);
-                            }
-                            ['OnHasHitAnObject'](_0x664ccd) {
-                                const _0x111122 = _0x2f72b3;
-                                if (!_0x664ccd[_0x111122(0x990)]) {
-                                    if (this['bounces'] > 0x0)
-                                        return this[_0x111122(0xa93)]--, this[_0x111122(0x5f3)](), void(this[_0x111122(0x289)] = []);
-                                    this['penetrating']--,
-                                    this[_0x111122(0x4c7)] <= 0x0 && this[_0x111122(0x263)]();
-                                }
-                            }
-                            [_0x2f72b3(0x2c2)]() {
-                                const _0x172985 = _0x2f72b3;
-                                this[_0x172985(0x6a3)][_0x172985(0x519)](this['x'], this['y']);
-                            }
-                        },*/
                         _0x11c9fc = class extends _0x1b1cd6 {},
                         _0x20af52 = class extends _0x392d79 {
                             constructor(_0x420f20, _0x18a227, _0x4694a7, _0x1ba33b, _0x5af943) {
@@ -21579,7 +21562,7 @@
                                         this['y'] -= 0x10 * this[_0x19c339(0xb70)],
                                         this['setFlipY'](this[_0x19c339(0xb70)] % 0x2 == 0x1),
                                         this[_0x19c339(0x9d1)](_0xf3b877),
-                                        _0x428bf7['Sound'][_0x19c339(0x229)](_0x276b51[_0x19c339(0x986)], {
+                                        _0x428bf7['Sound'][_0x19c339(0x229)](_0x276b51['THROW'], {
                                             'detune': -0x64 * this[_0x19c339(0xb70)],
                                             'volume': 1.7,
                                             'rate': 0x2
@@ -22013,107 +21996,6 @@
                                         this[_0xc63748(0x511)][this[_0xc63748(0x867)]]['y'] = this['y'];
                                 }
                         },
-                        /*AXE*/
-                        /*STAR = class extends _0x392d79 {
-                            constructor(_0x257e5d, _0xa69047, _0x51b55e, _0x3305a3, _0xab2841) {
-                                const _0x2bf1d2 = _0x2f72b3;
-                                super(_0x257e5d, _0xa69047, _0x51b55e, 'ARSENAL', 'ninja_star.png', _0x3305a3, _0xab2841),
-                                this[_0x2bf1d2(0x511)] = new Array(),
-                                this[_0x2bf1d2(0xa2b)] = 0x1,
-                                this['historyIndex'] = 0x0,
-                                this['initialVelocity'] = new Phaser['Math']['Vector2'](),
-                                this[_0x2bf1d2(0x94d)] = 0x0,
-                                this['grav'] = 0.825, //this['grav'] = 0.625,
-                                this[_0x2bf1d2(0xa8e)](_0x2adcea[_0x2bf1d2(0x10c)] * this['weapon'][_0x2bf1d2(0x98e)]),
-                                this[_0x2bf1d2(0x11a)] = this['scene'][_0x2bf1d2(0x7d2)][_0x2bf1d2(0x1a2)]({
-                                    'targets': this,
-                                    'angle': 0x5A, //'angle': 0x168,
-                                    'duration': 0x3e8,
-                                    'ease': 'Linear',
-                                    'repeat': -0x1
-                                }),
-                                this['MovementTween'] = this['scene'][_0x2bf1d2(0x7d2)]['add']({
-                                    'targets': this,
-                                    'moveAngle': Math['PI'],
-                                    'duration': 0x3e8,
-                                    'ease': 'Linear'
-                                }),
-                                this[_0x2bf1d2(0x409)] = new Array();
-                                for (let _0x351618 = 0x0; _0x351618 < this[_0x2bf1d2(0xa2b)]; _0x351618++) {
-                                    this['posHistory']['push'](new Phaser[(_0x2bf1d2(0x18a))]['Vector2'](_0xa69047, _0x51b55e));
-                                    var _0xb165de = this[_0x2bf1d2(0x65c)]['add']['image'](0x0, 0x0, this['texture'][_0x2bf1d2(0x629)], this[_0x2bf1d2(0x5b1)]['name'])[_0x2bf1d2(0xa8e)](_0x2adcea[_0x2bf1d2(0x10c)])['setVisible'](!0x1)['setTint'](0xff)['setAlpha'](0.75 - 0.25 * _0x351618);
-                                    this[_0x2bf1d2(0x409)]['push'](_0xb165de);
-                                }
-                            }
-                            [_0x2f72b3(0x120)]() {
-                                const _0x191288 = _0x2f72b3;
-                                super['OnRecycle'](),
-                                this['body'][_0x191288(0x980)](0xc),
-                                this['_speed'] = 0x2,
-                                this[_0x191288(0xa8e)](_0x2adcea['PixelScale'] * this['weapon'][_0x191288(0x98e)]);
-                                const _0x1ef9f5 = _0x428bf7[_0x191288(0x6f7)]['Player'][_0x191288(0x596)]['dot'](Phaser[_0x191288(0x18a)][_0x191288(0x563)][_0x191288(0x1f6)]) < 0x0 ? -0x1 : 0x1;
-                                var _0x3aa858 = 0x2d * _0x1ef9f5 / this['weapon'][_0x191288(0x171)] * this['indexInWeapon'] - 0x5a;
-                                this['startingAngle'] = _0x3aa858,
-                                this['scene'][_0x191288(0x93f)][_0x191288(0x789)](Phaser[_0x191288(0x18a)][_0x191288(0x97e)](_0x3aa858), this[_0x191288(0x12e)], this[_0x191288(0x744)][_0x191288(0x355)]),
-                                this['initialVelocity']['x'] = this[_0x191288(0x744)]['velocity']['x'],
-                                this['initialVelocity']['y'] = Math[_0x191288(0x48c)](-0x258, this['body'][_0x191288(0x355)]['y']);
-                                for (let _0x564c3d = 0x0; _0x564c3d < this[_0x191288(0x511)]['length']; _0x564c3d++)
-                                    this[_0x191288(0x511)][_0x564c3d]['x'] = this['x'], this[_0x191288(0x511)][_0x564c3d]['y'] = this['y'];
-                                this['moveAngle'] = Phaser['Math']['DegToRad'](_0x3aa858),
-                                this['MovementTween'] = this[_0x191288(0x65c)][_0x191288(0x7d2)]['add']({
-                                    'targets': this,
-                                    'moveAngle': Phaser['Math'][_0x191288(0x97e)](_0x3aa858 + 0xb4 * _0x1ef9f5),
-                                    'duration': 0x5dc,
-                                    'ease': 'Linear'
-                                }),
-                                _0x428bf7['Sound'][_0x191288(0x229)](_0x276b51['Shot'], {
-                                    'detune': -0x64 * this['indexInWeapon'],
-                                    'volume': 0.45
-                                }, 0xc8, 0xa),
-                                this['isCullable'] = !0x1;
-                            }
-                            ['DeSpawn']() {
-                                const _0x17d85f = _0x2f72b3;
-                                var _0x1ff9c8,
-                                _0x1b5b97;
-                                super['DeSpawn'](),
-                                null === (_0x1ff9c8 = this[_0x17d85f(0x25d)]) || void 0x0 === _0x1ff9c8 || _0x1ff9c8['stop'](),
-                                null === (_0x1b5b97 = this['ScaleTween']) || void 0x0 === _0x1b5b97 || _0x1b5b97[_0x17d85f(0x2d0)]();
-                                for (let _0x2b82ba = 0x0; _0x2b82ba < this[_0x17d85f(0x409)]['length']; _0x2b82ba++)
-                                    this[_0x17d85f(0x409)][_0x2b82ba]['setVisible'](!0x1);
-                            }
-                            [_0x2f72b3(0x9ce)](_0x5df4e5) {
-                                const _0x2457c5 = _0x2f72b3;
-                                if (!_0x5df4e5[_0x2457c5(0x990)]) {
-                                    if (this[_0x2457c5(0xa93)] > 0x0)
-                                        return this[_0x2457c5(0xa93)]--, this[_0x2457c5(0x65c)]['physics']['velocityFromRotation'](Phaser[_0x2457c5(0x18a)][_0x2457c5(0x97e)](this[_0x2457c5(0x891)]), this[_0x2457c5(0x12e)], this['body'][_0x2457c5(0x355)]), this['initialVelocity']['x'] *= -0x1, this['initialVelocity']['y'] = Math['max'](-0x258, this[_0x2457c5(0x744)][_0x2457c5(0x355)]['y']), void(this['objectsHit'] = []);
-                                    this[_0x2457c5(0x4c7)]--,
-                                    this[_0x2457c5(0x4c7)] <= 0x0 && this['DeSpawn']();
-                                }
-                            }
-                            [_0x2f72b3(0x3d8)](_0x293f63) {
-                                const _0x5d5ece = _0x2f72b3;
-                                return this['historyIndex'] + _0x293f63 >= this[_0x5d5ece(0xa2b)] ? this[_0x5d5ece(0x867)] + _0x293f63 - this[_0x5d5ece(0xa2b)] : this[_0x5d5ece(0x867)] + _0x293f63;
-                            }
-                            [_0x2f72b3(0x2c2)](_0x5c44b4) {
-                                const _0xc63748 = _0x2f72b3;
-                                this['y'] > _0x428bf7['Core'][_0xc63748(0x286)]['y'] + _0x428bf7['Core']['scene']['renderer'][_0xc63748(0x1f8)] && (this[_0xc63748(0xab2)] = !0x0, this[_0xc63748(0x263)]()),
-                                this['initialVelocity']['y'] += _0x5c44b4 * this[_0xc63748(0x2fa)],
-                                this['historyIndex'] < this[_0xc63748(0xa2b)] - 0x1 ? this['historyIndex']++ : this['historyIndex'] = 0x0;
-                                for (let _0x314cb5 = 0x0; _0x314cb5 < this[_0xc63748(0x409)][_0xc63748(0x2da)]; _0x314cb5++) {
-                                    var _0x300da3 = this['posHistory'][this[_0xc63748(0x3d8)](_0x314cb5)],
-                                    _0x32cedb = this[_0xc63748(0x409)][_0x314cb5];
-                                    _0x32cedb['angle'] = this[_0xc63748(0x76f)],
-                                    _0x32cedb['x'] = _0x300da3['x'],
-                                    _0x32cedb['y'] = _0x300da3['y'],
-                                    _0x32cedb[_0xc63748(0x66d)] = this['scale'],
-                                    _0x32cedb[_0xc63748(0x2a9)] = !0x0;
-                                }
-                                this[_0xc63748(0x928)](this['initialVelocity']['x'], this[_0xc63748(0x276)]['y']),
-                                this['posHistory'][this['historyIndex']]['x'] = this['x'],
-                                this[_0xc63748(0x511)][this[_0xc63748(0x867)]]['y'] = this['y'];
-                            }
-                        },*/
                         _0x781ff4 = class extends _0x392d79 {
                             constructor(_0x443c2f, _0x5acabc, _0x418de9, _0x27c6e4, _0x3a907d) {
                                     const _0x2406ea = _0x2f72b3;
@@ -22297,7 +22179,7 @@
                                         this['y'] += (Math[_0x5341c6(0x6d6)]() - 0.5) * (0x0 == this[_0x5341c6(0xb70)] ? 0x0 : 0x28) * this[_0x5341c6(0x432)]['PArea'],
                                         this[_0x5341c6(0xaa4)]();
                                     let _0x236382 = this['weapon'][_0x5341c6(0x362)] ? this['weapon'][_0x5341c6(0x362)] : 0.4;
-                                    _0x428bf7[_0x5341c6(0x477)][_0x5341c6(0x229)](_0x276b51[_0x5341c6(0x4f8)], {
+                                    _0x428bf7[_0x5341c6(0x477)][_0x5341c6(0x229)](_0x276b51['THROW'], {
                                         'detune': -0x64 * this['indexInWeapon'],
                                         'volume': _0x236382
                                     }, 0xc8, 0xa);
@@ -22335,84 +22217,6 @@
                                         this['posHistory'][this[_0x4707e4(0x867)]]['y'] = this['y'];
                                 }
                         },
-                        /*KNIFE*/
-                        /*STAR = class extends _0x392d79 {
-                            constructor(_0xb7519c, _0x3b6f96, _0x134ef1, _0x222c8b, _0x1f7add) {
-                                const _0x5c3433 = _0x2f72b3;
-                                super(_0xb7519c, _0x3b6f96, _0x134ef1, 'ARSENAL', 'ninja_star.png', _0x222c8b, _0x1f7add),
-                                this[_0x5c3433(0x511)] = new Array(),
-                                this['maxHistory'] = 0x1,
-                                this['historyIndex'] = 0x0,
-                                this[_0x5c3433(0xa8e)](_0x2adcea[_0x5c3433(0x10c)] * this[_0x5c3433(0x432)][_0x5c3433(0x98e)]),
-                                this[_0x5c3433(0xaeb)](-0x5a),
-                                this['_speed'] = 0x2,
-                                this[_0x5c3433(0x409)] = new Array();
-                                for (let _0x5eb7da = 0x0; _0x5eb7da < this['maxHistory']; _0x5eb7da++) {
-                                    this[_0x5c3433(0x511)]['push'](new Phaser[(_0x5c3433(0x18a))]['Vector2'](_0x3b6f96, _0x134ef1));
-                                    var _0x3c4945 = this[_0x5c3433(0x65c)][_0x5c3433(0x1a2)][_0x5c3433(0x4b9)](0x0, 0x0, this['texture'][_0x5c3433(0x629)], this[_0x5c3433(0x5b1)]['name'])[_0x5c3433(0xa8e)](1.5 * _0x2adcea['PixelScale'], 0.75 * _0x2adcea['PixelScale'])[_0x5c3433(0xb79)](!0x1)[_0x5c3433(0x8cb)](0xff)['setAlpha'](0.5 - 0.25 * _0x5eb7da);
-                                    this[_0x5c3433(0x409)]['push'](_0x3c4945);
-                                }
-                            }
-                            [_0x2f72b3(0x120)]() {
-                                const _0x5341c6 = _0x2f72b3;
-                                super[_0x5341c6(0x120)](),
-                                this[_0x5341c6(0x744)][_0x5341c6(0x980)](0x8),
-                                this['_speed'] = 0x2;
-                                let _0x54e992 = this['weapon'][_0x5341c6(0x373)][this[_0x5341c6(0x432)][_0x5341c6(0x2c8)]++ % this[_0x5341c6(0x432)][_0x5341c6(0x373)]['length']];
-                                this['bounces'] = _0x54e992 >= 0.5 ? this[_0x5341c6(0x432)][_0x5341c6(0x847)] : 0x0,
-                                this['setScale'](_0x2adcea[_0x5341c6(0x10c)] * this['weapon']['PArea']);
-                                for (let _0x144917 = 0x0; _0x144917 < this[_0x5341c6(0x409)][_0x5341c6(0x2da)]; _0x144917++) {
-                                    var _0x42cae8 = this[_0x5341c6(0x409)][_0x144917];
-                                    _0x42cae8['setScale'](0x2 * this[_0x5341c6(0x66d)], 0.75 * this['scale']),
-                                    _0x42cae8[_0x5341c6(0xb79)](!0x0),
-                                    _0x42cae8[_0x5341c6(0xaeb)](this[_0x5341c6(0x76f)]),
-                                    _0x42cae8[_0x5341c6(0x3cd)](this['x'], this['y']);
-                                }
-                                for (let _0x32f8d7 = 0x0; _0x32f8d7 < this['posHistory'][_0x5341c6(0x2da)]; _0x32f8d7++)
-                                    this['posHistory'][_0x32f8d7]['x'] = this['x'], this[_0x5341c6(0x511)][_0x32f8d7]['y'] = this['y'];
-                                this['y'] -= 0xc,
-                                this['x'] += (Math['random']() - 0.5) * (0x0 == this['indexInWeapon'] ? 0x0 : 0x28) * this['weapon'][_0x5341c6(0x98e)],
-                                this['y'] += (Math[_0x5341c6(0x6d6)]() - 0.5) * (0x0 == this[_0x5341c6(0xb70)] ? 0x0 : 0x28) * this[_0x5341c6(0x432)]['PArea'],
-                                this[_0x5341c6(0xaa4)]();
-                                let _0x236382 = this['weapon'][_0x5341c6(0x362)] ? this['weapon'][_0x5341c6(0x362)] : 0.4;
-                                _0x428bf7[_0x5341c6(0x477)][_0x5341c6(0x229)](_0x276b51[_0x5341c6(0x4f8)], {
-                                    'detune': -0x64 * this['indexInWeapon'],
-                                    'volume': _0x236382
-                                }, 0xc8, 0xa);
-                            }
-                            [_0x2f72b3(0x263)]() {
-                                const _0x388701 = _0x2f72b3;
-                                for (let _0x309f62 = 0x0; _0x309f62 < this['ghosts']['length']; _0x309f62++)
-                                    this[_0x388701(0x409)][_0x309f62]['setVisible'](!0x1);
-                                super[_0x388701(0x263)]();
-                            }
-                            [_0x2f72b3(0x9ce)](_0x4e633c) {
-                                const _0x59cb31 = _0x2f72b3;
-                                if (!_0x4e633c[_0x59cb31(0x990)]) {
-                                    if (this[_0x59cb31(0xa93)] > 0x0)
-                                        return this['bounces']--, this[_0x59cb31(0x5f3)](), void(this['objectsHit'] = []);
-                                    this[_0x59cb31(0x4c7)]--,
-                                    this['penetrating'] <= 0x0 && this[_0x59cb31(0x263)]();
-                                }
-                            }
-                            ['getHistoryIndex'](_0x58102c) {
-                                const _0x5adf82 = _0x2f72b3;
-                                return this['historyIndex'] + _0x58102c >= this[_0x5adf82(0xa2b)] ? this[_0x5adf82(0x867)] + _0x58102c - this[_0x5adf82(0xa2b)] : this[_0x5adf82(0x867)] + _0x58102c;
-                            }
-                            ['Update']() {
-                                const _0x4707e4 = _0x2f72b3;
-                                this[_0x4707e4(0x867)] < this['maxHistory'] - 0x1 ? this['historyIndex']++ : this[_0x4707e4(0x867)] = 0x0;
-                                for (let _0x3d505a = 0x0; _0x3d505a < this[_0x4707e4(0x409)][_0x4707e4(0x2da)]; _0x3d505a++) {
-                                    var _0x501c54 = this[_0x4707e4(0x511)][this[_0x4707e4(0x3d8)](_0x3d505a)],
-                                    _0x1d2d2f = this['ghosts'][_0x3d505a];
-                                    _0x1d2d2f[_0x4707e4(0x76f)] = this[_0x4707e4(0x76f)],
-                                    _0x1d2d2f['x'] = _0x501c54['x'],
-                                    _0x1d2d2f['y'] = _0x501c54['y'];
-                                }
-                                this[_0x4707e4(0x511)][this['historyIndex']]['x'] = this['x'],
-                                this['posHistory'][this[_0x4707e4(0x867)]]['y'] = this['y'];
-                            }
-                        },*/
                         _0x14b9ce = class extends _0x392d79 {
                             constructor(_0x7f18d1, _0x4cbc80, _0x575d03, _0xb01393, _0x27b1c4) {
                                     const _0x489d53 = _0x2f72b3;
@@ -22739,9 +22543,9 @@
                                         this['y'] += (Math[_0x3dc250(0x6d6)]() - 0.5) * this[_0x3dc250(0xb70)] * 0xa,
                                         this[_0x3dc250(0x396)]();
                                     let _0x2ba40e = this[_0x3dc250(0x432)][_0x3dc250(0x362)] ? this[_0x3dc250(0x432)][_0x3dc250(0x362)] : 0.15;
-                                    _0x428bf7[_0x3dc250(0x477)]['PlaySound'](_0x276b51['MagicMissile'], {
+                                    _0x428bf7[_0x3dc250(0x477)]['PlaySound'](_0x276b51['THROW'], {
                                         'detune': -0x64 * this['indexInWeapon'],
-                                        'volume': _0x2ba40e
+                                        'volume': 0.45
                                     }, 0xc8, 0xc);
                                 }
                                 ['OnHasHitAnObject'](_0x664ccd) {
@@ -22755,93 +22559,6 @@
                                 }
                                 [_0x2f72b3(0x2c2)]() {}
                         },
-                        /*CROSS*/
-                        /*
-                        STAR = class extends _0x392d79 {
-                            constructor(_0x4f2484, _0x521e64, _0x4f8344, _0x323a53, _0x5b989c) {
-                                const _0x12d7a6 = _0x2f72b3;
-                                super(_0x4f2484, _0x521e64, _0x4f8344, 'ARSENAL', 'shuriken_red.png', _0x323a53, _0x5b989c),
-                                this[_0x12d7a6(0x511)] = new Array(),
-                                this[_0x12d7a6(0xa2b)] = 0x3,
-                                this['historyIndex'] = 0x0,
-                                this[_0x12d7a6(0x97d)] = 0x1,
-                                this[_0x12d7a6(0x355)] = new Phaser[(_0x12d7a6(0x18a))][(_0x12d7a6(0x563))](0x0, 0x0),
-                                this[_0x12d7a6(0x119)] = !0x1,
-                                this[_0x12d7a6(0x11a)] = this[_0x12d7a6(0x65c)][_0x12d7a6(0x7d2)][_0x12d7a6(0x1a2)]({
-                                    'targets': this,
-                                    'angle': 0x168,
-                                    'duration': 500,
-                                    'ease': 'Linear',
-                                    'repeat': -0x1
-                                }),
-                                this['AccelTween'] = this[_0x12d7a6(0x65c)]['tweens'][_0x12d7a6(0x1a2)]({
-                                    'targets': this,
-                                    'accel': -0x2,
-                                    'duration': 0x3e8,
-                                    'ease': 'Linear'
-                                }),
-                                this['ghosts'] = new Array();
-                                for (let _0x152d16 = 0x0; _0x152d16 < this[_0x12d7a6(0xa2b)]; _0x152d16++) {
-                                    this['posHistory'][_0x12d7a6(0x33a)](new Phaser[(_0x12d7a6(0x18a))][(_0x12d7a6(0x563))](_0x521e64, _0x4f8344));
-                                    var _0x4f52ed = this[_0x12d7a6(0x65c)][_0x12d7a6(0x1a2)]['image'](0x0, 0x0, this['texture']['key'], this['frame']['name'])[_0x12d7a6(0xa8e)](_0x2adcea[_0x12d7a6(0x10c)])['setVisible'](!0x1)[_0x12d7a6(0x8cb)](0xffff66)['setAlpha'](0.75 - 0.15 * _0x152d16);
-                                    this['ghosts']['push'](_0x4f52ed);
-                                }
-                                this[_0x12d7a6(0x409)][_0x12d7a6(0x87a)](),
-                                this[_0x12d7a6(0x119)] = !0x1;
-                            }
-                            [_0x2f72b3(0x120)]() {
-                                const _0x3bdb0a = _0x2f72b3;
-                                super['OnRecycle'](),
-                                this[_0x3bdb0a(0x744)][_0x3bdb0a(0x980)](0xc),
-                                this[_0x3bdb0a(0xa8e)](_0x2adcea[_0x3bdb0a(0x10c)] * this[_0x3bdb0a(0x432)]['PArea']),
-                                this[_0x3bdb0a(0x97d)] = 1.5 + 0.1 * this['indexInWeapon'],
-                                this['AccelTween']['restart']();
-                                for (let _0x3659d3 = 0x0; _0x3659d3 < this[_0x3bdb0a(0x511)][_0x3bdb0a(0x2da)]; _0x3659d3++)
-                                    this['posHistory'][_0x3659d3]['x'] = this['x'], this[_0x3bdb0a(0x511)][_0x3659d3]['y'] = this['y'];
-                                this['x'] += (Math[_0x3bdb0a(0x6d6)]() - 0.5) * this[_0x3bdb0a(0xb70)] * 0x14 * this['weapon'][_0x3bdb0a(0x98e)],
-                                this['y'] += (Math[_0x3bdb0a(0x6d6)]() - 0.5) * this[_0x3bdb0a(0xb70)] * 0x14 * this['weapon'][_0x3bdb0a(0x98e)],
-                                this['AimForNearestEnemy'](),
-                                this[_0x3bdb0a(0x355)][_0x3bdb0a(0x34c)](this['body']['velocity']),
-                                _0x428bf7['Sound'][_0x3bdb0a(0x229)](_0x276b51[_0x3bdb0a(0x4f8)], {
-                                    'detune': -0x64 * this[_0x3bdb0a(0xb70)],
-                                    'volume': 0.45
-                                }, 0xc8, 0xa),
-                                this[_0x3bdb0a(0x9c1)](this['y'] - _0x428bf7[_0x3bdb0a(0x6f7)][_0x3bdb0a(0x286)]['y'] + 0x2 * this[_0x3bdb0a(0x65c)]['renderer']['height']),
-                                this['weapon'][_0x3bdb0a(0x847)] && !this[_0x3bdb0a(0x119)] && (this['bounceActivated'] = !0x0, this[_0x3bdb0a(0x65c)]['physics']['world']['on']('worldbounds', this[_0x3bdb0a(0x1ed)], this), this[_0x3bdb0a(0x66b)](!0x0, 0x1, 0x1), this['body']['setBoundsRectangle'](_0x428bf7[_0x3bdb0a(0x6f7)]['Player'][_0x3bdb0a(0x55b)]), this[_0x3bdb0a(0x744)][_0x3bdb0a(0x4fa)] = !0x0),
-                                this[_0x3bdb0a(0x119)] && this[_0x3bdb0a(0x66b)](!0x0, 0x1, 0x1);
-                            }
-                            ['Bounce'](_0x3231c7) {
-                                const _0x2ab1d2 = _0x2f72b3;
-                                this[_0x2ab1d2(0x744)] === _0x3231c7 && (this[_0x2ab1d2(0xa93)] > 0x0 ? (this[_0x2ab1d2(0xa93)]--, this['velocity']['x'] *= -0x1, this[_0x2ab1d2(0x355)]['y'] *= -0x1, this['objectsHit'] = []) : this[_0x2ab1d2(0x66b)](!0x1, 0x1, 0x1));
-                            }
-                            ['DeSpawn']() {
-                                const _0x5b9ec5 = _0x2f72b3;
-                                super[_0x5b9ec5(0x263)]();
-                                for (let _0x416624 = 0x0; _0x416624 < this[_0x5b9ec5(0x409)]['length']; _0x416624++)
-                                    this[_0x5b9ec5(0x409)][_0x416624][_0x5b9ec5(0xb79)](!0x1);
-                            }
-                            ['getHistoryIndex'](_0x96f35c) {
-                                const _0x4ad3f5 = _0x2f72b3;
-                                return this[_0x4ad3f5(0x867)] + _0x96f35c >= this[_0x4ad3f5(0xa2b)] ? this['historyIndex'] + _0x96f35c - this[_0x4ad3f5(0xa2b)] : this[_0x4ad3f5(0x867)] + _0x96f35c;
-                            }
-                            [_0x2f72b3(0x2c2)]() {
-                                const _0x4523ae = _0x2f72b3;
-                                this[_0x4523ae(0x867)] < this[_0x4523ae(0xa2b)] - 0x1 ? this[_0x4523ae(0x867)]++ : this[_0x4523ae(0x867)] = 0x0;
-                                for (let _0x5f8f27 = 0x0; _0x5f8f27 < this[_0x4523ae(0x409)][_0x4523ae(0x2da)]; _0x5f8f27++) {
-                                    var _0x3781a4 = this[_0x4523ae(0x511)][this['getHistoryIndex'](_0x5f8f27)],
-                                    _0x5cb210 = this['ghosts'][_0x5f8f27];
-                                    _0x5cb210[_0x4523ae(0x76f)] = this['angle'],
-                                    _0x5cb210['x'] = _0x3781a4['x'],
-                                    _0x5cb210['y'] = _0x3781a4['y'],
-                                    _0x5cb210[_0x4523ae(0x66d)] = this['scale'],
-                                    _0x5cb210['visible'] = !0x0;
-                                }
-                                this[_0x4523ae(0x511)][this[_0x4523ae(0x867)]]['x'] = this['x'],
-                                this['posHistory'][this[_0x4523ae(0x867)]]['y'] = this['y'],
-                                this['body'][_0x4523ae(0x355)]['x'] = this['velocity']['x'] * this['accel'],
-                                this['body']['velocity']['y'] = this['velocity']['y'] * this[_0x4523ae(0x97d)];
-                            }
-                        },*/
                         _0x24a919 = class extends _0x392d79 {
                             constructor(_0x19e828, _0x1e761f, _0x27cb78, _0x5f14c5, _0x534c91) {
                                     const _0x3b2dfd = _0x2f72b3;
@@ -33552,7 +33269,1675 @@
                                 'enemies': [],
                                 'bosses': [_0x1a846d[_0x2f72b3(0x6dc)]]
                             }]
+                        },
+                        LIBRARY_ENDLESS = {
+                            [_0xe12f59['LIBRARY_E']]: [{
+                                'stageName': 'Chaotic Library',
+                                'description': 'This long library isn\'t so quiet anymore. No longer a place for meditation, but rather chaos. Death dare not step foot here. 2x Enemies.',
+                                'uiTexture': 'UI',
+                                'uiFrame': 'stage_library_endless.png',
+                                'frameName': 'stage_library_endless_icon.png',
+                                'frameNameUnlock': 'stage_library_endless_unlock.png',
+                                'stageNumber': 'Endless',
+                                'unlocked': false,
+                                'hidden': false,
+                                'BGM': _0x5aaeff[_0x2f72b3(0x13f)],
+                                'legacyBGM': _0x5aaeff[_0x2f72b3(0x565)],
+                                'tips': 'No Death at 30 minutes. Danger ramps up at 60 minutes.',
+                                'hyperTips': '75% Gold bonus\n20% Luck bonus',
+                                'mods': {
+                                    'TimeLimit': 86400,
+                                    'ClockSpeed': 0x1,
+                                    'PlayerPxSpeed': 1.25,
+                                    'EnemySpeed': 1.25,
+                                    'ProjectileSpeed': 0x1,
+                                    'GoldMultiplier': 0x1,
+                                    'EnemyMinimumMul': 2.0,
+                                    'EnemyHealth': 1.15,
+                                    'LuckBonus': 0x0,
+                                    'tips': ' '
+                                },
+                                'hyper': {
+                                    'unlocked': true,
+                                    'TimeLimit': 86400,
+                                    'ClockSpeed': 0x1,
+                                    'PlayerPxSpeed': 1.9,
+                                    'EnemySpeed': 1.9,
+                                    'ProjectileSpeed': 1.15,
+                                    'GoldMultiplier': 1.75,
+                                    'LuckBonus': 0.2,
+                                    'EnemyHealth': 1.15,
+                                    'tips': ' ',
+                                    'StartingSpawns': 0x3c,
+                                    'BGM_rate': 1.25,
+                                    'BGM_detune': 0x64,
+                                    'BGM_ignoreModsForNewSoundtrack': !0x1,
+                                    'BGM_new_rate': 1.0625
+                                },
+                                'tileset': {
+                                    'setKey': 'LibraryTexturePacked',
+                                    'setPath': 'assets/tilesets/LibraryTexturePacked.png',
+                                    'mapKey': 'Library',
+                                    'mapPath': 'assets/tilesets/Library.json',
+                                    'isTiling': !0x0
+                                },
+                                'spawnType': _0x446091[_0x2f72b3(0x95d)],
+                                'startingSpawns': 0x32,
+                                'minute': 0x0,
+                                'destructibleType': _0x33a0b6[_0x2f72b3(0x971)],
+                                'destructibleFreq': 0x3e8,
+                                'destructibleChance': 7.5,
+                                'dayNight': 1,
+                                'hasLights': true,
+                                'destructibleChanceMax': 0x32,
+                                'maxDestructibles': 0xa,
+                                'BGTextureName': 'bg_forest',
+                                'minimum': 0x32,
+                                'frequency': 0xbb8,
+                                'enemies': [_0x1a846d[_0x2f72b3(0xba2)]],
+                                'events': [{
+                                    'eventType': _0x21eccf['SHADE_BOMB_RED'],
+                                    'delay': 0x64,
+                                    'moreX': 0x1
+                                }]
+                            }, {
+                                'minute': 0x1,
+                                'minimum': 0x50,
+                                'frequency': 0xbb8,
+                                'enemies': [_0x1a846d['MUD']]
+                            }, {
+                                'minute': 0x2,
+                                'minimum': 0x64,
+                                'frequency': 0xfa0,
+                                'enemies': [_0x1a846d['MUD'], _0x1a846d[_0x2f72b3(0xb0f)]],
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x6e9)],
+                                    'moreX': 0x6,
+                                    'moreY': _0x1a846d['MEDUSA1']
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x882)],
+                                    'moreX': 0xc,
+                                    'moreY': _0x1a846d[_0x2f72b3(0x79f)],
+                                    'delay': 0x1388,
+                                    'chance': 0x46,
+                                    'repeat': 0x4
+                                }]
+                            }, {
+                                'minute': 0x3,
+                                'minimum': 0x3c,
+                                'frequency': 0xfa0,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x28d)]],
+                                'bosses': [_0x1a846d['XLMUMMY']],
+                                'treasure': {
+                                    'chances': [0.1, 0x5, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY']]
+                                }
+                            }, {
+                                'minute': 0x4,
+                                'minimum': 0x6e,
+                                'frequency': 0xfa0,
+                                'enemies': [_0x1a846d['MUD'], _0x1a846d['MUMMY']]
+                            }, {
+                                'minute': 0x5,
+                                'minimum': 0x64,
+                                'frequency': 0xfa0,
+                                'enemies': [_0x1a846d['MUMMY']],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x8ef)]],
+                                'events': [{
+                                    'eventType': _0x21eccf['MEDUSA_WALL'],
+                                    'moreX': 0xc,
+                                    'moreY': _0x1a846d['MEDUSA1_FAST']
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x882)],
+                                    'moreX': 0xc,
+                                    'moreY': _0x1a846d[_0x2f72b3(0x79f)],
+                                    'delay': 0x1388,
+                                    'chance': 0x46,
+                                    'repeat': 0x5
+                                }],
+                                'treasure': {
+                                    'chances': [0x1, 0x5, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x6ed)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b[_0x2f72b3(0x291)]]
+                                }
+                            }, {
+                                'minute': 0x6,
+                                'minimum': 0x1e,
+                                'frequency': 0x7d0,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x566)], _0x1a846d[_0x2f72b3(0xb0f)]],
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x3ae)],
+                                    'delay': 0x2710,
+                                    'chance': 0x32,
+                                    'repeat': 0x4,
+                                    'moreX': 0x1
+                                }]
+                            }, {
+                                'minute': 0x7,
+                                'minimum': 0x50,
+                                'frequency': 0x7d0,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x566)], _0x1a846d['ECTO1'], _0x1a846d['ECTO2']],
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x3ae)],
+                                    'delay': 0x1388,
+                                    'chance': 0x50,
+                                    'repeat': 0x8,
+                                    'moreX': 0x1
+                                }]
+                            }, {
+                                'minute': 0x8,
+                                'minimum': 0x50,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d[_0x2f72b3(0xadc)], _0x1a846d['GHOST']],
+                                'bosses': [_0x1a846d['BOSS_ECTO']],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x32],
+                                    'level': 0x2,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x6ed)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b[_0x2f72b3(0x291)]]
+                                }
+                            }, {
+                                'minute': 0x9,
+                                'minimum': 0xc8,
+                                'frequency': 0x1f4,
+                                'enemies': [_0x1a846d['MUMMY'], _0x1a846d[_0x2f72b3(0x2a6)]],
+                                'events': [{
+                                    'eventType': _0x21eccf['SHADE_BOMB_RED'],
+                                    'delay': 0x4e20,
+                                    'chance': 0x32,
+                                    'repeat': 0x2,
+                                    'moreX': 0x2
+                                }]
+                            }, {
+                                'minute': 0xa,
+                                'minimum': 0x64,
+                                'frequency': 0x1f4,
+                                'enemies': [_0x1a846d[_0x2f72b3(0xadc)]],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x7a1)]],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x6ed)], _0x3c6a0b[_0x2f72b3(0x6ed)]]
+                                },
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x3ae)],
+                                    'moreX': 0x1
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x3ae)],
+                                    'delay': 0x2710,
+                                    'chance': 0x50,
+                                    'repeat': 0x3,
+                                    'moreX': 0x2
+                                }]
+                            }, {
+                                'minute': 0xb,
+                                'minimum': 0x78,
+                                'frequency': 0x7d0,
+                                'enemies': [_0x1a846d['MEDUSA2'], _0x1a846d['BUER']],
+                                'bosses': [_0x1a846d['BOSS_MEDUSA1']],
+                                'treasure': {
+                                    'chances': [0x0, 0x0, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x6ed)], _0x3c6a0b[_0x2f72b3(0x6ed)]]
+                                },
+                                'arcanaHolder': _0x1a846d['BAT4'],
+                                'arcanaTreasure': {
+                                    'chances': [0x0, 0x0, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x365)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY']]
+                                }
+                            }, {
+                                'minute': 0xc,
+                                'minimum': 0x50,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d['MEDUSA2'], _0x1a846d[_0x2f72b3(0x566)]],
+                                'events': [{
+                                    'eventType': _0x21eccf['MEDUSA_SWARM'],
+                                    'moreX': 0xc,
+                                    'moreY': _0x1a846d[_0x2f72b3(0xa5c)]
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x6e9)],
+                                    'moreX': 0xc,
+                                    'moreY': _0x1a846d[_0x2f72b3(0x79f)],
+                                    'delay': 0x1388,
+                                    'chance': 0x46,
+                                    'repeat': 0x5
+                                }],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x1e1)]],
+                                'treasure': {
+                                    'chances': [0x1, 0x5, 0x32],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b['EVOLUTION'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)]]
+                                }
+                            }, {
+                                'minute': 0xd,
+                                'minimum': 0x78,
+                                'frequency': 0x1f4,
+                                'enemies': [_0x1a846d['MUMMY'], _0x1a846d['DULL1']],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x6b4)]],
+                                'treasure': {
+                                    'chances': [0x1, 0x5, 0x32],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY']]
+                                }
+                            }, {
+                                'minute': 0xe,
+                                'minimum': 0x12c,
+                                'frequency': 0x64,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x28d)], _0x1a846d[_0x2f72b3(0xa0e)], _0x1a846d[_0x2f72b3(0xadc)]],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x3ee)]],
+                                'treasure': {
+                                    'chances': [0x1, 0x5, 0x32],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b[_0x2f72b3(0x291)]]
+                                }
+                            }, {
+                                'minute': 0xf,
+                                'minimum': 0x64,
+                                'frequency': 0x64,
+                                'enemies': [_0x1a846d['MEDUSA2_AGGRO']],
+                                'bosses': [_0x1a846d['BOSS_XLMEDUSA']],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b['EVOLUTION'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY']]
+                                },
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x6e9)],
+                                    'moreX': 0xc,
+                                    'moreY': _0x1a846d[_0x2f72b3(0xa5c)]
+                                }, {
+                                    'eventType': _0x21eccf['MEDUSA_WALL'],
+                                    'moreX': 0x6,
+                                    'moreY': _0x1a846d[_0x2f72b3(0xa0e)],
+                                    'delay': 0x32c8
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x882)],
+                                    'moreX': 0xc,
+                                    'moreY': _0x1a846d[_0x2f72b3(0xa5c)],
+                                    'delay': 0x7d0,
+                                    'chance': 0x5a,
+                                    'repeat': 0x19
+                                }]
+                            }, {
+                                'minute': 0x10,
+                                'minimum': 0x64,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d['WITCH1'], _0x1a846d[_0x2f72b3(0x566)], _0x1a846d['DULL2']],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x1e1)]],
+                                'treasure': {
+                                    'chances': [0x1, 0x5, 0x32],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)]]
+                                }
+                            }, {
+                                'minute': 0x11,
+                                'minimum': 0xc8,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d['WITCH1'], _0x1a846d[_0x2f72b3(0xadc)], _0x1a846d[_0x2f72b3(0xb0f)]],
+                                'events': [{
+                                    'eventType': _0x21eccf['SHADE_BOMB_RED'],
+                                    'delay': 0x1388,
+                                    'chance': 0x32,
+                                    'repeat': 0x4,
+                                    'moreX': 0x3
+                                }]
+                            }, {
+                                'minute': 0x12,
+                                'minimum': 0x3c,
+                                'frequency': 0x1f4,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x4a6)], _0x1a846d['BUER']],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x9fd)]],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b['EVOLUTION'], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)]]
+                                }
+                            }, {
+                                'minute': 0x13,
+                                'minimum': 0x78,
+                                'frequency': 0x1f4,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x4a6)], _0x1a846d['DULL2']]
+                            }, {
+                                'minute': 0x14,
+                                'minimum': 0x64,
+                                'frequency': 0x64,
+                                'enemies': [_0x1a846d['BUER'], _0x1a846d['DULL2']],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x69a)]],
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x3ae)],
+                                    'delay': 0x7d0,
+                                    'chance': 0x32,
+                                    'repeat': 0x19,
+                                    'moreX': 0x2
+                                }, {
+                                    'eventType': _0x21eccf['SKULL_SWARM'],
+                                    'moreX': 0x1
+                                }, {
+                                    'eventType': _0x21eccf['SKULL_SWARM'],
+                                    'delay': 0x1388,
+                                    'moreX': 0x2
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x395)],
+                                    'delay': 0x3a98,
+                                    'moreX': 0x4
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x395)],
+                                    'delay': 0x61a8,
+                                    'moreX': 0x8
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x395)],
+                                    'delay': 0x88b8,
+                                    'moreX': 0x10
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x395)],
+                                    'delay': 0xafc8,
+                                    'moreX': 0x20
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x395)],
+                                    'delay': 0xd6d8,
+                                    'moreX': 0x20
+                                }],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b['EVOLUTION'], _0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY']]
+                                }
+                            }, {
+                                'minute': 0x15,
+                                'minimum': 0x64,
+                                'frequency': 0x64,
+                                'enemies': [_0x1a846d['BUER']],
+                                'arcanaHolder': _0x1a846d[_0x2f72b3(0x1e1)],
+                                'arcanaTreasure': {
+                                    'chances': [0x0, 0x0, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b['ARCANA'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY']]
+                                }
+                            }, {
+                                'minute': 0x16,
+                                'minimum': 0x50,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d[_0x2f72b3(0xaad)], _0x1a846d[_0x2f72b3(0x3f9)]],
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x3ae)],
+                                    'delay': 0x7d0,
+                                    'chance': 0x32,
+                                    'repeat': 0x19,
+                                    'moreX': 0x3
+                                }],
+                                'bosses': [_0x1a846d['BAT4']],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)]]
+                                }
+                            }, {
+                                'minute': 0x17,
+                                'minimum': 0x78,
+                                'frequency': 0x64,
+                                'enemies': [_0x1a846d['DULL1'], _0x1a846d[_0x2f72b3(0xa11)], _0x1a846d['WITCH2']],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x7a1)]],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b['EVOLUTION'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY']]
+                                }
+                            }, {
+                                'minute': 0x18,
+                                'minimum': 0x12c,
+                                'frequency': 0x64,
+                                'enemies': [_0x1a846d[_0x2f72b3(0xaad)]]
+                            }, {
+                                'minute': 0x19,
+                                'minimum': 0x12c,
+                                'frequency': 0x64,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x3a9)], _0x1a846d[_0x2f72b3(0xaad)], _0x1a846d['XLBAT']],
+                                'bosses': [_0x1a846d['BOSS_COUNT1']],
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0xb68)]
+                                }, {
+                                    'eventType': _0x21eccf['SKULL_SWARM'],
+                                    'moreX': 0x1
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x395)],
+                                    'delay': 0x1388,
+                                    'moreX': 0x2
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x395)],
+                                    'delay': 0x3a98,
+                                    'moreX': 0x4
+                                }, {
+                                    'eventType': _0x21eccf['SKULL_SWARM'],
+                                    'delay': 0x61a8,
+                                    'moreX': 0x8
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x395)],
+                                    'delay': 0x88b8,
+                                    'moreX': 0x10
+                                }, {
+                                    'eventType': _0x21eccf['SKULL_SWARM'],
+                                    'delay': 0xafc8,
+                                    'moreX': 0x20
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x395)],
+                                    'delay': 0xd6d8,
+                                    'moreX': 0x20
+                                }],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b['EVOLUTION'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)]]
+                                }
+                            }, {
+                                'minute': 0x1a,
+                                'minimum': 0x64,
+                                'frequency': 0x64,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x6a0)]],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x204)]],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x32],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b['EVOLUTION'], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b[_0x2f72b3(0x291)]]
+                                }
+                            }, {
+                                'minute': 0x1b,
+                                'minimum': 0x12c,
+                                'frequency': 0x64,
+                                'enemies': [_0x1a846d[_0x2f72b3(0xa0e)], _0x1a846d[_0x2f72b3(0x6a0)]],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x204)]],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x32],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b['EVOLUTION'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY']]
+                                },
+                                'events': [{
+                                    'eventType': _0x21eccf['MEDUSA_SWARM'],
+                                    'moreX': 0xc,
+                                    'moreY': _0x1a846d[_0x2f72b3(0xb05)]
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x6e9)],
+                                    'moreX': 0xc,
+                                    'moreY': _0x1a846d['MEDUSA2_FAST'],
+                                    'delay': 0x7d0,
+                                    'chance': 0x5a,
+                                    'repeat': 0x19
+                                }]
+                            }, {
+                                'minute': 0x1c,
+                                'minimum': 0xfa,
+                                'frequency': 0x64,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x4a6)], _0x1a846d[_0x2f72b3(0x283)]],
+                                'bosses': [_0x1a846d['BOSS_XLMEDUSA']],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b['EVOLUTION'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY']]
+                                }
+                            }, {
+                                'minute': 0x1d,
+                                'minimum': 0xfa,
+                                'frequency': 0x64,
+                                'enemies': [_0x1a846d['BOSS_MUD'], _0x1a846d['BOSS_ECTO'], _0x1a846d[_0x2f72b3(0x7a1)], _0x1a846d['BOSS_MEDUSA1']],
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x3ae)],
+                                    'delay': 0x3e8,
+                                    'chance': 0x3c,
+                                    'repeat': 0x32,
+                                    'moreX': 0x4
+                                }]
+                            }, {
+                                'minute': 0x1e,
+                                'minimum': 0x1,
+                                'frequency': 0x2710,
+                                'enemies': [_0x1a846d['BOSS_MUD'], _0x1a846d['BOSS_ECTO'], _0x1a846d[_0x2f72b3(0x7a1)], _0x1a846d['BOSS_MEDUSA1']]
+                            }, {
+                                'minute': 31,
+                                'minimum': 0x14,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d['SKULLINO'], _0x1a846d[_0x2f72b3(0x889)]],
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x395)],
+                                    'moreX': 0x2
+                                }]
+                            }, {
+                                'minute': 32,
+                                'minimum': 0x28,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x9f9)], _0x1a846d['SKELETON']],
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x395)],
+                                    'moreX': 0x4
+                                }]
+                            }, {
+                                'minute': 33,
+                                'minimum': 0x28,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x889)]],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
+                                'treasure': {
+                                    'chances': [0.1, 0x5, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b['EXISTING_ANY'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY']]
+                                },
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x395)],
+                                    'moreX': 0x8
+                                }]
+                            }, {
+                                'minute': 34,
+                                'minimum': 0x3c,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x889)], _0x1a846d[_0x2f72b3(0xa9e)]],
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x395)],
+                                    'moreX': 0x10
+                                }]
+                            }, {
+                                'minute': 35,
+                                'minimum': 0x28,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d['SKELETON'], _0x1a846d['PILE4']],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
+                                'events': [{
+                                    'eventType': _0x21eccf['SKULL_SWARM'],
+                                    'moreX': 0x20
+                                }],
+                                'treasure': {
+                                    'chances': [0x1, 0x5, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x6ed)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x2db)]]
+                                }
+                            }, {
+                                'minute': 36,
+                                'minimum': 0x50,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d['SKULLINO'], _0x1a846d[_0x2f72b3(0x2db)]],
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x395)],
+                                    'moreX': 0x20
+                                }]
+                            }, {
+                                'minute': 37,
+                                'minimum': 0x78,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x889)], _0x1a846d[_0x2f72b3(0x70e)], _0x1a846d[_0x2f72b3(0x576)], _0x1a846d[_0x2f72b3(0x737)], _0x1a846d[_0x2f72b3(0x2c3)]],
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x395)],
+                                    'moreX': 0x20
+                                }]
+                            }, {
+                                'minute': 38,
+                                'minimum': 0x28,
+                                'frequency': 0x1f4,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x889)], _0x1a846d['SKELETON2'], _0x1a846d[_0x2f72b3(0x576)], _0x1a846d[_0x2f72b3(0x737)], _0x1a846d[_0x2f72b3(0x993)]],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x32],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b['EXISTING_WEAPON'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY']]
+                                },
+                                'events': [{
+                                    'eventType': _0x21eccf['SKULL_SWARM'],
+                                    'moreX': 0x20
+                                }]
+                            }, {
+                                'minute': 39,
+                                'minimum': 0xc8,
+                                'frequency': 0x64,
+                                'enemies': [_0x1a846d['SKELETON']],
+                                'events': [{
+                                    'eventType': _0x21eccf['SKULL_SWARM'],
+                                    'moreX': 0x20
+                                }]
+                            }, {
+                                'minute': 40,
+                                'minimum': 0x50,
+                                'frequency': 0x1f4,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x889)], _0x1a846d['SKELETON2'], _0x1a846d['SKELETON3'], _0x1a846d[_0x2f72b3(0x737)], _0x1a846d[_0x2f72b3(0x49b)]],
+                                'bosses': [_0x1a846d['BOSS_XLSKELETON']],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x6ed)], _0x3c6a0b[_0x2f72b3(0x6ed)]]
+                                },
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x75d)],
+                                    'duration': 0xea60
+                                }]
+                            }, {
+                                'minute': 41,
+                                'minimum': 0x64,
+                                'frequency': 0x1f4,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x889)], _0x1a846d[_0x2f72b3(0x149)]],
+                                'arcanaHolder': _0x1a846d['BOSS_SKULL2'],
+                                'arcanaTreasure': {
+                                    'chances': [0x0, 0x0, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x365)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY']]
+                                }
+                            }, {
+                                'minute': 42,
+                                'minimum': 0x96,
+                                'frequency': 0x1f4,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x2db)], _0x1a846d[_0x2f72b3(0xf6)]],
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
+                                    'duration': 0x2710,
+                                    'chance': 0x64,
+                                    'moreZ': 0x2
+                                }]
+                            }, {
+                                'minute': 43,
+                                'minimum': 0x64,
+                                'frequency': 0x1f4,
+                                'enemies': [_0x1a846d['SKULLNOAURA'], _0x1a846d['SKELEPANTHER']],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
+                                'treasure': {
+                                    'chances': [0x1, 0x5, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b['EVOLUTION'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY']]
+                                },
+                                'events': [{
+                                    'eventType': _0x21eccf['SKELESTREAM'],
+                                    'duration': 0x2710,
+                                    'chance': 0x64,
+                                    'moreZ': 0x4
+                                }]
+                            }, {
+                                'minute': 44,
+                                'minimum': 0x96,
+                                'frequency': 0x64,
+                                'enemies': [_0x1a846d['SKULLNOAURA']],
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
+                                    'duration': 0x2710,
+                                    'chance': 0x64,
+                                    'moreZ': 0x8
+                                }]
+                            }, {
+                                'minute': 45,
+                                'minimum': 0x64,
+                                'frequency': 0x64,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x2db)], _0x1a846d[_0x2f72b3(0x9f9)]],
+                                'bosses': [_0x1a846d['SKELEGLOW']],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)]]
+                                },
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
+                                    'duration': 0x1388,
+                                    'chance': 0x64,
+                                    'moreZ': 0x4
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
+                                    'duration': 0x1388,
+                                    'chance': 0x64,
+                                    'delay': 0x13ec,
+                                    'moreZ': 0x8
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
+                                    'duration': 0x1388,
+                                    'chance': 0x64,
+                                    'delay': 0x2af8,
+                                    'moreZ': 0xc
+                                }]
+                            }, {
+                                'minute': 46,
+                                'minimum': 0x96,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x2db)], _0x1a846d[_0x2f72b3(0x49b)]],
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
+                                    'duration': 0x1388,
+                                    'chance': 0x64,
+                                    'moreZ': 0x4
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
+                                    'duration': 0x1388,
+                                    'chance': 0x64,
+                                    'delay': 0x13ec,
+                                    'moreZ': 0x8
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
+                                    'duration': 0x1388,
+                                    'chance': 0x64,
+                                    'delay': 0x2af8,
+                                    'moreZ': 0xc
+                                }]
+                            }, {
+                                'minute': 47,
+                                'minimum': 0x64,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x2db)], _0x1a846d[_0x2f72b3(0x993)]],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b[_0x2f72b3(0x291)]]
+                                },
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
+                                    'duration': 0x1388,
+                                    'chance': 0x64,
+                                    'moreZ': 0x4
+                                }, {
+                                    'eventType': _0x21eccf['SKELESTREAM'],
+                                    'duration': 0x1388,
+                                    'chance': 0x64,
+                                    'delay': 0x13ec,
+                                    'moreZ': 0x8
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
+                                    'duration': 0x1388,
+                                    'chance': 0x64,
+                                    'delay': 0x2af8,
+                                    'moreZ': 0xc
+                                }]
+                            }, {
+                                'minute': 48,
+                                'minimum': 0x96,
+                                'frequency': 0x1f4,
+                                'enemies': [_0x1a846d['SKULLNOAURA'], _0x1a846d[_0x2f72b3(0x1ce)]],
+                                'events': [{
+                                    'eventType': _0x21eccf['SKELESTREAM'],
+                                    'duration': 0x1388,
+                                    'chance': 0x64,
+                                    'moreZ': 0x4
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
+                                    'duration': 0x1388,
+                                    'chance': 0x64,
+                                    'delay': 0x13ec,
+                                    'moreZ': 0x8
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
+                                    'duration': 0x1388,
+                                    'chance': 0x64,
+                                    'delay': 0x2af8,
+                                    'moreZ': 0xc
+                                }]
+                            }, {
+                                'minute': 49,
+                                'minimum': 0xc8,
+                                'frequency': 0x1f4,
+                                'enemies': [_0x1a846d['SKULLNOAURA']],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)]]
+                                },
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
+                                    'duration': 0x1388,
+                                    'chance': 0x64,
+                                    'moreZ': 0x4
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
+                                    'duration': 0x1388,
+                                    'chance': 0x64,
+                                    'delay': 0x13ec,
+                                    'moreZ': 0x8
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
+                                    'duration': 0x1388,
+                                    'chance': 0x64,
+                                    'delay': 0x2af8,
+                                    'moreZ': 0xc
+                                }]
+                            }, {
+                                'minute': 50,
+                                'minimum': 0x96,
+                                'frequency': 0x64,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x2db)]],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x61e)]],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b['EVOLUTION'], _0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY']]
+                                },
+                                'events': [{
+                                    'eventType': _0x21eccf['DROWNER'],
+                                    'duration': 0xea60
+                                }]
+                            }, {
+                                'minute': 51,
+                                'minimum': 0x96,
+                                'frequency': 0x64,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x889)], _0x1a846d[_0x2f72b3(0x49b)]],
+                                'arcanaHolder': _0x1a846d['BOSS_SKULL2'],
+                                'arcanaTreasure': {
+                                    'chances': [0x0, 0x0, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x365)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b[_0x2f72b3(0x291)]]
+                                }
+                            }, {
+                                'minute': 52,
+                                'minimum': 0xc8,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d[_0x2f72b3(0xa9e)], _0x1a846d[_0x2f72b3(0x9f9)]],
+                                'events': [{
+                                    'eventType': _0x21eccf['SKULLPILEPILE'],
+                                    'moreX': 0x1
+                                }]
+                            }, {
+                                'minute': 53,
+                                'minimum': 0x96,
+                                'frequency': 0x64,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x3c8)], _0x1a846d['SKELANGUE']],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY']]
+                                }
+                            }, {
+                                'minute': 54,
+                                'minimum': 0xc8,
+                                'frequency': 0x64,
+                                'enemies': [_0x1a846d[_0x2f72b3(0xa9e)], _0x1a846d[_0x2f72b3(0x1ce)]],
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x3da)],
+                                    'moreX': 0x2
+                                }]
+                            }, {
+                                'minute': 55,
+                                'minimum': 0x96,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d['SKELEWING_ZONE'], _0x1a846d['SKELENIN_ZONE']],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY']]
+                                }
+                            }, {
+                                'minute': 56,
+                                'minimum': 0x64,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x12f)]],
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x3da)],
+                                    'moreX': 0x3
+                                }]
+                            }, {
+                                'minute': 57,
+                                'minimum': 0x96,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x12f)], _0x1a846d['SKULLINO']],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b['EVOLUTION'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY']]
+                                }
+                            }, {
+                                'minute': 58,
+                                'minimum': 0xc8,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x12f)]],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b['EVOLUTION'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b[_0x2f72b3(0x291)]]
+                                }
+                            }, {
+                                'minute': 59,
+                                'minimum': 0x96,
+                                'frequency': 0x32,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x9ab)]]
+                            }, {
+                                'minute': 60,
+                                'minimum': 12,
+                                'frequency': 100,
+                                'enemies': [
+                                    _0x1a846d['BOSS_ECTO'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d[_0x2f72b3(0x566)], //DULL_1
+                                    _0x1a846d['ECTO1'],
+                                    _0x1a846d['ECTO2'],
+                                    _0x1a846d['MUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x2a6)], //GHOST
+                                    _0x1a846d['MEDUSA2'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['WITCH1'],
+                                    _0x1a846d[_0x2f72b3(0x566)], //DULL_1
+                                    _0x1a846d['DULL2'],
+                                    _0x1a846d['DULL1'],
+                                    _0x1a846d['XLBAT']
+                                ],
+                                'bosses': [],
+                                'events': [{
+                                    'eventType': _0x21eccf['SKULLPILEPILE'],
+                                    'duration': 10000,
+                                    'chance': 100,
+                                    'moreZ': 8,
+                                    'moreX': 2
+                                }]
+                            }, {
+                                'minute': 70,
+                                'minimum': 20,
+                                'frequency': 100,
+                                'enemies': [
+                                    _0x1a846d['BOSS_ECTO'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['DEVIL3'],
+                                    _0x1a846d['WEREWOLF'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d[_0x2f72b3(0x725)], //Devil1
+                                    _0x1a846d['MUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x3c9)], //XLDragon1
+                                    _0x1a846d['MEDUSA2'],
+                                    _0x1a846d['XLARMOR1'],
+                                    _0x1a846d['MEDUSA2_AGGRO'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['BOSS_COUNT1'],
+                                    _0x1a846d['BOSS_COUNT2'],
+                                    _0x1a846d[_0x2f72b3(0xb43)], //Armor 2
+                                    _0x1a846d['BOSS_ECTO'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d[_0x2f72b3(0x566)], //DULL_1
+                                    _0x1a846d['ECTO1'],
+                                    _0x1a846d['ECTO2'],
+                                    _0x1a846d['MUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x2a6)], //GHOST
+                                    _0x1a846d['MEDUSA2'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['WITCH1'],
+                                    _0x1a846d[_0x2f72b3(0x566)], //DULL_1
+                                    _0x1a846d['DULL2'],
+                                    _0x1a846d['DULL1'],
+                                    _0x1a846d['XLBAT']
+                                ],
+                                'bosses': [],
+                                'events': []
+                            }, {
+                                'minute': 80,
+                                'minimum': 35,
+                                'frequency': 90,
+                                'enemies': [
+                                    _0x1a846d['XLMUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x945)], //XLMantis
+                                    _0x1a846d[_0x2f72b3(0x1cf)], //XLBat
+                                    _0x1a846d['XLMEDUSA'],
+                                    _0x1a846d['XLARMOR2'],
+                                    _0x1a846d['XLARMOR1'],
+                                    _0x1a846d['XLMAGIO'],
+                                    _0x1a846d['BOSS_WEREWOLF'],
+                                    _0x1a846d['BOSS_XLMANTIS'],
+                                    _0x1a846d[_0x2f72b3(0x1cf)], //XLBAT_0
+                                    _0x1a846d[_0x2f72b3(0x139)], //Harpy
+                                    _0x1a846d['SKULL2_SWARM'],
+                                    _0x1a846d['SKULL2_SCALING'],
+                                    _0x1a846d['BOSS_ECTO'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['DEVIL3'],
+                                    _0x1a846d['WEREWOLF'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d[_0x2f72b3(0x725)], //Devil1
+                                    _0x1a846d['MUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x3c9)], //XLDragon1
+                                    _0x1a846d['MEDUSA2'],
+                                    _0x1a846d['XLARMOR1'],
+                                    _0x1a846d['MEDUSA2_AGGRO'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['BOSS_COUNT1'],
+                                    _0x1a846d['BOSS_COUNT2'],
+                                    _0x1a846d[_0x2f72b3(0xb43)], //Armor 2
+                                    _0x1a846d['BOSS_ECTO'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d[_0x2f72b3(0x566)], //DULL_1
+                                    _0x1a846d['ECTO1'],
+                                    _0x1a846d['ECTO2'],
+                                    _0x1a846d['MUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x2a6)], //GHOST
+                                    _0x1a846d['MEDUSA2'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['WITCH1'],
+                                    _0x1a846d[_0x2f72b3(0x566)], //DULL_1
+                                    _0x1a846d['DULL2'],
+                                    _0x1a846d['DULL1'],
+                                    _0x1a846d['XLBAT']
+                                ],
+                                'bosses': [],
+                                'events': []
+                            }, {
+                                'minute': 90,
+                                'minimum': 45,
+                                'frequency': 80,
+                                'enemies': [
+                                    _0x1a846d['XLMUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x945)], //XLMantis
+                                    _0x1a846d[_0x2f72b3(0x1cf)], //XLBat
+                                    _0x1a846d['XLMEDUSA'],
+                                    _0x1a846d['XLARMOR2'],
+                                    _0x1a846d['XLARMOR1'],
+                                    _0x1a846d['XLMAGIO'],
+                                    _0x1a846d['BOSS_WEREWOLF'],
+                                    _0x1a846d['BOSS_XLMANTIS'],
+                                    _0x1a846d[_0x2f72b3(0x1cf)], //XLBAT_0
+                                    _0x1a846d[_0x2f72b3(0x139)], //Harpy
+                                    _0x1a846d['SKULL2_SWARM'],
+                                    _0x1a846d['SKULL2_SCALING'],
+                                    _0x1a846d['BOSS_ECTO'],
+                                    _0x1a846d[_0x2f72b3(0x566)], //DULL_1
+                                    _0x1a846d['ECTO1'],
+                                    _0x1a846d['ECTO2'],
+                                    _0x1a846d['MUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x2a6)], //GHOST
+                                    _0x1a846d['MEDUSA2'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['WITCH1'],
+                                    _0x1a846d[_0x2f72b3(0x566)], //DULL_1
+                                    _0x1a846d['DULL2'],
+                                    _0x1a846d['DULL1'],
+                                    _0x1a846d['XLBAT'],
+                                    _0x1a846d['XLMUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x945)], //XLMantis
+                                    _0x1a846d[_0x2f72b3(0x1cf)], //XLBat
+                                    _0x1a846d['XLMEDUSA'],
+                                    _0x1a846d['XLARMOR2'],
+                                    _0x1a846d['XLARMOR1'],
+                                    _0x1a846d['XLMAGIO'],
+                                    _0x1a846d['BOSS_WEREWOLF'],
+                                    _0x1a846d['BOSS_XLMANTIS'],
+                                    _0x1a846d[_0x2f72b3(0x1cf)], //XLBAT_0
+                                    _0x1a846d[_0x2f72b3(0x139)], //Harpy
+                                    _0x1a846d['SKULL2_SWARM'],
+                                    _0x1a846d['SKULL2_SCALING'],
+                                    _0x1a846d['BOSS_ECTO'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['DEVIL3'],
+                                    _0x1a846d['WEREWOLF'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d[_0x2f72b3(0x725)], //Devil1
+                                    _0x1a846d['MUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x3c9)], //XLDragon1
+                                    _0x1a846d['MEDUSA2'],
+                                    _0x1a846d['XLARMOR1'],
+                                    _0x1a846d['MEDUSA2_AGGRO'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['BOSS_COUNT1'],
+                                    _0x1a846d['BOSS_COUNT2'],
+                                    _0x1a846d[_0x2f72b3(0xb43)], //Armor 2
+                                    _0x1a846d['BOSS_ECTO'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d[_0x2f72b3(0x566)], //DULL_1
+                                    _0x1a846d['ECTO1'],
+                                    _0x1a846d['ECTO2'],
+                                    _0x1a846d['MUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x2a6)], //GHOST
+                                    _0x1a846d['MEDUSA2'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['WITCH1'],
+                                    _0x1a846d[_0x2f72b3(0x566)], //DULL_1
+                                    _0x1a846d['DULL2'],
+                                    _0x1a846d['DULL1'],
+                                    _0x1a846d['XLBAT']
+                                ],
+                                'bosses': [],
+                                'events': []
+                            }, {
+                                'minute': 100,
+                                'minimum': 50,
+                                'frequency': 70,
+                                'enemies': [
+                                    _0x1a846d['XLMUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x945)], //XLMantis
+                                    _0x1a846d[_0x2f72b3(0x1cf)], //XLBat
+                                    _0x1a846d['XLMEDUSA'],
+                                    _0x1a846d['XLARMOR2'],
+                                    _0x1a846d['XLARMOR1'],
+                                    _0x1a846d['XLMAGIO'],
+                                    _0x1a846d['BOSS_WEREWOLF'],
+                                    _0x1a846d['BOSS_XLMANTIS'],
+                                    _0x1a846d[_0x2f72b3(0x1cf)], //XLBAT_0
+                                    _0x1a846d[_0x2f72b3(0x139)], //Harpy
+                                    _0x1a846d['SKULL2_SWARM'],
+                                    _0x1a846d['SKULL2_SCALING'],
+                                    _0x1a846d['BOSS_ECTO'],
+                                    _0x1a846d[_0x2f72b3(0x566)], //DULL_1
+                                    _0x1a846d['ECTO1'],
+                                    _0x1a846d['ECTO2'],
+                                    _0x1a846d['MUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x2a6)], //GHOST
+                                    _0x1a846d['MEDUSA2'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['WITCH1'],
+                                    _0x1a846d[_0x2f72b3(0x566)], //DULL_1
+                                    _0x1a846d['DULL2'],
+                                    _0x1a846d['DULL1'],
+                                    _0x1a846d['XLBAT'],
+                                    _0x1a846d['XLMUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x945)], //XLMantis
+                                    _0x1a846d[_0x2f72b3(0x1cf)], //XLBat
+                                    _0x1a846d['XLMEDUSA'],
+                                    _0x1a846d['XLARMOR2'],
+                                    _0x1a846d['XLARMOR1'],
+                                    _0x1a846d['XLMAGIO'],
+                                    _0x1a846d['BOSS_WEREWOLF'],
+                                    _0x1a846d['BOSS_XLMANTIS'],
+                                    _0x1a846d[_0x2f72b3(0x1cf)], //XLBAT_0
+                                    _0x1a846d[_0x2f72b3(0x139)], //Harpy
+                                    _0x1a846d['SKULL2_SWARM'],
+                                    _0x1a846d['SKULL2_SCALING'],
+                                    _0x1a846d['BOSS_ECTO'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['DEVIL3'],
+                                    _0x1a846d['WEREWOLF'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d[_0x2f72b3(0x725)], //Devil1
+                                    _0x1a846d['MUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x3c9)], //XLDragon1
+                                    _0x1a846d['MEDUSA2'],
+                                    _0x1a846d['XLARMOR1'],
+                                    _0x1a846d['MEDUSA2_AGGRO'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['BOSS_COUNT1'],
+                                    _0x1a846d['BOSS_COUNT2'],
+                                    _0x1a846d[_0x2f72b3(0xb43)], //Armor 2
+                                    _0x1a846d['BOSS_ECTO'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d[_0x2f72b3(0x566)], //DULL_1
+                                    _0x1a846d['ECTO1'],
+                                    _0x1a846d['ECTO2'],
+                                    _0x1a846d['MUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x2a6)], //GHOST
+                                    _0x1a846d['MEDUSA2'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['WITCH1'],
+                                    _0x1a846d[_0x2f72b3(0x566)], //DULL_1
+                                    _0x1a846d['DULL2'],
+                                    _0x1a846d['DULL1'],
+                                    _0x1a846d['XLBAT']
+                                ],
+                                'bosses': [],
+                                'events': []
+                            }, {
+                                'minute': 110,
+                                'minimum': 55,
+                                'frequency': 60,
+                                'enemies': [
+                                    _0x1a846d['XLMUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x945)], //XLMantis
+                                    _0x1a846d[_0x2f72b3(0x1cf)], //XLBat
+                                    _0x1a846d['XLMEDUSA'],
+                                    _0x1a846d['XLARMOR2'],
+                                    _0x1a846d['XLARMOR1'],
+                                    _0x1a846d['XLMAGIO'],
+                                    _0x1a846d['BOSS_WEREWOLF'],
+                                    _0x1a846d['BOSS_XLMANTIS'],
+                                    _0x1a846d[_0x2f72b3(0x1cf)], //XLBAT_0
+                                    _0x1a846d[_0x2f72b3(0x139)], //Harpy
+                                    _0x1a846d['SKULL2_SWARM'],
+                                    _0x1a846d['SKULL2_SCALING'],
+                                    _0x1a846d['BOSS_ECTO'],
+                                    _0x1a846d[_0x2f72b3(0x566)], //DULL_1
+                                    _0x1a846d['ECTO1'],
+                                    _0x1a846d['ECTO2'],
+                                    _0x1a846d['MUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x2a6)], //GHOST
+                                    _0x1a846d['MEDUSA2'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['WITCH1'],
+                                    _0x1a846d[_0x2f72b3(0x566)], //DULL_1
+                                    _0x1a846d['DULL2'],
+                                    _0x1a846d['DULL1'],
+                                    _0x1a846d['XLBAT'],
+                                    _0x1a846d['XLMUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x945)], //XLMantis
+                                    _0x1a846d[_0x2f72b3(0x1cf)], //XLBat
+                                    _0x1a846d['XLMEDUSA'],
+                                    _0x1a846d['XLARMOR2'],
+                                    _0x1a846d['XLARMOR1'],
+                                    _0x1a846d['XLMAGIO'],
+                                    _0x1a846d['BOSS_WEREWOLF'],
+                                    _0x1a846d['BOSS_XLMANTIS'],
+                                    _0x1a846d[_0x2f72b3(0x1cf)], //XLBAT_0
+                                    _0x1a846d[_0x2f72b3(0x139)], //Harpy
+                                    _0x1a846d['SKULL2_SWARM'],
+                                    _0x1a846d['SKULL2_SCALING'],
+                                    _0x1a846d['BOSS_ECTO'],
+                                    _0x1a846d[_0x2f72b3(0x566)], //DULL_1
+                                    _0x1a846d['ECTO1'],
+                                    _0x1a846d['ECTO2'],
+                                    _0x1a846d['MUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x2a6)], //GHOST
+                                    _0x1a846d['MEDUSA2'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['WITCH1'],
+                                    _0x1a846d[_0x2f72b3(0x566)], //DULL_1
+                                    _0x1a846d['DULL2'],
+                                    _0x1a846d['DULL1'],
+                                    _0x1a846d['XLBAT'],
+                                    _0x1a846d['XLMUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x945)], //XLMantis
+                                    _0x1a846d[_0x2f72b3(0x1cf)], //XLBat
+                                    _0x1a846d['XLMEDUSA'],
+                                    _0x1a846d['XLARMOR2'],
+                                    _0x1a846d['XLARMOR1'],
+                                    _0x1a846d['XLMAGIO'],
+                                    _0x1a846d['BOSS_WEREWOLF'],
+                                    _0x1a846d['BOSS_XLMANTIS'],
+                                    _0x1a846d[_0x2f72b3(0x1cf)], //XLBAT_0
+                                    _0x1a846d[_0x2f72b3(0x139)], //Harpy
+                                    _0x1a846d['SKULL2_SWARM'],
+                                    _0x1a846d['SKULL2_SCALING'],
+                                    _0x1a846d['BOSS_ECTO'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['DEVIL3'],
+                                    _0x1a846d['WEREWOLF'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d[_0x2f72b3(0x725)], //Devil1
+                                    _0x1a846d['MUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x3c9)], //XLDragon1
+                                    _0x1a846d['MEDUSA2'],
+                                    _0x1a846d['XLARMOR1'],
+                                    _0x1a846d['MEDUSA2_AGGRO'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['BOSS_COUNT1'],
+                                    _0x1a846d['BOSS_COUNT2'],
+                                    _0x1a846d[_0x2f72b3(0xb43)], //Armor 2
+                                    _0x1a846d['BOSS_ECTO'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d[_0x2f72b3(0x566)], //DULL_1
+                                    _0x1a846d['ECTO1'],
+                                    _0x1a846d['ECTO2'],
+                                    _0x1a846d['MUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x2a6)], //GHOST
+                                    _0x1a846d['MEDUSA2'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['WITCH1'],
+                                    _0x1a846d[_0x2f72b3(0x566)], //DULL_1
+                                    _0x1a846d['DULL2'],
+                                    _0x1a846d['DULL1'],
+                                    _0x1a846d['XLBAT']
+                                ],
+                                'bosses': [],
+                                'events': []
+                            }, {
+                                'minute': 120,
+                                'minimum': 60,
+                                'frequency': 50,
+                                'enemies': [
+                                    _0x1a846d['XLMUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x945)], //XLMantis
+                                    _0x1a846d[_0x2f72b3(0x1cf)], //XLBat
+                                    _0x1a846d['XLMEDUSA'],
+                                    _0x1a846d['XLARMOR2'],
+                                    _0x1a846d['XLARMOR1'],
+                                    _0x1a846d['XLMAGIO'],
+                                    _0x1a846d['BOSS_WEREWOLF'],
+                                    _0x1a846d['BOSS_XLMANTIS'],
+                                    _0x1a846d[_0x2f72b3(0x1cf)], //XLBAT_0
+                                    _0x1a846d[_0x2f72b3(0x139)], //Harpy
+                                    _0x1a846d['SKULL2_SWARM'],
+                                    _0x1a846d['SKULL2_SCALING'],
+                                    _0x1a846d['BOSS_ECTO'],
+                                    _0x1a846d[_0x2f72b3(0x566)], //DULL_1
+                                    _0x1a846d['ECTO1'],
+                                    _0x1a846d['ECTO2'],
+                                    _0x1a846d['MUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x2a6)], //GHOST
+                                    _0x1a846d['MEDUSA2'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['WITCH1'],
+                                    _0x1a846d[_0x2f72b3(0x566)], //DULL_1
+                                    _0x1a846d['DULL2'],
+                                    _0x1a846d['DULL1'],
+                                    _0x1a846d['XLBAT'],
+                                    _0x1a846d['XLMUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x945)], //XLMantis
+                                    _0x1a846d[_0x2f72b3(0x1cf)], //XLBat
+                                    _0x1a846d['XLMEDUSA'],
+                                    _0x1a846d['XLARMOR2'],
+                                    _0x1a846d['XLARMOR1'],
+                                    _0x1a846d['XLMAGIO'],
+                                    _0x1a846d['BOSS_WEREWOLF'],
+                                    _0x1a846d['BOSS_XLMANTIS'],
+                                    _0x1a846d[_0x2f72b3(0x1cf)], //XLBAT_0
+                                    _0x1a846d[_0x2f72b3(0x139)], //Harpy
+                                    _0x1a846d['SKULL2_SWARM'],
+                                    _0x1a846d['SKULL2_SCALING'],
+                                    _0x1a846d['BOSS_ECTO'],
+                                    _0x1a846d[_0x2f72b3(0x566)], //DULL_1
+                                    _0x1a846d['ECTO1'],
+                                    _0x1a846d['ECTO2'],
+                                    _0x1a846d['MUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x2a6)], //GHOST
+                                    _0x1a846d['MEDUSA2'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['WITCH1'],
+                                    _0x1a846d[_0x2f72b3(0x566)], //DULL_1
+                                    _0x1a846d['DULL2'],
+                                    _0x1a846d['DULL1'],
+                                    _0x1a846d['XLBAT'],
+                                    _0x1a846d['XLMUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x945)], //XLMantis
+                                    _0x1a846d[_0x2f72b3(0x1cf)], //XLBat
+                                    _0x1a846d['XLMEDUSA'],
+                                    _0x1a846d['XLARMOR2'],
+                                    _0x1a846d['XLARMOR1'],
+                                    _0x1a846d['XLMAGIO'],
+                                    _0x1a846d['BOSS_WEREWOLF'],
+                                    _0x1a846d['BOSS_XLMANTIS'],
+                                    _0x1a846d[_0x2f72b3(0x1cf)], //XLBAT_0
+                                    _0x1a846d[_0x2f72b3(0x139)], //Harpy
+                                    _0x1a846d['SKULL2_SWARM'],
+                                    _0x1a846d['SKULL2_SCALING'],
+                                    _0x1a846d['BOSS_ECTO'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['DEVIL3'],
+                                    _0x1a846d['WEREWOLF'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d[_0x2f72b3(0x725)], //Devil1
+                                    _0x1a846d['MUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x3c9)], //XLDragon1
+                                    _0x1a846d['MEDUSA2'],
+                                    _0x1a846d['XLARMOR1'],
+                                    _0x1a846d['MEDUSA2_AGGRO'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['BOSS_COUNT1'],
+                                    _0x1a846d['BOSS_COUNT2'],
+                                    _0x1a846d[_0x2f72b3(0xb43)], //Armor 2
+                                    _0x1a846d['BOSS_ECTO'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d[_0x2f72b3(0x566)], //DULL_1
+                                    _0x1a846d['ECTO1'],
+                                    _0x1a846d['ECTO2'],
+                                    _0x1a846d['MUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x2a6)], //GHOST
+                                    _0x1a846d['MEDUSA2'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['WITCH1'],
+                                    _0x1a846d[_0x2f72b3(0x566)], //DULL_1
+                                    _0x1a846d['DULL2'],
+                                    _0x1a846d['DULL1'],
+                                    _0x1a846d['XLBAT']
+                                ],
+                                'bosses': [],
+                                'events': []
+                            }, {
+                                'minute': 130,
+                                'minimum': 70,
+                                'frequency': 40,
+                                'enemies': [
+                                    _0x1a846d['XLMUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x945)], //XLMantis
+                                    _0x1a846d[_0x2f72b3(0x1cf)], //XLBat
+                                    _0x1a846d['XLMEDUSA'],
+                                    _0x1a846d['XLARMOR2'],
+                                    _0x1a846d['XLARMOR1'],
+                                    _0x1a846d['XLMAGIO'],
+                                    _0x1a846d['BOSS_WEREWOLF'],
+                                    _0x1a846d['BOSS_XLMANTIS'],
+                                    _0x1a846d[_0x2f72b3(0x1cf)], //XLBAT_0
+                                    _0x1a846d[_0x2f72b3(0x139)], //Harpy
+                                    _0x1a846d['SKULL2_SWARM'],
+                                    _0x1a846d['SKULL2_SCALING'],
+                                    _0x1a846d['BOSS_ECTO'],
+                                    _0x1a846d[_0x2f72b3(0x566)], //DULL_1
+                                    _0x1a846d['ECTO1'],
+                                    _0x1a846d['ECTO2'],
+                                    _0x1a846d['MUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x2a6)], //GHOST
+                                    _0x1a846d['MEDUSA2'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['WITCH1'],
+                                    _0x1a846d[_0x2f72b3(0x566)], //DULL_1
+                                    _0x1a846d['DULL2'],
+                                    _0x1a846d['DULL1'],
+                                    _0x1a846d['XLBAT'],
+                                    _0x1a846d['XLMUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x945)], //XLMantis
+                                    _0x1a846d[_0x2f72b3(0x1cf)], //XLBat
+                                    _0x1a846d['XLMEDUSA'],
+                                    _0x1a846d['XLARMOR2'],
+                                    _0x1a846d['XLARMOR1'],
+                                    _0x1a846d['XLMAGIO'],
+                                    _0x1a846d['BOSS_WEREWOLF'],
+                                    _0x1a846d['BOSS_XLMANTIS'],
+                                    _0x1a846d[_0x2f72b3(0x1cf)], //XLBAT_0
+                                    _0x1a846d[_0x2f72b3(0x139)], //Harpy
+                                    _0x1a846d['SKULL2_SWARM'],
+                                    _0x1a846d['SKULL2_SCALING'],
+                                    _0x1a846d['BOSS_ECTO'],
+                                    _0x1a846d[_0x2f72b3(0x566)], //DULL_1
+                                    _0x1a846d['ECTO1'],
+                                    _0x1a846d['ECTO2'],
+                                    _0x1a846d['MUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x2a6)], //GHOST
+                                    _0x1a846d['MEDUSA2'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['WITCH1'],
+                                    _0x1a846d[_0x2f72b3(0x566)], //DULL_1
+                                    _0x1a846d['DULL2'],
+                                    _0x1a846d['DULL1'],
+                                    _0x1a846d['XLBAT'],
+                                    _0x1a846d['XLMUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x945)], //XLMantis
+                                    _0x1a846d[_0x2f72b3(0x1cf)], //XLBat
+                                    _0x1a846d['XLMEDUSA'],
+                                    _0x1a846d['XLARMOR2'],
+                                    _0x1a846d['XLARMOR1'],
+                                    _0x1a846d['XLMAGIO'],
+                                    _0x1a846d['BOSS_WEREWOLF'],
+                                    _0x1a846d['BOSS_XLMANTIS'],
+                                    _0x1a846d[_0x2f72b3(0x1cf)], //XLBAT_0
+                                    _0x1a846d[_0x2f72b3(0x139)], //Harpy
+                                    _0x1a846d['SKULL2_SWARM'],
+                                    _0x1a846d['SKULL2_SCALING'],
+                                    _0x1a846d['BOSS_ECTO'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['DEVIL3'],
+                                    _0x1a846d['WEREWOLF'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d[_0x2f72b3(0x725)], //Devil1
+                                    _0x1a846d['MUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x3c9)], //XLDragon1
+                                    _0x1a846d['MEDUSA2'],
+                                    _0x1a846d['XLARMOR1'],
+                                    _0x1a846d['MEDUSA2_AGGRO'],
+                                    _0x1a846d['XLDRAGON2'],
+                                    _0x1a846d['BOSS_COUNT1'],
+                                    _0x1a846d['BOSS_COUNT2'],
+                                    _0x1a846d[_0x2f72b3(0xb43)], //Armor 2
+                                    _0x1a846d['BOSS_ECTO'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d['POLTER'],
+                                    _0x1a846d[_0x2f72b3(0x566)], //DULL_1
+                                    _0x1a846d['ECTO1'],
+                                    _0x1a846d['ECTO2'],
+                                    _0x1a846d['MUMMY'],
+                                    _0x1a846d[_0x2f72b3(0x2a6)], //GHOST
+                                    _0x1a846d['MEDUSA2'],
+                                    _0x1a846d['BUER'],
+                                    _0x1a846d['WITCH1'],
+                                    _0x1a846d[_0x2f72b3(0x566)], //DULL_1
+                                    _0x1a846d['DULL2'],
+                                    _0x1a846d['DULL1'],
+                                    _0x1a846d['XLBAT']
+                                ],
+                                'bosses': [],
+                                'events': []
+                            }, ]
                         };
+
+
+
                     var _0x4eb305 = function(_0x272892, _0x558cba, _0x48cd0f, _0x421f4a) {
                         return new(_0x48cd0f || (_0x48cd0f = Promise))(function(_0x5b0eb0, _0x3c02d7) {
                             const _0x5b0707 = a0_0x38be;
@@ -33693,6 +35078,14 @@
                                     this[_0xf0ebb8(0xa7a)]['audio'](_0x5aaeff['BGM_RedBlue'], ['assets/sfx/bgm_elrond_redblue.ogg']),
                                     this['load'][_0xf0ebb8(0x83c)](_0x5aaeff[_0xf0ebb8(0x2f9)], ['assets/sfx/bgm_elrond_tower.ogg']),
                                     this[_0xf0ebb8(0xa7a)][_0xf0ebb8(0x83c)](_0x5aaeff['BGM_Gatti'], ['assets/sfx/bgm_elrond_gatti.ogg']),
+                                    this['load']['audio'](_0x5aaeff['BGM_Goku'], ['mod/CharBundle/sfx/bgm_goku.ogg']),
+                                    this['load']['audio'](_0x5aaeff['BGM_Sonic'], ['mod/CharBundle/sfx/bgm_sonic.ogg']),
+                                    this['load']['audio'](_0x5aaeff['BGM_Gohan'], ['mod/CharBundle/sfx/bgm_gohan.ogg']),
+                                    this['load']['audio'](_0x5aaeff['BGM_Inuyasha'], ['mod/CharBundle/sfx/bgm_inuyasha.ogg']),
+                                    this['load']['audio'](_0x5aaeff['BGM_Starcraft'], ['mod/CharBundle/sfx/bgm_starcraft.ogg']),
+                                    this['load']['audio'](_0x5aaeff['BGM_Realm'], ['mod/CharBundle/sfx/bgm_realm.ogg']),
+                                    this['load']['audio'](_0x5aaeff['BGM_TMNT'], ['mod/CharBundle/sfx/bgm_tmnt.ogg']),
+                                    this['load']['audio'](_0x5aaeff['BGM_XMEN'], ['mod/CharBundle/sfx/bgm_xmen.ogg']),
                                     this['load'][_0xf0ebb8(0x83c)](_0x276b51['ClickIn'], ['assets/sfx/sfx_sounds_pause7_in.ogg']),
                                     this[_0xf0ebb8(0xa7a)][_0xf0ebb8(0x83c)](_0x276b51['ClickOut'], ['assets/sfx/sfx_sounds_pause7_out.ogg']),
                                     this[_0xf0ebb8(0xa7a)]['audio'](_0x276b51[_0xf0ebb8(0x2e8)], ['assets/sfx/VS_ProjectileMagic_v04-03.ogg']),
@@ -33727,6 +35120,10 @@
                                     this[_0xf0ebb8(0xa7a)]['audio'](_0x276b51['MoonBeat'], ['assets/sfx/sfx_moon_beat.ogg']),
                                     this[_0xf0ebb8(0xa7a)][_0xf0ebb8(0x83c)](_0x276b51[_0xf0ebb8(0x475)], ['assets/sfx/sfx_moon_finisher.ogg']),
                                     this['load']['audio'](_0x276b51[_0xf0ebb8(0x9e5)], ['assets/sfx/sfx_sounds_ban.ogg']),
+                                    this['load']['audio'](_0x276b51['WOOSH'], ['mod/CharBundle/sfx/sfx_woosh.ogg']),
+                                    this['load']['audio'](_0x276b51['LASER'], ['mod/CharBundle/sfx/sfx_laser.ogg']),
+                                    this['load']['audio'](_0x276b51['THROW'], ['mod/CharBundle/sfx/sfx_dagger.ogg']),
+                                    this['load']['audio'](_0x276b51['KI'], ['mod/CharBundle/sfx/sfx_ki.ogg']),
                                     this[_0xf0ebb8(0xa7a)]['audio'](_0x276b51['Guns1'], ['assets/sfx/sfx_guns1.ogg']),
                                     this['load'][_0xf0ebb8(0x83c)](_0x276b51[_0xf0ebb8(0x231)], ['assets/sfx/sfx_guns2.ogg']),
                                     this[_0xf0ebb8(0xa7a)]['audio'](_0x276b51[_0xf0ebb8(0x974)], ['assets/sfx/sfx_guns3.ogg']),
@@ -33749,7 +35146,8 @@
                                     _0x308500[_0xe12f59['FOREST']] = _0x468951[_0xf0ebb8(0x6e0)],
                                     _0x308500[_0xe12f59[_0xf0ebb8(0x30e)]] = _0x21f83b[_0xf0ebb8(0x30e)],
                                     _0x308500[_0xe12f59['WAREHOUSE']] = _0x3331ab['WAREHOUSE'],
-                                    _0x308500[_0xe12f59['TOWER']] = _0x430a8b[_0xf0ebb8(0x7d9)];
+                                    _0x308500[_0xe12f59['TOWER']] = _0x430a8b[_0xf0ebb8(0x7d9)],
+                                    _0x308500[_0xe12f59['LIBRARY_E']] = LIBRARY_ENDLESS['LIBRARY_E'];
                             }
                             [_0x2f72b3(0x2c9)]() {
                                 const _0x214984 = _0x2f72b3;
