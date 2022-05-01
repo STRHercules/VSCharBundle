@@ -214,7 +214,7 @@
             89, 90, 89, 90, 89, 90, 89, 90, 89, 90, 89, 90, 89, 90, 89, 90, 89, 90, 89, 90, 89, 90, 89, 90, 89, 90, 89, 90, 89, 90, 89, 90, 112, 113, 112, 113, 112, 113, 89, 90, 89, 90, 89, 90, 89, 90, 89, 90, 89, 90, 89, 90, 89, 90, 89, 90, 89, 90, 89, 90, 89, 90, 89, 90,
             104, 105, 104, 105, 104, 105, 104, 105, 104, 105, 104, 105, 104, 105, 104, 105, 104, 105, 104, 105, 104, 105, 104, 105, 104, 105, 104, 105, 104, 105, 104, 105, 127, 128, 127, 128, 127, 128, 104, 105, 104, 105, 104, 105, 104, 105, 104, 105, 104, 105, 104, 105, 104, 105, 104, 105, 104, 105, 104, 105, 104, 105, 104, 105,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 35, 36, 0, 0, 0, 0, 37, 38, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -289,7 +289,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 142, 143, 142, 143, 142, 143, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             101, 102, 103, 101, 102, 103, 101, 102, 103, 101, 102, 103, 101, 102, 103, 101, 102, 103, 101, 102, 103, 101, 102, 103, 101, 102, 103, 101, 102, 103, 101, 102, 142, 143, 142, 143, 142, 143, 101, 102, 103, 101, 102, 103, 101, 102, 103, 101, 102, 103, 101, 102, 103, 101, 102, 103, 101, 102, 103, 101, 102, 103, 101, 102,
-            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 35, 36, 0, 0, 0, 0, 37, 38, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -709,6 +709,11 @@
                  "point":true,
                  "properties":[
                         {
+                         "name":"chance",
+                         "type":"float",
+                         "value":0.5
+                        }, 
+                        {
                          "name":"xMultiplier",
                          "type":"int",
                          "value":4
@@ -717,8 +722,8 @@
                  "type":"GREED",
                  "visible":true,
                  "width":0,
-                 "x":1456,
-                 "y":814.75
+                 "x":1454,
+                 "y":839.75
                 }, 
                 {
                  "height":0,
@@ -758,8 +763,8 @@
                  "type":"GEM",
                  "visible":true,
                  "width":0,
-                 "x":816,
-                 "y":843
+                 "x":815.5,
+                 "y":845.25
                 }, 
                 {
                  "height":0,
@@ -926,7 +931,7 @@
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":1398.2803030303,
+                 "x":1386.94696969697,
                  "y":735.045454545455
                 }, 
                 {
@@ -936,9 +941,14 @@
                  "point":true,
                  "properties":[
                         {
+                         "name":"chance",
+                         "type":"float",
+                         "value":0.5
+                        }, 
+                        {
                          "name":"xMultiplier",
                          "type":"int",
-                         "value":4
+                         "value":-4
                         }],
                  "rotation":0,
                  "type":"CURSE",
@@ -956,7 +966,7 @@
                         {
                          "name":"chance",
                          "type":"float",
-                         "value":1
+                         "value":0.25
                         }, 
                         {
                          "name":"xMultiplier",
@@ -990,8 +1000,8 @@
                  "type":"AREA",
                  "visible":true,
                  "width":0,
-                 "x":779.625,
-                 "y":95.7500000000001
+                 "x":355.375,
+                 "y":80.7500000000001
                 }, 
                 {
                  "height":0,
@@ -1003,13 +1013,18 @@
                          "name":"value",
                          "type":"float",
                          "value":5
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":2
                         }],
                  "rotation":0,
                  "type":"VACUUM",
                  "visible":true,
                  "width":0,
-                 "x":143.954545454545,
-                 "y":409.340909090909
+                 "x":143.681818181818,
+                 "y":401.340909090909
                 }, 
                 {
                  "height":0,
@@ -1021,13 +1036,18 @@
                          "name":"value",
                          "type":"float",
                          "value":5
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":-2
                         }],
                  "rotation":0,
                  "type":"ROSARY",
                  "visible":true,
                  "width":0,
-                 "x":1950,
-                 "y":457.333333333333
+                 "x":1950.25,
+                 "y":448.333333333333
                 }, 
                 {
                  "height":0,
@@ -1059,8 +1079,8 @@
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":1436.75,
-                 "y":736.25
+                 "x":1425.75,
+                 "y":735.25
                 }, 
                 {
                  "height":0,
@@ -1092,7 +1112,7 @@
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":1476.5,
+                 "x":1465.16666666667,
                  "y":735.75
                 }, 
                 {
@@ -1125,12 +1145,667 @@
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":1515.5,
+                 "x":1504.16666666667,
                  "y":735.5
                 }, 
                 {
                  "height":0,
-                 "id":137,
+                 "id":148,
+                 "name":"Weapon",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"chance",
+                         "type":"float",
+                         "value":0.25
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"int",
+                         "value":-12
+                        }],
+                 "rotation":0,
+                 "type":"REVIVAL",
+                 "visible":true,
+                 "width":0,
+                 "x":1078.39393939394,
+                 "y":1700.59090909091
+                }, 
+                {
+                 "height":0,
+                 "id":149,
+                 "name":"Weapon",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"chance",
+                         "type":"float",
+                         "value":0.05
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"int",
+                         "value":24
+                        }],
+                 "rotation":0,
+                 "type":"BORA",
+                 "visible":true,
+                 "width":0,
+                 "x":571,
+                 "y":1843
+                }, 
+                {
+                 "height":0,
+                 "id":150,
+                 "name":"PIZZA",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"guards",
+                         "type":"string",
+                         "value":"PATROL_SKELEWING_BIG"
+                        }, 
+                        {
+                         "name":"spawnQuantity",
+                         "type":"int",
+                         "value":60
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"int",
+                         "value":-4
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"int",
+                         "value":-4
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":315.655,
+                 "y":2034.42
+                }, 
+                {
+                 "height":0,
+                 "id":151,
+                 "name":"PIZZA",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"guards",
+                         "type":"string",
+                         "value":"PATROL_MIGNO_3_5SWARM"
+                        }, 
+                        {
+                         "name":"spawnQuantity",
+                         "type":"int",
+                         "value":60
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"int",
+                         "value":-4
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"int",
+                         "value":-4
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":346.125,
+                 "y":2034.875
+                }, 
+                {
+                 "height":0,
+                 "id":152,
+                 "name":"PIZZA",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"guards",
+                         "type":"string",
+                         "value":"PATROL_SKELEWING_BIG"
+                        }, 
+                        {
+                         "name":"spawnQuantity",
+                         "type":"int",
+                         "value":60
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"int",
+                         "value":-4
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"int",
+                         "value":-4
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":380.25,
+                 "y":2034.875
+                }, 
+                {
+                 "height":0,
+                 "id":153,
+                 "name":"PIZZA",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"guards",
+                         "type":"string",
+                         "value":"PATROL_MIGNO_3_5SWARM"
+                        }, 
+                        {
+                         "name":"spawnQuantity",
+                         "type":"int",
+                         "value":60
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"int",
+                         "value":-4
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"int",
+                         "value":-4
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":412.5,
+                 "y":2034.75
+                }, 
+                {
+                 "height":0,
+                 "id":154,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":5
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":-4
+                        }],
+                 "rotation":0,
+                 "type":"VACUUM",
+                 "visible":true,
+                 "width":0,
+                 "x":960.666666666667,
+                 "y":1704.66666666667
+                }, 
+                {
+                 "height":0,
+                 "id":156,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":5
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":6
+                        }],
+                 "rotation":0,
+                 "type":"NDUJA",
+                 "visible":true,
+                 "width":0,
+                 "x":1678.5,
+                 "y":1916.5
+                }, 
+                {
+                 "height":0,
+                 "id":157,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":25
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":-9
+                        }],
+                 "rotation":0,
+                 "type":"GEM",
+                 "visible":true,
+                 "width":0,
+                 "x":314,
+                 "y":1118
+                }, 
+                {
+                 "height":0,
+                 "id":158,
+                 "name":"Weapon",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"chance",
+                         "type":"float",
+                         "value":0.01
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"int",
+                         "value":-24
+                        }],
+                 "rotation":0,
+                 "type":"GUNS3",
+                 "visible":true,
+                 "width":0,
+                 "x":1679.58333333333,
+                 "y":1243.41666666667
+                }, 
+                {
+                 "height":0,
+                 "id":159,
+                 "name":"Weapon",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"chance",
+                         "type":"float",
+                         "value":0.05
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"int",
+                         "value":-8
+                        }],
+                 "rotation":0,
+                 "type":"ARMOR",
+                 "visible":true,
+                 "width":0,
+                 "x":355.25,
+                 "y":80.75
+                }, 
+                {
+                 "height":0,
+                 "id":160,
+                 "name":"Weapon",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"chance",
+                         "type":"float",
+                         "value":0.05
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"int",
+                         "value":8
+                        }],
+                 "rotation":0,
+                 "type":"BONE",
+                 "visible":true,
+                 "width":0,
+                 "x":355.5,
+                 "y":80.75
+                }, 
+                {
+                 "height":0,
+                 "id":161,
+                 "name":"Weapon",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"chance",
+                         "type":"float",
+                         "value":0.01
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"int",
+                         "value":-12
+                        }],
+                 "rotation":0,
+                 "type":"HEAVENSWORD",
+                 "visible":true,
+                 "width":0,
+                 "x":355.5,
+                 "y":80.75
+                }, 
+                {
+                 "height":0,
+                 "id":162,
+                 "name":"Weapon",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"chance",
+                         "type":"float",
+                         "value":0.01
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"int",
+                         "value":-21
+                        }],
+                 "rotation":0,
+                 "type":"SILF3",
+                 "visible":true,
+                 "width":0,
+                 "x":355.5,
+                 "y":81
+                }, 
+                {
+                 "height":0,
+                 "id":163,
+                 "name":"Weapon",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"chance",
+                         "type":"float",
+                         "value":0.01
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"int",
+                         "value":24
+                        }],
+                 "rotation":0,
+                 "type":"VORTEX",
+                 "visible":true,
+                 "width":0,
+                 "x":1679.75,
+                 "y":1243.25
+                }, 
+                {
+                 "height":0,
+                 "id":164,
+                 "name":"Weapon",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"chance",
+                         "type":"float",
+                         "value":0.01
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"int",
+                         "value":18
+                        }],
+                 "rotation":0,
+                 "type":"SPEAR",
+                 "visible":true,
+                 "width":0,
+                 "x":1683.77272727273,
+                 "y":449.897727272727
+                }, 
+                {
+                 "height":0,
+                 "id":165,
+                 "name":"Weapon",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"chance",
+                         "type":"float",
+                         "value":0.01
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"int",
+                         "value":15
+                        }],
+                 "rotation":0,
+                 "type":"LONGSWORD",
+                 "visible":true,
+                 "width":0,
+                 "x":1706,
+                 "y":449.852272727273
+                }, 
+                {
+                 "height":0,
+                 "id":166,
+                 "name":"Weapon",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"chance",
+                         "type":"float",
+                         "value":0.01
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"int",
+                         "value":-14
+                        }],
+                 "rotation":0,
+                 "type":"STAR",
+                 "visible":true,
+                 "width":0,
+                 "x":1728.86363636364,
+                 "y":450.352272727273
+                }, 
+                {
+                 "height":0,
+                 "id":167,
+                 "name":"Weapon",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"chance",
+                         "type":"float",
+                         "value":0.01
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"int",
+                         "value":-24
+                        }],
+                 "rotation":0,
+                 "type":"SKULL",
+                 "visible":true,
+                 "width":0,
+                 "x":1752,
+                 "y":450.125
+                }, 
+                {
+                 "height":0,
+                 "id":188,
+                 "name":"PIZZA",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"guards",
+                         "type":"string",
+                         "value":"PATROL_SKELEWING_BIG"
+                        }, 
+                        {
+                         "name":"spawnQuantity",
+                         "type":"int",
+                         "value":60
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"int",
+                         "value":-4
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"int",
+                         "value":-4
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":1407.11333333333,
+                 "y":734.878333333333
+                }, 
+                {
+                 "height":0,
+                 "id":189,
+                 "name":"PIZZA",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"guards",
+                         "type":"string",
+                         "value":"PATROL_MIGNO_3_5SWARM"
+                        }, 
+                        {
+                         "name":"spawnQuantity",
+                         "type":"int",
+                         "value":60
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"int",
+                         "value":-4
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"int",
+                         "value":-4
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":1445.58333333333,
+                 "y":736.083333333333
+                }, 
+                {
+                 "height":0,
+                 "id":190,
+                 "name":"PIZZA",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"guards",
+                         "type":"string",
+                         "value":"PATROL_SKELEWING_BIG"
+                        }, 
+                        {
+                         "name":"spawnQuantity",
+                         "type":"int",
+                         "value":60
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"int",
+                         "value":-4
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"int",
+                         "value":-4
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":1485.33333333333,
+                 "y":735.583333333333
+                }, 
+                {
+                 "height":0,
+                 "id":191,
+                 "name":"PIZZA",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"guards",
+                         "type":"string",
+                         "value":"PATROL_MIGNO_3_5SWARM"
+                        }, 
+                        {
+                         "name":"spawnQuantity",
+                         "type":"int",
+                         "value":60
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"int",
+                         "value":-4
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"int",
+                         "value":-4
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":1524.33333333333,
+                 "y":735.333333333333
+                }, 
+                {
+                 "height":0,
+                 "id":192,
+                 "name":"Weapon",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"chance",
+                         "type":"float",
+                         "value":0.01
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"int",
+                         "value":15
+                        }],
+                 "rotation":0,
+                 "type":"G_SHIELD",
+                 "visible":true,
+                 "width":0,
+                 "x":1773.125,
+                 "y":450.5
+                }, 
+                {
+                 "height":0,
+                 "id":193,
+                 "name":"Weapon",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"chance",
+                         "type":"float",
+                         "value":0.01
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"int",
+                         "value":-24
+                        }],
+                 "rotation":0,
+                 "type":"SCYTHE",
+                 "visible":true,
+                 "width":0,
+                 "x":1652.75,
+                 "y":838.083333333333
+                }, 
+                {
+                 "height":0,
+                 "id":194,
                  "name":"Item",
                  "point":true,
                  "properties":[
@@ -1138,13 +1813,150 @@
                          "name":"value",
                          "type":"float",
                          "value":10
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":-8
                         }],
                  "rotation":0,
-                 "type":"GEM",
+                 "type":"CLOVER",
                  "visible":true,
                  "width":0,
-                 "x":1135.25,
-                 "y":1706.75
+                 "x":1454,
+                 "y":847.333333333333
+                }, 
+                {
+                 "height":0,
+                 "id":195,
+                 "name":"PIZZA",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"guards",
+                         "type":"string",
+                         "value":"PATROL_SKELEWING_BIG"
+                        }, 
+                        {
+                         "name":"spawnQuantity",
+                         "type":"int",
+                         "value":60
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"int",
+                         "value":-4
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"int",
+                         "value":-4
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":296.905,
+                 "y":2034.17
+                }, 
+                {
+                 "height":0,
+                 "id":196,
+                 "name":"PIZZA",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"guards",
+                         "type":"string",
+                         "value":"PATROL_MIGNO_3_5SWARM"
+                        }, 
+                        {
+                         "name":"spawnQuantity",
+                         "type":"int",
+                         "value":60
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"int",
+                         "value":-4
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"int",
+                         "value":-4
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":327.375,
+                 "y":2034.63
+                }, 
+                {
+                 "height":0,
+                 "id":197,
+                 "name":"PIZZA",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"guards",
+                         "type":"string",
+                         "value":"PATROL_SKELEWING_BIG"
+                        }, 
+                        {
+                         "name":"spawnQuantity",
+                         "type":"int",
+                         "value":60
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"int",
+                         "value":-4
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"int",
+                         "value":-4
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":361.5,
+                 "y":2034.63
+                }, 
+                {
+                 "height":0,
+                 "id":198,
+                 "name":"PIZZA",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"guards",
+                         "type":"string",
+                         "value":"PATROL_MIGNO_3_5SWARM"
+                        }, 
+                        {
+                         "name":"spawnQuantity",
+                         "type":"int",
+                         "value":60
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"int",
+                         "value":-4
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"int",
+                         "value":-4
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":393.75,
+                 "y":2034.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1924,6 +2736,247 @@
                  "width":0,
                  "x":2016.16666666667,
                  "y":1696.83333333333
+                },
+            
+                {
+                 "height":0,
+                 "id":168,
+                 "name":"",
+                 "point":true,
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":797.333333333333,
+                 "y":2007
+                }, 
+                {
+                 "height":0,
+                 "id":169,
+                 "name":"",
+                 "point":true,
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":829.333333333333,
+                 "y":2007
+                }, 
+                {
+                 "height":0,
+                 "id":170,
+                 "name":"",
+                 "point":true,
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":861.333333333333,
+                 "y":2007
+                }, 
+                {
+                 "height":0,
+                 "id":171,
+                 "name":"",
+                 "point":true,
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":893.333333333333,
+                 "y":2007
+                }, 
+                {
+                 "height":0,
+                 "id":172,
+                 "name":"",
+                 "point":true,
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":925.333333333333,
+                 "y":2007
+                }, 
+                {
+                 "height":0,
+                 "id":173,
+                 "name":"",
+                 "point":true,
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":957.333333333333,
+                 "y":2007
+                }, 
+                {
+                 "height":0,
+                 "id":174,
+                 "name":"",
+                 "point":true,
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":989.333333333333,
+                 "y":2007
+                }, 
+                {
+                 "height":0,
+                 "id":175,
+                 "name":"",
+                 "point":true,
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":1021.33333333333,
+                 "y":2007
+                }, 
+                {
+                 "height":0,
+                 "id":176,
+                 "name":"",
+                 "point":true,
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":1053.33333333333,
+                 "y":2007
+                }, 
+                {
+                 "height":0,
+                 "id":177,
+                 "name":"",
+                 "point":true,
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":1085.33333333333,
+                 "y":2007
+                }, 
+                {
+                 "height":0,
+                 "id":178,
+                 "name":"",
+                 "point":true,
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":1681.91666666667,
+                 "y":454.833333333333
+                }, 
+                {
+                 "height":0,
+                 "id":179,
+                 "name":"",
+                 "point":true,
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":1713.91666666667,
+                 "y":454.833333333333
+                }, 
+                {
+                 "height":0,
+                 "id":180,
+                 "name":"",
+                 "point":true,
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":1745.91666666667,
+                 "y":454.833333333333
+                }, 
+                {
+                 "height":0,
+                 "id":181,
+                 "name":"",
+                 "point":true,
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":1777.91666666667,
+                 "y":454.833333333333
+                }, 
+                {
+                 "height":0,
+                 "id":182,
+                 "name":"",
+                 "point":true,
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":1809.91666666667,
+                 "y":454.833333333333
+                }, 
+                {
+                 "height":0,
+                 "id":183,
+                 "name":"",
+                 "point":true,
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":1841.91666666667,
+                 "y":454.833333333333
+                }, 
+                {
+                 "height":0,
+                 "id":184,
+                 "name":"",
+                 "point":true,
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":1873.91666666667,
+                 "y":454.833333333333
+                }, 
+                {
+                 "height":0,
+                 "id":185,
+                 "name":"",
+                 "point":true,
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":1905.91666666667,
+                 "y":454.833333333333
+                }, 
+                {
+                 "height":0,
+                 "id":186,
+                 "name":"",
+                 "point":true,
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":1937.91666666667,
+                 "y":454.833333333333
+                }, 
+                {
+                 "height":0,
+                 "id":187,
+                 "name":"",
+                 "point":true,
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":1969.91666666667,
+                 "y":454.833333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2415,126 +3468,6 @@
                  "width":0,
                  "x":35.3333333333333,
                  "y":1998.66666666667
-                }, 
-                {
-                 "height":0,
-                 "id":127,
-                 "name":"",
-                 "point":true,
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":2014.66666666667,
-                 "y":1843.33333333333
-                }, 
-                {
-                 "height":0,
-                 "id":128,
-                 "name":"",
-                 "point":true,
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":2014.66666666667,
-                 "y":1779.33333333333
-                }, 
-                {
-                 "height":0,
-                 "id":129,
-                 "name":"",
-                 "point":true,
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":2014.66666666667,
-                 "y":1715.33333333333
-                }, 
-                {
-                 "height":0,
-                 "id":130,
-                 "name":"",
-                 "point":true,
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":2014.66666666667,
-                 "y":1907.33333333333
-                }, 
-                {
-                 "height":0,
-                 "id":131,
-                 "name":"",
-                 "point":true,
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":2014.66666666667,
-                 "y":1971.33333333333
-                }, 
-                {
-                 "height":0,
-                 "id":132,
-                 "name":"",
-                 "point":true,
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":2014.66666666667,
-                 "y":1747.33333333333
-                }, 
-                {
-                 "height":0,
-                 "id":133,
-                 "name":"",
-                 "point":true,
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":2014.66666666667,
-                 "y":1811.33333333333
-                }, 
-                {
-                 "height":0,
-                 "id":134,
-                 "name":"",
-                 "point":true,
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":2014.66666666667,
-                 "y":1875.33333333333
-                }, 
-                {
-                 "height":0,
-                 "id":135,
-                 "name":"",
-                 "point":true,
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":2014.66666666667,
-                 "y":1939.33333333333
-                }, 
-                {
-                 "height":0,
-                 "id":136,
-                 "name":"",
-                 "point":true,
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":2014.66666666667,
-                 "y":2003.33333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2543,7 +3476,7 @@
          "y":0
         }],
  "nextlayerid":15,
- "nextobjectid":148,
+ "nextobjectid":199,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.8.4",

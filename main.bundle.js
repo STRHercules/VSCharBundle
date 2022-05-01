@@ -33282,7 +33282,7 @@
                                 'hidden': false,
                                 'BGM': _0x5aaeff[_0x2f72b3(0x13f)],
                                 'legacyBGM': _0x5aaeff[_0x2f72b3(0x565)],
-                                'tips': 'No Death at 30 minutes. Danger ramps up at 60 minutes.',
+                                'tips': 'Endless. Danger ramps up at 60 minutes. Multiple possible items.',
                                 'hyperTips': '75% Gold bonus\n20% Luck bonus',
                                 'mods': {
                                     'TimeLimit': 86400,
@@ -33313,6 +33313,75 @@
                                     'BGM_ignoreModsForNewSoundtrack': !0x1,
                                     'BGM_new_rate': 1.0625
                                 },
+                                'pizzaEvents': [{
+                                    'eventType': _0x21eccf['PILE_ASSAULT'],
+                                    'duration': 0x1388,
+                                    'moreX': 0x28,
+                                    'moreY': _0x1a846d['PILE1'],
+                                    'moreZ': 0.7
+                                }, {
+                                    'eventType': _0x21eccf['PILE_ASSAULT'],
+                                    'duration': 0x1388,
+                                    'moreX': 0x1e,
+                                    'moreY': _0x1a846d[_0x2f72b3(0x2c3)],
+                                    'moreZ': 0.7
+                                }, {
+                                    'eventType': _0x21eccf['PILE_ASSAULT'],
+                                    'duration': 0x1388,
+                                    'moreX': 0x14,
+                                    'moreY': _0x1a846d['PILE3'],
+                                    'moreZ': 0.7
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x941)],
+                                    'duration': 0x7530,
+                                    'moreX': 0x50
+                                }, {
+                                    'eventType': _0x21eccf['JELLY_WALL'],
+                                    'duration': 0x7530,
+                                    'moreX': 0x28
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x8b4)],
+                                    'duration': 0x2710,
+                                    'moreX': 0x28
+                                }, {
+                                    'eventType': _0x21eccf['MINO_RUSH'],
+                                    'duration': 0x2710,
+                                    'moreX': 0x14
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x3c7)],
+                                    'duration': 0x4e20,
+                                    'moreX': 0xc8
+                                }, {
+                                    'eventType': _0x21eccf['PILE_ASSAULT'],
+                                    'duration': 0x1388,
+                                    'moreX': 0x14,
+                                    'moreY': _0x1a846d['PILE3'],
+                                    'moreZ': 0.7
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x941)],
+                                    'duration': 0x7530,
+                                    'moreX': 0x50
+                                }, {
+                                    'eventType': _0x21eccf['JELLY_WALL'],
+                                    'duration': 0x7530,
+                                    'moreX': 0x28
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x8b4)],
+                                    'duration': 0x2710,
+                                    'moreX': 0x28
+                                }, {
+                                    'eventType': _0x21eccf['MINO_RUSH'],
+                                    'duration': 0x2710,
+                                    'moreX': 0x14
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x3c7)],
+                                    'duration': 0x4e20,
+                                    'moreX': 0xc8
+                                }, {
+                                    'eventType': _0x21eccf['JELLY_SWARM'],
+                                    'duration': 0x4e20,
+                                    'moreX': 0x32
+                                }],
                                 'tileset': {
                                     'setKey': 'LibraryTexturePackedC',
                                     'setPath': 'assets/tilesets/LibraryTexturePackedC.png',
