@@ -717,6 +717,11 @@
                          "name":"xMultiplier",
                          "type":"int",
                          "value":4
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":-4
                         }],
                  "rotation":0,
                  "type":"GREED",
@@ -949,6 +954,11 @@
                          "name":"xMultiplier",
                          "type":"int",
                          "value":-4
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":-6
                         }],
                  "rotation":0,
                  "type":"CURSE",
@@ -972,6 +982,11 @@
                          "name":"xMultiplier",
                          "type":"int",
                          "value":-8
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":5
                         }],
                  "rotation":0,
                  "type":"POWER",
@@ -995,6 +1010,11 @@
                          "name":"xMultiplier",
                          "type":"int",
                          "value":-5
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":8
                         }],
                  "rotation":0,
                  "type":"AREA",
@@ -1018,6 +1038,11 @@
                          "name":"xMultiplier",
                          "type":"float",
                          "value":2
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":0
                         }],
                  "rotation":0,
                  "type":"VACUUM",
@@ -1163,6 +1188,11 @@
                          "name":"xMultiplier",
                          "type":"int",
                          "value":-12
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":20
                         }],
                  "rotation":0,
                  "type":"REVIVAL",
@@ -1186,6 +1216,11 @@
                          "name":"xMultiplier",
                          "type":"int",
                          "value":24
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":-17
                         }],
                  "rotation":0,
                  "type":"BORA",
@@ -1346,8 +1381,8 @@
                  "type":"VACUUM",
                  "visible":true,
                  "width":0,
-                 "x":960.666666666667,
-                 "y":1704.66666666667
+                 "x":975.541666666667,
+                 "y":1706.66666666667
                 }, 
                 {
                  "height":0,
@@ -1410,6 +1445,11 @@
                          "name":"xMultiplier",
                          "type":"int",
                          "value":-24
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":30
                         }],
                  "rotation":0,
                  "type":"GUNS3",
@@ -1433,6 +1473,11 @@
                          "name":"xMultiplier",
                          "type":"int",
                          "value":-8
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":12
                         }],
                  "rotation":0,
                  "type":"ARMOR",
@@ -1478,7 +1523,12 @@
                         {
                          "name":"xMultiplier",
                          "type":"int",
-                         "value":-12
+                         "value":-21
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":34
                         }],
                  "rotation":0,
                  "type":"HEAVENSWORD",
@@ -1501,7 +1551,12 @@
                         {
                          "name":"xMultiplier",
                          "type":"int",
-                         "value":-21
+                         "value":-31
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":10
                         }],
                  "rotation":0,
                  "type":"SILF3",
@@ -1524,7 +1579,12 @@
                         {
                          "name":"xMultiplier",
                          "type":"int",
-                         "value":24
+                         "value":34
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":14
                         }],
                  "rotation":0,
                  "type":"VORTEX",
@@ -1548,6 +1608,11 @@
                          "name":"xMultiplier",
                          "type":"int",
                          "value":18
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":-7
                         }],
                  "rotation":0,
                  "type":"SPEAR",
@@ -1571,6 +1636,11 @@
                          "name":"xMultiplier",
                          "type":"int",
                          "value":15
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":-9
                         }],
                  "rotation":0,
                  "type":"LONGSWORD",
@@ -1594,6 +1664,11 @@
                          "name":"xMultiplier",
                          "type":"int",
                          "value":-14
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":-6
                         }],
                  "rotation":0,
                  "type":"STAR",
@@ -1617,6 +1692,11 @@
                          "name":"xMultiplier",
                          "type":"int",
                          "value":-24
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":-7
                         }],
                  "rotation":0,
                  "type":"SKULL",
@@ -1772,6 +1852,11 @@
                          "name":"xMultiplier",
                          "type":"int",
                          "value":15
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":8
                         }],
                  "rotation":0,
                  "type":"G_SHIELD",
@@ -1795,6 +1880,11 @@
                          "name":"xMultiplier",
                          "type":"int",
                          "value":-24
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":12
                         }],
                  "rotation":0,
                  "type":"SCYTHE",
@@ -1957,6 +2047,954 @@
                  "width":0,
                  "x":1894.75,
                  "y":1518.83333333333
+                }, 
+                {
+                 "height":0,
+                 "id":200,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":10
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":12
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":12
+                        }],
+                 "rotation":0,
+                 "type":"CLOVER",
+                 "visible":true,
+                 "width":0,
+                 "x":1454.09090909091,
+                 "y":840.545454545455
+                }, 
+                {
+                 "height":0,
+                 "id":201,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":10
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":21
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":-4
+                        }],
+                 "rotation":0,
+                 "type":"CLOVER",
+                 "visible":true,
+                 "width":0,
+                 "x":1454.09090909091,
+                 "y":840.545454545455
+                }, 
+                {
+                 "height":0,
+                 "id":202,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":10
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":-21
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":18
+                        }],
+                 "rotation":0,
+                 "type":"CLOVER",
+                 "visible":true,
+                 "width":0,
+                 "x":1454.09090909091,
+                 "y":840.545454545455
+                }, 
+                {
+                 "height":0,
+                 "id":203,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":10
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":10
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":20
+                        }],
+                 "rotation":0,
+                 "type":"CLOVER",
+                 "visible":true,
+                 "width":0,
+                 "x":1454.09090909091,
+                 "y":840.545454545455
+                }, 
+                {
+                 "height":0,
+                 "id":204,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":10
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":-8
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":-12
+                        }],
+                 "rotation":0,
+                 "type":"CLOVER",
+                 "visible":true,
+                 "width":0,
+                 "x":1454.09090909091,
+                 "y":840.545454545455
+                }, 
+                {
+                 "height":0,
+                 "id":205,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":10
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":6
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":6
+                        }],
+                 "rotation":0,
+                 "type":"CLOVER",
+                 "visible":true,
+                 "width":0,
+                 "x":1454.09090909091,
+                 "y":840.545454545455
+                }, 
+                {
+                 "height":0,
+                 "id":206,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":10
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":9
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":9
+                        }],
+                 "rotation":0,
+                 "type":"CLOVER",
+                 "visible":true,
+                 "width":0,
+                 "x":1454.09090909091,
+                 "y":840.545454545455
+                }, 
+                {
+                 "height":0,
+                 "id":207,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":10
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":-8
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":-9
+                        }],
+                 "rotation":0,
+                 "type":"CLOVER",
+                 "visible":true,
+                 "width":0,
+                 "x":1454.09090909091,
+                 "y":840.545454545455
+                }, 
+                {
+                 "height":0,
+                 "id":208,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":10
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":-8
+                        }],
+                 "rotation":0,
+                 "type":"CLOVER",
+                 "visible":true,
+                 "width":0,
+                 "x":1454.09090909091,
+                 "y":840.545454545455
+                }, 
+                {
+                 "height":0,
+                 "id":209,
+                 "name":"Weapon",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"chance",
+                         "type":"float",
+                         "value":0.3
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"int",
+                         "value":-9
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":-11
+                        }],
+                 "rotation":0,
+                 "type":"AREA",
+                 "visible":true,
+                 "width":0,
+                 "x":1679.5,
+                 "y":1972.5
+                }, 
+                {
+                 "height":0,
+                 "id":210,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":5
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":8
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":-8
+                        }],
+                 "rotation":0,
+                 "type":"VACUUM",
+                 "visible":true,
+                 "width":0,
+                 "x":975.375,
+                 "y":1706.5
+                }, 
+                {
+                 "height":0,
+                 "id":211,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":5
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":-9
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":9
+                        }],
+                 "rotation":0,
+                 "type":"VACUUM",
+                 "visible":true,
+                 "width":0,
+                 "x":975.25,
+                 "y":1706.625
+                }, 
+                {
+                 "height":0,
+                 "id":212,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":5
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":9
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":-9
+                        }],
+                 "rotation":0,
+                 "type":"VACUUM",
+                 "visible":true,
+                 "width":0,
+                 "x":975.25,
+                 "y":1706.625
+                }, 
+                {
+                 "height":0,
+                 "id":213,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":5
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":10
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":-10
+                        }],
+                 "rotation":0,
+                 "type":"VACUUM",
+                 "visible":true,
+                 "width":0,
+                 "x":975.25,
+                 "y":1706.625
+                }, 
+                {
+                 "height":0,
+                 "id":214,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":5
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":11
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":-11
+                        }],
+                 "rotation":0,
+                 "type":"VACUUM",
+                 "visible":true,
+                 "width":0,
+                 "x":975.25,
+                 "y":1706.625
+                }, 
+                {
+                 "height":0,
+                 "id":215,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":5
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":12
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":-12
+                        }],
+                 "rotation":0,
+                 "type":"VACUUM",
+                 "visible":true,
+                 "width":0,
+                 "x":975.25,
+                 "y":1706.625
+                },
+            
+                {
+                 "height":0,
+                 "id":216,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":5
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":13
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":-13
+                        }],
+                 "rotation":0,
+                 "type":"VACUUM",
+                 "visible":true,
+                 "width":0,
+                 "x":975.25,
+                 "y":1706.625
+                }, 
+                {
+                 "height":0,
+                 "id":217,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":5
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":14
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":-14
+                        }],
+                 "rotation":0,
+                 "type":"VACUUM",
+                 "visible":true,
+                 "width":0,
+                 "x":975.25,
+                 "y":1706.625
+                }, 
+                {
+                 "height":0,
+                 "id":218,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":5
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":15
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":-15
+                        }],
+                 "rotation":0,
+                 "type":"VACUUM",
+                 "visible":true,
+                 "width":0,
+                 "x":975.25,
+                 "y":1706.625
+                }, 
+                {
+                 "height":0,
+                 "id":219,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":5
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":-15
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":15
+                        }],
+                 "rotation":0,
+                 "type":"VACUUM",
+                 "visible":true,
+                 "width":0,
+                 "x":975.25,
+                 "y":1706.625
+                }, 
+                {
+                 "height":0,
+                 "id":220,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":5
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":-14
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":14
+                        }],
+                 "rotation":0,
+                 "type":"VACUUM",
+                 "visible":true,
+                 "width":0,
+                 "x":975.25,
+                 "y":1706.625
+                }, 
+                {
+                 "height":0,
+                 "id":221,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":5
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":-13
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":13
+                        }],
+                 "rotation":0,
+                 "type":"VACUUM",
+                 "visible":true,
+                 "width":0,
+                 "x":975.25,
+                 "y":1706.625
+                }, 
+                {
+                 "height":0,
+                 "id":222,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":5
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":-12
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":12
+                        }],
+                 "rotation":0,
+                 "type":"VACUUM",
+                 "visible":true,
+                 "width":0,
+                 "x":975.25,
+                 "y":1706.625
+                }, 
+                {
+                 "height":0,
+                 "id":223,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":5
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":-11
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":11
+                        }],
+                 "rotation":0,
+                 "type":"VACUUM",
+                 "visible":true,
+                 "width":0,
+                 "x":975.25,
+                 "y":1706.625
+                }, 
+                {
+                 "height":0,
+                 "id":224,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":5
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":10
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":-10
+                        }],
+                 "rotation":0,
+                 "type":"VACUUM",
+                 "visible":true,
+                 "width":0,
+                 "x":975.25,
+                 "y":1706.625
+                }, 
+                {
+                 "height":0,
+                 "id":225,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":5
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":12
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":-12
+                        }],
+                 "rotation":0,
+                 "type":"VACUUM",
+                 "visible":true,
+                 "width":0,
+                 "x":975.25,
+                 "y":1706.625
+                }, 
+                {
+                 "height":0,
+                 "id":226,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":5
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":5
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":-5
+                        }],
+                 "rotation":0,
+                 "type":"VACUUM",
+                 "visible":true,
+                 "width":0,
+                 "x":144.25,
+                 "y":401.25
+                }, 
+                {
+                 "height":0,
+                 "id":227,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":5
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":6
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":-6
+                        }],
+                 "rotation":0,
+                 "type":"VACUUM",
+                 "visible":true,
+                 "width":0,
+                 "x":143.25,
+                 "y":401
+                }, 
+                {
+                 "height":0,
+                 "id":228,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":5
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":7
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":-7
+                        }],
+                 "rotation":0,
+                 "type":"VACUUM",
+                 "visible":true,
+                 "width":0,
+                 "x":143.5,
+                 "y":401
+                }, 
+                {
+                 "height":0,
+                 "id":229,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":5
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":8
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":-8
+                        }],
+                 "rotation":0,
+                 "type":"VACUUM",
+                 "visible":true,
+                 "width":0,
+                 "x":143.25,
+                 "y":401
+                }, 
+                {
+                 "height":0,
+                 "id":230,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":5
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":9
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":-9
+                        }],
+                 "rotation":0,
+                 "type":"VACUUM",
+                 "visible":true,
+                 "width":0,
+                 "x":143.5,
+                 "y":400.25
+                }, 
+                {
+                 "height":0,
+                 "id":231,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":5
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":10
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":-10
+                        }],
+                 "rotation":0,
+                 "type":"VACUUM",
+                 "visible":true,
+                 "width":0,
+                 "x":143.75,
+                 "y":401.75
+                }, 
+                {
+                 "height":0,
+                 "id":232,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":5
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":11
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":-11
+                        }],
+                 "rotation":0,
+                 "type":"VACUUM",
+                 "visible":true,
+                 "width":0,
+                 "x":143.5,
+                 "y":401.5
+                }, 
+                {
+                 "height":0,
+                 "id":233,
+                 "name":"Item",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"value",
+                         "type":"float",
+                         "value":5
+                        }, 
+                        {
+                         "name":"xMultiplier",
+                         "type":"float",
+                         "value":12
+                        }, 
+                        {
+                         "name":"yMultiplier",
+                         "type":"float",
+                         "value":-12
+                        }],
+                 "rotation":0,
+                 "type":"VACUUM",
+                 "visible":true,
+                 "width":0,
+                 "x":143.75,
+                 "y":401.75
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -3344,7 +4382,7 @@
          "y":0
         }],
  "nextlayerid":15,
- "nextobjectid":199,
+ "nextobjectid":234,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.8.4",

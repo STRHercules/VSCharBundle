@@ -33397,8 +33397,8 @@
                                 'destructibleChance': 7.5,
                                 'dayNight': 1,
                                 'hasLights': true,
-                                'destructibleChanceMax': 0x32,
-                                'maxDestructibles': 0xa,
+                                'destructibleChanceMax': 0x32,  //50
+                                'maxDestructibles': 20,    //10
                                 'BGTextureName': 'bg_forest',
                                 'minimum': 0x32,
                                 'frequency': 0xbb8,
@@ -33855,309 +33855,7 @@
                                     'moreX': 0x4
                                 }]
                             }, {
-                                'minute': 0x1e,
-                                'minimum': 0x1,
-                                'frequency': 0x2710,
-                                'enemies': [_0x1a846d['BOSS_MUD'], _0x1a846d['BOSS_ECTO'], _0x1a846d[_0x2f72b3(0x7a1)], _0x1a846d['BOSS_MEDUSA1']]
-                            }, {
-                                'minute': 31,
-                                'minimum': 0x14,
-                                'frequency': 0x3e8,
-                                'enemies': [_0x1a846d['SKULLINO'], _0x1a846d[_0x2f72b3(0x889)]],
-                                'events': [{
-                                    'eventType': _0x21eccf[_0x2f72b3(0x395)],
-                                    'moreX': 0x2
-                                }]
-                            }, {
-                                'minute': 32,
-                                'minimum': 0x28,
-                                'frequency': 0x3e8,
-                                'enemies': [_0x1a846d[_0x2f72b3(0x9f9)], _0x1a846d['SKELETON']],
-                                'events': [{
-                                    'eventType': _0x21eccf[_0x2f72b3(0x395)],
-                                    'moreX': 0x4
-                                }]
-                            }, {
-                                'minute': 33,
-                                'minimum': 0x28,
-                                'frequency': 0x3e8,
-                                'enemies': [_0x1a846d[_0x2f72b3(0x889)]],
-                                'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
-                                'treasure': {
-                                    'chances': [0.1, 0x5, 0x64],
-                                    'level': 0x1,
-                                    'prizeTypes': [_0x3c6a0b['EXISTING_ANY'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY']]
-                                },
-                                'events': [{
-                                    'eventType': _0x21eccf[_0x2f72b3(0x395)],
-                                    'moreX': 0x8
-                                }]
-                            }, {
-                                'minute': 34,
-                                'minimum': 0x3c,
-                                'frequency': 0x3e8,
-                                'enemies': [_0x1a846d[_0x2f72b3(0x889)], _0x1a846d[_0x2f72b3(0xa9e)]],
-                                'events': [{
-                                    'eventType': _0x21eccf[_0x2f72b3(0x395)],
-                                    'moreX': 0x10
-                                }]
-                            }, {
-                                'minute': 35,
-                                'minimum': 0x28,
-                                'frequency': 0x3e8,
-                                'enemies': [_0x1a846d['SKELETON'], _0x1a846d['PILE4']],
-                                'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
-                                'events': [{
-                                    'eventType': _0x21eccf['SKULL_SWARM'],
-                                    'moreX': 0x20
-                                }],
-                                'treasure': {
-                                    'chances': [0x1, 0x5, 0x64],
-                                    'level': 0x1,
-                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x6ed)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x2db)]]
-                                }
-                            }, {
-                                'minute': 36,
-                                'minimum': 0x50,
-                                'frequency': 0x3e8,
-                                'enemies': [_0x1a846d['SKULLINO'], _0x1a846d[_0x2f72b3(0x2db)]],
-                                'events': [{
-                                    'eventType': _0x21eccf[_0x2f72b3(0x395)],
-                                    'moreX': 0x20
-                                }]
-                            }, {
-                                'minute': 37,
-                                'minimum': 0x78,
-                                'frequency': 0x3e8,
-                                'enemies': [_0x1a846d[_0x2f72b3(0x889)], _0x1a846d[_0x2f72b3(0x70e)], _0x1a846d[_0x2f72b3(0x576)], _0x1a846d[_0x2f72b3(0x737)], _0x1a846d[_0x2f72b3(0x2c3)]],
-                                'events': [{
-                                    'eventType': _0x21eccf[_0x2f72b3(0x395)],
-                                    'moreX': 0x20
-                                }]
-                            }, {
-                                'minute': 38,
-                                'minimum': 0x28,
-                                'frequency': 0x1f4,
-                                'enemies': [_0x1a846d[_0x2f72b3(0x889)], _0x1a846d['SKELETON2'], _0x1a846d[_0x2f72b3(0x576)], _0x1a846d[_0x2f72b3(0x737)], _0x1a846d[_0x2f72b3(0x993)]],
-                                'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
-                                'treasure': {
-                                    'chances': [0x3, 0xa, 0x32],
-                                    'level': 0x1,
-                                    'prizeTypes': [_0x3c6a0b['EXISTING_WEAPON'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY']]
-                                },
-                                'events': [{
-                                    'eventType': _0x21eccf['SKULL_SWARM'],
-                                    'moreX': 0x20
-                                }]
-                            }, {
-                                'minute': 39,
-                                'minimum': 0xc8,
-                                'frequency': 0x64,
-                                'enemies': [_0x1a846d['SKELETON']],
-                                'events': [{
-                                    'eventType': _0x21eccf['SKULL_SWARM'],
-                                    'moreX': 0x20
-                                }]
-                            }, {
-                                'minute': 40,
-                                'minimum': 0x50,
-                                'frequency': 0x1f4,
-                                'enemies': [_0x1a846d[_0x2f72b3(0x889)], _0x1a846d['SKELETON2'], _0x1a846d['SKELETON3'], _0x1a846d[_0x2f72b3(0x737)], _0x1a846d[_0x2f72b3(0x49b)]],
-                                'bosses': [_0x1a846d['BOSS_XLSKELETON']],
-                                'treasure': {
-                                    'chances': [0x3, 0xa, 0x64],
-                                    'level': 0x1,
-                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x6ed)], _0x3c6a0b[_0x2f72b3(0x6ed)]]
-                                },
-                                'events': [{
-                                    'eventType': _0x21eccf[_0x2f72b3(0x75d)],
-                                    'duration': 0xea60
-                                }]
-                            }, {
-                                'minute': 41,
-                                'minimum': 0x64,
-                                'frequency': 0x1f4,
-                                'enemies': [_0x1a846d[_0x2f72b3(0x889)], _0x1a846d[_0x2f72b3(0x149)]],
-                                'arcanaHolder': _0x1a846d['BOSS_SKULL2'],
-                                'arcanaTreasure': {
-                                    'chances': [0x0, 0x0, 0x64],
-                                    'level': 0x1,
-                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x365)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY']]
-                                }
-                            }, {
-                                'minute': 42,
-                                'minimum': 0x96,
-                                'frequency': 0x1f4,
-                                'enemies': [_0x1a846d[_0x2f72b3(0x2db)], _0x1a846d[_0x2f72b3(0xf6)]],
-                                'events': [{
-                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
-                                    'duration': 0x2710,
-                                    'chance': 0x64,
-                                    'moreZ': 0x2
-                                }]
-                            }, {
-                                'minute': 43,
-                                'minimum': 0x64,
-                                'frequency': 0x1f4,
-                                'enemies': [_0x1a846d['SKULLNOAURA'], _0x1a846d['SKELEPANTHER']],
-                                'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
-                                'treasure': {
-                                    'chances': [0x1, 0x5, 0x64],
-                                    'level': 0x1,
-                                    'prizeTypes': [_0x3c6a0b['EVOLUTION'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY']]
-                                },
-                                'events': [{
-                                    'eventType': _0x21eccf['SKELESTREAM'],
-                                    'duration': 0x2710,
-                                    'chance': 0x64,
-                                    'moreZ': 0x4
-                                }]
-                            }, {
-                                'minute': 44,
-                                'minimum': 0x96,
-                                'frequency': 0x64,
-                                'enemies': [_0x1a846d['SKULLNOAURA']],
-                                'events': [{
-                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
-                                    'duration': 0x2710,
-                                    'chance': 0x64,
-                                    'moreZ': 0x8
-                                }]
-                            }, {
-                                'minute': 45,
-                                'minimum': 0x64,
-                                'frequency': 0x64,
-                                'enemies': [_0x1a846d[_0x2f72b3(0x2db)], _0x1a846d[_0x2f72b3(0x9f9)]],
-                                'bosses': [_0x1a846d['SKELEGLOW']],
-                                'treasure': {
-                                    'chances': [0x3, 0xa, 0x64],
-                                    'level': 0x1,
-                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)]]
-                                },
-                                'events': [{
-                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
-                                    'duration': 0x1388,
-                                    'chance': 0x64,
-                                    'moreZ': 0x4
-                                }, {
-                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
-                                    'duration': 0x1388,
-                                    'chance': 0x64,
-                                    'delay': 0x13ec,
-                                    'moreZ': 0x8
-                                }, {
-                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
-                                    'duration': 0x1388,
-                                    'chance': 0x64,
-                                    'delay': 0x2af8,
-                                    'moreZ': 0xc
-                                }]
-                            }, {
-                                'minute': 46,
-                                'minimum': 0x96,
-                                'frequency': 0x3e8,
-                                'enemies': [_0x1a846d[_0x2f72b3(0x2db)], _0x1a846d[_0x2f72b3(0x49b)]],
-                                'events': [{
-                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
-                                    'duration': 0x1388,
-                                    'chance': 0x64,
-                                    'moreZ': 0x4
-                                }, {
-                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
-                                    'duration': 0x1388,
-                                    'chance': 0x64,
-                                    'delay': 0x13ec,
-                                    'moreZ': 0x8
-                                }, {
-                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
-                                    'duration': 0x1388,
-                                    'chance': 0x64,
-                                    'delay': 0x2af8,
-                                    'moreZ': 0xc
-                                }]
-                            }, {
-                                'minute': 47,
-                                'minimum': 0x64,
-                                'frequency': 0x3e8,
-                                'enemies': [_0x1a846d[_0x2f72b3(0x2db)], _0x1a846d[_0x2f72b3(0x993)]],
-                                'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
-                                'treasure': {
-                                    'chances': [0x3, 0xa, 0x64],
-                                    'level': 0x1,
-                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b[_0x2f72b3(0x291)]]
-                                },
-                                'events': [{
-                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
-                                    'duration': 0x1388,
-                                    'chance': 0x64,
-                                    'moreZ': 0x4
-                                }, {
-                                    'eventType': _0x21eccf['SKELESTREAM'],
-                                    'duration': 0x1388,
-                                    'chance': 0x64,
-                                    'delay': 0x13ec,
-                                    'moreZ': 0x8
-                                }, {
-                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
-                                    'duration': 0x1388,
-                                    'chance': 0x64,
-                                    'delay': 0x2af8,
-                                    'moreZ': 0xc
-                                }]
-                            }, {
-                                'minute': 48,
-                                'minimum': 0x96,
-                                'frequency': 0x1f4,
-                                'enemies': [_0x1a846d['SKULLNOAURA'], _0x1a846d[_0x2f72b3(0x1ce)]],
-                                'events': [{
-                                    'eventType': _0x21eccf['SKELESTREAM'],
-                                    'duration': 0x1388,
-                                    'chance': 0x64,
-                                    'moreZ': 0x4
-                                }, {
-                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
-                                    'duration': 0x1388,
-                                    'chance': 0x64,
-                                    'delay': 0x13ec,
-                                    'moreZ': 0x8
-                                }, {
-                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
-                                    'duration': 0x1388,
-                                    'chance': 0x64,
-                                    'delay': 0x2af8,
-                                    'moreZ': 0xc
-                                }]
-                            }, {
-                                'minute': 49,
-                                'minimum': 0xc8,
-                                'frequency': 0x1f4,
-                                'enemies': [_0x1a846d['SKULLNOAURA']],
-                                'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
-                                'treasure': {
-                                    'chances': [0x3, 0xa, 0x64],
-                                    'level': 0x1,
-                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)]]
-                                },
-                                'events': [{
-                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
-                                    'duration': 0x1388,
-                                    'chance': 0x64,
-                                    'moreZ': 0x4
-                                }, {
-                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
-                                    'duration': 0x1388,
-                                    'chance': 0x64,
-                                    'delay': 0x13ec,
-                                    'moreZ': 0x8
-                                }, {
-                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
-                                    'duration': 0x1388,
-                                    'chance': 0x64,
-                                    'delay': 0x2af8,
-                                    'moreZ': 0xc
-                                }]
-                            }, {
-                                'minute': 50,
+                                'minute': 30,
                                 'minimum': 0x96,
                                 'frequency': 0x64,
                                 'enemies': [_0x1a846d[_0x2f72b3(0x2db)]],
@@ -34168,14 +33866,224 @@
                                     'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b['EVOLUTION'], _0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY']]
                                 },
                                 'events': [{
-                                    'eventType': _0x21eccf['DROWNER'],
+                                    'eventType': _0x21eccf['STALKER'],
                                     'duration': 0xea60
                                 }]
+                            }, {
+                                'minute': 31,
+                                'minimum': 0x96,
+                                'frequency': 0x64,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x889)],  _0x1a846d['XLDRAGON2'], _0x1a846d[_0x2f72b3(0x49b)]],
+                                'arcanaHolder': _0x1a846d['BOSS_SKULL2'],
+                                'arcanaTreasure': {
+                                    'chances': [0x0, 0x0, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x365)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b[_0x2f72b3(0x291)]]
+                                }
+                            }, {
+                                'minute': 32,
+                                'minimum': 0xc8,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d[_0x2f72b3(0xa9e)],_0x1a846d['BOSS_ECTO'], _0x1a846d[_0x2f72b3(0x7a1)], _0x1a846d['BOSS_MEDUSA1'], _0x1a846d[_0x2f72b3(0x9f9)]],
+                                'events': [{
+                                    'eventType': _0x21eccf['SKULLPILEPILE'],
+                                    'moreX': 0x1
+                                }]
+                            }, {
+                                'minute': 33,
+                                'minimum': 0x96,
+                                'frequency': 0x64,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x3c8)], _0x1a846d['DEVIL3'], _0x1a846d['SKELANGUE']],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY']]
+                                }
+                            }, {
+                                'minute': 34,
+                                'minimum': 0xc8,
+                                'frequency': 0x64,
+                                'enemies': [_0x1a846d[_0x2f72b3(0xa9e)], _0x1a846d[_0x2f72b3(0x1ce)]],
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x3da)],
+                                    'moreX': 0x2
+                                }]
+                            }, {
+                                'minute': 35,
+                                'minimum': 0x96,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d['SKELEWING_ZONE'],_0x1a846d['BOSS_ECTO'], _0x1a846d[_0x2f72b3(0x7a1)], _0x1a846d['BOSS_MEDUSA1'], _0x1a846d['SKELENIN_ZONE']],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY']]
+                                }
+                            }, {
+                                'minute': 36,
+                                'minimum': 0x64,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x12f)],_0x1a846d['SKELENIN_ZONE'], _0x1a846d['BOSS_ECTO'], _0x1a846d[_0x2f72b3(0x7a1)], _0x1a846d['BOSS_MEDUSA1']],
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x3da)],
+                                    'moreX': 0x3
+                                }]
+                            }, {
+                                'minute': 37,
+                                'minimum': 0x96,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x12f)], _0x1a846d['BOSS_ECTO'], _0x1a846d['SKULLINO']],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b['EVOLUTION'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY']]
+                                }
+                            }, {
+                                'minute': 38,
+                                'minimum': 0xc8,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x12f)], _0x1a846d['SKELENIN_ZONE'], _0x1a846d['BOSS_ECTO'], _0x1a846d[_0x2f72b3(0x7a1)], _0x1a846d['BOSS_MEDUSA1']],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b['EVOLUTION'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b[_0x2f72b3(0x291)]]
+                                }
+                            },{
+                                'minute': 39,
+                                'minimum': 0x96,
+                                'frequency': 0x64,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x2db)], _0x1a846d[_0x2f72b3(0x3c8)], _0x1a846d['SKELANGUE']],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x61e)]],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b['EVOLUTION'], _0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY']]
+                                },
+                            }, {
+                                'minute': 40,
+                                'minimum': 0x96,
+                                'frequency': 0x64,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x889)], _0x1a846d['MEDUSA2'], _0x1a846d[_0x2f72b3(0x49b)]],
+                                'arcanaHolder': _0x1a846d['BOSS_SKULL2'],
+                                'arcanaTreasure': {
+                                    'chances': [0x0, 0x0, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x365)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b[_0x2f72b3(0x291)]]
+                                }
+                            }, {
+                                'minute': 41,
+                                'minimum': 0xc8,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d[_0x2f72b3(0xa9e)],_0x1a846d['XLARMOR1'], _0x1a846d[_0x2f72b3(0x9f9)]],
+                                'events': [{
+                                    'eventType': _0x21eccf['SKULLPILEPILE'],
+                                    'moreX': 0x1
+                                }]
+                            }, {
+                                'minute': 42,
+                                'minimum': 0x96,
+                                'frequency': 0x64,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x3c8)],_0x1a846d['XLARMOR1'], _0x1a846d['SKELANGUE']],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY']]
+                                }
+                            }, {
+                                'minute': 43,
+                                'minimum': 0xc8,
+                                'frequency': 0x64,
+                                'enemies': [_0x1a846d[_0x2f72b3(0xa9e)],_0x1a846d['SKELEWING_ZONE'], _0x1a846d['SKELENIN_ZONE'], _0x1a846d[_0x2f72b3(0x1ce)]],
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x3da)],
+                                    'moreX': 0x2
+                                }]
+                            }, {
+                                'minute': 44,
+                                'minimum': 0x96,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d['SKELEWING_ZONE'],_0x1a846d['XLARMOR1'], _0x1a846d['SKELENIN_ZONE']],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY']]
+                                }
+                            }, {
+                                'minute': 45,
+                                'minimum': 0x64,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x12f)],_0x1a846d['XLARMOR1'], _0x1a846d['SKELEWING_ZONE'], _0x1a846d['SKELENIN_ZONE']],
+                                'events': [{
+                                    'eventType': _0x21eccf['DROWNER'],
+                                    'duration': 0xea60
+                                }]      
+                            }, {
+                                'minute': 46,
+                                'minimum': 0x96,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x12f)],_0x1a846d['XLARMOR1'], _0x1a846d['SKULLINO']],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b['EVOLUTION'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY']]
+                                },
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x3da)],
+                                    'moreX': 0x3
+                                }]
+                            }, {
+                                'minute': 47,
+                                'minimum': 0xc8,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x12f)], _0x1a846d['SKELEWING_ZONE'], _0x1a846d['SKELENIN_ZONE'], _0x1a846d['SKULLINO']],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b['EVOLUTION'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b[_0x2f72b3(0x291)]]
+                                }
+                            }, {
+                                'minute': 48,
+                                'minimum': 0x96,
+                                'frequency': 0x64,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x3c8)], _0x1a846d['DEVIL3'], _0x1a846d['SKELANGUE']],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY']]
+                                }
+                            }, {
+                                'minute': 49,
+                                'minimum': 0xc8,
+                                'frequency': 0x64,
+                                'enemies': [_0x1a846d[_0x2f72b3(0xa9e)], _0x1a846d['SKELANGUE'], _0x1a846d[_0x2f72b3(0x1ce)]],
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x3da)],
+                                    'moreX': 0x2
+                                }]
+                            }, {
+                                'minute': 50,
+                                'minimum': 0x96,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d['SKELEWING_ZONE'],_0x1a846d[_0x2f72b3(0xa9e)], _0x1a846d['SKELENIN_ZONE']],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY']]
+                                }
                             }, {
                                 'minute': 51,
                                 'minimum': 0x96,
                                 'frequency': 0x64,
-                                'enemies': [_0x1a846d[_0x2f72b3(0x889)], _0x1a846d[_0x2f72b3(0x49b)]],
+                                'enemies': [_0x1a846d[_0x2f72b3(0x889)], _0x1a846d['BOSS_ECTO'], _0x1a846d[_0x2f72b3(0x49b)]],
                                 'arcanaHolder': _0x1a846d['BOSS_SKULL2'],
                                 'arcanaTreasure': {
                                     'chances': [0x0, 0x0, 0x64],
@@ -34186,7 +34094,7 @@
                                 'minute': 52,
                                 'minimum': 0xc8,
                                 'frequency': 0x3e8,
-                                'enemies': [_0x1a846d[_0x2f72b3(0xa9e)], _0x1a846d[_0x2f72b3(0x9f9)]],
+                                'enemies': [_0x1a846d[_0x2f72b3(0xa9e)],_0x1a846d['BOSS_ECTO'], _0x1a846d[_0x2f72b3(0x9f9)]],
                                 'events': [{
                                     'eventType': _0x21eccf['SKULLPILEPILE'],
                                     'moreX': 0x1
@@ -34195,7 +34103,7 @@
                                 'minute': 53,
                                 'minimum': 0x96,
                                 'frequency': 0x64,
-                                'enemies': [_0x1a846d[_0x2f72b3(0x3c8)], _0x1a846d['SKELANGUE']],
+                                'enemies': [_0x1a846d[_0x2f72b3(0x3c8)],_0x1a846d['BOSS_XLMANTIS'], _0x1a846d['SKELANGUE']],
                                 'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
                                 'treasure': {
                                     'chances': [0x3, 0xa, 0x64],
@@ -34206,7 +34114,7 @@
                                 'minute': 54,
                                 'minimum': 0xc8,
                                 'frequency': 0x64,
-                                'enemies': [_0x1a846d[_0x2f72b3(0xa9e)], _0x1a846d[_0x2f72b3(0x1ce)]],
+                                'enemies': [_0x1a846d[_0x2f72b3(0xa9e)], _0x1a846d['SKELENIN_ZONE'], _0x1a846d['SKULLINO'], _0x1a846d[_0x2f72b3(0x1ce)]],
                                 'events': [{
                                     'eventType': _0x21eccf[_0x2f72b3(0x3da)],
                                     'moreX': 0x2
@@ -34215,7 +34123,7 @@
                                 'minute': 55,
                                 'minimum': 0x96,
                                 'frequency': 0x3e8,
-                                'enemies': [_0x1a846d['SKELEWING_ZONE'], _0x1a846d['SKELENIN_ZONE']],
+                                'enemies': [_0x1a846d['SKELEWING_ZONE'], _0x1a846d['BOSS_XLMANTIS'],_0x1a846d['SKELENIN_ZONE']],
                                 'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
                                 'treasure': {
                                     'chances': [0x3, 0xa, 0x64],
@@ -34226,7 +34134,7 @@
                                 'minute': 56,
                                 'minimum': 0x64,
                                 'frequency': 0x3e8,
-                                'enemies': [_0x1a846d[_0x2f72b3(0x12f)]],
+                                'enemies': [_0x1a846d[_0x2f72b3(0x12f)], _0x1a846d['SKELENIN_ZONE'], _0x1a846d['SKULLINO']],
                                 'events': [{
                                     'eventType': _0x21eccf[_0x2f72b3(0x3da)],
                                     'moreX': 0x3
@@ -34235,7 +34143,7 @@
                                 'minute': 57,
                                 'minimum': 0x96,
                                 'frequency': 0x3e8,
-                                'enemies': [_0x1a846d[_0x2f72b3(0x12f)], _0x1a846d['SKULLINO']],
+                                'enemies': [_0x1a846d[_0x2f72b3(0x12f)],_0x1a846d['BOSS_XLMANTIS'],_0x1a846d['XLARMOR2'], _0x1a846d['SKULLINO']],
                                 'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
                                 'treasure': {
                                     'chances': [0x3, 0xa, 0x64],
@@ -34246,7 +34154,7 @@
                                 'minute': 58,
                                 'minimum': 0xc8,
                                 'frequency': 0x3e8,
-                                'enemies': [_0x1a846d[_0x2f72b3(0x12f)]],
+                                'enemies': [_0x1a846d[_0x2f72b3(0x12f)], _0x1a846d['XLARMOR2'],_0x1a846d['BOSS_WEREWOLF'],_0x1a846d['XLARMOR1']],
                                 'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
                                 'treasure': {
                                     'chances': [0x3, 0xa, 0x64],
@@ -34257,7 +34165,7 @@
                                 'minute': 59,
                                 'minimum': 0x96,
                                 'frequency': 0x32,
-                                'enemies': [_0x1a846d[_0x2f72b3(0x9ab)]]
+                                'enemies': [_0x1a846d[_0x2f72b3(0x9ab)], _0x1a846d['XLARMOR2'], _0x1a846d['BOSS_ECTO'],_0x1a846d['BOSS_XLMANTIS'],_0x1a846d['XLARMOR1']]
                             }, {
                                 'minute': 60,
                                 'minimum': 12,
@@ -34270,8 +34178,11 @@
                                     _0x1a846d['POLTER'],
                                     _0x1a846d['POLTER'],
                                     _0x1a846d['POLTER'],
+                                    _0x1a846d['XLARMOR1'],
+                                    _0x1a846d['XLARMOR2'],
                                     _0x1a846d['POLTER'],
                                     _0x1a846d['POLTER'],
+                                    _0x1a846d['XLDRAGON2'],
                                     _0x1a846d['POLTER'],
                                     _0x1a846d['POLTER'],
                                     _0x1a846d[_0x2f72b3(0x566)], //DULL_1
@@ -34354,7 +34265,10 @@
                                     _0x1a846d['XLBAT']
                                 ],
                                 'bosses': [],
-                                'events': []
+                                'events': [{
+                                    'eventType': _0x21eccf['DROWNER'],
+                                    'duration': 0xea60
+                                }]     
                             }, {
                                 'minute': 80,
                                 'minimum': 35,
@@ -34526,7 +34440,10 @@
                                     _0x1a846d['XLBAT']
                                 ],
                                 'bosses': [],
-                                'events': []
+                                'events': [{
+                                    'eventType': _0x21eccf['STALKER'],
+                                    'duration': 0xea60
+                                }]     
                             }, {
                                 'minute': 100,
                                 'minimum': 50,
