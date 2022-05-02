@@ -15880,7 +15880,7 @@
                                         'fontSize': '12px',
                                         'fontStyle': 'bold'
                                     })[_0x1c3909(0x605)](0x0)[_0x1c3909(0x877)](0x1, 0.5)['setDepth'](_0x2adcea[_0x1c3909(0x81b)] - 0x3),
-                                    this['WeaponSlots'] = this[_0x1c3909(0x65c)]['add'][_0x1c3909(0x4b9)](0x1, 0x12, 'UI', 'weaponSlots.psd')['setScrollFactor'](0x0)[_0x1c3909(0x877)](0x0)[_0x1c3909(0xa8e)](_0x2adcea[_0x1c3909(0x10c)])[_0x1c3909(0x9c1)](_0x2adcea[_0x1c3909(0x81b)] - 0x3),
+                                    this['WeaponSlots'] = this[_0x1c3909(0x65c)]['add'][_0x1c3909(0x4b9)](0x1, 0x12, 'UI', 'weaponSlots.png')['setScrollFactor'](0x0)[_0x1c3909(0x877)](0x0)[_0x1c3909(0xa8e)](_0x2adcea[_0x1c3909(0x10c)])[_0x1c3909(0x9c1)](_0x2adcea[_0x1c3909(0x81b)] - 0x3),
                                     this[_0x1c3909(0x90a)][_0x1c3909(0x9c1)](Number[_0x1c3909(0x61d)]),
                                     this[_0x1c3909(0xa37)]['setDepth'](Number[_0x1c3909(0x61d)]),
                                     this['PlayerLevelText'][_0x1c3909(0x9c1)](Number[_0x1c3909(0x61d)]),
@@ -33389,7 +33389,7 @@
                                     'mapPath': 'assets/tilesets/LibraryC.json',
                                     'isTiling': !0x0
                                 },
-                                'spawnType': _0x446091[_0x2f72b3(0x95d)],
+                                'spawnType': _0x446091['STANDARD'], 
                                 'startingSpawns': 0x32,
                                 'minute': 0x0,
                                 'destructibleType': _0x33a0b6[_0x2f72b3(0x971)],
