@@ -1,54 +1,44 @@
+{"frames": [
+
 {
-	"textures": 
-	[
-		{
-			"image": "chester.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 18,
-				"h": 62
-			},
-			"scale": 1,
-			"frames": 
-			[
-				{
-                    "filename": "chester_01.png",
-                    "frame": {"x":0,"y":0,"w":18,"h":16},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":18,"h":16},
-                    "sourceSize": {"w":18,"h":16}
-                },
-                {
-                    "filename": "chester_02.png",
-                    "frame": {"x":0,"y":16,"w":18,"h":15},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":18,"h":15},
-                    "sourceSize": {"w":18,"h":15}
-                },
-                {
-                    "filename": "chester_03.png",
-                    "frame": {"x":0,"y":31,"w":17,"h":16},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":17,"h":16},
-                    "sourceSize": {"w":17,"h":16}
-                },
-                {
-                    "filename": "chester_04.png",
-                    "frame": {"x":0,"y":47,"w":18,"h":15},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":18,"h":15},
-                    "sourceSize": {"w":18,"h":15}
-                }
-			]
-		}
-	],
-	"meta": {
-		"app": "https://www.codeandweb.com/texturepacker",
-		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:1d34fa13faa63ebb446e8e3116b32e86:dbe076086fb782958e0f74482c2f909f:a5fe7db4b869eb0f3e0b2940b9577ea8$"
-	}
+	"filename": "chester_01.png",
+	"frame": {"x":0,"y":0,"w":18,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":16},
+	"sourceSize": {"w":18,"h":16}
+},
+{
+	"filename": "chester_02.png",
+	"frame": {"x":0,"y":16,"w":18,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":15},
+	"sourceSize": {"w":18,"h":15}
+},
+{
+	"filename": "chester_03.png",
+	"frame": {"x":0,"y":31,"w":17,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":16},
+	"sourceSize": {"w":17,"h":16}
+},
+{
+	"filename": "chester_04.png",
+	"frame": {"x":0,"y":47,"w":18,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":15},
+	"sourceSize": {"w":18,"h":15}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "chester.png",
+	"format": "RGBA8888",
+	"size": {"w":18,"h":62},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:04582f44cb11b892a5b21093ba292d80:3ef1607d47d71e6021083dffd2640795:2c4e069e08699ae74b200b7190a31f0e$"
+}
 }

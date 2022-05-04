@@ -3133,14 +3133,14 @@
                             }],
                             [_0x39678f['AND18']]: [{
                                 'level': 0x1,
-                                'startingWeapon': _0x202927['FIREEXPLOSION'],
+                                'startingWeapon': _0x202927['PULSE1'],
                                 'cooldown': 0.8,
                                 'charName': 'Android 18',
                                 'surname': '',
                                 'textureName': 'AND18',
                                 'spriteName': '18_01.png',
                                 'walkingFrames': 0x4,
-                                'description': 'Explosion AoE. Gains 20% Might/20 Levels (max +140%).',
+                                'description': 'Gains 20% Might/20 Levels (max +140%).',
                                 'isBought': !0x0,
                                 'bgm': _0x5aaeff['BGM_Goku'],
                                 'price': 0x0,
@@ -15971,6 +15971,7 @@
                             _0x64f9ce['WAREHOUSE'] = 'WAREHOUSE',
                             _0x64f9ce['LIBRARY'] = 'LIBRARY',
                             _0x64f9ce['LIBRARY_E'] = 'LIBRARY_E',
+                            _0x64f9ce['SERENIA'] = 'SERENIA',
                             _0x64f9ce[_0x3311bd(0x572)] = 'TEST',
                             _0x64f9ce[_0x3311bd(0x9dc)] = 'TESTONE',
                             _0x64f9ce['CASTLE'] = 'CASTLE',
@@ -17476,7 +17477,8 @@
                                     'eventType': _0x21eccf[_0x2f72b3(0xb81)]
                                 }]
                             }],
-                            [_0xe12f59['LIBRARY_E']]: []
+                            [_0xe12f59['LIBRARY_E']]: [],
+                            [_0xe12f59['SERENIA']]: []
                         };
                     class _0x18f574 extends Phaser[_0x2f72b3(0x26c)]['Sprite'] {
                         constructor(_0x3a92b1) {
@@ -18547,6 +18549,14 @@
                                         'key': _0x4fd849['tileset'][_0x2b8989(0x94b)]
                                     });
                                     let _0x3df848 = this[_0x2b8989(0x8b5)][_0x3fff7f]['addTilesetImage'](_0x4fd849[_0x2b8989(0x95f)][_0x2b8989(0x2c5)], _0x4fd849['tileset']['setKey'], 0x20, 0x20, 0x1, 0x2);
+                                    if ( _0x4fd849['tileset']['mapKey'] != 'Custom' ) 
+                                    {
+                                        this[_0x2b8989(0x8b5)][_0x3fff7f]['addTilesetImage'](_0x4fd849[_0x2b8989(0x95f)][_0x2b8989(0x2c5)], _0x4fd849['tileset']['setKey'], 0x20, 0x20, 0x1, 0x2);
+                                    } 
+                                    else if ( _0x4fd849['tileset']['mapKey'] = 'Custom' )
+                                    {
+                                        this[_0x2b8989(0x8b5)][_0x3fff7f]['addTilesetImage'](_0x4fd849[_0x2b8989(0x95f)][_0x2b8989(0x2c5)], _0x4fd849['tileset']['setKey'], 32, 32, 0, 0);
+                                    }
                                     0x0 == _0x3fff7f && (this[_0x2b8989(0xa7e)] = this[_0x2b8989(0x8b5)][_0x3fff7f], this[_0x2b8989(0x8b5)][_0x3fff7f]['getObjectLayer']('Scripts')['objects']['forEach'](_0x319524 => {
                                         const _0x2f68f9 = _0x2b8989;
                                         switch (_0x319524[_0x2f68f9(0x1b3)]) {
@@ -19866,7 +19876,7 @@
                             'arcanaType': _0x46df06[_0x2f72b3(0x580)],
                             'name': 'VII - Iron Blue Will',
                             'description': 'Listed weapon projectiles gain up to 3 bounces and pass through enemies and walls.',
-                            'weapons': [_0x202927['KNIFE'], _0x202927['THOUSAND'], _0x202927['SPEAR'], _0x202927['SKULL'], _0x202927['AXE'], _0x202927['STAR'], _0x202927['SCYTHE'], _0x202927[_0x2f72b3(0x1eb)], _0x202927[_0x2f72b3(0x54c)], _0x202927['CART2']],
+                            'weapons': [_0x202927['KNIFE'], _0x202927['THOUSAND'], _0x202927['SPEAR'], _0x202927['KI'], _0x202927['SKULL'], _0x202927['AXE'], _0x202927['STAR'], _0x202927['SCYTHE'], _0x202927[_0x2f72b3(0x1eb)], _0x202927[_0x2f72b3(0x54c)], _0x202927['CART2']],
                             'items': [],
                             'texture': 'randomazzo',
                             'frameName': '07.png',
@@ -19917,7 +19927,7 @@
                             'arcanaType': _0x46df06[_0x2f72b3(0x88a)],
                             'name': 'XI - Waltz of Pearls',
                             'description': 'Listed weapon projectiles gain up to 3 bounces.',
-                            'weapons': [_0x202927[_0x2f72b3(0xb5b)], _0x202927[_0x2f72b3(0xa8a)], _0x202927['KI'], _0x202927['FIREBALL'], _0x202927[_0x2f72b3(0xb7d)], _0x202927[_0x2f72b3(0x1be)], _0x202927[_0x2f72b3(0x65f)], _0x202927[_0x2f72b3(0x4b0)]],
+                            'weapons': [_0x202927[_0x2f72b3(0xb5b)], _0x202927[_0x2f72b3(0xa8a)], _0x202927['FIREBALL'], _0x202927[_0x2f72b3(0xb7d)], _0x202927[_0x2f72b3(0x1be)], _0x202927[_0x2f72b3(0x65f)], _0x202927[_0x2f72b3(0x4b0)]],
                             'items': [],
                             'texture': 'randomazzo',
                             'frameName': '11.png',
@@ -26901,18 +26911,27 @@
                                     return 1.3 * _0x428bf7[_0x400c66(0x6f7)][_0x400c66(0x286)]['area'] * this['area'];
                                 }
                                 ['CheckArcanas']() {
-                                    const _0x17ccc9 = _0x2f72b3;
-                                    _0x428bf7[_0x17ccc9(0x6f7)][_0x17ccc9(0x824)][_0x17ccc9(0xa48)]['indexOf'](_0x46df06[_0x17ccc9(0x580)]) > -0x1 && (this[_0x17ccc9(0x4c7)] = 0xffff, this[_0x17ccc9(0x415)] = 0x3),
-                                        _0x428bf7[_0x17ccc9(0x6f7)]['Arcanas']['ActiveArcanas']['indexOf'](_0x46df06[_0x17ccc9(0x61b)]) > -0x1 && (this['canCrit'] = !0x0);
+                                    const _0x127a95 = _0x2f72b3;
+                                    _0x428bf7['Core'][_0x127a95(0x824)]['ActiveArcanas'][_0x127a95(0x927)](_0x46df06[_0x127a95(0x485)]) > -0x1 && (this['AddExplosions'](), _0x428bf7['Core']['Arcanas']['FireExplosionWeapon'] && (_0x428bf7['Core'][_0x127a95(0x824)][_0x127a95(0x46f)]['power'] = this[_0x127a95(0x671)])),
+                                        _0x428bf7[_0x127a95(0x6f7)][_0x127a95(0x824)][_0x127a95(0xa48)]['indexOf'](_0x46df06['T11_PEARLS']) > -0x1 && (this['bonusBounces'] = 0x1);
                                 }
-                            get[_0x2f72b3(0x847)]() {
-                                    const _0x55ab26 = _0x2f72b3;
-                                    return this[_0x55ab26(0x415)] + this['bounces'];
+                                [_0x2f72b3(0x839)]() {
+                                    const _0x1462c1 = _0x2f72b3;
+                                    this['explosionPool'] || (this['explosionPool'] = new _0x15ad19(_0x428bf7['Core'][_0x1462c1(0x65c)], _0x202927[_0x1462c1(0x28c)]), _0x428bf7[_0x1462c1(0x6f7)]['scene']['physics']['add']['overlap'](this['explosionPool'], _0x428bf7['Core']['Enemies'], this['onSecondsryBulletOverlapsEnemy'][_0x1462c1(0x901)](this)), _0x428bf7['Core'][_0x1462c1(0x65c)]['physics']['add']['overlap'](this[_0x1462c1(0x47d)], _0x428bf7['Core'][_0x1462c1(0x541)], this[_0x1462c1(0x47f)][_0x1462c1(0x901)](this)));
                                 }
-                                [_0x2f72b3(0x356)](_0x2da556, _0x1209a6) {
-                                    const _0x11c72f = _0x2f72b3;
-                                    return this['canCrit'] ? this[_0x11c72f(0x6f2)](_0x2da556, _0x1209a6) : super['onBulletOverlapsEnemy'](_0x2da556, _0x1209a6);
+                                [_0x2f72b3(0x7cd)](_0x521922, _0x2f71f6) {
+                                    const _0x1701a6 = _0x2f72b3;
+                                    var _0x44d0f7 = _0x2f71f6;
+                                    if (!_0x44d0f7['isDead'] && !_0x521922[_0x1701a6(0x646)](_0x44d0f7)) {
+                                        let _0x14981f = 0.5 * this[_0x1701a6(0x71f)];
+                                        _0x44d0f7[_0x1701a6(0x37d)](_0x14981f, this[_0x1701a6(0xb21)], this[_0x1701a6(0x983)], this['bulletType']),
+                                            this[_0x1701a6(0x647)] += _0x14981f;
+                                    }
                                 }
+                            get['PBounces']() {
+                                const _0x41eb87 = _0x2f72b3;
+                                return this[_0x41eb87(0x415)] + this[_0x41eb87(0xa93)];
+                            }
                         },
                         R2_BULLET = class extends _0x50335c {
                             constructor(_0x28e1c1) {
@@ -33385,7 +33404,7 @@
                                 'tileset': {
                                     'setKey': 'LibraryTexturePackedC',
                                     'setPath': 'assets/tilesets/LibraryTexturePackedC.png',
-                                    'mapKey': 'Library',
+                                    'mapKey': 'LibraryC',
                                     'mapPath': 'assets/tilesets/LibraryC.json',
                                     'isTiling': !0x0
                                 },
@@ -34919,6 +34938,581 @@
                                 'bosses': [],
                                 'events': []
                             }, ]
+                        },
+                        SERENIA = {
+                            [_0xe12f59['SERENIA']]: [{
+                                'stageName': 'New Serenia',
+                                'description': 'This Realm, untouched for a millenia managed to become overgrown and full of mystery, danger.. and pumpkins?',
+                                'uiTexture': 'UI',
+                                'uiFrame': 'stage_serenia.png',
+                                'frameName': 'stage_serenia_icon.png',
+                                'frameNameUnlock': 'stage_serenia_unlock.png',
+                                'stageNumber': 'Challenge',
+                                'unlocked': true,
+                                'hidden': false,
+                                'BGM': _0x5aaeff['BGM_Realm'],
+                                'legacyBGM': _0x5aaeff['BGM_Realm'],
+                                'tips': 'Watch out for trees!',
+                                'hyperTips': '75% Gold bonus\n20% Luck bonus',
+                                'mods': {
+                                    'TimeLimit': 0x708,
+                                    'ClockSpeed': 0x1,
+                                    'PlayerPxSpeed': 1.25,
+                                    'EnemySpeed': 1.25,
+                                    'ProjectileSpeed': 0x1,
+                                    'GoldMultiplier': 0x1,
+                                    'EnemyHealth': 1.5,
+                                    'EnemyMinimumMul': 1.4,
+                                    'LuckBonus': 0.2
+                                },
+                                'hyper': {
+                                    'unlocked': true,
+                                    'TimeLimit': 0x708,
+                                    'ClockSpeed': 0x1,
+                                    'PlayerPxSpeed': 1.9,
+                                    'EnemySpeed': 1.9,
+                                    'ProjectileSpeed': 1.15,
+                                    'GoldMultiplier': 1.85,
+                                    'EnemyHealth': 1.8,
+                                    'LuckBonus': 0.4,
+                                    'EnemyMinimumMul': 1.25,
+                                    'StartingSpawns': 0x3c,
+                                    'BGM_rate': 1.0,
+                                    'BGM_detune': 0x0,
+                                    'BGM_ignoreModsForNewSoundtrack': !0x1,
+                                    'BGM_new_rate': 1.0625,
+                                    'BGM_new_detune': 0x0
+                                },
+                                'pizzaEvents': [{
+                                    'eventType': _0x21eccf['PILE_ASSAULT'],
+                                    'duration': 0x1388,
+                                    'moreX': 0x28,
+                                    'moreY': _0x1a846d['PILE1'],
+                                    'moreZ': 0.7
+                                }, {
+                                    'eventType': _0x21eccf['PILE_ASSAULT'],
+                                    'duration': 0x1388,
+                                    'moreX': 0x1e,
+                                    'moreY': _0x1a846d[_0x2f72b3(0x2c3)],
+                                    'moreZ': 0.7
+                                }, {
+                                    'eventType': _0x21eccf['PILE_ASSAULT'],
+                                    'duration': 0x1388,
+                                    'moreX': 0x14,
+                                    'moreY': _0x1a846d['PILE3'],
+                                    'moreZ': 0.7
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x941)],
+                                    'duration': 0x7530,
+                                    'moreX': 0x50
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x74b)],
+                                    'duration': 0x7530,
+                                    'moreX': 0x32,
+                                    'moreY': _0x1a846d['POLTER_DEST'],
+                                    'moreZ': 0x2
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x8b4)],
+                                    'duration': 0x2710,
+                                    'moreX': 0x28
+                                }, {
+                                    'eventType': _0x21eccf['MINO_RUSH'],
+                                    'duration': 0x2710,
+                                    'moreX': 0x14
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x3c7)],
+                                    'duration': 0x4e20,
+                                    'moreX': 0xc8
+                                }, {
+                                    'eventType': _0x21eccf['PILE_ASSAULT'],
+                                    'duration': 0x1388,
+                                    'moreX': 0x14,
+                                    'moreY': _0x1a846d['PILE3'],
+                                    'moreZ': 0.7
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x941)],
+                                    'duration': 0x7530,
+                                    'moreX': 0x50
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x74b)],
+                                    'duration': 0x7530,
+                                    'moreX': 0x32,
+                                    'moreY': _0x1a846d['POLTER_DEST'],
+                                    'moreZ': 0x2
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x8b4)],
+                                    'duration': 0x2710,
+                                    'moreX': 0x28
+                                }, {
+                                    'eventType': _0x21eccf['MINO_RUSH'],
+                                    'duration': 0x2710,
+                                    'moreX': 0x14
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x3c7)],
+                                    'duration': 0x4e20,
+                                    'moreX': 0xc8
+                                }, {
+                                    'eventType': _0x21eccf['JELLY_SWARM'],
+                                    'duration': 0x4e20,
+                                    'moreX': 0x32
+                                }],
+                                'tileset': {
+                                    'setKey': 'PlantTexturePackedC',
+                                    'setPath': 'assets/tilesets/PlantTexturePackedC.png',
+                                    'mapKey': 'Custom',
+                                    'mapPath': 'assets/tilesets/PlantC.json',
+                                    'isTiling': !0x0
+                                },
+                                'spawnType': _0x446091['STANDARD'], 
+                                'startingSpawns': 0x32,
+                                'minute': 0x0,
+                                'destructibleType': _0x33a0b6['BRAZIER'],
+                                'destructibleFreq': 0x3e8,
+                                'destructibleChance': 8.5,
+                                'dayNight': 1,
+                                'hasLights': true,
+                                'destructibleChanceMax': 0x32,  //50
+                                'maxDestructibles': 20,    //10
+                                'BGTextureName': 'bg_forest',
+                                'minimum': 0x32,
+                                'frequency': 0xbb8,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x6f3)]],
+                            }, {
+                                'minute': 0x1,
+                                'minimum': 0x50,
+                                'frequency': 0xbb8,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x64d)]]
+                            }, {
+                                'minute': 0x2,
+                                'minimum': 0x64,
+                                'frequency': 0xfa0,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x149)], _0x1a846d[_0x2f72b3(0xb0f)]],
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x6e9)],
+                                    'moreX': 0x6,
+                                    'moreY': _0x1a846d['BAT6']
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x882)],
+                                    'moreX': 0xc,
+                                    'moreY': _0x1a846d[_0x2f72b3(0x3ee)],
+                                    'delay': 0x1388,
+                                    'chance': 0x46,
+                                    'repeat': 0x4
+                                }]
+                            }, {
+                                'minute': 0x3,
+                                'minimum': 0x3c,
+                                'frequency': 0xfa0,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x889)]],
+                                'bosses': [_0x1a846d['XLMUMMY']],
+                                'treasure': {
+                                    'chances': [0.1, 0x5, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY']]
+                                }
+                            }, {
+                                'minute': 0x4,
+                                'minimum': 0x6e,
+                                'frequency': 0xfa0,
+                                'enemies': [_0x1a846d['SKELANGUE'], _0x1a846d['MUMMY']]
+                            }, {
+                                'minute': 0x5,
+                                'minimum': 0x64,
+                                'frequency': 0xfa0,
+                                'enemies': [_0x1a846d['MUMMY']],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x8ef)]],
+                                'events': [{
+                                    'eventType': _0x21eccf['MEDUSA_WALL'],
+                                    'moreX': 0xc,
+                                    'moreY': _0x1a846d['MEDUSA1_FAST']
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x882)],
+                                    'moreX': 0xc,
+                                    'moreY': _0x1a846d[_0x2f72b3(0x79f)],
+                                    'delay': 0x1388,
+                                    'chance': 0x46,
+                                    'repeat': 0x5
+                                }],
+                                'treasure': {
+                                    'chances': [0x1, 0x5, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x6ed)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b[_0x2f72b3(0x291)]]
+                                }
+                            }, {
+                                'minute': 0x6,
+                                'minimum': 0x1e,
+                                'frequency': 0x7d0,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x566)], _0x1a846d[_0x2f72b3(0xb0f)]],
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x3ae)],
+                                    'delay': 0x2710,
+                                    'chance': 0x32,
+                                    'repeat': 0x4,
+                                    'moreX': 0x1
+                                }]
+                            }, {
+                                'minute': 0x7,
+                                'minimum': 0x50,
+                                'frequency': 0x7d0,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x566)], _0x1a846d['ZOMBIE'], _0x1a846d['WEREWOLF']],
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x3ae)],
+                                    'delay': 0x1388,
+                                    'chance': 0x50,
+                                    'repeat': 0x8,
+                                    'moreX': 0x1
+                                }]
+                            }, {
+                                'minute': 0x8,
+                                'minimum': 0x50,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d[_0x2f72b3(0xadc)], _0x1a846d['PANTHER']],
+                                'bosses': [_0x1a846d['BOSS_ECTO']],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x32],
+                                    'level': 0x2,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x6ed)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b[_0x2f72b3(0x291)]]
+                                }
+                            }, {
+                                'minute': 0x9,
+                                'minimum': 0xc8,
+                                'frequency': 0x1f4,
+                                'enemies': [_0x1a846d['MUMMY'], _0x1a846d['SKULL2_SCALING']],
+                                'events': [{
+                                    'eventType': _0x21eccf['SHADE_BOMB_RED'],
+                                    'delay': 0x4e20,
+                                    'chance': 0x32,
+                                    'repeat': 0x2,
+                                    'moreX': 0x2
+                                }]
+                            }, {
+                                'minute': 0xa,
+                                'minimum': 0x64,
+                                'frequency': 0x1f4,
+                                'enemies': [_0x1a846d[_0x2f72b3(0xadc)]],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x7a1)]],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x6ed)], _0x3c6a0b[_0x2f72b3(0x6ed)]]
+                                },
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x3ae)],
+                                    'moreX': 0x1
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x3ae)],
+                                    'delay': 0x2710,
+                                    'chance': 0x50,
+                                    'repeat': 0x3,
+                                    'moreX': 0x2
+                                }]
+                            }, {
+                                'minute': 0xb,
+                                'minimum': 0x78,
+                                'frequency': 0x7d0,
+                                'enemies': [_0x1a846d['SKULL2_SWARM'], _0x1a846d['BUER']],
+                                'bosses': [_0x1a846d['BOSS_MEDUSA1']],
+                                'treasure': {
+                                    'chances': [0x0, 0x0, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x6ed)], _0x3c6a0b[_0x2f72b3(0x6ed)]]
+                                },
+                                'arcanaHolder': _0x1a846d['BAT4'],
+                                'arcanaTreasure': {
+                                    'chances': [0x0, 0x0, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x365)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY']]
+                                }
+                            }, {
+                                'minute': 0xc,
+                                'minimum': 0x50,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d['MEDUSA2'], _0x1a846d[_0x2f72b3(0x566)]],
+                                'events': [{
+                                    'eventType': _0x21eccf['MEDUSA_SWARM'],
+                                    'moreX': 0xc,
+                                    'moreY': _0x1a846d[_0x2f72b3(0xa5c)]
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x6e9)],
+                                    'moreX': 0xc,
+                                    'moreY': _0x1a846d[_0x2f72b3(0x79f)],
+                                    'delay': 0x1388,
+                                    'chance': 0x46,
+                                    'repeat': 0x5
+                                }],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x1e1)]],
+                                'treasure': {
+                                    'chances': [0x1, 0x5, 0x32],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b['EVOLUTION'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)]]
+                                }
+                            }, {
+                                'minute': 0xd,
+                                'minimum': 0x78,
+                                'frequency': 0x1f4,
+                                'enemies': [_0x1a846d['MUMMY'], _0x1a846d['DULL1']],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x6b4)]],
+                                'treasure': {
+                                    'chances': [0x1, 0x5, 0x32],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY']]
+                                }
+                            }, {
+                                'minute': 0xe,
+                                'minimum': 0x12c,
+                                'frequency': 0x64,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x28d)], _0x1a846d[_0x2f72b3(0xa0e)], _0x1a846d[_0x2f72b3(0xadc)]],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x3ee)]],
+                                'treasure': {
+                                    'chances': [0x1, 0x5, 0x32],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b[_0x2f72b3(0x291)]]
+                                }
+                            }, {
+                                'minute': 0xf,
+                                'minimum': 0x64,
+                                'frequency': 0x64,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x2db)], _0x1a846d[_0x2f72b3(0x9f9)]],
+                                'bosses': [_0x1a846d['SKELEGLOW']],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)]]
+                                },
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
+                                    'duration': 0x1388,
+                                    'chance': 0x64,
+                                    'moreZ': 0x4
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
+                                    'duration': 0x1388,
+                                    'chance': 0x64,
+                                    'delay': 0x13ec,
+                                    'moreZ': 0x8
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
+                                    'duration': 0x1388,
+                                    'chance': 0x64,
+                                    'delay': 0x2af8,
+                                    'moreZ': 0xc
+                                }]
+                            }, {
+                                'minute': 0x10,
+                                'minimum': 0x96,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x2db)], _0x1a846d[_0x2f72b3(0x49b)]],
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
+                                    'duration': 0x1388,
+                                    'chance': 0x64,
+                                    'moreZ': 0x4
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
+                                    'duration': 0x1388,
+                                    'chance': 0x64,
+                                    'delay': 0x13ec,
+                                    'moreZ': 0x8
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
+                                    'duration': 0x1388,
+                                    'chance': 0x64,
+                                    'delay': 0x2af8,
+                                    'moreZ': 0xc
+                                }]
+                            }, {
+                                'minute': 0x11,
+                                'minimum': 0x64,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x2db)], _0x1a846d[_0x2f72b3(0x993)]],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b[_0x2f72b3(0x291)]]
+                                },
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
+                                    'duration': 0x1388,
+                                    'chance': 0x64,
+                                    'moreZ': 0x4
+                                }, {
+                                    'eventType': _0x21eccf['SKELESTREAM'],
+                                    'duration': 0x1388,
+                                    'chance': 0x64,
+                                    'delay': 0x13ec,
+                                    'moreZ': 0x8
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
+                                    'duration': 0x1388,
+                                    'chance': 0x64,
+                                    'delay': 0x2af8,
+                                    'moreZ': 0xc
+                                }]
+                            }, {
+                                'minute': 0x12,
+                                'minimum': 0x96,
+                                'frequency': 0x1f4,
+                                'enemies': [_0x1a846d['SKULLNOAURA'], _0x1a846d[_0x2f72b3(0x1ce)]],
+                                'events': [{
+                                    'eventType': _0x21eccf['SKELESTREAM'],
+                                    'duration': 0x1388,
+                                    'chance': 0x64,
+                                    'moreZ': 0x4
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
+                                    'duration': 0x1388,
+                                    'chance': 0x64,
+                                    'delay': 0x13ec,
+                                    'moreZ': 0x8
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
+                                    'duration': 0x1388,
+                                    'chance': 0x64,
+                                    'delay': 0x2af8,
+                                    'moreZ': 0xc
+                                }]
+                            }, {
+                                'minute': 0x13,
+                                'minimum': 0xc8,
+                                'frequency': 0x1f4,
+                                'enemies': [_0x1a846d['SKULLNOAURA']],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)]]
+                                },
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
+                                    'duration': 0x1388,
+                                    'chance': 0x64,
+                                    'moreZ': 0x4
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
+                                    'duration': 0x1388,
+                                    'chance': 0x64,
+                                    'delay': 0x13ec,
+                                    'moreZ': 0x8
+                                }, {
+                                    'eventType': _0x21eccf[_0x2f72b3(0x7ae)],
+                                    'duration': 0x1388,
+                                    'chance': 0x64,
+                                    'delay': 0x2af8,
+                                    'moreZ': 0xc
+                                }]
+                            }, {
+                                'minute': 0x14,
+                                'minimum': 0x96,
+                                'frequency': 0x64,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x2db)]],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x61e)]],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b['EVOLUTION'], _0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY']]
+                                },
+                                'events': [{
+                                    'eventType': _0x21eccf['DROWNER'],
+                                    'duration': 0xea60
+                                }]
+                            }, {
+                                'minute': 0x15,
+                                'minimum': 0x96,
+                                'frequency': 0x64,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x889)], _0x1a846d[_0x2f72b3(0x49b)]],
+                                'arcanaHolder': _0x1a846d['BOSS_SKULL2'],
+                                'arcanaTreasure': {
+                                    'chances': [0x0, 0x0, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x365)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b[_0x2f72b3(0x291)]]
+                                }
+                            }, {
+                                'minute': 0x16,
+                                'minimum': 0xc8,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d[_0x2f72b3(0xa9e)], _0x1a846d[_0x2f72b3(0x9f9)]],
+                                'events': [{
+                                    'eventType': _0x21eccf['SKULLPILEPILE'],
+                                    'moreX': 0x1
+                                }]
+                            }, {
+                                'minute': 0x17,
+                                'minimum': 0x96,
+                                'frequency': 0x64,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x3c8)], _0x1a846d['SKELANGUE']],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY']]
+                                }
+                            }, {
+                                'minute': 0x18,
+                                'minimum': 0xc8,
+                                'frequency': 0x64,
+                                'enemies': [_0x1a846d[_0x2f72b3(0xa9e)], _0x1a846d[_0x2f72b3(0x1ce)]],
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x3da)],
+                                    'moreX': 0x2
+                                }]
+                            }, {
+                                'minute': 0x19,
+                                'minimum': 0x96,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d['SKELEWING_ZONE'], _0x1a846d['SKELENIN_ZONE']],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b[_0x2f72b3(0x8ed)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY']]
+                                }
+                            }, {
+                                'minute': 0x1a,
+                                'minimum': 0x64,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x12f)]],
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0x3da)],
+                                    'moreX': 0x3
+                                }]
+                            }, {
+                                'minute': 0x1b,
+                                'minimum': 0x96,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x12f)], _0x1a846d['SKULLINO']],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b['EVOLUTION'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b['EXISTING_ANY']]
+                                }
+                            }, {
+                                'minute': 0x1c,
+                                'minimum': 0xc8,
+                                'frequency': 0x3e8,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x12f)]],
+                                'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
+                                'treasure': {
+                                    'chances': [0x3, 0xa, 0x64],
+                                    'level': 0x1,
+                                    'prizeTypes': [_0x3c6a0b['EVOLUTION'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b[_0x2f72b3(0x291)]]
+                                }
+                            }, {
+                                'minute': 0x1d,
+                                'minimum': 0x96,
+                                'frequency': 0x32,
+                                'enemies': [_0x1a846d[_0x2f72b3(0x9ab)]]
+                            }, {
+                                'minute': 0x1e,
+                                'minimum': 0x1,
+                                'frequency': 0x2710,
+                                'enemies': [],
+                                'bosses': [_0x1a846d['BOSS_XLDEATH']],
+                                'events': [{
+                                    'eventType': _0x21eccf[_0x2f72b3(0xb81)]
+                                }]
+                            },]
                         };
 
 
@@ -35132,7 +35726,8 @@
                                     _0x308500[_0xe12f59[_0xf0ebb8(0x30e)]] = _0x21f83b[_0xf0ebb8(0x30e)],
                                     _0x308500[_0xe12f59['WAREHOUSE']] = _0x3331ab['WAREHOUSE'],
                                     _0x308500[_0xe12f59['TOWER']] = _0x430a8b[_0xf0ebb8(0x7d9)],
-                                    _0x308500[_0xe12f59['LIBRARY_E']] = LIBRARY_ENDLESS['LIBRARY_E'];
+                                    _0x308500[_0xe12f59['LIBRARY_E']] = LIBRARY_ENDLESS['LIBRARY_E'],
+                                    _0x308500[_0xe12f59['SERENIA']] = SERENIA['SERENIA'];
                             }
                             [_0x2f72b3(0x2c9)]() {
                                 const _0x214984 = _0x2f72b3;

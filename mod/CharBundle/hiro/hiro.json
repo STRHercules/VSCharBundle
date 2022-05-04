@@ -1,46 +1,36 @@
+{"frames": [
+
 {
-	"textures": 
-	[
-		{
-			"image": "hiro.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 20,
-				"h": 55
-			},
-			"scale": 1,
-			"frames": 
-			[
-				{
-                    "filename": "hiro_01.png",
-                    "frame": {"x":0,"y":0,"w":20,"h":19},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":20,"h":19},
-                    "sourceSize": {"w":20,"h":19}
-                },
-                {
-                    "filename": "hiro_02.png",
-                    "frame": {"x":0,"y":19,"w":20,"h":18},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":20,"h":18},
-                    "sourceSize": {"w":20,"h":18}
-                },
-                {
-                    "filename": "hiro_03.png",
-                    "frame": {"x":0,"y":37,"w":20,"h":18},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":20,"h":18},
-                    "sourceSize": {"w":20,"h":18}
-                }
-			]
-		}
-	],
-	"meta": {
-		"app": "https://www.codeandweb.com/texturepacker",
-		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:1d34fa13faa63ebb446e8e3116b32e86:dbe076086fb782958e0f74482c2f909f:a5fe7db4b869eb0f3e0b2940b9577ea8$"
-	}
+	"filename": "hiro_01.png",
+	"frame": {"x":0,"y":0,"w":20,"h":19},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":19},
+	"sourceSize": {"w":20,"h":19}
+},
+{
+	"filename": "hiro_02.png",
+	"frame": {"x":0,"y":19,"w":20,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":18},
+	"sourceSize": {"w":20,"h":18}
+},
+{
+	"filename": "hiro_03.png",
+	"frame": {"x":0,"y":37,"w":20,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":18},
+	"sourceSize": {"w":20,"h":18}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "hiro.png",
+	"format": "RGBA8888",
+	"size": {"w":20,"h":55},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b1109d0e51f466e5ab2343a76c92c215:41ba803653c03bde8e82f209a42425d3:e7f4bce66ba24aa222af6067bfe3f45e$"
+}
 }

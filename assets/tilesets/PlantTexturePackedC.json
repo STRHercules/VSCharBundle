@@ -1,0 +1,19 @@
+{
+	"textures": [
+		{
+			"image": "PlantTexturePackedC.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 256,
+				"h": 1450
+			},
+			"scale": 1,
+			"frames": []
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:cd53cfa8b89ec7611bc2f5255ef77aee:4d4d9302dd6e27489862403d6f8ff63f:02cbd78a632faa7c95981e31ee84049a$"
+	}
+}

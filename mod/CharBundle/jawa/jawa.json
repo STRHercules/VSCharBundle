@@ -1,0 +1,54 @@
+{
+	"textures": 
+	[
+		{
+			"image": "jawa.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 77,
+				"h": 36
+			},
+			"scale": 1,
+			"frames": 
+			[
+				{
+                    "filename": "jawa_01.png",
+                    "frame": {"x":0,"y":0,"w":19,"h":34},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":19,"h":34},
+                    "sourceSize": {"w":19,"h":34}
+                },
+                {
+                    "filename": "jawa_02.png",
+                    "frame": {"x":19,"y":0,"w":17,"h":34},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":17,"h":34},
+                    "sourceSize": {"w":17,"h":34}
+                },
+                {
+                    "filename": "jawa_03.png",
+                    "frame": {"x":36,"y":0,"w":24,"h":36},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":24,"h":36},
+                    "sourceSize": {"w":24,"h":36}
+                },
+                {
+                    "filename": "jawa_04.png",
+                    "frame": {"x":60,"y":0,"w":17,"h":34},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":17,"h":34},
+                    "sourceSize": {"w":17,"h":34}
+                }
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1d34fa13faa63ebb446e8e3116b32e86:dbe076086fb782958e0f74482c2f909f:a5fe7db4b869eb0f3e0b2940b9577ea8$"
+	}
+}
