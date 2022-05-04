@@ -182,6 +182,8 @@
 
 ## Spiderman
 
+## Venom
+
 ## Battletoad "Rash"
 
 ## Solid Snake
@@ -221,6 +223,25 @@
 ## Assault Spider.xf/H
 
 ## Suit v.34xf/H
+
+# Maps
+
+## Chaotic Library
+
+> - 
+> - 
+> -
+> -
+> -
+
+## New Serenia
+
+> - 
+> -
+> -
+> -
+> -
+> -
 
 # Character Stats now:
 
