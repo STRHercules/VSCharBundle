@@ -16094,6 +16094,7 @@
                             _0x21c54f[_0x5860ce(0x828)] = 'ReachLV100WithCavallo',
                             _0x21c54f[_0x5860ce(0x151)] = 'ReachLV40InLibrary',
                             _0x21c54f['ReachLV100InBoneZone'] = 'ReachLV100InBoneZone',
+                            _0x21c54f['SurviveOneHour'] = 'SurviveOneHour',
                             _0x21c54f[_0x5860ce(0x170)] = 'DefeatBossPlant',
                             _0x21c54f[_0x5860ce(0x302)] = 'FindMilkyWayMap',
                             _0x21c54f[_0x5860ce(0x6c9)] = 'FindCoffinStage3',
@@ -16159,6 +16160,12 @@
                             [_0x4943e2['ReachLV100InBoneZone']]: {
                                 'description': 'Reach Level 100 in The Bone Zone.',
                                 'stageToUnlock': _0xe12f59['LIBRARY_E'],
+                                'achieved': !0x1
+                            },
+
+                            [_0x4943e2['SurviveOneHour']]: {
+                                'description': 'Survive 60 minutes with any character.',
+                                'stageToUnlock': _0xe12f59['SERENIA'],
                                 'achieved': !0x1
                             },
 
@@ -20123,6 +20130,7 @@
                                 _0x428bf7['Core'][_0x209cb5(0x286)]['level'] >= 0xa && this[_0x209cb5(0x731)](_0x4943e2[_0x209cb5(0x9c7)]),
                                 _0x428bf7['Core']['Player'][_0x209cb5(0xb4d)] >= 0x5 && this[_0x209cb5(0x731)](_0x4943e2['ReachLV5']),
                                 _0x428bf7['Core']['SurvivedSeconds'] >= 0x3c && this['UnlockAchievement'](_0x4943e2[_0x209cb5(0x446)]),
+                                _0x428bf7['Core']['SurvivedSeconds'] >= 3600 && this['SurviveOneHour'](_0x4943e2['SurviveOneHour']),
                                 _0x428bf7[_0x209cb5(0x6f7)][_0x209cb5(0x9b0)] >= 0x12c && _0x428bf7[_0x209cb5(0x6f7)]['Player'][_0x209cb5(0x6c2)] === _0x39678f['PASQUALINA'] && this['UnlockAchievement'](_0x4943e2[_0x209cb5(0x73d)]),
                                 _0x428bf7[_0x209cb5(0x6f7)][_0x209cb5(0x9b0)] >= 0x12c && _0x428bf7[_0x209cb5(0x6f7)]['Player']['characterType'] === _0x39678f[_0x209cb5(0x4c9)] && this['UnlockAchievement'](_0x4943e2[_0x209cb5(0xb88)]),
                                 _0x428bf7['Core']['SurvivedSeconds'] >= 0x258 && this[_0x209cb5(0x731)](_0x4943e2[_0x209cb5(0x185)]),
@@ -34948,7 +34956,7 @@
                                 'frameName': 'stage_serenia_icon.png',
                                 'frameNameUnlock': 'stage_serenia_unlock.png',
                                 'stageNumber': 'Challenge',
-                                'unlocked': true,
+                                'unlocked': false,
                                 'hidden': false,
                                 'BGM': _0x5aaeff['BGM_Realm'],
                                 'legacyBGM': _0x5aaeff['BGM_Realm'],
