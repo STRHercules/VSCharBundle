@@ -251,7 +251,7 @@
 > - Map is covered in trees and other obstacles
 > - 30 Minute match, standard finish
 > - Custom Waves
-> - Map unlocked by
+> - Map unlocked by surviving 60 minutes as any character
 
 ## Possible items when starting a match on either map:
 
