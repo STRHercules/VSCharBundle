@@ -228,20 +228,86 @@
 
 ## Chaotic Library
 
-> - 
-> - 
-> -
-> -
-> -
+> - Base Enemy Health - +15%
+> - Hyper Gold Bonus - +75%
+> - Hyper Luck Bonus - +20%
+> - No Death at 30 minutes
+> - No Enemy wipe at 30 minutes
+> - Waves from Bone Zone have been added from 30-60 minutes
+> - Custom Waves have been added for 60+ Minutes
+> - Map unlocked by reaching level 100 as any character on The Bone Zone
+> - I have also extended the ceiling and basement to be usable, there are potential items, pickups, and destructibles in both new sections
+> - Traps have been added when transitioning to the ceiling or basement areas
+
+
 
 ## New Serenia
 
-> - 
-> -
-> -
-> -
-> -
-> -
+> - Base Enemy Health - +50%
+> - Base Luck Bonus - +20%
+> - Hyper Enemy Health - +80%
+> - Hyper Luck Bonus - +40%
+> - Hyper Gold Bonus - +85%
+> - Map is covered in trees and other obstacles
+> - 30 Minute match, standard finish
+> - Custom Waves
+> - Map unlocked by
+
+## Possible items when starting a match on either map:
+
+Tome - 100%/40%/30%/20% (Library Standard)
+
+Curse - 50%
+
+Mask - 50%
+
+Candelabrador - 40%
+
+Spinach - 25%
+
+Tigarasu - 25%
+
+Armor - 5%
+
+Bone - 5%
+
+Longsword - 1%
+
+Shuriken- 1%
+
+Fire Wand - 5%
+
+Necronomicon- 1%
+
+Gordon's Shield - 1%
+
+Spear- 1%
+
+Vandalier - 1%
+
+Phieraggi - 1%
+
+Unholy Vespers - 1%
+
+Heaven Sword - 1%
+
+Scythe - 1%
+
+La Borra - 1%
+
+
+## Static Pickups on the maps;
+
+Vacuum
+
+Rosary
+
+Gem 
+
+Flamethrower
+
+Clover
+
 
 # Character Stats now:
 
