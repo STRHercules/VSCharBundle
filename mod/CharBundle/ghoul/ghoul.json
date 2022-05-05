@@ -1,54 +1,44 @@
+{"frames": [
+
 {
-	"textures": 
-	[
-		{
-			"image": "ghoul.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 64,
-				"h": 119
-			},
-			"scale": 1,
-			"frames": 
-			[
-				{
-                    "filename": "ghoul_01.png",
-                    "frame": {"x":0,"y":0,"w":38,"h":38},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":38,"h":38},
-                    "sourceSize": {"w":38,"h":38}
-                },
-                {
-                    "filename": "ghoul_02.png",
-                    "frame": {"x":0,"y":38,"w":34,"h":40},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":34,"h":40},
-                    "sourceSize": {"w":34,"h":40}
-                },
-                {
-                    "filename": "ghoul_03.png",
-                    "frame": {"x":0,"y":78,"w":32,"h":38},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":32,"h":38},
-                    "sourceSize": {"w":32,"h":38}
-                },
-                {
-                    "filename": "ghoul_04.png",
-                    "frame": {"x":32,"y":78,"w":32,"h":41},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":32,"h":41},
-                    "sourceSize": {"w":32,"h":41}
-                }
-			]
-		}
-	],
-	"meta": {
-		"app": "https://www.codeandweb.com/texturepacker",
-		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:1d34fa13faa63ebb446e8e3116b32e86:dbe076086fb782958e0f74482c2f909f:a5fe7db4b869eb0f3e0b2940b9577ea8$"
-	}
+	"filename": "ghoul_01.png",
+	"frame": {"x":0,"y":0,"w":38,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":38},
+	"sourceSize": {"w":38,"h":38}
+},
+{
+	"filename": "ghoul_02.png",
+	"frame": {"x":0,"y":38,"w":34,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":40},
+	"sourceSize": {"w":34,"h":40}
+},
+{
+	"filename": "ghoul_03.png",
+	"frame": {"x":0,"y":78,"w":32,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":38},
+	"sourceSize": {"w":32,"h":38}
+},
+{
+	"filename": "ghoul_04.png",
+	"frame": {"x":32,"y":78,"w":32,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":41},
+	"sourceSize": {"w":32,"h":41}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ghoul.png",
+	"format": "RGBA8888",
+	"size": {"w":64,"h":119},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:11b95489af68381e01e0bd9f275a347b:e21993343fe2232965eb4cd290ed64cc:05cab97e699f4448a5090d6f60211e1a$"
+}
 }

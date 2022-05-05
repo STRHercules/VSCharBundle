@@ -1,0 +1,92 @@
+{"frames": [
+
+{
+	"filename": "eddy_01.png",
+	"frame": {"x":0,"y":0,"w":29,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":40},
+	"sourceSize": {"w":29,"h":40}
+},
+{
+	"filename": "eddy_02.png",
+	"frame": {"x":0,"y":40,"w":29,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":39},
+	"sourceSize": {"w":29,"h":39}
+},
+{
+	"filename": "eddy_03.png",
+	"frame": {"x":0,"y":79,"w":27,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":27,"h":38},
+	"sourceSize": {"w":27,"h":38}
+},
+{
+	"filename": "eddy_04.png",
+	"frame": {"x":0,"y":117,"w":29,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":37},
+	"sourceSize": {"w":29,"h":37}
+},
+{
+	"filename": "eddy_05.png",
+	"frame": {"x":0,"y":154,"w":28,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":38},
+	"sourceSize": {"w":28,"h":38}
+},
+{
+	"filename": "eddy_06.png",
+	"frame": {"x":0,"y":192,"w":29,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":40},
+	"sourceSize": {"w":29,"h":40}
+},
+{
+	"filename": "eddy_07.png",
+	"frame": {"x":0,"y":232,"w":29,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":39},
+	"sourceSize": {"w":29,"h":39}
+},
+{
+	"filename": "eddy_08.png",
+	"frame": {"x":0,"y":271,"w":29,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":37},
+	"sourceSize": {"w":29,"h":37}
+},
+{
+	"filename": "eddy_09.png",
+	"frame": {"x":0,"y":308,"w":29,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":37},
+	"sourceSize": {"w":29,"h":37}
+},
+{
+	"filename": "eddy_10.png",
+	"frame": {"x":0,"y":345,"w":28,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":38},
+	"sourceSize": {"w":28,"h":38}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "eddy.png",
+	"format": "RGBA8888",
+	"size": {"w":29,"h":383},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5ee1dfd726dd43dd8035b94937fc2b23:9dc4557f3dc603709c3df1cfd959c6bb:75648fe878b758f4d101fc941e2dfea9$"
+}
+}

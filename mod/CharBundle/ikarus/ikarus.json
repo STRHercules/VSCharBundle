@@ -1,0 +1,60 @@
+{"frames": [
+
+{
+	"filename": "ikarus_01.png",
+	"frame": {"x":0,"y":43,"w":37,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":44},
+	"sourceSize": {"w":37,"h":44}
+},
+{
+	"filename": "ikarus_02.png",
+	"frame": {"x":39,"y":0,"w":37,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":43},
+	"sourceSize": {"w":37,"h":43}
+},
+{
+	"filename": "ikarus_03.png",
+	"frame": {"x":75,"y":43,"w":37,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":46},
+	"sourceSize": {"w":37,"h":46}
+},
+{
+	"filename": "ikarus_04.png",
+	"frame": {"x":76,"y":0,"w":38,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":43},
+	"sourceSize": {"w":38,"h":43}
+},
+{
+	"filename": "ikarus_05.png",
+	"frame": {"x":0,"y":0,"w":39,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":41},
+	"sourceSize": {"w":39,"h":41}
+},
+{
+	"filename": "ikarus_06.png",
+	"frame": {"x":37,"y":43,"w":38,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":45},
+	"sourceSize": {"w":38,"h":45}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ikarus.png",
+	"format": "RGBA8888",
+	"size": {"w":114,"h":89},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ac402597d614f33af0455d2a4fe4b161:d8da4d5d23b6e748335a0a0668de59c9:65ca19350b3672dc9873d64cef9d984f$"
+}
+}

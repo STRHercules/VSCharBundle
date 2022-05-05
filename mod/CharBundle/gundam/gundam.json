@@ -1,54 +1,44 @@
+{"frames": [
+
 {
-	"textures": 
-	[
-		{
-			"image": "gundam.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 186,
-				"h": 49
-			},
-			"scale": 1,
-			"frames": 
-			[
-                {
-                    "filename": "gundam_01.png",
-                    "frame": {"x":43,"y":1,"w":32,"h":47},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":32,"h":47},
-                    "sourceSize": {"w":32,"h":47}
-                },
-                {
-                    "filename": "gundam_02.png",
-                    "frame": {"x":77,"y":1,"w":35,"h":47},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":35,"h":47},
-                    "sourceSize": {"w":35,"h":47}
-                },
-                {
-                    "filename": "gundam_03.png",
-                    "frame": {"x":114,"y":1,"w":32,"h":47},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":32,"h":47},
-                    "sourceSize": {"w":32,"h":47}
-                },
-                {
-                    "filename": "gundam_04.png",
-                    "frame": {"x":148,"y":1,"w":37,"h":47},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":37,"h":47},
-                    "sourceSize": {"w":37,"h":47}
-                }
-			]
-		}
-	],
-	"meta": {
-		"app": "https://www.codeandweb.com/texturepacker",
-		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:1d34fa13faa63ebb446e8e3116b32e86:dbe076086fb782958e0f74482c2f909f:a5fe7db4b869eb0f3e0b2940b9577ea8$"
-	}
+	"filename": "gundam_01.png",
+	"frame": {"x":0,"y":0,"w":32,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":47},
+	"sourceSize": {"w":32,"h":47}
+},
+{
+	"filename": "gundam_02.png",
+	"frame": {"x":32,"y":0,"w":35,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":47},
+	"sourceSize": {"w":35,"h":47}
+},
+{
+	"filename": "gundam_03.png",
+	"frame": {"x":67,"y":0,"w":32,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":47},
+	"sourceSize": {"w":32,"h":47}
+},
+{
+	"filename": "gundam_04.png",
+	"frame": {"x":99,"y":0,"w":37,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":47},
+	"sourceSize": {"w":37,"h":47}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "gundam.png",
+	"format": "RGBA8888",
+	"size": {"w":136,"h":47},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:294f2e6056513d4b3c69df64753fb845:bade17e200a1c3a928f8e67a64375186:c95a2841082ef48ed94a982e6db9cc3f$"
+}
 }

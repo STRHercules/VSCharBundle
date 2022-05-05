@@ -1,134 +1,116 @@
+{"frames": [
+
 {
-	"textures": 
-	[
-		{
-			"image": "lance.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 32,
-				"h": 666
-			},
-			"scale": 1,
-			"frames": 
-			[
-				{
-                    "filename": "lance_01.png",
-                    "frame": {"x":0,"y":0,"w":32,"h":46},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":32,"h":46},
-                    "sourceSize": {"w":32,"h":46}
-                },
-                {
-                    "filename": "lance_02.png",
-                    "frame": {"x":0,"y":46,"w":32,"h":48},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":32,"h":48},
-                    "sourceSize": {"w":32,"h":48}
-                },
-                {
-                    "filename": "lance_03.png",
-                    "frame": {"x":0,"y":94,"w":32,"h":48},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":32,"h":48},
-                    "sourceSize": {"w":32,"h":48}
-                },
-                {
-                    "filename": "lance_04.png",
-                    "frame": {"x":0,"y":142,"w":32,"h":48},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":32,"h":48},
-                    "sourceSize": {"w":32,"h":48}
-                },
-                {
-                    "filename": "lance_05.png",
-                    "frame": {"x":0,"y":190,"w":32,"h":47},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":32,"h":47},
-                    "sourceSize": {"w":32,"h":47}
-                },
-                {
-                    "filename": "lance_06.png",
-                    "frame": {"x":0,"y":237,"w":32,"h":48},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":32,"h":48},
-                    "sourceSize": {"w":32,"h":48}
-                },
-                {
-                    "filename": "lance_07.png",
-                    "frame": {"x":0,"y":285,"w":32,"h":48},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":32,"h":48},
-                    "sourceSize": {"w":32,"h":48}
-                },
-                {
-                    "filename": "lance_08.png",
-                    "frame": {"x":0,"y":333,"w":32,"h":48},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":32,"h":48},
-                    "sourceSize": {"w":32,"h":48}
-                },
-                {
-                    "filename": "lance_09.png",
-                    "frame": {"x":0,"y":381,"w":32,"h":48},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":32,"h":48},
-                    "sourceSize": {"w":32,"h":48}
-                },
-                {
-                    "filename": "lance_010.png",
-                    "frame": {"x":0,"y":429,"w":32,"h":48},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":32,"h":48},
-                    "sourceSize": {"w":32,"h":48}
-                },
-                {
-                    "filename": "lance_011.png",
-                    "frame": {"x":0,"y":477,"w":32,"h":47},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":32,"h":47},
-                    "sourceSize": {"w":32,"h":47}
-                },
-                {
-                    "filename": "lance_012.png",
-                    "frame": {"x":0,"y":524,"w":32,"h":47},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":32,"h":47},
-                    "sourceSize": {"w":32,"h":47}
-                },
-                {
-                    "filename": "lance_013.png",
-                    "frame": {"x":0,"y":571,"w":32,"h":47},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":32,"h":47},
-                    "sourceSize": {"w":32,"h":47}
-                },
-                {
-                    "filename": "lance_014.png",
-                    "frame": {"x":0,"y":618,"w":32,"h":48},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":32,"h":48},
-                    "sourceSize": {"w":32,"h":48}
-                }
-			]
-		}
-	],
-	"meta": {
-		"app": "https://www.codeandweb.com/texturepacker",
-		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:1d34fa13faa63ebb446e8e3116b32e86:dbe076086fb782958e0f74482c2f909f:a5fe7db4b869eb0f3e0b2940b9577ea8$"
-	}
+	"filename": "lance_01.png",
+	"frame": {"x":0,"y":0,"w":32,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":46},
+	"sourceSize": {"w":32,"h":46}
+},
+{
+	"filename": "lance_02.png",
+	"frame": {"x":0,"y":46,"w":32,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":48},
+	"sourceSize": {"w":32,"h":48}
+},
+{
+	"filename": "lance_03.png",
+	"frame": {"x":0,"y":94,"w":32,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":48},
+	"sourceSize": {"w":32,"h":48}
+},
+{
+	"filename": "lance_04.png",
+	"frame": {"x":0,"y":142,"w":32,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":48},
+	"sourceSize": {"w":32,"h":48}
+},
+{
+	"filename": "lance_05.png",
+	"frame": {"x":0,"y":190,"w":32,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":47},
+	"sourceSize": {"w":32,"h":47}
+},
+{
+	"filename": "lance_06.png",
+	"frame": {"x":0,"y":237,"w":32,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":48},
+	"sourceSize": {"w":32,"h":48}
+},
+{
+	"filename": "lance_07.png",
+	"frame": {"x":0,"y":285,"w":32,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":48},
+	"sourceSize": {"w":32,"h":48}
+},
+{
+	"filename": "lance_08.png",
+	"frame": {"x":0,"y":333,"w":32,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":48},
+	"sourceSize": {"w":32,"h":48}
+},
+{
+	"filename": "lance_09.png",
+	"frame": {"x":0,"y":381,"w":32,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":48},
+	"sourceSize": {"w":32,"h":48}
+},
+{
+	"filename": "lance_10.png",
+	"frame": {"x":0,"y":429,"w":32,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":48},
+	"sourceSize": {"w":32,"h":48}
+},
+{
+	"filename": "lance_11.png",
+	"frame": {"x":0,"y":477,"w":32,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":47},
+	"sourceSize": {"w":32,"h":47}
+},
+{
+	"filename": "lance_12.png",
+	"frame": {"x":0,"y":524,"w":32,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":47},
+	"sourceSize": {"w":32,"h":47}
+},
+{
+	"filename": "lance_13.png",
+	"frame": {"x":0,"y":571,"w":32,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":47},
+	"sourceSize": {"w":32,"h":47}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "lance.png",
+	"format": "RGBA8888",
+	"size": {"w":32,"h":618},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3fc7de2c3e02cb399837071868afd7ec:cea9a4b39e9f93ae5c2051a22f08be6e:f8c560d07d05739bcede301654feeec7$"
+}
 }

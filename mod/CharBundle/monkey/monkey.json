@@ -1,0 +1,36 @@
+{"frames": [
+
+{
+	"filename": "monkey_01.png",
+	"frame": {"x":0,"y":0,"w":13,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":23},
+	"sourceSize": {"w":13,"h":23}
+},
+{
+	"filename": "monkey_02.png",
+	"frame": {"x":0,"y":23,"w":14,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":14,"h":22},
+	"sourceSize": {"w":14,"h":22}
+},
+{
+	"filename": "monkey_03.png",
+	"frame": {"x":0,"y":45,"w":14,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":14,"h":22},
+	"sourceSize": {"w":14,"h":22}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "monkey.png",
+	"format": "RGBA8888",
+	"size": {"w":14,"h":67},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:377ea68c835eb240cfbe0a2b5f43d320:9270d346baa301847e20c08f36caaf89:f22ec43fa8bb0df0abc56a901a4cbbb5$"
+}
+}

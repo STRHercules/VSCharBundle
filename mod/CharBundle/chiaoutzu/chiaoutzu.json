@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "chiaoutzu_01.png",
+	"frame": {"x":0,"y":0,"w":19,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":36},
+	"sourceSize": {"w":19,"h":36}
+},
+{
+	"filename": "chiaoutzu_02.png",
+	"frame": {"x":19,"y":0,"w":18,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":36},
+	"sourceSize": {"w":18,"h":36}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "chiaoutzu.png",
+	"format": "RGBA8888",
+	"size": {"w":37,"h":36},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:82948e8effe14ec5a706c525fdb802b7:c2c66a63f35cf046aaa11ac5a39a2594:7b6917e0a6eeac39f6097bb217d3ecfd$"
+}
+}

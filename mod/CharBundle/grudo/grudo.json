@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "grudo_01.png",
+	"frame": {"x":0,"y":0,"w":15,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":25},
+	"sourceSize": {"w":15,"h":25}
+},
+{
+	"filename": "grudo_02.png",
+	"frame": {"x":15,"y":0,"w":18,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":24},
+	"sourceSize": {"w":18,"h":24}
+},
+{
+	"filename": "grudo_03.png",
+	"frame": {"x":33,"y":0,"w":15,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":25},
+	"sourceSize": {"w":15,"h":25}
+},
+{
+	"filename": "grudo_04.png",
+	"frame": {"x":48,"y":0,"w":19,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":24},
+	"sourceSize": {"w":19,"h":24}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "grudo.png",
+	"format": "RGBA8888",
+	"size": {"w":67,"h":25},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1acbc010b1acbb9ce369b60508ecbfaf:6b20cb52cfe2f84f0e24c25c8cd3faa7:03a6da4a3136e68b188d1f8814dc43c8$"
+}
+}

@@ -1,118 +1,108 @@
+{"frames": [
+
 {
-	"textures": 
-	[
-		{
-			"image": "spiderman.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 128,
-				"h": 245
-			},
-			"scale": 1,
-			"frames": 
-			[
-				{
-                    "filename": "spiderman_01.png",
-                    "frame": {"x":1,"y":197,"w":43,"h":47},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":43,"h":47},
-                    "sourceSize": {"w":43,"h":47}
-                },
-                {
-                    "filename": "spiderman_02.png",
-                    "frame": {"x":46,"y":197,"w":45,"h":47},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":45,"h":47},
-                    "sourceSize": {"w":45,"h":47}
-                },
-                {
-                    "filename": "spiderman_03.png",
-                    "frame": {"x":44,"y":99,"w":42,"h":47},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":42,"h":47},
-                    "sourceSize": {"w":42,"h":47}
-                },
-                {
-                    "filename": "spiderman_04.png",
-                    "frame": {"x":43,"y":50,"w":41,"h":47},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":41,"h":47},
-                    "sourceSize": {"w":41,"h":47}
-                },
-                {
-                    "filename": "spiderman_05.png",
-                    "frame": {"x":86,"y":50,"w":41,"h":47},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":41,"h":47},
-                    "sourceSize": {"w":41,"h":47}
-                },
-                {
-                    "filename": "spiderman_06.png",
-                    "frame": {"x":1,"y":148,"w":42,"h":47},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":42,"h":47},
-                    "sourceSize": {"w":42,"h":47}
-                },
-                {
-                    "filename": "spiderman_07.png",
-                    "frame": {"x":45,"y":148,"w":42,"h":47},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":42,"h":47},
-                    "sourceSize": {"w":42,"h":47}
-                },
-                {
-                    "filename": "spiderman_08.png",
-                    "frame": {"x":1,"y":99,"w":41,"h":47},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":41,"h":47},
-                    "sourceSize": {"w":41,"h":47}
-                },
-                {
-                    "filename": "spiderman_09.png",
-                    "frame": {"x":1,"y":50,"w":40,"h":47},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":40,"h":47},
-                    "sourceSize": {"w":40,"h":47}
-                },
-                {
-                    "filename": "spiderman_010.png",
-                    "frame": {"x":41,"y":1,"w":39,"h":47},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":39,"h":47},
-                    "sourceSize": {"w":39,"h":47}
-                },
-                {
-                    "filename": "spiderman_011.png",
-                    "frame": {"x":1,"y":1,"w":38,"h":47},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":38,"h":47},
-                    "sourceSize": {"w":38,"h":47}
-                },
-                {
-                    "filename": "spiderman_012.png",
-                    "frame": {"x":82,"y":1,"w":40,"h":47},
-                    "rotated": false,
-                    "trimmed": false,
-                    "spriteSourceSize": {"x":0,"y":0,"w":40,"h":47},
-                    "sourceSize": {"w":40,"h":47}
-                }
-			]
-		}
-	],
-	"meta": {
-		"app": "https://www.codeandweb.com/texturepacker",
-		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:1d34fa13faa63ebb446e8e3116b32e86:dbe076086fb782958e0f74482c2f909f:a5fe7db4b869eb0f3e0b2940b9577ea8$"
-	}
+	"filename": "spiderman_01.png",
+	"frame": {"x":0,"y":0,"w":43,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":47},
+	"sourceSize": {"w":43,"h":47}
+},
+{
+	"filename": "spiderman_02.png",
+	"frame": {"x":43,"y":0,"w":45,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":47},
+	"sourceSize": {"w":45,"h":47}
+},
+{
+	"filename": "spiderman_03.png",
+	"frame": {"x":88,"y":0,"w":42,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":47},
+	"sourceSize": {"w":42,"h":47}
+},
+{
+	"filename": "spiderman_04.png",
+	"frame": {"x":130,"y":0,"w":41,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":47},
+	"sourceSize": {"w":41,"h":47}
+},
+{
+	"filename": "spiderman_05.png",
+	"frame": {"x":171,"y":0,"w":41,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":47},
+	"sourceSize": {"w":41,"h":47}
+},
+{
+	"filename": "spiderman_06.png",
+	"frame": {"x":212,"y":0,"w":42,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":47},
+	"sourceSize": {"w":42,"h":47}
+},
+{
+	"filename": "spiderman_07.png",
+	"frame": {"x":254,"y":0,"w":42,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":47},
+	"sourceSize": {"w":42,"h":47}
+},
+{
+	"filename": "spiderman_08.png",
+	"frame": {"x":296,"y":0,"w":41,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":47},
+	"sourceSize": {"w":41,"h":47}
+},
+{
+	"filename": "spiderman_09.png",
+	"frame": {"x":337,"y":0,"w":40,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":47},
+	"sourceSize": {"w":40,"h":47}
+},
+{
+	"filename": "spiderman_10.png",
+	"frame": {"x":377,"y":0,"w":39,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":47},
+	"sourceSize": {"w":39,"h":47}
+},
+{
+	"filename": "spiderman_11.png",
+	"frame": {"x":416,"y":0,"w":38,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":47},
+	"sourceSize": {"w":38,"h":47}
+},
+{
+	"filename": "spiderman_12.png",
+	"frame": {"x":454,"y":0,"w":40,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":47},
+	"sourceSize": {"w":40,"h":47}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "spiderman.png",
+	"format": "RGBA8888",
+	"size": {"w":494,"h":47},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1bd5d831789eda6e986121d0f39a78d8:a600e6bbe25eb2db90c6528e82329b86:24bdea12ebd1d7e4a8da89434d5786e6$"
+}
 }

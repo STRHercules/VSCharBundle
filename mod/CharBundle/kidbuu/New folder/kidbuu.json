@@ -1,0 +1,70 @@
+{
+	"textures": 
+	[
+		{
+			"image": "kidbuu.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 119,
+				"h": 49
+			},
+			"scale": 1,
+			"frames": 
+			[
+				{
+                    "filename": "kidbuu_01.png",
+                    "frame": {"x":1,"y":1,"w":17,"h":47},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":17,"h":47},
+                    "sourceSize": {"w":17,"h":47}
+                },
+                {
+                    "filename": "kidbuu_02.png",
+                    "frame": {"x":20,"y":1,"w":15,"h":47},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":15,"h":47},
+                    "sourceSize": {"w":15,"h":47}
+                },
+                {
+                    "filename": "kidbuu_03.png",
+                    "frame": {"x":37,"y":1,"w":18,"h":47},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":18,"h":47},
+                    "sourceSize": {"w":18,"h":47}
+                },
+                {
+                    "filename": "kidbuu_04.png",
+                    "frame": {"x":57,"y":1,"w":16,"h":47},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":16,"h":47},
+                    "sourceSize": {"w":16,"h":47}
+                },
+                {
+                    "filename": "kidbuu_05.png",
+                    "frame": {"x":75,"y":1,"w":19,"h":47},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":19,"h":47},
+                    "sourceSize": {"w":19,"h":47}
+                },
+                {
+                    "filename": "kidbuu_06.png",
+                    "frame": {"x":96,"y":1,"w":22,"h":47},
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {"x":0,"y":0,"w":22,"h":47},
+                    "sourceSize": {"w":22,"h":47}
+                }
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1d34fa13faa63ebb446e8e3116b32e86:dbe076086fb782958e0f74482c2f909f:a5fe7db4b869eb0f3e0b2940b9577ea8$"
+	}
+}

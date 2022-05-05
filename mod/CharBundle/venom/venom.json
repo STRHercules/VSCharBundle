@@ -2,99 +2,83 @@
 
 {
 	"filename": "venom_01.png",
-	"frame": {"x":0,"y":0,"w":47,"h":36},
+	"frame": {"x":0,"y":0,"w":62,"h":47},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":36},
-	"sourceSize": {"w":47,"h":36}
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":47},
+	"sourceSize": {"w":62,"h":47}
 },
 {
 	"filename": "venom_02.png",
-	"frame": {"x":47,"y":0,"w":43,"h":36},
+	"frame": {"x":62,"y":0,"w":56,"h":47},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":36},
-	"sourceSize": {"w":43,"h":36}
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":47},
+	"sourceSize": {"w":56,"h":47}
 },
 {
 	"filename": "venom_03.png",
-	"frame": {"x":90,"y":0,"w":39,"h":36},
+	"frame": {"x":118,"y":0,"w":51,"h":47},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":36},
-	"sourceSize": {"w":39,"h":36}
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":47},
+	"sourceSize": {"w":51,"h":47}
 },
 {
 	"filename": "venom_04.png",
-	"frame": {"x":129,"y":0,"w":31,"h":36},
+	"frame": {"x":169,"y":0,"w":41,"h":47},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":36},
-	"sourceSize": {"w":31,"h":36}
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":47},
+	"sourceSize": {"w":41,"h":47}
 },
 {
 	"filename": "venom_05.png",
-	"frame": {"x":160,"y":0,"w":41,"h":36},
+	"frame": {"x":210,"y":0,"w":53,"h":47},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":36},
-	"sourceSize": {"w":41,"h":36}
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":47},
+	"sourceSize": {"w":53,"h":47}
 },
 {
 	"filename": "venom_06.png",
-	"frame": {"x":201,"y":0,"w":47,"h":36},
+	"frame": {"x":263,"y":0,"w":62,"h":47},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":36},
-	"sourceSize": {"w":47,"h":36}
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":47},
+	"sourceSize": {"w":62,"h":47}
 },
 {
 	"filename": "venom_07.png",
-	"frame": {"x":248,"y":0,"w":41,"h":36},
+	"frame": {"x":325,"y":0,"w":53,"h":47},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":36},
-	"sourceSize": {"w":41,"h":36}
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":47},
+	"sourceSize": {"w":53,"h":47}
 },
 {
 	"filename": "venom_08.png",
-	"frame": {"x":289,"y":0,"w":31,"h":36},
+	"frame": {"x":378,"y":0,"w":40,"h":47},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":36},
-	"sourceSize": {"w":31,"h":36}
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":47},
+	"sourceSize": {"w":40,"h":47}
 },
 {
 	"filename": "venom_09.png",
-	"frame": {"x":320,"y":0,"w":41,"h":36},
+	"frame": {"x":418,"y":0,"w":53,"h":47},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":36},
-	"sourceSize": {"w":41,"h":36}
-},
-{
-	"filename": "venom_010.png",
-	"frame": {"x":361,"y":0,"w":36,"h":36},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":36},
-	"sourceSize": {"w":36,"h":36}
-},
-{
-	"filename": "venom_011.png",
-	"frame": {"x":397,"y":0,"w":28,"h":36},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":36},
-	"sourceSize": {"w":28,"h":36}
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":47},
+	"sourceSize": {"w":53,"h":47}
 }],
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
 	"version": "1.0",
 	"image": "venom.png",
 	"format": "RGBA8888",
-	"size": {"w":425,"h":36},
+	"size": {"w":471,"h":47},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:0f637dede8360f8d93d65d03b3bb1f36:d6efe8618d3b31475d0699428329de94:b60c682fdb95877d5a9859dd8f7731ea$"
+	"smartupdate": "$TexturePacker:SmartUpdate:2fb0ed7d790a09b8ec87c7a7ed871ecb:798b97bb52bab307572e2e2babff5658:b60c682fdb95877d5a9859dd8f7731ea$"
 }
 }
