@@ -369,12 +369,12 @@
 	"sourceSize": {"w":30,"h":30}
 },
 {
-	"filename": "no16.png",
-	"frame": {"x":240,"y":15,"w":17,"h":17},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":17},
-	"sourceSize": {"w":17,"h":17}
+    "filename": "no16.png",
+    "frame": {"x":240,"y":15,"w":17,"h":17},
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": {"x":3.5,"y":3.5,"w":17,"h":17},
+    "sourceSize": {"w":24,"h":24}
 },
 {
 	"filename": "p_arca.png",
@@ -993,12 +993,12 @@
 	"sourceSize": {"w":1,"h":1}
 },
 {
-	"filename": "yes16.png",
-	"frame": {"x":432,"y":0,"w":18,"h":14},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":14},
-	"sourceSize": {"w":18,"h":14}
+    "filename": "yes16.png",
+    "frame": {"x":432,"y":0,"w":18,"h":14},
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": {"x":3,"y":5,"w":18,"h":14},
+    "sourceSize": {"w":24,"h":24}
 }],
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
