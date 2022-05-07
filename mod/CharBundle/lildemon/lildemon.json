@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "lildemon_01.png",
+	"frame": {"x":0,"y":0,"w":18,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":38},
+	"sourceSize": {"w":18,"h":38}
+},
+{
+	"filename": "lildemon_02.png",
+	"frame": {"x":0,"y":38,"w":16,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":36},
+	"sourceSize": {"w":16,"h":36}
+},
+{
+	"filename": "lildemon_03.png",
+	"frame": {"x":16,"y":38,"w":15,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":36},
+	"sourceSize": {"w":15,"h":36}
+},
+{
+	"filename": "lildemon_04.png",
+	"frame": {"x":0,"y":74,"w":21,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":38},
+	"sourceSize": {"w":21,"h":38}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "lildemon.png",
+	"format": "RGBA8888",
+	"size": {"w":31,"h":112},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:79ce8c2c0d69ea9913e5dec6f8dd55ae:c6c063466fa831e8fd75b0bc21e4682b:6253372f1ebc3ccff225a739ed9c0119$"
+}
+}

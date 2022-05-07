@@ -233,6 +233,12 @@
                                 _0x4d5b02['MOMONGA'] = 'MOMONGA',
                                 _0x4d5b02['SNAKE'] = 'SNAKE',
                                 _0x4d5b02['FROSTY'] = 'FROSTY',
+                                _0x4d5b02['DKNIGHT'] = 'DKNIGHT',
+                                _0x4d5b02['HYDRALISK'] = 'HYDRALISK',
+                                _0x4d5b02['LILDEMON'] = 'LILDEMON',
+                                _0x4d5b02['TEMPLAR'] = 'TEMPLAR',
+                                _0x4d5b02['AANG'] = 'AANG',
+                                _0x4d5b02['ZERGLING'] = 'ZERGLING',
                                 _0x4d5b02['NEO'] = 'NEO',
                                 _0x4d5b02[_0x9886f7(0x81e)] = 'PIRIPIRI',
                                 _0x4d5b02[_0x9886f7(0xb6f)] = 'PINEYE',
@@ -3735,11 +3741,12 @@
                             [_0x39678f['GHOST']]: [{
                                 'level': 0x1,
                                 'startingWeapon': _0x202927['CHERRY'],
-                                'charName': 'Ghost',
+                                'prefix': 'Sarah',
+                                'charName': 'Kerrigan',
                                 'surname': '',
                                 'spriteName': 'ghost_01.png',
                                 'textureName': 'GHOST',
-                                'walkingFrames': 0x9,
+                                'walkingFrames': 8,
                                 'description': '+50% Curse. +100% Luck. +1% MoveSpeed/Level. +2% Curse/Level.',
                                 'isBought': !0x0,
                                 'bgm': _0x5aaeff['BGM_Starcraft'],
@@ -5304,7 +5311,7 @@
                             [_0x39678f['CHIEF']]: [{
                                 'hidden': 0,
                                 'level': 0x1,
-                                'startingWeapon': _0x202927['GUNS'],
+                                'startingWeapon': _0x202927[_0x2f72b3(0x1eb)],
                                 'prefix': 'Master',
                                 'charName': 'Chief',
                                 'surname': '',
@@ -5334,7 +5341,7 @@
                                 'rerolls': 0x0,
                                 'skips': 0x0,
                                 'banish': 0x0,
-                                'exWeapons': _0x202927['GUNS2'],
+                                'exWeapons': [_0x202927['GUNS2']],
                                 'onEveryLevelUp': {
                                     'power': 0.01
                                 },
@@ -5385,7 +5392,7 @@
                                 'rerolls': 0x0,
                                 'skips': 0x0,
                                 'banish': 0x0,
-                                'exWeapons': _0x202927['GUNS'],
+                                'exWeapons': [_0x202927[_0x2f72b3(0x1eb)]],
                                 'onEveryLevelUp': {
                                     'power': 0.01
                                 },
@@ -5779,7 +5786,7 @@
                                 'rerolls': 0x0,
                                 'skips': 0x0,
                                 'banish': 0x0,
-                                'exWeapons': [_0x202927['LONGSWORD'], _0x202927['G_SHIELD']], 
+                                'exWeapons': [_0x202927['LONGSWORD'], _0x202927['G_SHIELD']],
                                 'showcase': []
                             }, {
                                 'growth': 0x1,
@@ -6090,6 +6097,303 @@
                                 'level': 0x29,
                                 'growth': -0x1
                             }],
+                            [_0x39678f['DKNIGHT']]: [{
+                                'level': 0x1,
+                                'startingWeapon': _0x202927['SKULL'],
+                                'charName': 'Death',
+                                'surname': 'Knight',
+                                'spriteName': 'dknight_01.png',
+                                'textureName': 'DKNIGHT',
+                                'walkingFrames': 4,
+                                'description': 'There can be only one.',
+                                'isBought': !0x0,
+                                'price': 0x0,
+                                'maxHp': 85,
+                                'armor': 0x1,
+                                'regen': 0.1,
+                                'moveSpeed': 0x1,
+                                'power': 0x1,
+                                'cooldown': 0x1,
+                                'area': 1.3,
+                                'speed': 0x1,
+                                'duration': 0x1,
+                                'amount': 0x1,
+                                'luck': 0x1,
+                                'growth': 0x1,
+                                'greed': 0x1,
+                                'curse': 1.6,
+                                'magnet': 0x0,
+                                'revivals': 0x3,
+                                'rerolls': 0x0,
+                                'skips': 0x0,
+                                'banish': 0x0,
+                                'showcase': [],
+                                'onEveryLevelUp': {
+                                    'power': 0.01
+                                },
+                                'debugTime': 0x348
+                            }, {
+                                'level': 0x14,
+                                'growth': 0x1
+                            }, {
+                                'level': 0x28,
+                                'growth': 0x1
+                            }, {
+                                'level': 0x3c
+                            }, {
+                                'level': 0x15,
+                                'growth': -0x1
+                            }, {
+                                'level': 0x29,
+                                'growth': -0x1
+                            }],
+                            [_0x39678f['HYDRALISK']]: [{
+                                'level': 0x1,
+                                'startingWeapon': _0x202927['KNIFE'],
+                                'charName': 'Hydralisk',
+                                'surname': '',
+                                'spriteName': 'hydralisk_01.png',
+                                'textureName': 'HYDRALISK',
+                                'walkingFrames': 6,
+                                'description': 'Operation Cwal.',
+                                'isBought': !0x0,
+                                'price': 0x0,
+                                'maxHp': 50,
+                                'armor': 0x0,
+                                'regen': 0x0,
+                                'moveSpeed': 0x1,
+                                'power': 0.45,
+                                'cooldown': 0x1,
+                                'area': 0x1,
+                                'speed': 0x1,
+                                'duration': 0x1,
+                                'amount': 10,
+                                'luck': 0x1,
+                                'growth': 0x1,
+                                'greed': 0x1,
+                                'curse': 0x1,
+                                'magnet': 0x0,
+                                'revivals': 0x0,
+                                'rerolls': 0x0,
+                                'skips': 0x0,
+                                'banish': 0x0,
+                                'showcase': [],
+                                'debugTime': 0x348
+                            }, {
+                                'level': 0x14,
+                                'growth': 0x1
+                            }, {
+                                'level': 0x28,
+                                'growth': 0x1
+                            }, {
+                                'level': 0x3c
+                            }, {
+                                'level': 0x15,
+                                'growth': -0x1
+                            }, {
+                                'level': 0x29,
+                                'growth': -0x1
+                            }],
+                            [_0x39678f['LILDEMON']]: [{
+                                'level': 0x1,
+                                'startingWeapon': _0x202927['FIREBALL'],
+                                'charName': 'Lil\' Daemon',
+                                'surname': '',
+                                'spriteName': 'lildemon_01.png',
+                                'textureName': 'LILDEMON',
+                                'walkingFrames': 4,
+                                'description': 'Yours truly.',
+                                'isBought': !0x0,
+                                'price': 0x0,
+                                'maxHp': 65,
+                                'armor': 0x2,
+                                'regen': 0.1,
+                                'moveSpeed': 0x1,
+                                'power': 0.5,
+                                'cooldown': 0.5,
+                                'area': 0.5,
+                                'speed': 4.0,
+                                'duration': 0x1,
+                                'amount': 10,
+                                'luck': 0x1,
+                                'growth': 0x1,
+                                'greed': 0x1,
+                                'curse': 0x1,
+                                'magnet': 0x0,
+                                'revivals': 0x4,
+                                'rerolls': 0x0,
+                                'skips': 0x0,
+                                'banish': 0x0,
+                                'showcase': [],
+                                'onEveryLevelUp': {
+                                    'power': 0.01
+                                },
+                                'debugTime': 0x348
+                            }, {
+                                'level': 0x14,
+                                'growth': 0x1
+                            }, {
+                                'level': 0x28,
+                                'growth': 0x1
+                            }, {
+                                'level': 0x3c
+                            }, {
+                                'level': 0x15,
+                                'growth': -0x1
+                            }, {
+                                'level': 0x29,
+                                'growth': -0x1
+                            }],
+                            [_0x39678f['TEMPLAR']]: [{
+                                'level': 0x1,
+                                'startingWeapon': _0x202927['LIGHTNING'],
+                                'prefix': 'High',
+                                'charName': 'Templar',
+                                'surname': '',
+                                'spriteName': 'templar_01.png',
+                                'textureName': 'TEMPLAR',
+                                'walkingFrames': 7,
+                                'description': 'Power Overwhelming.',
+                                'isBought': !0x0,
+                                'price': 0x0,
+                                'maxHp': 50,
+                                'armor': 0x2,
+                                'regen': 0.2,
+                                'moveSpeed': 0x1,
+                                'power': 0.5,
+                                'cooldown': 0x1,
+                                'area': 4.0,
+                                'speed': 0x1,
+                                'duration': 2.0,
+                                'amount': 0x1,
+                                'luck': 0x1,
+                                'growth': 0x1,
+                                'greed': 0x1,
+                                'curse': 0x1,
+                                'magnet': 0x0,
+                                'revivals': 0x0,
+                                'rerolls': 0x0,
+                                'skips': 0x0,
+                                'banish': 0x0,
+                                'showcase': [],
+                                'debugTime': 0x348
+                            }, {
+                                'level': 0x14,
+                                'growth': 0x1
+                            }, {
+                                'level': 0x28,
+                                'growth': 0x1
+                            }, {
+                                'level': 0x3c
+                            }, {
+                                'level': 0x15,
+                                'growth': -0x1
+                            }, {
+                                'level': 0x29,
+                                'growth': -0x1
+                            }],                            
+                            [_0x39678f['ZERGLING']]: [{
+                                'level': 0x1,
+                                'startingWeapon': _0x202927['WHIP'],
+                                'charName': 'Zergling',
+                                'surname': '',
+                                'spriteName': 'zergling_01.png',
+                                'textureName': 'ZERGLING',
+                                'walkingFrames': 6,
+                                'description': 'Black Sheep Wall.',
+                                'isBought': !0x0,
+                                'price': 0x0,
+                                'maxHp': 35,
+                                'armor': 0x4,
+                                'regen': 0.8,
+                                'moveSpeed': 1.4,
+                                'power': 0.70,
+                                'cooldown': 0x1,
+                                'area': 0x1,
+                                'speed': 0x1,
+                                'duration': 0x1,
+                                'amount': 0x1,
+                                'luck': 0x1,
+                                'growth': 2.0,
+                                'greed': 0x1,
+                                'curse': 1.45,
+                                'magnet': 0x1,
+                                'revivals': 0x5,
+                                'rerolls': 0x0,
+                                'skips': 0x5,
+                                'banish': 0x0,
+                                'showcase': [],
+                                'onEveryLevelUp': {
+                                    'power': 0.01
+                                },
+                                'debugTime': 0x348
+                            }, {
+                                'level': 0x14,
+                                'growth': 0x1
+                            }, {
+                                'level': 0x28,
+                                'growth': 0x1
+                            }, {
+                                'level': 0x3c
+                            }, {
+                                'level': 0x15,
+                                'growth': -0x1
+                            }, {
+                                'level': 0x29,
+                                'growth': -0x1
+                            }],
+                            [_0x39678f['AANG']]: [{
+                                'level': 0x1,
+                                'startingWeapon': _0x202927['LAUREL'],
+                                'charName': 'Aang',
+                                'surname': '',
+                                'spriteName': 'aang_01.png',
+                                'textureName': 'AANG',
+                                'walkingFrames': 4,
+                                'description': 'The Last Airbender.',
+                                'isBought': !0x0,
+                                'price': 0x0,
+                                'maxHp': 100,
+                                'armor': 0x2,
+                                'regen': 0.3,
+                                'moveSpeed': 0x1,
+                                'power': 0x1,
+                                'cooldown': 0x1,
+                                'area': 0x1,
+                                'speed': 0x1,
+                                'duration': 0x1,
+                                'amount': 0x1,
+                                'luck': 0x1,
+                                'growth': 0x1,
+                                'greed': 0x1,
+                                'curse': 0x1,
+                                'magnet': 0x1,
+                                'revivals': 0x4,
+                                'rerolls': 0x4,
+                                'skips': 0x2,
+                                'banish': 0x2,
+                                'exLevels': 1,
+                                'showcase': [],
+                                'onEveryLevelUp': {
+                                    'growth': 0.01,
+                                    'power': 0.01
+                                },
+                                'debugTime': 0x348
+                            }, {
+                                'level': 0x14,
+                                'growth': 0x1
+                            }, {
+                                'level': 0x28,
+                                'growth': 0x1
+                            }, {
+                                'level': 0x3c
+                            }, {
+                                'level': 0x15,
+                                'growth': -0x1
+                            }, {
+                                'level': 0x29,
+                                'growth': -0x1
+                            }],
                             [_0x39678f['ASSAULT']]: [{
                                 'hidden': 0,
                                 'level': 0x1,
@@ -6330,7 +6634,6 @@
                                 'level': 0x29,
                                 'growth': -0x1
                             }],
-                            
                             [_0x39678f['NEO']]: [{
                                 'hidden': !0x0,
                                 'level': 0x1,
@@ -12876,7 +13179,7 @@
                             'name': 'Longsword',
                             'description': 'Attacks horizontally, passes through enemies. Smaller and Faster than Whip.',
                             'tips': 'Ignores: speed, duration.',
-                            'texture': 'ARSENAL',
+                            'texture': 'items',
                             'frameName': 'sword_03c.png',
                             'isUnlocked': !0x0,
                             'poolLimit': 0xf,
@@ -12917,7 +13220,7 @@
                             'name': 'Ki Blast',
                             'description': 'Saiyan Energy Blast. Fired at closest enemy.',
                             'tips': 'Ignores: duration.',
-                            'texture': 'KI',
+                            'texture': 'items',
                             'frameName': 'smallki.png',
                             'isUnlocked': 0x0,
                             'poolLimit': 0x3c,
@@ -12953,7 +13256,7 @@
                             'name': 'Necronomicon',
                             'description': 'Starts with 2 Projectiles. Penetrates 2 Enemies. Slight Knockback.',
                             'tips': 'Ignores: duration.',
-                            'texture': 'ARSENAL',
+                            'texture': 'items',
                             'frameName': 'book_06f.png', //skull.png
                             'isUnlocked': 0x0,
                             'poolLimit': 0x3c,
@@ -12990,7 +13293,7 @@
                             'name': 'Spear',
                             'description': 'Fires slowly in the faced direction. Massive pentration.',
                             'tips': 'Ignores: duration.',
-                            'texture': 'ARSENAL',
+                            'texture': 'items',
                             'frameName': 'spear_01.png',
                             'isUnlocked': !0x0,
                             'poolLimit': 0x46,
@@ -13032,7 +13335,7 @@
                             'name': 'Rocket Mk.1',
                             'description': 'Fired at the nearest enemy. Scaling Crit and Power.',
                             'tips': 'Ignores: duration.',
-                            'texture': 'ARSENAL',
+                            'texture': 'items',
                             'frameName': 'b_missile_f.png',
                             'isUnlocked': !0x0,
                             'poolLimit': 0x46,
@@ -13072,7 +13375,7 @@
                             'name': 'Rocket Mk.2',
                             'description': 'Fired at the nearest enemy. Scaling Speed and Power. Slight Knockback.',
                             'tips': 'Ignores: duration.',
-                            'texture': 'ARSENAL',
+                            'texture': 'items',
                             'frameName': 'a_missile_f.png',
                             'isUnlocked': !0x0,
                             'poolLimit': 0x46,
@@ -13114,7 +13417,7 @@
                             'name': 'Rocket Mk.3',
                             'description': 'Fired at the nearest enemy. Penetrates. ',
                             'tips': 'Ignores: duration.',
-                            'texture': 'ARSENAL',
+                            'texture': 'items',
                             'frameName': 'super_missile_f.png',
                             'isUnlocked': !0x0,
                             'poolLimit': 0x46,
@@ -13156,7 +13459,7 @@
                             'name': 'Rocket Mk.4',
                             'description': 'Fired at the nearest enemy. Multiple weak projectiles.',
                             'tips': 'Ignores: duration.',
-                            'texture': 'ARSENAL',
+                            'texture': 'items',
                             'frameName': 'sonic_missile_f.png',
                             'isUnlocked': !0x0,
                             'poolLimit': 0x46,
@@ -13194,7 +13497,7 @@
                             'name': 'Repulsor',
                             'description': 'Fires slow, high damage.',
                             'tips': 'Ignores: duration.',
-                            'texture': 'ARSENAL',
+                            'texture': 'items',
                             'frameName': 'greenfx_01.png',
                             'isUnlocked': !0x0,
                             'poolLimit': 0x46,
@@ -13235,7 +13538,7 @@
                             'name': 'Pulsar',
                             'description': 'Fires extremely fast, very low damage.',
                             'tips': 'Ignores: duration.',
-                            'texture': 'ARSENAL',
+                            'texture': 'items',
                             'frameName': 'redhit2_01.png',
                             'isUnlocked': !0x0,
                             'poolLimit': 0x46,
@@ -13274,7 +13577,7 @@
                             'name': 'Shuriken',
                             'description': 'Thrown slowly, penetrates nearest enemies.',
                             'tips': 'Ignores: duration.',
-                            'texture': 'ARSENAL',
+                            'texture': 'items',
                             'frameName': 'shuriken_red.png',
                             'knockback': 0.5,
                             'isUnlocked': !0x1,
@@ -13320,7 +13623,7 @@
                             'bulletType': _0x202927['G_SHIELD'],
                             'name': 'Gordon\'s Shield',
                             'description': 'Reduces incoming damage by 2.',
-                            'texture': 'ARSENAL',
+                            'texture': 'items',
                             'frameName': 'shield_02c.png',
                             'isUnlocked': !0x0,
                             'rarity': 0,
@@ -19464,12 +19767,9 @@
                                         'key': _0x4fd849['tileset'][_0x2b8989(0x94b)]
                                     });
                                     let _0x3df848 = this[_0x2b8989(0x8b5)][_0x3fff7f]['addTilesetImage'](_0x4fd849[_0x2b8989(0x95f)][_0x2b8989(0x2c5)], _0x4fd849['tileset']['setKey'], 0x20, 0x20, 0x1, 0x2);
-                                    if ( _0x4fd849['tileset']['mapKey'] != 'Custom' ) 
-                                    {
+                                    if (_0x4fd849['tileset']['mapKey'] != 'Custom') {
                                         this[_0x2b8989(0x8b5)][_0x3fff7f]['addTilesetImage'](_0x4fd849[_0x2b8989(0x95f)][_0x2b8989(0x2c5)], _0x4fd849['tileset']['setKey'], 0x20, 0x20, 0x1, 0x2);
-                                    } 
-                                    else if ( _0x4fd849['tileset']['mapKey'] = 'Custom' )
-                                    {
+                                    } else if (_0x4fd849['tileset']['mapKey'] = 'Custom') {
                                         this[_0x2b8989(0x8b5)][_0x3fff7f]['addTilesetImage'](_0x4fd849[_0x2b8989(0x95f)][_0x2b8989(0x2c5)], _0x4fd849['tileset']['setKey'], 32, 32, 0, 0);
                                     }
                                     0x0 == _0x3fff7f && (this[_0x2b8989(0xa7e)] = this[_0x2b8989(0x8b5)][_0x3fff7f], this[_0x2b8989(0x8b5)][_0x3fff7f]['getObjectLayer']('Scripts')['objects']['forEach'](_0x319524 => {
@@ -21038,7 +21338,7 @@
                                 _0x428bf7['Core'][_0x209cb5(0x286)]['level'] >= 0xa && this[_0x209cb5(0x731)](_0x4943e2[_0x209cb5(0x9c7)]),
                                 _0x428bf7['Core']['Player'][_0x209cb5(0xb4d)] >= 0x5 && this[_0x209cb5(0x731)](_0x4943e2['ReachLV5']),
                                 _0x428bf7['Core']['SurvivedSeconds'] >= 0x3c && this['UnlockAchievement'](_0x4943e2[_0x209cb5(0x446)]),
-                                _0x428bf7['Core']['SurvivedSeconds'] >= 3600 && this['SurviveOneHour'](_0x4943e2['SurviveOneHour']),
+                                _0x428bf7['Core']['SurvivedSeconds'] >= 3600 && this['UnlockAchievement'](_0x4943e2['SurviveOneHour']),
                                 _0x428bf7[_0x209cb5(0x6f7)][_0x209cb5(0x9b0)] >= 0x12c && _0x428bf7[_0x209cb5(0x6f7)]['Player'][_0x209cb5(0x6c2)] === _0x39678f['PASQUALINA'] && this['UnlockAchievement'](_0x4943e2[_0x209cb5(0x73d)]),
                                 _0x428bf7[_0x209cb5(0x6f7)][_0x209cb5(0x9b0)] >= 0x12c && _0x428bf7[_0x209cb5(0x6f7)]['Player']['characterType'] === _0x39678f[_0x209cb5(0x4c9)] && this['UnlockAchievement'](_0x4943e2[_0x209cb5(0xb88)]),
                                 _0x428bf7['Core']['SurvivedSeconds'] >= 0x258 && this[_0x209cb5(0x731)](_0x4943e2[_0x209cb5(0x185)]),
@@ -21998,7 +22298,7 @@
                             constructor(_0x5e853f, _0x157930, _0x4f94cc, _0x511dde, _0x486e39) {
                                     const _0x26eb7d = _0x2f72b3;
                                     super(_0x5e853f, _0x157930, _0x4f94cc, 'KI', 'smallki.png', _0x511dde, _0x486e39),
-                                        this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('ARSENAL'),
+                                        this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('items'),
                                         this['PfxEmitter']['createEmitter']({
                                             'frame': ['Pfxki1.png', 'Pfxki2.png'],
                                             'speed': {
@@ -22045,8 +22345,8 @@
                         ROCKET1 = class extends _0x392d79 {
                             constructor(_0x5e853f, _0x157930, _0x4f94cc, _0x511dde, _0x486e39) {
                                     const _0x26eb7d = _0x2f72b3;
-                                    super(_0x5e853f, _0x157930, _0x4f94cc, 'ARSENAL', 'b_missile_03.png', _0x511dde, _0x486e39),
-                                        this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('ARSENAL'),
+                                    super(_0x5e853f, _0x157930, _0x4f94cc, 'items', 'b_missile_03.png', _0x511dde, _0x486e39),
+                                        this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('items'),
                                         this['PfxEmitter']['createEmitter']({
                                             'frame': ['smokehit_01.png', 'smokehit_02.png', 'smokehit_03.png', 'smokehit_04.png'],
                                             'speed': {
@@ -22093,8 +22393,8 @@
                         ROCKET2 = class extends _0x392d79 {
                             constructor(_0x5e853f, _0x157930, _0x4f94cc, _0x511dde, _0x486e39) {
                                     const _0x26eb7d = _0x2f72b3;
-                                    super(_0x5e853f, _0x157930, _0x4f94cc, 'ARSENAL', 'a_missile_03.png', _0x511dde, _0x486e39),
-                                        this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('ARSENAL'),
+                                    super(_0x5e853f, _0x157930, _0x4f94cc, 'items', 'a_missile_03.png', _0x511dde, _0x486e39),
+                                        this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('items'),
                                         this['PfxEmitter']['createEmitter']({
                                             'frame': ['smokehit_01.png', 'smokehit_02.png', 'smokehit_03.png', 'smokehit_04.png'],
                                             'speed': {
@@ -22141,8 +22441,8 @@
                         ROCKET3 = class extends _0x392d79 {
                             constructor(_0x5e853f, _0x157930, _0x4f94cc, _0x511dde, _0x486e39) {
                                     const _0x26eb7d = _0x2f72b3;
-                                    super(_0x5e853f, _0x157930, _0x4f94cc, 'ARSENAL', 'super_missile_03.png', _0x511dde, _0x486e39),
-                                        this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('ARSENAL'),
+                                    super(_0x5e853f, _0x157930, _0x4f94cc, 'items', 'super_missile_03.png', _0x511dde, _0x486e39),
+                                        this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('items'),
                                         this['PfxEmitter']['createEmitter']({
                                             'frame': ['smokehit_01.png', 'smokehit_02.png', 'smokehit_03.png', 'smokehit_04.png'],
                                             'speed': {
@@ -22189,8 +22489,8 @@
                         ROCKET4 = class extends _0x392d79 {
                             constructor(_0x5e853f, _0x157930, _0x4f94cc, _0x511dde, _0x486e39) {
                                     const _0x26eb7d = _0x2f72b3;
-                                    super(_0x5e853f, _0x157930, _0x4f94cc, 'ARSENAL', 'sonic_missile_03.png', _0x511dde, _0x486e39),
-                                        this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('ARSENAL'),
+                                    super(_0x5e853f, _0x157930, _0x4f94cc, 'items', 'sonic_missile_03.png', _0x511dde, _0x486e39),
+                                        this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('items'),
                                         this['PfxEmitter']['createEmitter']({
                                             'frame': ['smokehit_01.png', 'smokehit_02.png', 'smokehit_03.png', 'smokehit_04.png'],
                                             'speed': {
@@ -22237,8 +22537,8 @@
                         PULSE1 = class extends _0x392d79 {
                             constructor(_0x5e853f, _0x157930, _0x4f94cc, _0x511dde, _0x486e39) {
                                     const _0x26eb7d = _0x2f72b3;
-                                    super(_0x5e853f, _0x157930, _0x4f94cc, 'ARSENAL', 'blank.png', _0x511dde, _0x486e39),
-                                        this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('ARSENAL'),
+                                    super(_0x5e853f, _0x157930, _0x4f94cc, 'items', 'blank.png', _0x511dde, _0x486e39),
+                                        this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('items'),
                                         this['PfxEmitter']['createEmitter']({
                                             'frame': ['greenfx_01.png', 'greenfx_02.png', 'greenfx_03.png', 'greenfx_04.png', 'greenfx_05.png'],
                                             'speed': {
@@ -22285,8 +22585,8 @@
                         PULSE2 = class extends _0x392d79 {
                             constructor(_0x5e853f, _0x157930, _0x4f94cc, _0x511dde, _0x486e39) {
                                     const _0x26eb7d = _0x2f72b3;
-                                    super(_0x5e853f, _0x157930, _0x4f94cc, 'ARSENAL', 'blank.png', _0x511dde, _0x486e39),
-                                        this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('ARSENAL'),
+                                    super(_0x5e853f, _0x157930, _0x4f94cc, 'items', 'blank.png', _0x511dde, _0x486e39),
+                                        this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('items'),
                                         this['PfxEmitter']['createEmitter']({
                                             'frame': ['redfx_01.png', 'redfx_02.png', 'redfx_03.png', 'redfx_04.png'],
                                             'speed': {
@@ -22333,8 +22633,8 @@
                         SKULL = class extends _0x392d79 {
                             constructor(_0x5e853f, _0x157930, _0x4f94cc, _0x511dde, _0x486e39) {
                                     const _0x26eb7d = _0x2f72b3;
-                                    super(_0x5e853f, _0x157930, _0x4f94cc, 'ARSENAL', 'skull.png', _0x511dde, _0x486e39)
-                                    this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('ARSENAL'),
+                                    super(_0x5e853f, _0x157930, _0x4f94cc, 'items', 'skull.png', _0x511dde, _0x486e39)
+                                    this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('items'),
                                         this['PfxEmitter']['createEmitter']({
                                             'frame': ['PfxUnHoly1.png', 'PfxUnHoly2.png'],
                                             'speed': {
@@ -22443,7 +22743,7 @@
                         LONGSWORD = class extends _0x392d79 {
                             constructor(_0x420f20, _0x18a227, _0x4694a7, _0x1ba33b, _0x5af943) {
                                     const _0x1a9e2d = _0x2f72b3;
-                                    super(_0x420f20, _0x18a227, _0x4694a7, 'ARSENAL', 'slash.png', _0x1ba33b, _0x5af943),
+                                    super(_0x420f20, _0x18a227, _0x4694a7, 'items', 'slash.png', _0x1ba33b, _0x5af943),
                                         this[_0x1a9e2d(0x9ee)] = 0x0;
                                 }
                                 [_0x2f72b3(0xa7c)](_0x206e93 = -0x3e8, _0x537977 = -0x3e8) {
@@ -23068,7 +23368,7 @@
                         SPEAR = class extends _0x392d79 {
                             constructor(_0xb7519c, _0x3b6f96, _0x134ef1, _0x222c8b, _0x1f7add) {
                                     const _0x5c3433 = _0x2f72b3;
-                                    super(_0xb7519c, _0x3b6f96, _0x134ef1, 'ARSENAL', 'spear.png', _0x222c8b, _0x1f7add),
+                                    super(_0xb7519c, _0x3b6f96, _0x134ef1, 'items', 'spear.png', _0x222c8b, _0x1f7add),
                                         this[_0x5c3433(0x511)] = new Array(),
                                         this['maxHistory'] = 0x1,
                                         this['historyIndex'] = 0x0,
@@ -23449,7 +23749,7 @@
                         STAR = class extends _0x392d79 {
                             constructor(_0x5e853f, _0x157930, _0x4f94cc, _0x511dde, _0x486e39) {
                                     const _0x26eb7d = _0x2f72b3;
-                                    super(_0x5e853f, _0x157930, _0x4f94cc, 'ARSENAL', 'shuriken_red.png', _0x511dde, _0x486e39)
+                                    super(_0x5e853f, _0x157930, _0x4f94cc, 'items', 'shuriken_red.png', _0x511dde, _0x486e39)
 
                                     this[_0x26eb7d(0x11a)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x7d2)][_0x26eb7d(0x1a2)]({
                                         'targets': this,
@@ -34214,7 +34514,6 @@
                                 'frameNameUnlock': 'stage_library_endless_unlock.png',
                                 'stageNumber': 'Endless',
                                 'unlocked': false,
-                                'unlocked': true,
                                 'hidden': false,
                                 'BGM': _0x5aaeff[_0x2f72b3(0x13f)],
                                 'legacyBGM': _0x5aaeff[_0x2f72b3(0x565)],
@@ -34325,7 +34624,7 @@
                                     'mapPath': 'assets/tilesets/LibraryC.json',
                                     'isTiling': !0x0
                                 },
-                                'spawnType': _0x446091['STANDARD'], 
+                                'spawnType': _0x446091['STANDARD'],
                                 'startingSpawns': 0x32,
                                 'minute': 0x0,
                                 'destructibleType': _0x33a0b6[_0x2f72b3(0x971)],
@@ -34333,8 +34632,8 @@
                                 'destructibleChance': 7.5,
                                 'dayNight': 1,
                                 'hasLights': true,
-                                'destructibleChanceMax': 0x32,  //50
-                                'maxDestructibles': 20,    //10
+                                'destructibleChanceMax': 0x32, //50
+                                'maxDestructibles': 20, //10
                                 'BGTextureName': 'bg_forest',
                                 'minimum': 0x32,
                                 'frequency': 0xbb8,
@@ -34809,7 +35108,7 @@
                                 'minute': 31,
                                 'minimum': 0x96,
                                 'frequency': 0x64,
-                                'enemies': [_0x1a846d[_0x2f72b3(0x889)],  _0x1a846d['XLDRAGON2'], _0x1a846d[_0x2f72b3(0x49b)]],
+                                'enemies': [_0x1a846d[_0x2f72b3(0x889)], _0x1a846d['XLDRAGON2'], _0x1a846d[_0x2f72b3(0x49b)]],
                                 'arcanaHolder': _0x1a846d['BOSS_SKULL2'],
                                 'arcanaTreasure': {
                                     'chances': [0x0, 0x0, 0x64],
@@ -34820,7 +35119,7 @@
                                 'minute': 32,
                                 'minimum': 0xc8,
                                 'frequency': 0x3e8,
-                                'enemies': [_0x1a846d[_0x2f72b3(0xa9e)],_0x1a846d['BOSS_ECTO'], _0x1a846d[_0x2f72b3(0x7a1)], _0x1a846d['BOSS_MEDUSA1'], _0x1a846d[_0x2f72b3(0x9f9)]],
+                                'enemies': [_0x1a846d[_0x2f72b3(0xa9e)], _0x1a846d['BOSS_ECTO'], _0x1a846d[_0x2f72b3(0x7a1)], _0x1a846d['BOSS_MEDUSA1'], _0x1a846d[_0x2f72b3(0x9f9)]],
                                 'events': [{
                                     'eventType': _0x21eccf['SKULLPILEPILE'],
                                     'moreX': 0x1
@@ -34849,7 +35148,7 @@
                                 'minute': 35,
                                 'minimum': 0x96,
                                 'frequency': 0x3e8,
-                                'enemies': [_0x1a846d['SKELEWING_ZONE'],_0x1a846d['BOSS_ECTO'], _0x1a846d[_0x2f72b3(0x7a1)], _0x1a846d['BOSS_MEDUSA1'], _0x1a846d['SKELENIN_ZONE']],
+                                'enemies': [_0x1a846d['SKELEWING_ZONE'], _0x1a846d['BOSS_ECTO'], _0x1a846d[_0x2f72b3(0x7a1)], _0x1a846d['BOSS_MEDUSA1'], _0x1a846d['SKELENIN_ZONE']],
                                 'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
                                 'treasure': {
                                     'chances': [0x3, 0xa, 0x64],
@@ -34860,7 +35159,7 @@
                                 'minute': 36,
                                 'minimum': 0x64,
                                 'frequency': 0x3e8,
-                                'enemies': [_0x1a846d[_0x2f72b3(0x12f)],_0x1a846d['SKELENIN_ZONE'], _0x1a846d['BOSS_ECTO'], _0x1a846d[_0x2f72b3(0x7a1)], _0x1a846d['BOSS_MEDUSA1']],
+                                'enemies': [_0x1a846d[_0x2f72b3(0x12f)], _0x1a846d['SKELENIN_ZONE'], _0x1a846d['BOSS_ECTO'], _0x1a846d[_0x2f72b3(0x7a1)], _0x1a846d['BOSS_MEDUSA1']],
                                 'events': [{
                                     'eventType': _0x21eccf[_0x2f72b3(0x3da)],
                                     'moreX': 0x3
@@ -34887,7 +35186,7 @@
                                     'level': 0x1,
                                     'prizeTypes': [_0x3c6a0b['EVOLUTION'], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b[_0x2f72b3(0x291)], _0x3c6a0b['EXISTING_ANY'], _0x3c6a0b[_0x2f72b3(0x291)]]
                                 }
-                            },{
+                            }, {
                                 'minute': 39,
                                 'minimum': 0x96,
                                 'frequency': 0x64,
@@ -34913,7 +35212,7 @@
                                 'minute': 41,
                                 'minimum': 0xc8,
                                 'frequency': 0x3e8,
-                                'enemies': [_0x1a846d[_0x2f72b3(0xa9e)],_0x1a846d['XLARMOR1'], _0x1a846d[_0x2f72b3(0x9f9)]],
+                                'enemies': [_0x1a846d[_0x2f72b3(0xa9e)], _0x1a846d['XLARMOR1'], _0x1a846d[_0x2f72b3(0x9f9)]],
                                 'events': [{
                                     'eventType': _0x21eccf['SKULLPILEPILE'],
                                     'moreX': 0x1
@@ -34922,7 +35221,7 @@
                                 'minute': 42,
                                 'minimum': 0x96,
                                 'frequency': 0x64,
-                                'enemies': [_0x1a846d[_0x2f72b3(0x3c8)],_0x1a846d['XLARMOR1'], _0x1a846d['SKELANGUE']],
+                                'enemies': [_0x1a846d[_0x2f72b3(0x3c8)], _0x1a846d['XLARMOR1'], _0x1a846d['SKELANGUE']],
                                 'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
                                 'treasure': {
                                     'chances': [0x3, 0xa, 0x64],
@@ -34933,7 +35232,7 @@
                                 'minute': 43,
                                 'minimum': 0xc8,
                                 'frequency': 0x64,
-                                'enemies': [_0x1a846d[_0x2f72b3(0xa9e)],_0x1a846d['SKELEWING_ZONE'], _0x1a846d['SKELENIN_ZONE'], _0x1a846d[_0x2f72b3(0x1ce)]],
+                                'enemies': [_0x1a846d[_0x2f72b3(0xa9e)], _0x1a846d['SKELEWING_ZONE'], _0x1a846d['SKELENIN_ZONE'], _0x1a846d[_0x2f72b3(0x1ce)]],
                                 'events': [{
                                     'eventType': _0x21eccf[_0x2f72b3(0x3da)],
                                     'moreX': 0x2
@@ -34942,7 +35241,7 @@
                                 'minute': 44,
                                 'minimum': 0x96,
                                 'frequency': 0x3e8,
-                                'enemies': [_0x1a846d['SKELEWING_ZONE'],_0x1a846d['XLARMOR1'], _0x1a846d['SKELENIN_ZONE']],
+                                'enemies': [_0x1a846d['SKELEWING_ZONE'], _0x1a846d['XLARMOR1'], _0x1a846d['SKELENIN_ZONE']],
                                 'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
                                 'treasure': {
                                     'chances': [0x3, 0xa, 0x64],
@@ -34953,16 +35252,16 @@
                                 'minute': 45,
                                 'minimum': 0x64,
                                 'frequency': 0x3e8,
-                                'enemies': [_0x1a846d[_0x2f72b3(0x12f)],_0x1a846d['XLARMOR1'], _0x1a846d['SKELEWING_ZONE'], _0x1a846d['SKELENIN_ZONE']],
+                                'enemies': [_0x1a846d[_0x2f72b3(0x12f)], _0x1a846d['XLARMOR1'], _0x1a846d['SKELEWING_ZONE'], _0x1a846d['SKELENIN_ZONE']],
                                 'events': [{
                                     'eventType': _0x21eccf['DROWNER'],
                                     'duration': 0xea60
-                                }]      
+                                }]
                             }, {
                                 'minute': 46,
                                 'minimum': 0x96,
                                 'frequency': 0x3e8,
-                                'enemies': [_0x1a846d[_0x2f72b3(0x12f)],_0x1a846d['XLARMOR1'], _0x1a846d['SKULLINO']],
+                                'enemies': [_0x1a846d[_0x2f72b3(0x12f)], _0x1a846d['XLARMOR1'], _0x1a846d['SKULLINO']],
                                 'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
                                 'treasure': {
                                     'chances': [0x3, 0xa, 0x64],
@@ -35008,7 +35307,7 @@
                                 'minute': 50,
                                 'minimum': 0x96,
                                 'frequency': 0x3e8,
-                                'enemies': [_0x1a846d['SKELEWING_ZONE'],_0x1a846d[_0x2f72b3(0xa9e)], _0x1a846d['SKELENIN_ZONE']],
+                                'enemies': [_0x1a846d['SKELEWING_ZONE'], _0x1a846d[_0x2f72b3(0xa9e)], _0x1a846d['SKELENIN_ZONE']],
                                 'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
                                 'treasure': {
                                     'chances': [0x3, 0xa, 0x64],
@@ -35030,7 +35329,7 @@
                                 'minute': 52,
                                 'minimum': 0xc8,
                                 'frequency': 0x3e8,
-                                'enemies': [_0x1a846d[_0x2f72b3(0xa9e)],_0x1a846d['BOSS_ECTO'], _0x1a846d[_0x2f72b3(0x9f9)]],
+                                'enemies': [_0x1a846d[_0x2f72b3(0xa9e)], _0x1a846d['BOSS_ECTO'], _0x1a846d[_0x2f72b3(0x9f9)]],
                                 'events': [{
                                     'eventType': _0x21eccf['SKULLPILEPILE'],
                                     'moreX': 0x1
@@ -35039,7 +35338,7 @@
                                 'minute': 53,
                                 'minimum': 0x96,
                                 'frequency': 0x64,
-                                'enemies': [_0x1a846d[_0x2f72b3(0x3c8)],_0x1a846d['BOSS_XLMANTIS'], _0x1a846d['SKELANGUE']],
+                                'enemies': [_0x1a846d[_0x2f72b3(0x3c8)], _0x1a846d['BOSS_XLMANTIS'], _0x1a846d['SKELANGUE']],
                                 'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
                                 'treasure': {
                                     'chances': [0x3, 0xa, 0x64],
@@ -35059,7 +35358,7 @@
                                 'minute': 55,
                                 'minimum': 0x96,
                                 'frequency': 0x3e8,
-                                'enemies': [_0x1a846d['SKELEWING_ZONE'], _0x1a846d['BOSS_XLMANTIS'],_0x1a846d['SKELENIN_ZONE']],
+                                'enemies': [_0x1a846d['SKELEWING_ZONE'], _0x1a846d['BOSS_XLMANTIS'], _0x1a846d['SKELENIN_ZONE']],
                                 'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
                                 'treasure': {
                                     'chances': [0x3, 0xa, 0x64],
@@ -35079,7 +35378,7 @@
                                 'minute': 57,
                                 'minimum': 0x96,
                                 'frequency': 0x3e8,
-                                'enemies': [_0x1a846d[_0x2f72b3(0x12f)],_0x1a846d['BOSS_XLMANTIS'],_0x1a846d['XLARMOR2'], _0x1a846d['SKULLINO']],
+                                'enemies': [_0x1a846d[_0x2f72b3(0x12f)], _0x1a846d['BOSS_XLMANTIS'], _0x1a846d['XLARMOR2'], _0x1a846d['SKULLINO']],
                                 'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
                                 'treasure': {
                                     'chances': [0x3, 0xa, 0x64],
@@ -35090,7 +35389,7 @@
                                 'minute': 58,
                                 'minimum': 0xc8,
                                 'frequency': 0x3e8,
-                                'enemies': [_0x1a846d[_0x2f72b3(0x12f)], _0x1a846d['XLARMOR2'],_0x1a846d['BOSS_WEREWOLF'],_0x1a846d['XLARMOR1']],
+                                'enemies': [_0x1a846d[_0x2f72b3(0x12f)], _0x1a846d['XLARMOR2'], _0x1a846d['BOSS_WEREWOLF'], _0x1a846d['XLARMOR1']],
                                 'bosses': [_0x1a846d[_0x2f72b3(0x9d8)]],
                                 'treasure': {
                                     'chances': [0x3, 0xa, 0x64],
@@ -35101,7 +35400,7 @@
                                 'minute': 59,
                                 'minimum': 0x96,
                                 'frequency': 0x32,
-                                'enemies': [_0x1a846d[_0x2f72b3(0x9ab)], _0x1a846d['XLARMOR2'], _0x1a846d['BOSS_ECTO'],_0x1a846d['BOSS_XLMANTIS'],_0x1a846d['XLARMOR1']]
+                                'enemies': [_0x1a846d[_0x2f72b3(0x9ab)], _0x1a846d['XLARMOR2'], _0x1a846d['BOSS_ECTO'], _0x1a846d['BOSS_XLMANTIS'], _0x1a846d['XLARMOR1']]
                             }, {
                                 'minute': 60,
                                 'minimum': 12,
@@ -35204,7 +35503,7 @@
                                 'events': [{
                                     'eventType': _0x21eccf['DROWNER'],
                                     'duration': 0xea60
-                                }]     
+                                }]
                             }, {
                                 'minute': 80,
                                 'minimum': 35,
@@ -35379,7 +35678,7 @@
                                 'events': [{
                                     'eventType': _0x21eccf['STALKER'],
                                     'duration': 0xea60
-                                }]     
+                                }]
                             }, {
                                 'minute': 100,
                                 'minimum': 50,
@@ -35980,7 +36279,7 @@
                                     'mapPath': 'assets/tilesets/PlantC.json',
                                     'isTiling': !0x0
                                 },
-                                'spawnType': _0x446091['STANDARD'], 
+                                'spawnType': _0x446091['STANDARD'],
                                 'startingSpawns': 0x32,
                                 'minute': 0x0,
                                 'destructibleType': _0x33a0b6['BRAZIER'],
@@ -35988,8 +36287,8 @@
                                 'destructibleChance': 8.5,
                                 'dayNight': 1,
                                 'hasLights': true,
-                                'destructibleChanceMax': 0x32,  //50
-                                'maxDestructibles': 20,    //10
+                                'destructibleChanceMax': 0x32, //50
+                                'maxDestructibles': 20, //10
                                 'BGTextureName': 'bg_forest',
                                 'minimum': 0x32,
                                 'frequency': 0xbb8,
@@ -36429,7 +36728,7 @@
                                 'events': [{
                                     'eventType': _0x21eccf[_0x2f72b3(0xb81)]
                                 }]
-                            },]
+                            }, ]
                         };
 
 
@@ -36480,7 +36779,6 @@
                                     this[_0xf0ebb8(0xa7a)]['image']('gameOver', 'assets/img/gameOver.png'),
                                     this['load']['atlas']('CHESTER', 'mod/CharBundle/chester/chester.png', 'mod/CharBundle/chester/chester.json'),
                                     this['load']['atlas']('CLYDE', 'mod/CharBundle/clyde/clyde.png', 'mod/CharBundle/clyde/clyde.json'),
-                                    this['load']['atlas']('ARSENAL', 'mod/CharBundle/arsenal/arsenal.png', 'mod/CharBundle/arsenal/arsenal.json'),
                                     this['load']['atlas']('CULTIST', 'mod/CharBundle/cultist/cultist.png', 'mod/CharBundle/cultist/cultist.json'),
                                     this['load']['atlas']('GORDON', 'mod/CharBundle/gordon/gordon.png', 'mod/CharBundle/gordon/gordon.json'),
                                     this['load']['atlas']('HIRO', 'mod/CharBundle/hiro/hiro.png', 'mod/CharBundle/hiro/hiro.json'),
@@ -36536,7 +36834,6 @@
                                     this['load']['atlas']('JIMBO', 'mod/CharBundle/mechs/jimbo/jimbo.png', 'mod/CharBundle/mechs/jimbo/jimbo.json'),
                                     this['load']['atlas']('SPIDERBOT', 'mod/CharBundle/mechs/spiderbot/spiderbot.png', 'mod/CharBundle/mechs/spiderbot/spiderbot.json'),
                                     this['load']['atlas']('SUIT', 'mod/CharBundle/mechs/suit/suit.png', 'mod/CharBundle/mechs/suit/suit.json'),
-                                    this['load']['atlas']('KI', 'mod/CharBundle/goku/blasts.png', 'mod/CharBundle/goku/blasts.json'),
                                     this['load']['atlas']('CHIAOUTZU', 'mod/CharBundle/chiaoutzu/chiaoutzu.png', 'mod/CharBundle/chiaoutzu/chiaoutzu.json'),
                                     this['load']['atlas']('GRUDO', 'mod/CharBundle/grudo/grudo.png', 'mod/CharBundle/grudo/grudo.json'),
                                     this['load']['atlas']('HERO', 'mod/CharBundle/hero/hero.png', 'mod/CharBundle/hero/hero.json'),
@@ -36544,7 +36841,6 @@
                                     this['load']['atlas']('LILDRAG', 'mod/CharBundle/lildrag/lildrag.png', 'mod/CharBundle/lildrag/lildrag.json'),
                                     this['load']['atlas']('MONKEY', 'mod/CharBundle/monkey/monkey.png', 'mod/CharBundle/monkey/monkey.json'),
                                     this['load']['atlas']('VERONICA', 'mod/CharBundle/veronica/veronica.png', 'mod/CharBundle/veronica/veronica.json'),
-                                    this['load']['atlas']('KI', 'mod/CharBundle/goku/blasts.png', 'mod/CharBundle/goku/blasts.json'),
                                     this['load']['atlas']('GOOBER', 'mod/CharBundle/goober/goober.png', 'mod/CharBundle/goober/goober.json'),
                                     this['load']['atlas']('CHIEF', 'mod/CharBundle/chief/chief.png', 'mod/CharBundle/chief/chief.json'),
                                     this['load']['atlas']('ELITE', 'mod/CharBundle/elite/elite.png', 'mod/CharBundle/elite/elite.json'),
@@ -36556,6 +36852,12 @@
                                     this['load']['atlas']('HOLLOW', 'mod/CharBundle/hollowknight/hollow.png', 'mod/CharBundle/hollowknight/hollow.json'),
                                     this['load']['atlas']('HORNET', 'mod/CharBundle/hornet/hornet.png', 'mod/CharBundle/hornet/hornet.json'),
                                     this['load']['atlas']('MOMONGA', 'mod/CharBundle/momonga/momonga.png', 'mod/CharBundle/momonga/momonga.json'),
+                                    this['load']['atlas']('DKNIGHT', 'mod/CharBundle/dknight/dknight.png', 'mod/CharBundle/dknight/dknight.json'),
+                                    this['load']['atlas']('HYDRALISK', 'mod/CharBundle/hydralisk/hydralisk.png', 'mod/CharBundle/hydralisk/hydralisk.json'),
+                                    this['load']['atlas']('LILDEMON', 'mod/CharBundle/lildemon/lildemon.png', 'mod/CharBundle/lildemon/lildemon.json'),
+                                    this['load']['atlas']('TEMPLAR', 'mod/CharBundle/templar/templar.png', 'mod/CharBundle/templar/templar.json'),
+                                    this['load']['atlas']('AANG', 'mod/CharBundle/aang/aang.png', 'mod/CharBundle/aang/aang.json'),
+                                    this['load']['atlas']('ZERGLING', 'mod/CharBundle/zergling/zergling.png', 'mod/CharBundle/zergling/zergling.json'),
                                     this[_0xf0ebb8(0xa7a)][_0xf0ebb8(0x4b9)]('stageComplete', 'assets/img/stageComplete.png'),
                                     this['load']['atlas']('UI', 'assets/img/UI.png', 'assets/img/UI.json'),
                                     this[_0xf0ebb8(0xa7a)]['atlas']('enemies', 'assets/img/enemies.png', 'assets/img/enemies.json'),
@@ -46535,7 +46837,7 @@
                         _0x1252c6 = _0x7b5aff,
                         _0x2bd216 = !0x1,
                         _0x1de199 = 0x13ef,
-                        _0x4a8bc3 = '              v0.5.103 - EA [Character Bundle Mod]',
+                        _0x4a8bc3 = '              v0.5.103 - EA [Character Bundle Mod v0.30]',
                         _0x667fbb = 0.5,
                         _0x4c57b7 = 0x400 * _0x667fbb,
                         _0x1b7f04 = 0x556 * _0x667fbb,

@@ -1,0 +1,68 @@
+{"frames": [
+
+{
+	"filename": "templar_01.png",
+	"frame": {"x":0,"y":0,"w":18,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":36},
+	"sourceSize": {"w":18,"h":36}
+},
+{
+	"filename": "templar_02.png",
+	"frame": {"x":0,"y":36,"w":18,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":36},
+	"sourceSize": {"w":18,"h":36}
+},
+{
+	"filename": "templar_03.png",
+	"frame": {"x":0,"y":72,"w":19,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":36},
+	"sourceSize": {"w":19,"h":36}
+},
+{
+	"filename": "templar_04.png",
+	"frame": {"x":0,"y":108,"w":20,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":36},
+	"sourceSize": {"w":20,"h":36}
+},
+{
+	"filename": "templar_05.png",
+	"frame": {"x":0,"y":144,"w":20,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":37},
+	"sourceSize": {"w":20,"h":37}
+},
+{
+	"filename": "templar_06.png",
+	"frame": {"x":0,"y":181,"w":19,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":37},
+	"sourceSize": {"w":19,"h":37}
+},
+{
+	"filename": "templar_07.png",
+	"frame": {"x":0,"y":218,"w":18,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":37},
+	"sourceSize": {"w":18,"h":37}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "templar.png",
+	"format": "RGBA8888",
+	"size": {"w":20,"h":255},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:67f3b8d707b3953a6d6e8d49c4aa8fd2:207a3a33db93cacd5b638cd3f38f3e17:df52aedf3bf5fe27c9a6d8cf036f2bce$"
+}
+}
