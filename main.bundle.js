@@ -46837,7 +46837,7 @@
                         _0x1252c6 = _0x7b5aff,
                         _0x2bd216 = !0x1,
                         _0x1de199 = 0x13ef,
-                        _0x4a8bc3 = '              v0.5.103 - EA [Character Bundle Mod v0.30]',
+                        _0x4a8bc3 = '                   v0.5.103 - EA [Character Bundle Mod v0.31]',
                         _0x667fbb = 0.5,
                         _0x4c57b7 = 0x400 * _0x667fbb,
                         _0x1b7f04 = 0x556 * _0x667fbb,
