@@ -13179,7 +13179,7 @@
                             'name': 'Longsword',
                             'description': 'Attacks horizontally, passes through enemies. Smaller and Faster than Whip.',
                             'tips': 'Ignores: speed, duration.',
-                            'texture': 'items',
+                            'texture': 'ARSENAL',
                             'frameName': 'sword_03c.png',
                             'isUnlocked': !0x0,
                             'poolLimit': 0xf,
@@ -13220,7 +13220,7 @@
                             'name': 'Ki Blast',
                             'description': 'Saiyan Energy Blast. Fired at closest enemy.',
                             'tips': 'Ignores: duration.',
-                            'texture': 'items',
+                            'texture': 'KI',
                             'frameName': 'smallki.png',
                             'isUnlocked': 0x0,
                             'poolLimit': 0x3c,
@@ -13256,7 +13256,7 @@
                             'name': 'Necronomicon',
                             'description': 'Starts with 2 Projectiles. Penetrates 2 Enemies. Slight Knockback.',
                             'tips': 'Ignores: duration.',
-                            'texture': 'items',
+                            'texture': 'ARSENAL',
                             'frameName': 'book_06f.png', //skull.png
                             'isUnlocked': 0x0,
                             'poolLimit': 0x3c,
@@ -13293,7 +13293,7 @@
                             'name': 'Spear',
                             'description': 'Fires slowly in the faced direction. Massive pentration.',
                             'tips': 'Ignores: duration.',
-                            'texture': 'items',
+                            'texture': 'ARSENAL',
                             'frameName': 'spear_01.png',
                             'isUnlocked': !0x0,
                             'poolLimit': 0x46,
@@ -13335,7 +13335,7 @@
                             'name': 'Rocket Mk.1',
                             'description': 'Fired at the nearest enemy. Scaling Crit and Power.',
                             'tips': 'Ignores: duration.',
-                            'texture': 'items',
+                            'texture': 'ARSENAL',
                             'frameName': 'b_missile_f.png',
                             'isUnlocked': !0x0,
                             'poolLimit': 0x46,
@@ -13375,7 +13375,7 @@
                             'name': 'Rocket Mk.2',
                             'description': 'Fired at the nearest enemy. Scaling Speed and Power. Slight Knockback.',
                             'tips': 'Ignores: duration.',
-                            'texture': 'items',
+                            'texture': 'ARSENAL',
                             'frameName': 'a_missile_f.png',
                             'isUnlocked': !0x0,
                             'poolLimit': 0x46,
@@ -13417,7 +13417,7 @@
                             'name': 'Rocket Mk.3',
                             'description': 'Fired at the nearest enemy. Penetrates. ',
                             'tips': 'Ignores: duration.',
-                            'texture': 'items',
+                            'texture': 'ARSENAL',
                             'frameName': 'super_missile_f.png',
                             'isUnlocked': !0x0,
                             'poolLimit': 0x46,
@@ -13459,7 +13459,7 @@
                             'name': 'Rocket Mk.4',
                             'description': 'Fired at the nearest enemy. Multiple weak projectiles.',
                             'tips': 'Ignores: duration.',
-                            'texture': 'items',
+                            'texture': 'ARSENAL',
                             'frameName': 'sonic_missile_f.png',
                             'isUnlocked': !0x0,
                             'poolLimit': 0x46,
@@ -13497,7 +13497,7 @@
                             'name': 'Repulsor',
                             'description': 'Fires slow, high damage.',
                             'tips': 'Ignores: duration.',
-                            'texture': 'items',
+                            'texture': 'ARSENAL',
                             'frameName': 'greenfx_01.png',
                             'isUnlocked': !0x0,
                             'poolLimit': 0x46,
@@ -13538,7 +13538,7 @@
                             'name': 'Pulsar',
                             'description': 'Fires extremely fast, very low damage.',
                             'tips': 'Ignores: duration.',
-                            'texture': 'items',
+                            'texture': 'ARSENAL',
                             'frameName': 'redhit2_01.png',
                             'isUnlocked': !0x0,
                             'poolLimit': 0x46,
@@ -13577,7 +13577,7 @@
                             'name': 'Shuriken',
                             'description': 'Thrown slowly, penetrates nearest enemies.',
                             'tips': 'Ignores: duration.',
-                            'texture': 'items',
+                            'texture': 'ARSENAL',
                             'frameName': 'shuriken_red.png',
                             'knockback': 0.5,
                             'isUnlocked': !0x1,
@@ -13623,7 +13623,7 @@
                             'bulletType': _0x202927['G_SHIELD'],
                             'name': 'Gordon\'s Shield',
                             'description': 'Reduces incoming damage by 2.',
-                            'texture': 'items',
+                            'texture': 'ARSENAL',
                             'frameName': 'shield_02c.png',
                             'isUnlocked': !0x0,
                             'rarity': 0,
@@ -22298,7 +22298,7 @@
                             constructor(_0x5e853f, _0x157930, _0x4f94cc, _0x511dde, _0x486e39) {
                                     const _0x26eb7d = _0x2f72b3;
                                     super(_0x5e853f, _0x157930, _0x4f94cc, 'KI', 'smallki.png', _0x511dde, _0x486e39),
-                                        this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('items'),
+                                        this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('ARSENAL'),
                                         this['PfxEmitter']['createEmitter']({
                                             'frame': ['Pfxki1.png', 'Pfxki2.png'],
                                             'speed': {
@@ -22345,8 +22345,8 @@
                         ROCKET1 = class extends _0x392d79 {
                             constructor(_0x5e853f, _0x157930, _0x4f94cc, _0x511dde, _0x486e39) {
                                     const _0x26eb7d = _0x2f72b3;
-                                    super(_0x5e853f, _0x157930, _0x4f94cc, 'items', 'b_missile_03.png', _0x511dde, _0x486e39),
-                                        this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('items'),
+                                    super(_0x5e853f, _0x157930, _0x4f94cc, 'ARSENAL', 'b_missile_03.png', _0x511dde, _0x486e39),
+                                        this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('ARSENAL'),
                                         this['PfxEmitter']['createEmitter']({
                                             'frame': ['smokehit_01.png', 'smokehit_02.png', 'smokehit_03.png', 'smokehit_04.png'],
                                             'speed': {
@@ -22393,8 +22393,8 @@
                         ROCKET2 = class extends _0x392d79 {
                             constructor(_0x5e853f, _0x157930, _0x4f94cc, _0x511dde, _0x486e39) {
                                     const _0x26eb7d = _0x2f72b3;
-                                    super(_0x5e853f, _0x157930, _0x4f94cc, 'items', 'a_missile_03.png', _0x511dde, _0x486e39),
-                                        this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('items'),
+                                    super(_0x5e853f, _0x157930, _0x4f94cc, 'ARSENAL', 'a_missile_03.png', _0x511dde, _0x486e39),
+                                        this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('ARSENAL'),
                                         this['PfxEmitter']['createEmitter']({
                                             'frame': ['smokehit_01.png', 'smokehit_02.png', 'smokehit_03.png', 'smokehit_04.png'],
                                             'speed': {
@@ -22441,8 +22441,8 @@
                         ROCKET3 = class extends _0x392d79 {
                             constructor(_0x5e853f, _0x157930, _0x4f94cc, _0x511dde, _0x486e39) {
                                     const _0x26eb7d = _0x2f72b3;
-                                    super(_0x5e853f, _0x157930, _0x4f94cc, 'items', 'super_missile_03.png', _0x511dde, _0x486e39),
-                                        this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('items'),
+                                    super(_0x5e853f, _0x157930, _0x4f94cc, 'ARSENAL', 'super_missile_03.png', _0x511dde, _0x486e39),
+                                        this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('ARSENAL'),
                                         this['PfxEmitter']['createEmitter']({
                                             'frame': ['smokehit_01.png', 'smokehit_02.png', 'smokehit_03.png', 'smokehit_04.png'],
                                             'speed': {
@@ -22489,8 +22489,8 @@
                         ROCKET4 = class extends _0x392d79 {
                             constructor(_0x5e853f, _0x157930, _0x4f94cc, _0x511dde, _0x486e39) {
                                     const _0x26eb7d = _0x2f72b3;
-                                    super(_0x5e853f, _0x157930, _0x4f94cc, 'items', 'sonic_missile_03.png', _0x511dde, _0x486e39),
-                                        this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('items'),
+                                    super(_0x5e853f, _0x157930, _0x4f94cc, 'ARSENAL', 'sonic_missile_03.png', _0x511dde, _0x486e39),
+                                        this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('ARSENAL'),
                                         this['PfxEmitter']['createEmitter']({
                                             'frame': ['smokehit_01.png', 'smokehit_02.png', 'smokehit_03.png', 'smokehit_04.png'],
                                             'speed': {
@@ -22537,8 +22537,8 @@
                         PULSE1 = class extends _0x392d79 {
                             constructor(_0x5e853f, _0x157930, _0x4f94cc, _0x511dde, _0x486e39) {
                                     const _0x26eb7d = _0x2f72b3;
-                                    super(_0x5e853f, _0x157930, _0x4f94cc, 'items', 'blank.png', _0x511dde, _0x486e39),
-                                        this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('items'),
+                                    super(_0x5e853f, _0x157930, _0x4f94cc, 'ARSENAL', 'blank.png', _0x511dde, _0x486e39),
+                                        this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('ARSENAL'),
                                         this['PfxEmitter']['createEmitter']({
                                             'frame': ['greenfx_01.png', 'greenfx_02.png', 'greenfx_03.png', 'greenfx_04.png', 'greenfx_05.png'],
                                             'speed': {
@@ -22585,8 +22585,8 @@
                         PULSE2 = class extends _0x392d79 {
                             constructor(_0x5e853f, _0x157930, _0x4f94cc, _0x511dde, _0x486e39) {
                                     const _0x26eb7d = _0x2f72b3;
-                                    super(_0x5e853f, _0x157930, _0x4f94cc, 'items', 'blank.png', _0x511dde, _0x486e39),
-                                        this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('items'),
+                                    super(_0x5e853f, _0x157930, _0x4f94cc, 'ARSENAL', 'blank.png', _0x511dde, _0x486e39),
+                                        this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('ARSENAL'),
                                         this['PfxEmitter']['createEmitter']({
                                             'frame': ['redfx_01.png', 'redfx_02.png', 'redfx_03.png', 'redfx_04.png'],
                                             'speed': {
@@ -22633,8 +22633,8 @@
                         SKULL = class extends _0x392d79 {
                             constructor(_0x5e853f, _0x157930, _0x4f94cc, _0x511dde, _0x486e39) {
                                     const _0x26eb7d = _0x2f72b3;
-                                    super(_0x5e853f, _0x157930, _0x4f94cc, 'items', 'skull.png', _0x511dde, _0x486e39)
-                                    this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('items'),
+                                    super(_0x5e853f, _0x157930, _0x4f94cc, 'ARSENAL', 'skull.png', _0x511dde, _0x486e39)
+                                    this[_0x26eb7d(0x6a3)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x1a2)]['particles']('ARSENAL'),
                                         this['PfxEmitter']['createEmitter']({
                                             'frame': ['PfxUnHoly1.png', 'PfxUnHoly2.png'],
                                             'speed': {
@@ -22743,7 +22743,7 @@
                         LONGSWORD = class extends _0x392d79 {
                             constructor(_0x420f20, _0x18a227, _0x4694a7, _0x1ba33b, _0x5af943) {
                                     const _0x1a9e2d = _0x2f72b3;
-                                    super(_0x420f20, _0x18a227, _0x4694a7, 'items', 'slash.png', _0x1ba33b, _0x5af943),
+                                    super(_0x420f20, _0x18a227, _0x4694a7, 'ARSENAL', 'slash.png', _0x1ba33b, _0x5af943),
                                         this[_0x1a9e2d(0x9ee)] = 0x0;
                                 }
                                 [_0x2f72b3(0xa7c)](_0x206e93 = -0x3e8, _0x537977 = -0x3e8) {
@@ -23368,7 +23368,7 @@
                         SPEAR = class extends _0x392d79 {
                             constructor(_0xb7519c, _0x3b6f96, _0x134ef1, _0x222c8b, _0x1f7add) {
                                     const _0x5c3433 = _0x2f72b3;
-                                    super(_0xb7519c, _0x3b6f96, _0x134ef1, 'items', 'spear.png', _0x222c8b, _0x1f7add),
+                                    super(_0xb7519c, _0x3b6f96, _0x134ef1, 'ARSENAL', 'spear.png', _0x222c8b, _0x1f7add),
                                         this[_0x5c3433(0x511)] = new Array(),
                                         this['maxHistory'] = 0x1,
                                         this['historyIndex'] = 0x0,
@@ -23749,7 +23749,7 @@
                         STAR = class extends _0x392d79 {
                             constructor(_0x5e853f, _0x157930, _0x4f94cc, _0x511dde, _0x486e39) {
                                     const _0x26eb7d = _0x2f72b3;
-                                    super(_0x5e853f, _0x157930, _0x4f94cc, 'items', 'shuriken_red.png', _0x511dde, _0x486e39)
+                                    super(_0x5e853f, _0x157930, _0x4f94cc, 'ARSENAL', 'shuriken_red.png', _0x511dde, _0x486e39)
 
                                     this[_0x26eb7d(0x11a)] = this[_0x26eb7d(0x65c)][_0x26eb7d(0x7d2)][_0x26eb7d(0x1a2)]({
                                         'targets': this,
@@ -36777,6 +36777,7 @@
                                 this[_0xf0ebb8(0xa7a)][_0xf0ebb8(0x4b9)]('introBG', 'assets/img/introBG.png'),
                                     this['load']['image']('title', 'assets/img/title.png'),
                                     this[_0xf0ebb8(0xa7a)]['image']('gameOver', 'assets/img/gameOver.png'),
+                                    this['load']['atlas']('ARSENAL', 'mod/CharBundle/arsenal/arsenal.png', 'mod/CharBundle/arsenal/arsenal.json'),
                                     this['load']['atlas']('CHESTER', 'mod/CharBundle/chester/chester.png', 'mod/CharBundle/chester/chester.json'),
                                     this['load']['atlas']('CLYDE', 'mod/CharBundle/clyde/clyde.png', 'mod/CharBundle/clyde/clyde.json'),
                                     this['load']['atlas']('CULTIST', 'mod/CharBundle/cultist/cultist.png', 'mod/CharBundle/cultist/cultist.json'),
@@ -36784,6 +36785,7 @@
                                     this['load']['atlas']('HIRO', 'mod/CharBundle/hiro/hiro.png', 'mod/CharBundle/hiro/hiro.json'),
                                     this['load']['atlas']('UGG', 'mod/CharBundle/ugg/ugg.png', 'mod/CharBundle/ugg/ugg.json'),
                                     this['load']['atlas']('GOKU', 'mod/CharBundle/goku/goku.png', 'mod/CharBundle/goku/goku.json'),
+                                    this['load']['atlas']('KI', 'mod/CharBundle/goku/blasts.png', 'mod/CharBundle/goku/blasts.json'),
                                     this['load']['atlas']('VEGETA', 'mod/CharBundle/vegeta/vegeta.png', 'mod/CharBundle/vegeta/vegeta.json'),
                                     this['load']['atlas']('GOHAN', 'mod/CharBundle/gohan/gohan.png', 'mod/CharBundle/gohan/gohan.json'),
                                     this['load']['atlas']('FATBUU', 'mod/CharBundle/fatbuu/fatbuu.png', 'mod/CharBundle/fatbuu/fatbuu.json'),
