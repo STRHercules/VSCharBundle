@@ -22226,7 +22226,145 @@ function a0_0x3343() {
                                     'rate': 1.125,
                                     'detune': -0x3e8
                                 }
+                            },
+                            // Custom Music added to Selector
+                            [_0x48fba4['BGM_Realm']]: {
+                                'title': 'Battle',
+                                'author': 'Sierra',
+                                'source': 'The Realm Online',
+                                'unlockedByStage': null,
+                                'unlockedByCharacter': null,
+                                'isUnlocked': 1,
+                                'icon': 'realm_icon.png',
+                                'hyperMod': {
+                                    'rate': 1.0625,
+                                    'detune': 0x0
+                                },
+                                'forsakenMod': {
+                                    'rate': 1.125,
+                                    'detune': -0x3e8
+                                }
+                            },
+                            [_0x48fba4['BGM_TMNT']]: {
+                                'title': 'TMNT',
+                                'author': 'Chuck Lorre',
+                                'source': 'TMNT Animated Show',
+                                'unlockedByStage': null,
+                                'unlockedByCharacter': null,
+                                'isUnlocked': 1,
+                                'icon': 'tmnt_icon.png',
+                                'hyperMod': {
+                                    'rate': 1.0625,
+                                    'detune': 0x0
+                                },
+                                'forsakenMod': {
+                                    'rate': 1.125,
+                                    'detune': -0x3e8
+                                }
+                            },
+                            [_0x48fba4['BGM_XMEN']]: {
+                                'title': 'X-Men Theme',
+                                'author': 'Ron Wasserman',
+                                'source': 'X-Men Animated Show',
+                                'unlockedByStage': null,
+                                'unlockedByCharacter': null,
+                                'isUnlocked': 1,
+                                'icon': 'xmen_icon.png',
+                                'hyperMod': {
+                                    'rate': 1.0625,
+                                    'detune': 0x0
+                                },
+                                'forsakenMod': {
+                                    'rate': 1.125,
+                                    'detune': -0x3e8
+                                }
+                            },
+                            [_0x48fba4['BGM_Sonic']]: {
+                                'title': 'Green Hills, Zone 1',
+                                'author': 'Elrond504',
+                                'source': 'Sonic',
+                                'unlockedByStage': null,
+                                'unlockedByCharacter': null,
+                                'isUnlocked': 1,
+                                'icon': 'sonic_icon.png',
+                                'hyperMod': {
+                                    'rate': 1.0625,
+                                    'detune': 0x0
+                                },
+                                'forsakenMod': {
+                                    'rate': 1.125,
+                                    'detune': -0x3e8
+                                }
+                            },
+                            [_0x48fba4['BGM_Starcraft']]: {
+                                'title': 'Terran One',
+                                'author': 'Glenn Stafford',
+                                'source': 'Starcraft',
+                                'unlockedByStage': null,
+                                'unlockedByCharacter': null,
+                                'isUnlocked': 1,
+                                'icon': 'starcraft_icon.png',
+                                'hyperMod': {
+                                    'rate': 1.0625,
+                                    'detune': 0x0
+                                },
+                                'forsakenMod': {
+                                    'rate': 1.125,
+                                    'detune': -0x3e8
+                                }
+                            },
+                            [_0x48fba4['BGM_Inuyasha']]: {
+                                'title': 'Hanyou',
+                                'author': 'Kaoru Wada',
+                                'source': 'Inuyasha',
+                                'unlockedByStage': null,
+                                'unlockedByCharacter': null,
+                                'isUnlocked': 1,
+                                'icon': 'inuyasha_icon.png',
+                                'hyperMod': {
+                                    'rate': 1.0625,
+                                    'detune': 0x0
+                                },
+                                'forsakenMod': {
+                                    'rate': 1.125,
+                                    'detune': -0x3e8
+                                }
+                            },
+                            [_0x48fba4['BGM_Gohan']]: {
+                                'title': 'Gohan\'s Anger',
+                                'author': 'Friedrich Habetler',
+                                'source': 'Dragon Ball Z',
+                                'unlockedByStage': null,
+                                'unlockedByCharacter': null,
+                                'isUnlocked': 1,
+                                'icon': 'dragonball1.png',
+                                'hyperMod': {
+                                    'rate': 1.0625,
+                                    'detune': 0x0
+                                },
+                                'forsakenMod': {
+                                    'rate': 1.125,
+                                    'detune': -0x3e8
+                                }
+                            },
+                            [_0x48fba4['BGM_Goku']]: {
+                                'title': 'Cha-la Head Cha-la',
+                                'author': 'Hironobu Kageyama',
+                                'source': 'Dragon Ball Z',
+                                'unlockedByStage': null,
+                                'unlockedByCharacter': null,
+                                'isUnlocked': 1,
+                                'icon': 'dragonball4.png',
+                                'hyperMod': {
+                                    'rate': 1.0625,
+                                    'detune': 0x0
+                                },
+                                'forsakenMod': {
+                                    'rate': 1.125,
+                                    'detune': -0x3e8
+                                }
                             }
+
                         };
                     var _0x57dd80 = function(_0x1365ce, _0x2e9758, _0x2301d4, _0x5684ec) {
                         return new(_0x2301d4 || (_0x2301d4 = Promise))(function(_0x25057f, _0x453c98) {
