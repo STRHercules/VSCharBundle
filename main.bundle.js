@@ -48987,8 +48987,8 @@ function a0_0x3343() {
                             }
                         });
                     // Debug Switch
-                    const _0x54bbc1 = 1,
-                        _0x2e7897 = 1,
+                    const _0x54bbc1 = 0,
+                        _0x2e7897 = 0,
                         // Debug Switch END
                         _0x8dd0e6 = !0x1,
                         _0x59710b = 0x1455,
