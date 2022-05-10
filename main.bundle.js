@@ -26,13 +26,12 @@ Weapons:
 
 Maps:
     Chaotic Library: 
-        Loads - Wrong waves, possibly wrong prizes, traps.
-        Crashes - Wrong destructibles? MaxHP Error?
+        Added
 
 
     New Serenia: 
         Tileset fix in place
-        Loads - Wrong waves, possibly wrong prizes, traps.
+        Added
 
 
 
@@ -21743,7 +21742,7 @@ function a0_0x3343() {
                             'arcanaType': _0x1d4c05[_0x2588c0(0xa1d)],
                             'name': 'VII - Iron Blue Will',
                             'description': 'Listed weapon projectiles gain up to 3 bounces and might pass through enemies and walls.',
-                            'weapons': [_0x26ad93['KNIFE'], _0x26ad93['THOUSAND'], _0x26ad93[_0x2588c0(0xbb8)], _0x26ad93[_0x2588c0(0x6e4)], _0x26ad93[_0x2588c0(0x4d0)], _0x26ad93[_0x2588c0(0x408)], _0x26ad93[_0x2588c0(0x92c)]],
+                            'weapons': [_0x26ad93['KNIFE'], _0x26ad93['THOUSAND'], _0x26ad93['KI'], _0x26ad93['SPEAR'], _0x26ad93['SKULL'], _0x26ad93['STAR'], _0x26ad93[_0x2588c0(0xbb8)], _0x26ad93[_0x2588c0(0x6e4)], _0x26ad93[_0x2588c0(0x4d0)], _0x26ad93[_0x2588c0(0x408)], _0x26ad93[_0x2588c0(0x92c)]],
                             'items': [],
                             'texture': 'randomazzo',
                             'frameName': '07.png',
@@ -21857,7 +21856,7 @@ function a0_0x3343() {
                             'arcanaType': _0x1d4c05[_0x2588c0(0x546)],
                             'name': 'XVI - Slash',
                             'description': 'Enables critical hits for listed weapons. Doubles overall critical damage.',
-                            'weapons': [_0x26ad93[_0x2588c0(0xaae)], _0x26ad93['THOUSAND'], _0x26ad93[_0x2588c0(0x391)], _0x26ad93['VAMPIRICA'], _0x26ad93['AXE'], _0x26ad93['SCYTHE'], _0x26ad93['HEAVENSWORD']],
+                            'weapons': [_0x26ad93[_0x2588c0(0xaae)], _0x26ad93['THOUSAND'], _0x26ad93['LONGSWORD'], _0x26ad93[_0x2588c0(0x391)], _0x26ad93['VAMPIRICA'], _0x26ad93['AXE'], _0x26ad93['SCYTHE'], _0x26ad93['HEAVENSWORD']],
                             'items': [],
                             'texture': 'randomazzo',
                             'frameName': '16.png',
@@ -29159,44 +29158,6 @@ function a0_0x3343() {
                                 }
                                 [_0x2588c0(0xa5c)]() {}
                         }
-                        /*STAR = class extends _0x537465 {
-                            constructor(_0x5e853f, _0x157930, _0x4f94cc, _0x9efdde, _0x486e39) {
-                                    const _0x17ca4b = _0x2588c0;
-                                    super(_0x5e853f, _0x157930, _0x4f94cc, 'ARSENAL', 'shuriken_red.png', _0x9efdde, _0x486e39)
-
-                                    this[_0x17ca4b(0x11a)] = this[_0x17ca4b(0x65c)][_0x17ca4b(0x7d2)][_0x17ca4b(0x1a2)]({
-                                        'targets': this,
-                                        'angle': 0x168,
-                                        'duration': 500,
-                                        'ease': 'Linear',
-                                        'repeat': -0x1
-                                    })
-                                }
-                                [_0x2588c0(0x120)]() {
-                                    const _0x3dc250 = _0x2588c0;
-                                    super['OnRecycle'](),
-                                        this[_0x3dc250(0x744)]['setCircle'](0x8),
-                                        this[_0x3dc250(0xa8e)](_0x458205[_0x3dc250(0x10c)] * this['weapon'][_0x3dc250(0x98e)]),
-                                        this['x'] += (Math['random']() - 0.5) * this[_0x3dc250(0xb70)] * 0xa,
-                                        this['y'] += (Math[_0x3dc250(0x6d6)]() - 0.5) * this[_0x3dc250(0xb70)] * 0xa,
-                                        this[_0x3dc250(0x396)]();
-                                    let _0x2ba40e = this[_0x3dc250(0x432)][_0x3dc250(0x362)] ? this[_0x3dc250(0x432)][_0x3dc250(0x362)] : 0.15;
-                                    _0x1ade69[_0x3dc250(0x477)]['PlaySound'](_0x518670['THROW'], {
-                                        'detune': -0x64 * this['indexInWeapon'],
-                                        'volume': 0.45
-                                    }, 0xc8, 0xc);
-                                }
-                                ['OnHasHitAnObject'](_0x664ccd) {
-                                    const _0x111122 = _0x2588c0;
-                                    if (!_0x664ccd[_0x111122(0x990)]) {
-                                        if (this['bounces'] > 0x0)
-                                            return this[_0x111122(0xa93)]--, this[_0x111122(0x5f3)](), void(this[_0x111122(0x289)] = []);
-                                        this['penetrating']--,
-                                            this[_0x111122(0x4c7)] <= 0x0 && this[_0x111122(0x263)]();
-                                    }
-                                }
-                                [_0x2588c0(0x2c2)]() {}
-                        }*/
                         // ---------------------------------------------------------------------------- END
                     ;
                     class _0x5c4582 extends Phaser[_0x2588c0(0x8c4)][_0x2588c0(0xabf)] {
