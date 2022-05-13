@@ -98,7 +98,7 @@
 
 # Map
 
-## Chaotic Library
+## Chaotic Library - Endless
 > 
 > - Base Enemy Health - +15%
 > - Hyper Gold Bonus - +75%
@@ -110,7 +110,7 @@
 > - Custom Waves have been added for 60+ Minutes
 > - Map unlocked by reaching **level 100** as **any character** on *The Bone Zone*
 
-## New Serenia
+## New Serenia - Challenge Map
 
 > - Base Enemy Health - +50%
 > - Hyper Base Enemy Health - 80%
