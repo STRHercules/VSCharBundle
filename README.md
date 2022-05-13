@@ -224,6 +224,42 @@
 
 ## Suit v.34xf/H
 
+## Goober 
+
+## Plank 
+
+## Ed 
+
+## Edd 
+
+## Eddy  
+
+## Master Chief 
+
+## The Arbiter 
+
+## Grunt 
+
+## Chaioutzu 
+
+## Grudo 
+
+## Hero 
+
+## Ikarus 
+
+## Tyke 
+
+## Monke 
+
+## Veronica 
+
+## Hollow Knight 
+
+## Hornet 
+
+## Momonga 
+
 # Maps
 
 ## Chaotic Library
@@ -239,19 +275,20 @@
 > - I have also extended the ceiling and basement to be usable, there are potential items, pickups, and destructibles in both new sections
 > - Traps have been added when transitioning to the ceiling or basement areas
 
-
-
 ## New Serenia
 
 > - Base Enemy Health - +50%
-> - Base Luck Bonus - +20%
-> - Hyper Enemy Health - +80%
-> - Hyper Luck Bonus - +40%
+> - Hyper Base Enemy Health - 80%
 > - Hyper Gold Bonus - +85%
-> - Map is covered in trees and other obstacles
-> - 30 Minute match, standard finish
+> - Base Luck Bonus - +20%
+> - Hyper Luck Bonus - +40%
+> - Standard 30 minute match
 > - Custom Waves
-> - Map unlocked by surviving 60 minutes as any character
+> - Many obstacles, and a walled in area
+> - Walled in area houses majority of powerful pickups
+> - Map unlocked by surviving one hour as anyone
+> - Traps have been littered around the map, and inside the walled in area
+
 
 ## Possible items when starting a match on either map:
 
@@ -819,6 +856,226 @@ Clover
 > - Curse - +20%
 > - Starting Gear - Garlic
 > - Loses 1% MoveSpeed Per Level, Gains 1% Might, and Area Per Level
+
+## Jeff (request):
+> - Max Health - 100
+> - Recovery - 0.5
+> - Armor - +1
+> - Starting Gear - Garlic
+> - Gains 1% Area Per Level
+
+
+## Plank: 
+> - Max Health - 50
+> - Recovery - 0.2
+> - Armor - +5
+> - Might - +40%
+> - Area - +50%
+> - Cooldown - -10%
+> - Starting Gear - Santa Water
+> - Gains 1% Area and Might Per Level
+
+
+## Ed: 
+> - Max Health - 100
+> - Recovery - 0.2
+> - Armor - +2
+> - Might - +50%
+> - Luck - +25%
+> - Growth - 25%
+> - Starting Gear - Armor, Extra Level
+> - Gains 1% Might Per Level
+
+
+## Edd: 
+> - Max Health - 85
+> - Recovery - 0.3
+> - Armor - +1
+> - MoveSpeed - +15%
+> - Speed - 25%
+> - Duration - 25%
+> - Cooldown - -15%
+> - Luck - +35%
+> - Starting Gear - Bible
+> - Gains 1% Might per Level
+
+
+## Eddy:  
+> - Max Health - 90
+> - Recovery - 0.1
+> - Armor - +1
+> - MoveSpeed - +10%
+> - Might - +15%
+> - Speed - +15%
+> - Luck - 50%
+> - Starting Gear - Cherrybomb
+> - Gains 1% Luck Per Level
+
+
+## Master Chief: 
+> - Max Health - 100
+> - Recovery - 0.1
+> - Armor - +10
+> - MoveSpeed - +15%
+> - Speed - +40%
+> - Luck - +40%
+> - Growth - +40%
+> - Curse - +40%
+> - Starting Gear - Dual Guns
+> - Gains 1% Might Per Level
+
+
+## The Arbiter: 
+> - Max Health - 100
+> - Recovery - 0.1
+> - Armor - +8
+> - MoveSpeed - +25%
+> - Might - +35%
+> - Speed - +35%
+> - Amount - +1
+> - Luck - +25%
+> - Curse - +40%
+> - Gains 1% Might Per Level
+
+
+## Grunt: 
+> - Max Health - 40
+> - Recovery - 0.5
+> - Armor - +6
+> - MoveSpeed - +25%
+> - Area - +25%
+> - Speed - +25%
+> - Cooldown - -15%
+> - Curse - +20%
+> - Starting Gear - Reuplsor
+> - Gains 1% Might Per Level
+
+
+## Chaioutzu: 
+> - Max Health - 20
+> - Recovery - 0.5
+> - Armor - +15
+> - MoveSpeed - +40%
+> - Might - +15%
+> - Area - +35%
+> - Duration - +35%
+> - Luck - +35%
+> - Revival - +3
+> - Starting Gear - Pulsar
+> - Gains 1 Max Health Per Level
+
+
+
+## Grudo: 
+> - Max Health - 100
+> - Recovery - 0.5
+> - Armor - +1
+> - Might - -50%
+> - Area - +300%
+> - Duration - +100%
+> - Starting Gear - Song of Mana
+> - Gains 1% Might Per Level
+
+
+## Hero: 
+> - Max Health - 100
+> - Recovery - 0.1
+> - Armor - +1
+> - MoveSpeed - +10%
+> - Might - +10%
+> - Area - +10%
+> - Speed - +10%
+> - Duration - +10%
+> - Amount - +1
+> - Luck - +10%
+> - Growth - +10%
+> - Revival - +1
+> - Starting Gear - Magic Wand
+> - Gains 1% Might Per Level
+
+
+## Ikarus:
+> - Max Health - 100
+> - Recovery - 0.2
+> - Armor - +1
+> - MoveSpeed - +50%
+> - Curse - +25%
+> - Revival - +2
+> - Starting Gear - Wings, Longsword, Gordon's Shield
+
+
+
+## Tyke: 
+> - Max Health - 25
+> - Recovery - 1.0
+> - Armor - +4
+> - MoveSpeed - +15%
+> - Might - +100%
+> - Starting Gear - Fire Wand
+> - Gains 1% Might Per Level
+
+
+
+## Monke: 
+> - Max Health - 95
+> - Recovery - 0.3
+> - Armor - +2
+> - Area - +25%
+> - Duration - +15%
+> - Cooldown - -25%
+> - Revival - +1
+> - Starting Gear - Bone
+> - Gains 1% Might Per Level
+
+
+## Veronica: 
+> - Max Health - 75
+> - Recovery - 0.2
+> - Armor - +2
+> - Area - +100%
+> - Duration - +100%
+> - Starting Gear - Runetracer
+> - Gains 1% Might Per Level
+
+
+## Hollow Knight: 
+> - Max Health - 90
+> - Recovery - 0.3
+> - Armor - +2
+> - MoveSpeed - +15%
+> - Cooldown - -10%
+> - Luck - +25%
+> - Curse - +20%
+> - Revival - +4
+> - Reroll - +1
+> - Starting Gear - Longsword
+> - Gains 1% Might Per Level
+
+
+## Hornet: 
+> - Max Health - 100
+> - Recovery - 0.2
+> - Armor - +1
+> - MoveSpeed - +10%
+> - Might - +15%
+> - Amount - +1
+> - Luck - +15%
+> - Curse - +15%
+> - Revival - +4
+> - Starting Gear - Whip
+> - Gains 1% Area Per Level
+
+
+## Momonga: 
+> - Max Health - 100
+> - Recovery - 0.2
+> - Armor - +2
+> - Might - +15%
+> - Luck - 15%
+> - Curse - +50%
+> - Revival - +4
+> - Starting Gear - Pentagram, Extra Level
+> - Loses 1% Cooldown Per Level
 
 ## Assault.01 XF.45/s
 > 
