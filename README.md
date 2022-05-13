@@ -110,6 +110,20 @@
 > - Custom Waves have been added for 60+ Minutes
 > - Map unlocked by reaching **level 100** as **any character** on *The Bone Zone*
 
+## New Serenia
+
+> - Base Enemy Health - +50%
+> - Hyper Base Enemy Health - 80%
+> - Hyper Gold Bonus - +85%
+> - Base Luck Bonus - +20%
+> - Hyper Luck Bonus - +40%
+> - Standard 30 minute match
+> - Custom Waves
+> - Many obstacles, and a walled in area
+> - Walled in area houses majority of powerful pickups
+> - Map unlocked by surviving one hour as anyone
+> - Traps have been littered around the map, and inside the walled in area
+
 # Characters
 
 ## Chester
@@ -259,36 +273,6 @@
 ## Hornet 
 
 ## Momonga 
-
-# Maps
-
-## Chaotic Library
-
-> - Base Enemy Health - +15%
-> - Hyper Gold Bonus - +75%
-> - Hyper Luck Bonus - +20%
-> - No Death at 30 minutes
-> - No Enemy wipe at 30 minutes
-> - Waves from Bone Zone have been added from 30-60 minutes
-> - Custom Waves have been added for 60+ Minutes
-> - Map unlocked by reaching level 100 as any character on The Bone Zone
-> - I have also extended the ceiling and basement to be usable, there are potential items, pickups, and destructibles in both new sections
-> - Traps have been added when transitioning to the ceiling or basement areas
-
-## New Serenia
-
-> - Base Enemy Health - +50%
-> - Hyper Base Enemy Health - 80%
-> - Hyper Gold Bonus - +85%
-> - Base Luck Bonus - +20%
-> - Hyper Luck Bonus - +40%
-> - Standard 30 minute match
-> - Custom Waves
-> - Many obstacles, and a walled in area
-> - Walled in area houses majority of powerful pickups
-> - Map unlocked by surviving one hour as anyone
-> - Traps have been littered around the map, and inside the walled in area
-
 
 ## Possible items when starting a match on either map:
 
